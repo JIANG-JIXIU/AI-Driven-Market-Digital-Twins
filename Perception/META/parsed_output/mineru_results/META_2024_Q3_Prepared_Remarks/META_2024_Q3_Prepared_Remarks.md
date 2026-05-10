@@ -1,0 +1,157 @@
+# Meta Platforms, Inc.(META) Third Quarter 2O24 Results Conference Call- Prepared Remarks October 30th,2024
+
+Ken Dorell, Director, Investor Relations
+
+Thank you. Good afternoon and welcome to Meta Platforms third quarter 2024 earnings conference call.Joining me today to discuss our results are Mark Zuckerberg, CEO and Susan Li, CFO.
+
+Before we get started,Iwould like to take this opportunity to remind you that our remarks today will include forward-looking statements. Actual results may differ materially from those contemplated by these forward-looking statements.
+
+Factors that could cause these results to differ materially are set forth in today's earnings press release,and in our quarterly report on form 10-Q filed with the SEC. Any forward-looking statements that we make on this callare based on assumptions as of today and we undertake no obligation to update these statements as a result of new information or future events.
+
+During this callwe will present both GAAP and certain non-GAAP financial measures. A reconciliation of GAAP to non-GAAP measures is included in today's earnings press release.The earnings press release and an accompanying investor presentation are available on our website at investor.fb.com.
+
+And now,I'd like to turn the call over to Mark.
+
+# Mark Zuckerberg, CEO
+
+Thanks, Ken.This was a good quarter with strong product and business momentum,and with parts of our long-term vision around Al and the future of computing coming into sharper focus. We estimate that there are now more than 3.2 bilion people using at least one of our apps each day -- and we're seeing rapid adoption of Meta Aland Llama, which is quickly becoming a standard across the industry.
+
+So let's start with some highlights from the apps.For WhatsApp,the US remains one of our fastest growing countries. And we just passed a milestone of 2 bilion calls made globally every day. On Facebook, we continue to see positive trends with young adults,especially in the US.On Instagram, global growth remains strong.We also launched Teen Accounts this quarter,which add built-in protections that limit who teens are messaging and what content they can see. On Threads,the community now has almost 275 million monthly actives.It has been growing more than 1 milion sign-ups per day.Engagement is growing too.So we continue to be on track towards this becoming our next major social app.
+
+We are making alot of progress with our Al efforts too,and we're seeing Al have a positive impact on nearly allaspects of our work --from our core business engagement and monetization to our long-term roadmaps for new services and computing platforms.And this partially comes from having a vision and roadmap that is aligned with the direction that technology is heading, but more importantly from our teams doing some really excellent work on execution on so many fronts.
+
+Meta Al now has more than 5OO monthly actives.Improvements to our Al-driven feed and video recommendations have led to an 8%increase in time spent on Facebook and a 6% increase on Instagram this year alone. More than a million advertisers used our GenAl tools to create more than 15 million ads in the last month,and we estimate that businesses using Image Generation are seeing a 7% increase in conversions -- and we believe that there is a lot more upside here.
+
+We're also seeing great momentum on Llama. Llama token usage has grown exponentially this year,and the more widely that Llama gets adopted and becomes the industry standard,the more that the improvements to its quality and efficiency willflow back to all of our products. This quarter, we released Llama 3.2,including the leading small models that run on-device and open source multi-modal models.We're working with enterprises to make it easier to use,and now we're also working with the public sector to adopt Llama across the US government.
+
+The Llama 3 models have been something of an inflection point in the industry,butI'm even more excited about Llama 4,which is now wellinto its development.We're training the Llama 4 models on a cluster that is bigger than 1OOk H10Os or bigger than anything thatI've seen reported for what others are doing.lexpect the smaller Llama 4 models willbe ready first early next year and l think they're going to be a big deal on several fronts -- new modalities,capabilities,stronger reasoning,and much faster.It seems pretty clear to me that open source willbe the most costeffective,customizable,trustworthy,performant,and easiest-to-use option that is available to developers,and l'm proud that Llamais leading the way.
+
+Now it's the time of the year at Meta when we plan our budget for the next year.That's stilin progress,butI wanted to share afew things that have stood out to me as we've gone through this process so far. First,it's clear that there are a lot of new opportunities to use new Al advances to accelerate our core business that should have strong ROl over the next few years,so lthink we should invest more there.Second,our Al investments continue to require serious infrastructure, and lexpect us to continue investing significantly here.We haven't decided on a final budget yet, but these are some of the directional trends l'm seeing.
+
+Moving on,this quarter we also had several milestones around Reality Labs and the integration of Al and wearables.
+
+Ray-Ban Meta glasses are the prime example here.They're great-looking glasses that let you take photos and videos,listen to music and take cals. But what makes them really special is the Meta Alintegration. With our new updates it'llbe able to not only answer your questions throughout the day, but also help you remember things,give you suggestions as you're doing things using realtime multimodal Al,and even translate other languages right in your ear for you.Icontinue to think that glasses are the ideal form factor for Al because you can let your Al see what you see,hear what you hear,and talk to you.
+
+Demand for the glasses continues to be very strong. The new clear edition we released at Connect sold out almost immediately and has been trading online for over a thousand dolars.We've deepened our partnership with EssilorLuxottica to build future generations of smart eyewear that deliver both cutting-edge technology and style.
+
+At Connect we also showed Orion,our first fullholographic AR glasses. We've been working on this one for about a decade,and it gives you a sense of where this is allgoing. We're not too far off from being able to deliver great-looking glasses that let you seamlessly blend the physical and
+
+digital worlds so you can feel present with anyone no matter where they are.We're starting to see the next computing platform come together,and it's pretty exciting.
+
+We also released our newest mixed reality headset: Quest 3S.It brings the best capabilities of the Quest 3--high quality color passthrough,a new chipset,and more -- at the much more accessible price point of \$3oo.Reviews are great so far,and l'm looking forward to seeing how wellit does this holiday season as more people get their hands on it.
+
+Overall,this has been a good quarter.I'm pretty amped about allte work we're doing right now. This may be the most dynamic moment that I've seen in our industry,and I'm focused on making sure that we build some awesome things and make the most of the opportunities ahead. And if we do this well,then the potential for Meta and everyone building with us will be massive.As always, I'm grateful for everyone who is on this journey with us -- our teams,our partners,and our investors.
+
+And now here's Susan.
+
+# Susan Li, CFO
+
+Thanks Mark and good afternoon everyone.
+
+Let's begin with our consolidated results. Allcomparisons are on a year-over-year basis unless otherwise noted.
+
+Q3 total revenue was \$40.6 billon, up 19% or 20% on a constant currency basis.
+
+Q3 total expenses were \$23.2 bilion, up 14% compared to last year.
+
+In terms of the specific line items:
+
+Cost of revenue increased 19%, driven primarily by higher infrastructure costs.
+
+R&D increased 21%, mostly driven by higher headcount-related expenses and infrastructure costs
+
+Marketing & Sales decreased 2% driven primarily by lower restructuring costs.
+
+G&A decreased 10% driven primarily by lower legal-related expenses.
+
+We ended the third quarter with over 72,40O employees,up 9% year-over-year, with growth primarily driven by hiring in our priority areas of monetization,infrastructure, Reality Labs, generative Al,as well as regulation and compliance.
+
+Third quarter operating income was \$17.4 billion, representing a 43% operating margin.
+
+Our tax rate for the quarter was 12%.
+
+Net income was \$15.7 billion or \$6.03 per share.
+
+Capital expenditures,including principal payments on finance leases, were \$9.2 bilion, driven by investments in servers,data centers and network infrastructure. Our capital expenditures were impacted in part by the timing of third quarter server deliveries,which willbe paid forin the fourth quarter.
+
+Free cash flow was \$15.5 billon.In Q3,we completed a debt offering of \$10.5 billion,repurchased \$8.9 billion of our Class A common stock and paid \$1.3 bilion in dividends to shareholders, ending the quarter with \$7O.9 billion in cash and marketable securities and \$28.8 billion in debt.
+
+Moving now to our segment results.
+
+I'll begin with our Family of Apps segment.
+
+Our community across the Family of Apps continues to grow,with more than 3.2 billion people using at least one of our Family of Apps on a daily basis in September.
+
+Q3 Total Family of Apps revenue was \$40.3 billon, up 19% year over year.
+
+Q3 Family of Apps ad revenue was \$39.9 bilion, up 19% or 2O% on a constant currency basis.
+
+Within ad revenue,the online commerce vertical was the largest contributor to year-over-year growth,followed by healthcare and entertainment and media.
+
+On a user geography basis,ad revenue growth was strongest in Rest of World and Europe at 23% and 21%,respectively.Asia-Pacific grew 18% and North America grew 16%. On an advertiser geography basis,total revenue growth was strongest in North America and Europe at 21%. Rest of World was up 17%, while Asia Pacific was the slowest growing region at 15%,decelerating from our second quarter growth rate of 28% due mainly to lapping a period of stronger demand from China-based advertisers.
+
+In Q3,the total number of ad impressions served across our services increased 7% and the average price per ad increased 1%.Impression growth was mainly driven by Asia-Pacific and Rest of World. Pricing growth was driven by increased advertiser demand,in part due to improved ad performance.This was partially offset by impression growth,particularly from lower-monetizing regions and surfaces.
+
+Family of Apps other revenue was \$434 milion,up 48%,driven primarily by business messaging revenue growth from our WhatsApp Business Platform.
+
+We continue to direct the majority of our investments toward the development and operation of our Family of Apps.In Q3,Family of Apps expenses were \$18.5 billion,representing approximately 80% of our overall expenses. Family of Apps expenses were up 13%, primarily due to higher infrastructure and headcount-related expenses,partially offset by lower legal-related expenses. Family of Apps operating income was \$21.8 billion,representing a 54% operating margin.
+
+Within our Reality Labs segment, Q3 revenue was \$270 milion,up 29% driven by hardware sales. Reality Labs expenses were \$4.7 billion,up 19% year-over-year driven primarily by higher headcount-related expenses and infrastructure costs.
+
+Reality Labs operating loss was \$4.4 billion.
+
+Turning now to the business outlook. There are two primary factors that drive our revenue performance: our ability to deliver engaging experiences for our community,and our effectiveness at monetizing that engagement over time.
+
+On the first, we are focused on both improving people's experiences within our apps today and investing in longer-term initiatives that have the potential to contribute to engagement in the years ahead.
+
+We expect our content recommendations roadmap willspan both of these timeframes,as we have nearer-term workstreams focused on improving recommendations as wellas multi-year initiatives to develop innovative new approaches.
+
+I'll focus first on the near-term.In the third quarter, we continued to see daily usage grow yearover-year across Facebook and Instagram,both globally and in the U.S.
+
+On Facebook, we're seeing strong results from the global rolout of our unified video player in June.Since introducing the new experience and prediction systems that power it,we've seen a 10%increase in time spent within the Facebook video player.This month,we've entered the next phase of Facebook's video product evolution.Starting in the US& Canada, we are updating the standalone video tab to a full screen viewing experience, which willallow people to seamlessly watch videos in a more immersive experience.We expect to complete the global roll out in early 2025.
+
+On Instagram, Reels continues to see good traction and we're making ongoing progress with our focus on promoting original content, with more than 6O% of recommendations now coming from original posts in the U.S.This is helping people find unique and differentiated content on Instagram while also helping earlier stage creators get discovered.
+
+Next,let me talk more about our multi-year roadmap for recommendations. Previously, we operated separate ranking and recommendation systems for each of our products because we found that performance did not scale if we expanded the model size and compute power beyond a certain point.However,inspired by the scaling laws we're observing with large language models, last year we developed new ranking model architectures capable of learning more effectively from significantly larger data sets.To start, we have been deploying these new architectures to our Facebook video ranking models, which has enabled us to deliver more relevant recommendations and unlock meaningful gains in watch time.
+
+Now,we're exploring whether these new models can unlock similar improvements to recommendations on other surfaces. After that, we willook to introduce cross-surface data to these models so our systems can learn from what is interesting to someone on one surface of our apps and use it to improve their recommendations on another.This willtake time to execute,and there are other explorations that we willpursue in parallel. However,over time we are optimistic that this will unlock more relevant recommendations while also leading to higher engineering efficiency as we operate a smaller number of recommendation models.
+
+Beyond recommendations, we're making progress with our other longer-term engagement priorities,including Generative Al and Threads.
+
+Meta Al usage continues to scale as we make it available in more countries and languages. We're seeing lifts in usage as we improve our models and have introduced a number of enhancements in recent months to make Meta Al more helpful and engaging.Last month, we began introducing Voice,so you can speak with Meta Al more naturally,and it's now fully available in English to people in the US,Australia, Canada and New Zealand.In the US,people can now also upload photos to Meta Alto learn more about them, write captions for posts,and add,remove,or change things about their images with a simple text prompt.These are allbuilt with our first multi-modal foundation model, Llama 3.2.
+
+Threads remains another area where we see exciting potential. We are bringing on an increasing number of new users each quarter while depth of engagement also continues to grow.Looking ahead,we plan to introduce more features to make it even easier for people to stay up to date on topics they care about.
+
+Now to the second driver of our revenue performance: increasing monetization efficiency. There are two parts to this work.
+
+The first is optimizing the level of ads within organic engagement.
+
+We continue to see opportunities to grow ad supply on lower monetizing surfaces,like video. Within Facebook, video engagement continues to shift to short form following the unification of our video player,and we expect this to continue with the transition of the video tab to a fullscreen format.This is resulting in organic video impressions growing more quickly than overall video time on Facebook, which provides more opportunities to serve ads.
+
+Across both Facebook and Instagram, we are also continuing our broader work to optimize when and where we should show ads within a person's session.This is enabling us to drive revenue and conversion growth without increasing the number of ads.
+
+The second part of improving monetization efficiency is enhancing marketing performance.
+
+Similar to organic content ranking, we are finding opportunities to achieve meaningful ads performance gains by adopting new approaches to modeling.For example,we recently deployed new learning and modeling techniques that enable our ads systems to consider the sequence of actions aperson takes before and after seeing an ad.Previously,our ads systems could only aggregate those actions together, without mapping the sequence.This new approach allows our systems to better anticipate how audiences wil respond to specific ads.Since we adopted the new models in the first half of this year we've already seen a 2-4% increase in conversions based on testing within selected segments.
+
+We are also evolving our ads platform to ensure that the results we drive are customized to each business'objectives and the way they measure value.In Q3,we introduced changes to our ads ranking and optimization models to take more of the cross-publisher journey into account, which we expect to increase the Meta-attributed conversions that advertisers see in their third party analytics tools.We're also testing new features and settings for advertisers that willallow them to optimize their campaigns for what they value most,such as driving incremental conversions rather than absolute conversions.
+
+Finally,there is continued momentum with our Advantage+ solutions,including our ad creative tools. We're seeing strong retention with advertisers using our generative Al-powered image expansion,background generation and text generation tools,and they're already driving improved performance for advertisers even at this early stage. Earlier this month we began testing our first video generation features - video expansion and image animation. We expect to make them more broadly available by early next year.
+
+Next,Iwould like to discuss our approach to capital allocation. We continue to take a long-term view in running the business, which involves investing in a portfolio of opportunities that we expect will generate returns over different time periods.We are very optimistic about the set of opportunities in front of us,and believe that investing now in both infrastructure and talent will not only accelerate our progress,but increase the likelihood of maximizing returns within each area.This includes investing in both near-term initiatives to deliver continued healthy revenue growth within our core business,as wellas longer-term opportunities that have the scale to deliver compeling returns over time. Given the lead time of our longer-term investments, we also continue to maximize our flexibility so that we can react to market developments.Within Reality Labs,this has benefited us as we've evolved our roadmaps to respond to the earlier-thanexpected success of smart glasses.Within generative Al, we expect significantly scaling up our infrastructure capacity now,while also prioritizing its fungibility, willsimilarly position us well to respond to how the technology and market develop in the years ahead.
+
+Moving now to our financial outlook.
+
+We expect fourth quarter 2024 total revenue to be in the range of \$45-48 billion. Our guidance assumes foreign currency is approximately neutral to year-over-year total revenue growth, based on current exchange rates.
+
+Turning now to the expense outlook.We expect full year 2O24 total expenses to be in the range of \$96-98 billion, updated from our prior range of \$96-99 bilion. For Reality Labs, we continue to expect 2O24 operating losses to increase meaningfully year-over-year due to our ongoing product development efforts and investments to further scale our ecosystem.
+
+Turning now to the capex outlook. We anticipate our fullyear 2O24 capital expenditures willbe in the range of \$38-40 billion,updated from our prior range of \$37-40 billion.We continue to expect significant capital expenditures growth in 2O25.Given this,along with the back-end weighted nature of our 2O24 capex, we expect a significant acceleration in infrastructure expense growth next year as we recognize higher growth in depreciation and operating expenses of our expanded infrastructure fleet.
+
+On to tax. Absent any changes to our tax landscape,we expect our fourth quarter 2O24 tax rate tc be in the low-teens.
+
+In addition, we continue to monitor an active regulatory landscape,including the increasing legal and regulatory headwinds in the EU and the US that could significantly impact our business and our financial results.
+
+In closing,this was another good quarter for our business. Our global community continues to grow,we're seeing ongoing momentum across our core priorities,and we have exciting investment opportunities ahead of us to drive further growth in our core businessin 2025 and capitalize on the longer-term opportunities ahead.
+
+With that, Krista, let's open up the callfor questions.

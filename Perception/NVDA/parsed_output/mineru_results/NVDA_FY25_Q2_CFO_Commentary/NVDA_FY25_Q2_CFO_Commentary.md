@@ -1,0 +1,118 @@
+# CFO Commentary on Second Quarter Fiscal 2025 Results
+
+# Q2 Fiscal 2025 Summary
+
+GAAP   
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q2_CFO_Commentary/images/ea2f991a3ff4069d2f693c8b39a087da3e7c8107afdd9f66ebba12c96d80123f.jpg)
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q2_CFO_Commentary/images/3897113cf8cbbbc21668f6b7cd72b3a2b65c1dc32ed0c4595f5c66f969c376f7.jpg)
+
+Revenue by Reportable Segments   
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q2_CFO_Commentary/images/05f0f41a36b9a2d9353b970643ea0d1a66283ad5956ed8d655277e20cd639b1b.jpg)
+
+Non-GAAP   
+Revenue by Market Platform   
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q2_CFO_Commentary/images/b597146c9b8912437857daa80ba2e78800234242201292dbbd9bc20e593578bb.jpg)
+
+We specialize in markets where our computing platforms can provide tremendous acceleration for applications.These platforms incorporate processors,interconnects,software,algorithms, systems and services to deliver unique value. Our platforms address four large markets where our expertise is critical: Data Center, Gaming, Professional Visualization, and Automotive.
+
+On June 7,2024, we completed a 10-for-1 forward stock split. All share and per share amounts presented have been retroactively adjusted to reflect the stock split.
+
+# Revenue
+
+Revenue was a record \$30.0 billon,up 122% from a year ago and up 15% sequentially.
+
+Data Center revenue was a record, up 154% from a year ago and up 16% sequentially. The strong sequential and year-on-year growth was driven by demand for our Hopper GPU computing platform for training and inferencing of large language models,recommendation engines,and generative Al applications. Sequential growth was driven by consumer internet and enterprise companies. Cloud service providers represented roughly 45% of our Data Center revenue,and more than 5O% stemmed from consumer internet and enterprise companies. Strong year-on-year growth was driven by all customer types from both compute and networking revenue. Customers continue to accelerate their Hopper architecture purchases while gearing up to adopt Blackwell. Data Center compute revenue was \$22.6 bilion,up 162% from a year ago and up l7% sequentially. Networking revenue was \$3.7 billion，up 114% from a year ago driven by InfiniBand and Ethernet for Al revenue,which includes Spectrum-X end-to-end ethernet platform. Networking revenue sequentially was up 16% and includes a doubling of Ethernet for Al revenue.
+
+We shipped customer samples of our Blackwellarchitecture in the second quarter.We executed a change to the Blackwell GPU mask to improve production yield. Blackwell production ramp is scheduled to begin in the fourth quarter and continue into fiscal 2O26. In the fourth quarter, we expect to ship several billon dollars in Blackwel revenue. Hopper demand is strong,and shipments are expected to increase in the second half of fiscal 2025.
+
+Gaming revenue was up 16% from a year ago and up 9% sequentialy.These increases reflect higher sales of our GeForce RTX 40 Series GPUs and game console SOCs.We had solid demand in the second quarter for our gaming GPUs as part of the back-to-school season.
+
+Professional Visualization revenue was up 2O% from_a year ago and up 6%_sequentially. These increases were driven by the continued ramp of RTX GPU workstations based on our Ada architecture.
+
+Automotive revenue was up 37% from a year ago and up 5% sequentially. These increases were driven by Al Cockpit solutions and self-driving platforms.
+
+# Gross Margin
+
+GAAP and non-GAAP gross margins increased from a year ago on strong Data Center revenue growth primarily driven by our Hopper GPU computing platform. Sequentially，gross margins decreased primarily driven by inventory provisions for low-yielding Blackwell material and a higher mix of new products within Data Center.
+
+# Expenses
+
+GAAP operating expenses were up 48% from a year ago and up 12% sequentialy， and non-GAAP operating expenses were up 52% from a year ago and up 12% sequentially. These increases were largely driven by compensation and benefits,reflecting growth in employees and compensation.
+
+# Other Income & Expense and Income Tax
+
+GAAP other income and expense (Ol&E) includes interest income, interest expense, gains and losses fromnon-affiliated investments and_publicly-held equity securities. Non-GAAP Ol&E_primarily excludes the gains or losses from non-affiliated investments and publicly-held equity securities.
+
+Interest income was \$444 millon, up from a year ago and sequentially，primarily reflecting higher cash balances.Net realized and unrealized gains from non-affiliated investments and publicly-held equity securities were \$193 milion, reflecting fair value adjustments.
+
+GAAP effective tax rate was l3.6%,an increase from a year ago reflecting the lower effect of tax benefits from the foreign derived intangible income deduction relative to the increase in pre-tax income. Non-GAAP effective tax rate was 16.6%.
+
+# Balance Sheet and Cash Flow
+
+Cash,cash equivalents and marketable securities were \$34.8_billion, up from \$16.0 billion a year ago and \$31.4 bilion a quarter ago.The increases primarily reflect higher revenue partially offset by higher cash taxes,stock repurchases and repayment of \$1.25 billion of our notes at maturity.
+
+Accounts receivable was \$14.1 bilion with 43 days sales outstanding (DSO). Accounts receivable reflects \$2.8 billion of customer payments received prior to next quarter's invoice due date.
+
+Inventory was \$6.7 billion with 81 days sales of inventory (DSl). Purchase commitments and obligations for inventory and manufacturing capacity were \$27.8 bilion,including new commitments for Blackwell capacity and components. Prepaid supply agreements were \$4.7 billion.
+
+Other non-inventory purchase obligations were \$12.0 billion, including \$9.8 billion of multi-year cloud service agreements.We expect cloud service agreements to be used to support our research and development efforts and our DGX Cloud offerings.
+
+Cash flow from operating activities was \$14.5 billion,up from \$6.3 billion a year ago and down from \$15.3 bilion a quarter ago. The year-on-year increase reflects higher revenue partially offset by higher cash taxes paid.The sequential decrease reflects cash taxes paid partially offset by higher revenue.
+
+We utiized cash_of_ \$7.4 billion towards shareholder returns, including \$7.2 billion in share repurchases and \$246 milion in cash dividends. Our dividend increased by 150% to one cent per share in the second quarter.
+
+On August 26, 2024， our Board of Directors approved an additional \$50.0 billion to our share repurchase authorization, without expiration.
+
+# Third Quarter of Fiscal 2025 Outlook
+
+Outlook for the third quarter of fiscal 2025 is as follows:
+
+Revenue is expected to be \$32.5 billion,plus or minus 2%.   
+GAAP and non-GAAP gross margins are expected to be 74.4% and 75.0%,respectively, plus or minus 5O basis points.For the full year, gross margins are expected to be in the mid-70% range.   
+GAAP and non-GAAP operating expenses are expected to be approximately \$4.3 bilion and \$3.0 billion,respectively. Full-year operating expenses are expected to grow in the mid to upper 40% range. GAAP and non-GAAP other income and expense are expected to be an income of approximately \$350 milion, excluding gains and losses from non-affiliated investments and publicly-held equity securities.   
+GAAP and non-GAAP tax rates are expected to be 17%, plus or minus 1%, excluding any discrete items.
+
+For further information, contact:
+
+Stewart Stecker Investor Relations NVIDIA Corporation sstecker@nvidia.com
+
+Mylene Mangalindan Corporate Communications NVIDIA Corporation mmangalindan@nvidia.com
+
+# Non-GAAP Measures
+
+To supplement NVIDIA's condensed consolidated financial statements presented in accordance with GAAP, the company uses non-GAAP measures of certain components of financial performance. These non-GAAP measures include non-GAAP gross profit， non-GAAP gross margin， non-GAAP operating expenses, non-GAAP income from operations, non-GAAP other income (expense), net, nonGAAP net income, non-GAAP net income,or earnings,per diluted share,and free cash flow.In order for NVIDIA's investors to be better able to compare its current results with those of previous periods, the company has shown a reconciliation of GAAP to non-GAAP financial measures. These reconciliations adjust the related GAAP financial measures to exclude stock-based compensation expense，acquisition-related and other costs，other，gains from non-afiliated investments and publicly-held equity securities, net,interest expense related to amortization of debt discount,and the associated tax impact of these items where applicable.Free cash flow is calculated as GAAP net cash provided by operating activities less both purchases related to property and equipment and intangible assets and principal payments on property and equipment and intangible assets. NVIDIA believes the presentation of its non-GAAP financial measures enhances the user's overall understanding of the company's historical financial performance.The presentation of the company's non-GAAP financial measures is not meant to be considered in isolation or as a substitute for the company's financial results prepared in accordance with GAAP，and the company's non-GAAP measures may be different from non-GAAP measures used by other companies.
+
+Certain statementsin thisCFO Commentary including,but notlimited to,statements as to:our computing platforms providing tremendousaceleration for aplicationsand delivering unique value; markets whereour expertise iscritical; customerscontinuing toaccelerate their Hopperarchitecturepurchases while gearingup toadopt Blackwell:the Blackwell GPU mask change improving production yield; Blackwellproduction rampand revenue timing;expected Blackwellrevenue; Hopperdemand being strong and expected increase in shipments in thesecond half of fiscal 2O25；cloud service agrements being used to supportourresearchanddevelopment effortsandour DGX Cloudoferings;our expected fullyear gross marginsandoperating expenses;andour financialoutlookandexpectedtaxrates forthethirdquarterof fiscal 2025are forward-looking statements thataresubjecttorisksand uncertaintiesthatcould causeresultstobe materilly differentthan expectations.Importantfactorsthatcouldcause actual results todiffer materiallyinclude: gobal economic conditions； our reliance on third parties to manufacture，assemble,package and test our products;the impact of technological development and competition;development of new products and technologies or enhancements to our existing product and technologies; market acceptance ofour products orour partners’products;design,manufacturing or software defects; changes in consumer preferences or demands;changes in industry standardsand interfaces；and unexpected lossof performance of our products or technologies when integrated into systems; as wellas other factors detailedfromtimeto time in the most recent reportsNvIDIA files with theSecurities and Exchange Commissionor SEC， including,butnotlimitedtoitsannualreportonForm10-KandquarterlyreportsonForm10-Q.Copiesofreportsfiledwith the SECare postedon thecompany'swebsite andareavailable from NvIDIA without charge.These forward-looking statementsarenotguaranteesoffutureperformanceandspeakonlyasof thedatehereof,and,exceptasrequiredbylaw, NVIDIAdisclaimsanyobligation to update these forward-looking statements to reflectfuture events or circumstances.
+
+# ###
+
+@ 2024 NVIDIA Corporation.Allrghts reserved. NVIDIA and the NVIDIA logo are trademarksand/or registered trademarks of NVIDIA Corporation in the U.S.and/or other countries.Other companyand product names may be trademarks of the respectivecompanies withwhichtheyareassociated.Features,pricing,availabilityandspecificationsaresubjecttochange without notice.
+
+# NVIDIA CORPORATIONRECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES
+
+(In millions,except per share data) (Unaudited)
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q2_CFO_Commentary/images/e72fc2c297124947947890e6f58cba83cbdbc99d250807e27f2fd4ac01b6d62e.jpg)
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q2_CFO_Commentary/images/b9942e68910042a77d28d9d9f99ab3ddcd66d17fe8af95c7cb8dc19aed1dc6a7.jpg)
+
+Cost of revenue   
+Research and development   
+Sales, general and   
+administrative
+
+(A) Acquisition-related and other costs are comprised of amortization of intangible assets, transaction costs, and certain compensation charges and are included in the following line items:   
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q2_CFO_Commentary/images/9b8eccaa43e67e070aeb822deb6e8a425de59e59fd36db9d8fa3cb6ddaf02ab9.jpg)
+
+(B) Stock-based compensation consists of the following:
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q2_CFO_Commentary/images/5a4718c9a1d4caf08c13caf289c4a1d96d2f824f8f2b9002d819ec84d94d4594.jpg)
+
+(C) Other consists of IP-related costs and assets held for sale related adjustments.
+
+(D) Income tax impact of non-GAAP adjustments,including the recognition of excess tax benefits or deficiencies related to stock-based compensation under GAAP accounting standard (ASU 2016-09).
+
+# NVIDIA CORPORATIONRECONCILIATION OF GAAP TO NON-GAAP OUTLOOK
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q2_CFO_Commentary/images/43274d799a6ddf92b0cc0f1b8f91b4778985ffbb97520d1ead7a9fa0e4e9f85b.jpg)

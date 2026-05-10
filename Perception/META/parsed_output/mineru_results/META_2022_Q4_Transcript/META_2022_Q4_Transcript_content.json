@@ -1,0 +1,1112 @@
+[
+  {
+    "type": "text",
+    "text": "Meta Platforms, Inc. (META) Fourth Quarter 2O22 Results Conference Call February 1st, 2023 ",
+    "text_level": 1,
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Deborah Crawford, VP, Investor Relations ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Thank you.Good afternoon and welcome to Meta Platforms fourth quarter 2022 earnings conference call. Joining me today to discuss our results are Mark Zuckerberg, CEO and Susan Li, CFO.Javier Olivan, COO is also on the call and will join Mark and Susan for the Q&A portion. ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Before we get started,Iwould like to take this opportunity to remind you that our remarks today wil include forward-looking statements.Actual results may difer materially from those contemplated by these forward-looking statements. ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Factors that could cause these results to differ materially are set forth in today's press release,and in our quarterly report on form 10-Qfiled with the SEC.Any forward-looking statements that we make on this call are based on assumptions as of today and we undertake no obligation to update these statements as a result of new information or future events. ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "During this callwe may present both GAAP and non-GAAP financial measures.A reconciliation of GAAP to non-GAAP measures is included in today's earnings press release.The press release and an accompanying investor presentation are available on our website at investor.fb.com. ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "And now,I'd like to turn the call over to Mark. ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Mark Zuckerberg, CEO ",
+    "text_level": 1,
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Hey everyone and thanks for joining us today. ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "2022 was a challenging year,but Ithink we ended it having made good progress on our main priorities and setting ourselves up to deliver better results this year as long as we keep pushing on efficiency.I said last quarter thatIthought our product trends look better than most of the commentary out there suggests.Ithink that's even more the case now.We reach more than 3.7 bilion people monthly across our family of apps. On Facebook, we now reach 2 bilion daily actives and almost 3 billion monthly.The number of people daily using Facebook, Instagram and WhatsApp is the highest it's ever been. ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Before getting into our product priorities,Iwant to discuss my management theme for 2023,which is the \"year of eficiency\". We closed last year with some difficult layofs and restructuring some teams. When we did this,Isaid clearly that this was the beginning of our focus on eficiency and not the end. Since then, we've taken some additional steps like working with our infrastructure team on how to deliver our roadmap while spending less on capex. Next, we're working on flattening our org structure and removing some layers of middle management to make decisions faster,as wellas deploying Al tools to help our engineers be more productive.As part of this,we're going to be more proactive about cuting projects that aren't performing or may no longer be as crucial,but my main focus is on increasing the efficiency of how we execute our top priorities. ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Ithink there's going to be some more that we can do to improve our productivity,speed,and cost structure,and by working on this over a sustained period I think we'l both build a stronger technology company and become more profitable.lam very focused on doing this in a way that helps us build better products,and because of that, even if our business outperforms our goals,this willstay our management theme for the year so Ithink it's going to make us a better company. At the same time, I'm also focused on delivering betterfinancial results than what we've reported recently and on meeting the expectation that Ioutlined last year of delivering compounding earnings growth even while investing aggressively in future technology. ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Next, Iwant to give some updates on our priority areas. Our priorities haven't changed since last year. The two major technological waves driving our roadmap are Al today and over the longer term the metaverse. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "First, let's talk about our Al discovery engine.Facebook and Instagram are shifting from being organized solely around people and accounts you follow to increasingly showing more relevant content recommended by our Al systems.This covers every content format --which is something that makes our services unique --but we're especially focused on short-form video since Reels is growing so quickly. I'm really proud of our progresshere. Reels plays across Facebook and Instagram have more than doubled over the last year, while the social component of people resharing Reels has grown even faster and has more than doubled on both apps in just the last 6 months. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The next botteneck that we're focused on to continue growing Reels is improving monetization efficiency,or the revenue that’s generated per minute of Reels watched. Currently,the monetization efficiency of Reels is much less than feed,so the more that Reels grows,even though it adds engagement to te system overall,it takes some time away from feed and we actually lose money. But people want to see more Reels though,and the key to unlocking that is improving our monetization efficiency so that we can show more Reels without losing increasing amounts of money.We're making progress here,and our monetization efficiency on Facebook has doubled in the past six months. In terms of the revenue headwind, we're stillon track to be roughly neutral by the end of this year or maybe early next year,and after that we should be able to profitably grow Reels while keeping up with the demand that we see. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "In our broader ads business, we're continuing to invest in Al and we're seeing our efforts pay ofhere.In the last quarter,advertisers saw over 2O% more conversions than in the year before. And combined with a declining cost per acquisition,this has resulted in higher returns on ad spend. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "We continue to be excited about the monetization opportunity with business messaging too. Facebook and Instagram are the first two pillars of our business,and in the next few years we hope to bring messaging online as the next pillar.One way of doing this is click-to-message ads,which is now at a \\$10 billion run rate. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Paid messaging is the other piece of this.We're earlier here,but we continue to onboard more businesses to the WhatsApp Business Platform, where they can answer customer questions, send updates,and selldirectly in chat.For example, AirFrance started using WhatsApp to share boarding passes and other flight information in 22 countries and in 4 languages.Businesses often tellus that more people open their messages and they get better results on WhatsApp than other channels. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Al is the foundation of our discovery engine and our ads business -and we also think it's going to enable many new products and additional transformations within our apps. Generative Alis an extremely ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "exciting new area with so many different applications,and one of my goals for Meta is to build on our research to become a leader in generative Al in addition to our leading work in recommendation Al. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The last area that Iwant to talk about is the metaverse.We shipped Quest Pro at the end of last year, and I'm really proud ofit.It's the first mainstream mixed reality device,and we're seting the standard for the industry with our Meta Reality system. As always,the reason why we're focused on building these platforms is to deliver better social experiences than what's possble today on phones.The value of MR is that you can experience the immersion and presence of VR while stillbeing grounded in the physical world around you.We're already seeing developers build out some impressive new experiences like Nanome for 3D modeling molecules and drug development, Arkio for architects and designers to create interiors,and of course a lot of great games.The MR ecosystem is relatively new, but Ithink it's going to grow a lot in the next few years.Later this year, we're going to launch our next generation consumer headset, which willfeature Meta Reality as well,and l expect that this is going to establish this technology as the baseline forallheadsets going forward,and eventually of course for AR glasses as well. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Beyond MR,the broader VR ecosystem continues growing.There are now over 200 apps on our VR devices that have made more than \\$1 million in revenue. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "We're also continuing to make progress with avatars.We just launched avatars on WhatsApp last quarter and more than 100 million people have already created avatars in the app. Of those,about one in five are using their avatar as their WhatsApp profile photo.Ithought that was an interesting example of how the Family of Apps and metaverse visions come together. Because even though most of our Reality Labs investment is going towards future computing platforms -- glasses, headsets,and the software to run them --as the technology develops,most people are going to experience the metaverse for the first time on phones and start building up their digital identities across our apps. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Alright, so those are the areas we're focused on: Al, including our discovery engine,ads, business messaging,and increasingly generative Al,and the future platforms for the metaverse. From an operating perspective, we're focused on efficiency and continuing to streamline the company so we can execute these priorities as wellas possible and build a better company while improving our business performance. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "As always,I'm grateful to our teams for your work on all of these important areas,and to allof you for being on this journey with us. And now, over to Susan. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Susan Li, CFO ",
+    "text_level": 1,
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Thanks Mark and good afternoon everyone. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Let's begin with our consolidated results.All comparisons are on a year-over-year basis unless otherwise noted. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Q4 total revenue was \\$32.2 bilion,down 4% or up 2% year-over-year on a constant currency basis. Had foreign exchange rates remained constant with Q4 of last year, total revenue would have been approximately \\$2.0 billion higher. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Q4 total expenses were \\$25.8 billion, up 22% compared to last year. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In terms of the specific line items: ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Cost of revenue increased 31%,driven mostly by a write-down of certain data center assets as well as growth in infrastructure-related costs. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "R&D increased 39%, Marketing & Sales increased 4%,and G&A decreased 7%. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Operating lease impairments and employee-related costs were the largest contributors to growth for all three expense lines. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "However,growth in Marketing and Sales was partially ofset by lower marketing spend,and growth in G&A was more than fully offset by a decrease in legal-related expenses. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "We ended the fourth quarter with over 86,400 employees, which includes a substantial majority of the approximately 11,0o0 employees impacted by our previously announced layoff who remained on payroll as of December 31st due to applicable legal requirements.We expect the vast majority of impacted employees will no longer be captured in our reported headcount figures by the end of the first quarter of 2023. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Fourth quarter operating income was \\$6.4 bilion, representing a 20% operating margin. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Our tax rate for the quarter was 24%. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Net income was \\$4.7 billion or \\$1.76 per share. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Capital expenditures,including principal payments on finance leases, were \\$9.2 billion,driven by investments in servers,data centers,and network infrastructure. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Free cash flow was \\$5.3 billion and we ended the year with \\$40.7 billion in cash and marketable securities.In the fourth quarter we repurchased \\$6.9 bilion of our Class Acommon stock, bringing our total share repurchases for the fullyear to \\$27.9 billion.We had \\$10.9 billion remaining on our prior authorization as of December 31st and today we announced a \\$40 billion increase in our stock repurchase authorization. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Moving now to our segment results. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "I'll begin with our Family of Apps segment. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Our community across the Family of Apps continues to grow.We estimate that approximately 2.96 billion people used at least one of our Family of Apps on a daily basis in December,and that approximately 3.74 billion people used at least one on a monthly basis. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Facebook continues to grow globally and engagement remains strong.We reached 2.00 billion Facebook daily active users for the first time in December, up 4% or 71 million compared to last year. DAUs represented approximately 67% of the 2.96 billion monthly active users in December.MAUs grew by 51 million or 2% compared to last year. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Q4 Total Family of Apps revenue was \\$31.4 billion,down 4% year over year. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Q4 Family of Apps ad revenue was \\$31.3 billion, down 4% but up 2% on a constant currency basis. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Consistent with our expectations,Q4 revenue remained under pressure from weak advertising demand, which we believe continues to be impacted by the uncertain and volatile macroeconomic landscape. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "The financial services and technology verticals were the largest negative contributors to the year-overyear decline in Q4, but both have relatively smaler shares of our revenue. Growth remained negative in our largest verticals,online commerce and CPG,though the pace of y/y decline in online commerce has slowed compared to last quarter.The largest positive contributors to year-over-year growth in Q4 were the travel and healthcare verticals,though both are relatively smaler verticals in absolute share. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Foreign currency remained a significant headwind to advertising revenue growth in allinternational regions. On a user geography basis,ad revenue growth was strongest in Rest of World at 5%. North America was flat while Asia-Pacific and Europe declined 3% and 16%, respectively. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "In Q4,the total number of ad impressions served across our services increased 23% and the average price per ad decreased 22%.Impression growth was primarily driven by the Asia-Pacific and Rest of World regions.The year-over-year decline in pricing was primarily driven by strong impression growth, especially from lower monetizing surfaces and regions,lower advertiser demand and foreign currency depreciation.While overallpricing remains under pressure from these factors, we have continued to make improvements to our ads targeting and measurement that we believe are driving more conversions and better returns for advertisers. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Family of Apps other revenue was \\$184 million in Q4,up 19%, with strong business messaging revenue growth from our WhatsApp Business Platform partially ofset by a decline in other line items. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "We continue to direct the majority of our investments toward the development and operation of our Family of Apps.In Q4,Family of Apps expenses were \\$20.8 bilion, representing 81% of our overall expenses.FoA expenses were up 23% due primarily to restructuring-related expenses and growth in infrastructure-related costs. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Family of Apps operating income was \\$10.7 billion, representing a 34% operating margin. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Within our Reality Labs segment, Q4 revenue was \\$727 milion,down 17% due to lower Quest 2 sales. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Reality Labs expenses were \\$5.0 billion,up 20% due primarily to employee-related costs and restructuring-related expenses. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Reality Labs operating loss was \\$4.3 billion. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Before turning to the outlook,I'dlike to discuss our work to grow profitability by scaling monetization and improving our operational efficiency. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "There are two primary levers to increasing monetization - growing supply and growing demand. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Growing ad supply gives businesses more opportunities to get in front of people,and we are focused on enabling thatin a couple of ways. First and foremost, we remain focused on building engaging experiences for the people who use our apps.We are coming into 2O23 with a strong foundation as Reels continues to scale and we're seeing in-feed recommendations contribute to engagement as we help people discover new content in their feeds.We willcontinue to invest in making these experiences best in class.The other side of growing supply comes from more effectively monetizing the surfaces within our apps,including those that have a lower level of ads today.In the nearer-term,ramping Reels monetization remains a primary focus. Over the longer-term we see opportunities to continue improving Facebook and Instagram monetization while also scaling revenue contributions from our messaging platforms. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Growing advertising demand is the other focus,and a big effort here is around continuing to drive advertiser performance.While we are stillcontending with the broader macro uncertainty and signals landscape weighing on advertiser demand in the near-term, we are making good progress on our roadmap and are already seeing improvements to ad performance and measurement from the investments we've made. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "We see opportunities for continued gains in the near-and medium-term, with our Al investments powering a lot of this work as we continue to improve ads ranking and enable increased automation for advertisers to make it easier for them to run campaigns and use our systems to optimize their performance.Another opportunity we have is to further scale onsite conversions through products like click-to-message,lead ads and Shop ads. Click-to-message ads continue to grow quickly and we believe they're bringing incremental demand onto our platform, with over half of Click-to-Message advertisers exclusively using click-to-messaging ads on our platform.We see further opportunity as we continue to scale click-to-WhatsApp ads and are investing in growing newer formats like Shop ads. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Over the long-term, we're investing heavily in Al to develop and deploy privacy-enhancing technologies and continue building new tools that will make it easier for advertisers to create and deliver more relevant and engaging ads. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Moving now to our efficiency work.We took significant actions in 2022 to operate more efficiently. In Q4,we made the dificult decision to layoff employees while de-prioritizing certain projects and curtailing non headcount-related expenses.We have applied the same scrutiny to our physical assets. We identified opportunities to consolidate our offce facilities and, we have streamlined our future data centers to a new architecture which we believe will be more cost efcient and more flexible that provides us optionality to support both Al and non-Al workloads.In Q4,we recorded \\$4.2 billon of total restructuring costs in connection with allof these efforts,and expect there to be some additional costs in 2023 in areas like office facilities impairments as we continue this work. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "As Mark has said,these actions are just the beginning of our efficiency efforts and we remain keenly focused on this in 2023.We are working acrossthe company to de-prioritize lower ROl work, move faster, increase productivity and reduce costs across the business.As part of this, we are carefully scrutinizing our hiring needs,actively re-evaluating projects,and reducing management layers.l am confident our company-wide focus on efficiency willposition us to be an even more productive organization going forward. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Turning now to the revenue outlook. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "We expect first quarter 2023 total revenue to be in the range of \\$26-28.5 billion. Our guidance assumes foreign currency willbe an approximately 2% headwind to year-over-year total revenue growth in the first quarter,based on current exchange rates. ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Turning now to the expense outlook. ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "We anticipate our full-year 2023 total expenses willbe in the range of \\$89-95 billon, lowered from our prior outlook of \\$94-100 billion due to slower anticipated growth in payroll expenses and cost of revenue.We now expect to record an estimated \\$1 bilion in restructuring charges in 2O23 related to consolidating our office facilities footprint.This is down from our prior estimate of \\$2 billion as we recorded a portion of the charges in the fourth quarter of 2O22.We may incur additional restructuring charges as we progress further in our efficiency efforts. ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Turning now to the capex outlook for 2023. ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "We expect capital expenditures to be in the range of \\$30-33 bilion,lowered from our prior estimate of \\$34-37 billion.The reduced outlook reflects our updated plans for lower data center construction spend in 2023 as we shift to a new data center architecture that is more cost eficient and can support both Al and non-Al workloads.Substantially all of our capital expenditures continue to support the Family of Apps. ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "On to tax.Absent any changes to U.S.tax law, we expect our fullyear 2023 tax rate percentage to be in the low twenties. ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "In addition,as noted on previous cals, we continue to monitor developments regarding the viability of transatlantic data transfers and their potential impact on our European operations. ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "In closing,2022 was a challenging but pivotal year for our business.We made important progress on our priorities and have taken significant steps to improve our eficiency and productivity.We are set up well to build on this work in 2O23 as we continue investing for future growth while remaining focused on delivering strong financial performance. ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "With that, Dave, let's open up the call for questions. ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Operator: ",
+    "text_level": 1,
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Thank you.We will now open the lines for a question and answer session.To ask a question,press one followed by the number four on your touchtone phone. Please pick up your handset before asking your question to ensure clarity. If you are streaming today's call, please mute your computer speakers. Your first question comes from the line of Brian Nowak with Morgan Stanley. Your line is open. ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Brian Nowak: ",
+    "text_level": 1,
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Great, thanks for taking my questions.I have two,one for Mark, one for Susan. Mark, the first one is on generative Al.I sort of wanted to dig a little more into how you think about your blue sky potential user and advertiser use cases of generative Al? And how do you think about the timeline for when we can foresee some glimpses of those on the platform? ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "And then the second one for Susan.Just any more color on the new data center architecture and how we should think about the long-term capital intensity of the business, whether it's CapEx per minute, CapEx per DAU? How big of a long-term benefit could this change be to the overall cash flow? Thanks. ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Mark Zuckerberg: ",
+    "text_level": 1,
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Yes,lcan start with generative Al. I think this is a really exciting area. And I mean, l'd say the two biggest themes that focused on for this year and one is efficiency and then the new product area is going to be the generative Al work. ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "We have a bunch of different work streams across almost every single one of our products to use the new technologies,especially the large language models and diffusion models for generating images and videos and avatars and 3D assets and all kinds of different stuff across all of the different work streams that we're working on,as well as over the long term,working on things that could really empower creators to be way more productive and creative across the apps and run a lot of different accounts. ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "So lthink that there's some really exciting stuff here.I want to be careful not to get too far ahead of the development of it. So I think you'll see us launch a number of different things this year,and we'll talk about them,and we'llshare updates on how they're doing. I do expect that the space will move quickly. I think we'll learn a lot about what works and what doesn't. A lot of the stuff is expensive, right, to kind of generate an image or a video or a chat interaction. ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "These things we're talking about, like cents or fraction of a cent.So one of the big interesting challenges here also is going to be how do we scale this and make this work more efficient so that way we can bring it to a much larger user base. But l think once we do that, there are going to be a number of very exciting use cases.l realize this is a pretty high-level answer for now,but Ithink that we'llbe able to share more details over the coming months. ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Susan Li: ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Thanks, Brian. On your questions about CapEx. So your first question was about the new data center architecture that we talked about, which is underpinning the lower CapEx outlook.So we're shifting our data centers to a new architecture that can more efficiently support both Al and non-Al workloads. And that's going to give us more optionality as we better understand our demand for Al over time. Additionally,we're expecting that the new design willbe cheaper and faster to build than previous data center architecture. ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Along with the new data center architecture, we're going to optimize our approach to building data centers.So we have a new phased approach that allows us to build base plans with less initial capacity and lessinitial capital outlay, but then flex up future capacity quickly if needed. We're still planning to grow Al capacity significantly,and that connects, I think, to a lot of the things that Mark was describing earlier in his question. ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In terms of longer-run capital intensity,we certainly expect that the lower CapEx outlook will have some incremental benefit to CapEx as a percent of revenue,and that's still really something that we are focused on over the longer term. The ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "current surge in CapEx is really due to the building out of Al infrastructure, which we really began last year and are continuing into this year. ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "We'll be measuring the ROl of these Al investments,and their returns willcontinue to inform our future spend. Our intention is stillto bring CapEx as a percent of revenue down, but capital intensity in the nearest term is really going to depend, in part, on the revenue outlook and our needs to further build Al capacity for future demand. ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Operator: ",
+    "text_level": 1,
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Your next question comes from the line of Eric Sheridan with Goldman Sachs. Your line is open. ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Eric Sheridan: ",
+    "text_level": 1,
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Thank you so much. Maybe l can ask a multiparter on going back to some of your comments on Reels.Mark,you've always had this philosophy of letting the user sort of continue to grow engagement, and monetization has always lagged sort of consumer adoption of new products. How do you think about going a little bit deeper on the mixture of letting the engagement of short-form video continue to build versus eventually sort of continuing to drive higher levels of monetization against that product? ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Second, can you give us a little bit of color of how advertiser conversations continue to evolve around short-form video and the adoption of the Canvas and the utilization of that as a means to deliver a mixture of brand and DR messages? ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "And then lastly would just be, can you quantify at all the gap that still exists between the engagement around short-term video and the monetization and how that might close as we look out over the next couple of years? Thanks so much. ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Mark Zuckerberg: ",
+    "text_level": 1,
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Yes.l mean the way l've always looked at -- l can take the first part of this, is that for these consumer products,often building up and scaling the product use case is a somewhat different discipline than working on the monetization.So it's such a kind of hard problem to build these new types of products that you want to give the teams as much clarity and as simple of goals as possible.So in the beginning, just saying, okay, just let's make something that works for people. ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "And then once we get to many hundreds of millions of people or billions of people using it, then we'llfocus on ramping up the monetization, which has been a formula that's worked for us.That's the general approach. Now with Reels, we do have a lot of people using it now.So Ithink at this point, the question is,is there any strategic advantage to letting it scale further than will be -- than would be profitable to do? ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "And l think at the scale that it's at right now,it's not clear that there's much strategic advantage.I mean there are certain flywheels,and you get certain more feedback or data points from a little bit more distribution. But at this point, we're at pretty good scale. So I think for now, the right thing to do is to work on monetization efficiency. ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "And we know that there is demand to see some more Reels. And as we naturally improve the monetization efficiency, which I have confidence in because the teams are doing good work,and that's been working,l shared the stat about it, the efficiency doubling over the last 6 months on Facebook,I think as we can continue some of those trends, then we'll naturally just unlock the ability to show more and more Reels,and we'll continue to grow from there. ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "But that's the overall approach.I do think that our philosophy of building these consumer products, focusing on getting them to hundreds of millions or billions of people and then focusing on monetization beyond that and bringing that in as the balance is the right approach. It's served us well. ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "You can expect us to continue doing that on future things that we do,including some -- hopefully, some of the new generative Al products or some of the new Metaverse stuff that we're doing.We're going to take the same approach there as well. ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Javier Olivan: ",
+    "text_level": 1,
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "So,on the advertisers' reaction to Reels,we continue working on enabling more advertisers to participate in Reels ads, more formats, more objectives,more tools to create them. And we've been making good progress with now over 40% of our advertisers use Reels ads across our apps. ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "And between Direct Response versus brand, we're actually seeing progress with both. But Direct Response continues to be where advertisers are focused. And just as an example, Outlet City,which is a German fashion retailer,developed creatives specifically for Reels to test the impact of conversions. And they found that Reels resulted in a 19x higher ROAS,89% lower cost per purchase and 9x higher lift in sales. So overall, very good results. ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Susan Li: ",
+    "text_level": 1,
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "On your third question, Eric, we are not quantifying the gap in monetization efficiency between Reels and other services.We know it took us several years to bring the gap close between Stories and Feed Ads. ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "And we expect that this will take longer for Reels. Having said that, we are still roughly on track to bring the overall Reels revenue headwind to a neutral place by the end of this year or early next year,and we're planning to do that through both improving Reels monetization efficiency and growing incremental engagement from Reels. ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Operator: ",
+    "text_level": 1,
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Your next question comes from the line of Mark Shmulik with Bernstein.Your line is open. ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Mark Shmulik: ",
+    "text_level": 1,
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Yes, thanks for taking the questions.I've got a couple as wel. First one,I don't know for Susan or Javier. As we think about -- lappreciate the color on improving conversion rate.Would it be fair to say that you're kind of through the other side of some of those IDFA headwinds we've been talking about for the last year or so? And any more color just kind of that journey of the Al-driven adage would be appreciated. ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "And secondly, Mark, kind of diving in that annual theme of eficiency and following on Boz's post, what's the right way to think about long-term investment intensity in Reality Labs and kind of balancing that with the ambitions to build the next computing platform? Is this the right intensity of kind of where you're at right now to think about? Or are there any milestones we should be looking for? Thanks. ",
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Susan Li: ",
+    "text_level": 1,
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Thanks,Mark. So on your first question, we are continuing to make progress in mitigating the impact from the ATT change. But this is more generally just the reality of the online advertising environment that we operate in now.So we're continuing to work on building tools that mitigate the impact of those changes,and we see strong adoption of those tools,including tools we've talked about before like CAPl, CAPI Gateway, et cetera. ",
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "We're also investing in ways to bring conversions on-site,and we have a lot of ad formats that have been instrumental in doing so across both click-to-messaging ads, lead ads and Shop ads being formats that bring conversions on-site.And then over the longer run,we're continuing to invest in our privacy-enhancing technologies to more fundamentally enable us to deliver more performant and privacy-safe ads to advertisers. Javi,is there anything you want to add on that? ",
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Javier Olivan: ",
+    "text_level": 1,
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Yes. And Ithink, Susan, you touched on most of it.Ithink if you look at the strategy on ads,we really have two parts,which is continue investing in Al,and that's where we're seeing a lot of the improvement in ads relevance. And as Mark was saying, we saw over 2O% more conversions than in the prior year,which, combined with the decline in cost per acquisition,results on higher ROAS.We also use it for automated experiences for the advertisers,improvements on measurement,which allow advertisers to do better budget decisions. ",
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "But the second part is bringing more conversions on-site,which are also obviously helping offsetting this signal loss. Indeed,we're reframing the problem as a signal growth opportunity. And one example would be lead ads where -- just to give another example, Additive,which is an online marketing and sales automation agency in Italy for hotels and resorts. ",
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "They used lead ads to colect a higher volume of qualified leads at a lower cost, so basically compared to off-site leads, they managed to achieve a 2x more final bookings with on-site leads,4x more qualified leads with on-site leads and a 2.7x lower cost per lead with on-site versus the alternative option in the lead acquisition off-site. ",
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Mark Zuckerberg: Allright. And Ican give some color on --and Ithink there was a question about how we're thinking about this efficiency theme as it applies to Reality Labs over time. I guess there are two ways that I think this applies. ",
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "The first thing is, I think it's important to not just think about Reality Labs as one thing, right? There are like three major areas, right? There's the augmented reality work long term,which is actually the biggest area,but hasn't --but it's still a large research problem.There is a lot of work there that we haven't actually shipped the product yet.VR,which is starting to ramp, right, Quest 2,I think,did quite well.We have multiple product lines there with the Quest Pro. ",
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "",
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "And then the smallest by kind of budget size today is the Metaverse software program. And that's -- it doesn't reflect the importance of it.I think the software and social platform might be the most critical part of what we're doing, but software is just a lot less capital intensive to build than the hardware.So it's the smallest part of the program.And within each of those areas,there are a lot of different things that we're doing. ",
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "So just like any project that we would run, we're constantly learning from how the products that we've shipped are doing, how the market is evolving overall, how competitors are doing,and what reaction they're seeing to different things,and what experiments are being played out. And we're kind of constantly tuning the road map. And obviously, some of these are longer-term things, right? ",
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "So you start planning out the hardware that you're going to ship 2,3 years in advance. But we're kind of constantly looking at the signals and learning and making decisions about what it makes sense to do forward. So that's definitely going to continue. ",
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "And we will -- even though I'm -- none of the signals that I've seen so far suggests that we should shift the Reality Labs strategy long term.We are constantly adjusting the specifics of how we adjust -- of how we execute this. So I think that well certainly look at that as part of the ongoing efficiency work. ",
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "The other piece is just different tactics,things like trying to flatten the org, things like that. Those are going to apply across the whole company. So we expect that within the road map that we're trying to execute, both on Reality Labs and Family of Apps,we just want to focus on making all of our work more efficient. A lot of the time,when people talk about efciency, there's a lot of focus on prioritization and which big things can you cut. ",
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "But lactually think what makes you a better company over time is being able to execute and do more things because you're operating more efficiently,and you can get things done with fewer resources. ",
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "So l'd like to kind of get us to that mode more, which I guess gets me to a higher level point in this,which is I just think we're in -- we've entered somewhat of a phase change for the company, where we just grew so quickly for like the first 18 years of the company's growth. And it's very hard to really crank on efficiency while you're growing that quickly. ",
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "And l just think we're in a different environment now where we have a bunch of areas that, I mean,are still extremely exciting and growing quickly for the future, where Ithink the right strategy will be to focus on top-line growth. But I think a lot of what we do,it really just makes sense to really focus on the efficiency a lot more than we had previously and making sure that we can do that work more effectively. ",
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "",
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "For what it's worth,I think if we do that well,it willbe --Ithink we'll be able to do better product work.And I think it will be a more fun place for people to work because Ithink they're going to get more stuff done.So I'm pretty committed to this,and it's going to go across all of the different things that we're doing. ",
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Operator: ",
+    "text_level": 1,
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Your next question comes from the line of Doug Anmuth with JPMorgan. Your line is open. ",
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Douglas Anmuth:Great,thanks for taking the questions.Susan,I know the expense outlook came down by \\$5 billion.I was just hoping you could talk about some of the areas where you may be able to get increased efficiency still? And then what does the new expense outlook suggest for hiring levels in '23? And then separately,Iwas hoping you could comment on the issues in Europe around Meta's use of first-party data to target ads. How could this get resolved? And how should we think about the risk to Meta? Thanks. ",
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Susan Li: ",
+    "text_level": 1,
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "I'll start with the 2023,the expense outlook.So the primary components of the reduction in the 2O23 expense outlook are across three areas. The first is slower payroll growth.So we're continuing to scrutinize how we allocate resources across the company on this.We have a broad hiring freeze in place right now. And we continue to expect a slower pace of hiring in the year as we evaluate what roles we're going to open. ",
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "I'll roll in the answer to your second question here, which is this is an ongoing process for us.We don't presently have a hiring target to share for the end of the year. ",
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "The second component of the lower expense outlook is on cost of revenue.We're expecting slower growth. Depreciation here is impacted by us extending the useful lives of non-Al servers in Q4. ",
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "And then the third component is our outlook now reflects an estimated \\$1 billion in facilities consolidation charges.That's down from the prior \\$2 billion estimate that we gave in the last guidance range since a portion of the previously estimated charges were already recognized in Q4 2022.So those are really the big -- those are really the primary issues as it pertains to the lower expense outlook. ",
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Your second question was on the issues in Europe around Meta using data to target ads. So I think if you're referring to the EU DPC ruling that we have to change our approach regarding our reliance on contractual necessity as the legal basis for ads in Europe, that's a decision -- we don't agree with it.We believe that our current approach is GDPR compliant, and we're appealing the substance of the rulings and the fines.We don't expect that those decisions are going to affect our ability to provide personalized advertising in the EU,and that advertisers should be able to continue to use our platforms to reach customers and grow their businesses. ",
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Operator: ",
+    "text_level": 1,
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Your next question comes from the line of Justin Post with Bank of America. Your line is open. ",
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Justin Post: ",
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Great,thank you. Maybe a follow-up on the privacy and data use.Are you stillfacing headwinds in the first quarter? Or are you kind of past that from IDFA or ATT? And then as you look out over the next year,anything on Android or in the EU with Digital Markets Act? Or anything we should be thinking about or aware of? Thank you. ",
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Susan Li: ",
+    "text_level": 1,
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Thanks, Justin. On ATT,I think what Iwould say is there is still certainly an absolute headwind to our revenue number. That is the impact of the ATT changes being in place.Having said that, we are lapping its rollout and adoption,and we're making progress in mitigating the impact due to a lot of the work that both Javi and l just talked about, including the different advertiser tools, including ad formats that bring conversions on site and including the longer-term Al investments in privacyenhancing technologies. ",
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "The second part of your question was on,oh,anything from Android and other headwinds. On Android,it's too early to know where this will land.I think Google is taking an approach that is collaborating with the industry,which we think is critical, and we'll have updates as more time elapses there. ",
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "And then your third -- the third part of your question,I think, was on regulatory issues in the EU.I think this was on DSA.We are expecting -- we have been preparing for some time to comply with DSA and meet the compliance deadlines that we expect to come into effect this year. Those are a meaningful but manageable segment of costs.We've been preparing for a long time,and those costs have been factored already into our --into our total expense guidance. ",
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Operator: ",
+    "text_level": 1,
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Your next question comes from the line of use of Youssef Squali with Truist. Your line is open. ",
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Youssef Squali: ",
+    "text_level": 1,
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Great, thank you. Two questions for me, please. First, maybe one for Susan. Just staying on the theme of the efficiency and with all the adjustments to your cost basis lately, can you maybe just speak to the relationship you're trying to build between revenue growth and OpEx, CapEx growth over time? Ithink the last time we saw them move in tandem or close to each other was back in 2017. ",
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "So are you at a point where you'd want them to grow much closer to each other? Or are we stillin an investment mode and therefore, potentially margin compression mode beyond just 2023? ",
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "And then maybe, Mark, can you just provide an update on kind of the health of the broad digital ad space,especially for the SMB side and DR. Just curious if coming out of Q4, you're incrementally bulish or you're still as cautious as you were 3 or 6 months ago. Thank you. ",
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Susan Li: ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Thanks,I'm happy to take the first question.So certainly, the lower expense outlook and CapEx outlook puts us in a better position in terms of financial performance for this year. We are,I think, still -- we're focused on the goal that Mark outlined, I think,last quarter of delivering compounding earnings growth,while enabling aggressively in the future technology. And that continues to be the principle by which we are -- by which we're guiding our financial plans. ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "The second question is on update -- on the health of the broader digital ad space.l can take --l can start with this,and Javi, you should feel free to jump in if you want to add more color. Q4, for us, we saw --the holiday season,for us,fell mostly within our range of expectations. ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Trends in online commerce modestly improved for us, which is encouraging, but again, the growth was still negative year-over-year.So overall, I think this is still a pretty volatile macro environment. It's early in the year to know how this will shape up for 2023.And if there's anything, Javi, you'd like to add, you can jump in. ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Javier Olivan: No,I think you covered it well, Susan. ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Operator: ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Your next question willcome from the line of Ron Josey with Citi. Your line is open. ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Ronald Josey: ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Great,thanks for taking the question. Mark,I wanted to talk a little bit more around the progress on the Al discovery engine in Reels. And we're seeing it in our own usage in terms of content and categories and just getting more insights and content that we'd like to see. But can you just talk about the added signal that Meta is seeing and gaining here to produce this more relevant content across Reels to Stories to Feed and maybe even to Messenger? Thank you. ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Mark Zuckerberg:I'm not exactly sure what would be useful to share here. But in general,a lot of the gains that we're seeing on the discovery engine overall, which we basically use to refer to our Al recommendation system across Facebook and Instagram across all different content types of which Reels is sort of a special case,and that's growing the fastest with short-form video. ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "But a lot of this is -- I mean, there's not like one specific data type that's useful. A lot of the trend that we're seeing here is, we're using larger models, which require more computation.We've shifted the models from being more CPU-based to being GPU-based.We've seen big improvements in the amount of time and engagement that we've gotten. And we -- it's a little bit hard for us to predict exactly how much we'll be able to continue tuning those and improving. ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "But from the experience that we've had so far,I would bet that there's still pretty significant upside there.I know that you kind of asked about specific data points, but I think that, that's really the theme that we're seeing.And that applies across Reels and the rest of the discovery engine. ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "The one thing that I'd add,it's a little bit separate from your question,but we do spend most of the time talking about Reels,so Ithink maybe it's worth giving some color on the rest of the discovery engine work, which is -- has also been doing quite well and is much more incremental to the rest of the business because if people end up being able to discover additional photos or links or groups or things like that in Facebook or just interesting content across Instagram, then they're just more engaged in the product. ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "And we already know how to monetize that content.So, that ends up being really helpful both for the overall engagement, not very cannibalistic at all,and already profitable.So that's --we've spent less time talking about that because l get that Reels is sort of the faster-growing area. ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "But we do still expect that as a percent of the overall feeds in Facebook and Instagram, recommended content will continue growing.I don't know if it will be a majority by the end of this year,but maybe it willbe 30's percent, 40%,something in that zone,and continuing to grow because we can just find content that people are going to be interested in that may not be from accounts that they've followed directly. So hopefully, that's some useful color on what we're seeing across those efforts. ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Operator: ",
+    "text_level": 1,
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Your next question comes from the line of John Blackledge with Cowen.Your line is open. ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "John Blackledge: ",
+    "text_level": 1,
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Great, thanks.Two questions.Just a follow-up on Reality Labs. Should we continue to expect accelerating losses at Reality Labs in '23? And if so, should we expect Reality Labs to be at peak op losses this year? And then second, Susan mentioned Shop ads in the bucket of early monetization.Just any color there on how we might see that scale this year. Thank you. ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Susan Li: ",
+    "text_level": 1,
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Yes. Sorry,I'l go ahead and take the first question about Realty Labs,and Javi, you can take the second question on Shop ads. On Reality Labs, we still expect our full year Reality Labs losses to increase in 2O23,and we're going to continue to invest meaningfully in this area given the significant long-term opportunities that we see. It is a long-duration investment, and our investments here are underpinned by the accompanying need to drive overall operating profit growth while we're making these investments.I'll turn it to Javi on the Shop ads. ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Javier Olivan: ",
+    "text_level": 1,
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Yes.So in Q4,we continued to test Shop ads in the U.S.,and we're seeing increased performance by helping direct the consumer to the place where they're most likely to purchase.So it's early to know, but we really finally saw product market fit in a test. It's off a small base. ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "But to just give you a sense, we saw triple-digit growth in both revenue and adoption across Q4. And we expect this growth to normalize to a lower level in 2023.And the Shop ads beta has a revenue run rate in the hundreds of millions of dollars.So that gives you a small base.It's a small revenue run rate yet, but it's growing rapidly. And we expect it to continue,but normalize to more lower levels in 2023. ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Operator: ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Your next question comes from the line of Mark Mahaney with Evercore ISl. Your line is open. ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Mark Mahaney: ",
+    "text_level": 1,
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Thanks. Two questions, please. The click-to-messaging is now that \\$10 billion revenue run rate. How do you think about the growth path for that going forwards? And do you find that that's bringing in brand-new advertisers to Meta that you hadn't seen before? Like who's coming in on that? And does that give you a new growth path? ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "And then, Mark, if I could just ask you. This year of efficiency,it's almost like there's been a journey going on since early last year when you talked about -- talking about driving the business for growing operating profit. And I guess I just want to ask the why question. I mean it's -- the markets obviously like what they're hearing from you today and the changes. ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "But why the much greater focus on efficiency, not just tonight, but kind of over the last 9 or 12 months with maybe a few hiccups. Like is it just the maturity of the business? Is it just trying to take, not advantage of a crisis,but there is a crisis out there in terms of the economy,and maybe that forced minds to think this way. Just a little bit more color on the why. Thanks a lot. ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Susan Li: ",
+    "text_level": 1,
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Thanks. This is Susan. On the click-to-messaging ads, so we are -- this is one of our fastest-growing ads products,and we believe that they're bringing incremental demand onto our platform.Imentioned in my script that over half of click-tomessage advertisers exclusively use click-to-message ads on our platform. ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "In terms -- you asked how we're going to scale, and I think there are a couple of dimensions.In terms of demand,I think the biggest piece here is getting more businesses to adopt click-to-messaging ads via creating more entry points, simplifying creation flows.We're trying to integrate with partners who can help smaller businesses scale.So there's a lot of work going on there. ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "On the performance side,we're continuing to focus on just driving up the ROl that advertisers get from click-to-messaging ads.We're trying to give advertisers the ability to do more down-funnel optimization, create better in-thread experiences and simplify flows that help them drive conversion. ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "And then ultimately, we're always focused on growing supply and in this case, growing the business messaging ecosystem by creating more ways for people and businesses to connect across our messaging apps. So lthink an example of that would be something like business directory search on WhatsApp.So it's an opportunity we're very excited about and we've invested a lot in and we've seen very healthy growth.I'll turn it to Mark on the efficiency question. ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Mark Zuckerberg: Yes.So I mean,on the eficiency point,Ithink we come to it from a few places.I mean one is just like the journey of the company. And for the first 18 years, I think we grew at 20%,30% compound or a lot more every year, right? ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "And then obviously, that changed very dramatically in 2O22,where our revenue was negative for the growth for the first time in the company's history. So that was a pretty big step down. And we don't anticipate that that's going to continue, but l also don't think it's going to necessarily go back to the way it was before. So l do think this is a pretty rapid phase change there that I think just forced us to basically take a step back and say, okay,we can't just treat everything like it's hyper growth. ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "There are going to be some areas that are going to be very rapidly growing or that are very kind of future investments that we want to make.But we also have a lot of things now that are -- just have a lot of people using them and support large amounts of business and that we think we should operate somewhat differently.So there's that piece of it. But the other part of it that I'd say is that as we've started doing the work,l actually think it makes us better, right? ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "And that was somewhat unexpected, right? I kind of, historically,would have thought that this would just occupy some amount of our mind space and that that would be more of a trade-off against how we are able to build products and get things done.But at this point,I'm actually fairly optimistic that there are a pretty good road map of things that we can do that will just make us more eficient and actually better able to build the things that we want. ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Not all of them willhelp save money, right? So for example, focusing on Al tools to help improve engineer productivity, it's not necessarily going to reduce costs. Although over the long term, maybe it will make it so we can have fewer -- we just hire less, right, and stay a smaller company for longer. ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "But l do think things like reducing layers of management just make it so information flows better through the company and so you can make faster decisions. And I think,ultimately, that will help us not only make better products, but I think it will help us attract and retain the best people who want to work in a faster-moving environment. ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "And so that honestly was a litle bit surprising, right, that as we started digging into this that the company would actually start to feel better to me. And I don't know how long that will--like how long the road map is, if things that we can continue to do where that will be the case. ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "But I do think we have a good amount of things like that. So that's why I'm really focused on this now. And I do want to continue to emphasize the dual goals here of making the company a better technology company and increasing our profitability. ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "They're both important, but I think it's also really important to focus on the first one of just making it a better company because that way,even if we outperform our business goals this year, I just want to communicate,especially to people inside the company that we're going to stick with this, because I think it's just going to make us a better company over the long term.So I think that's it for now. ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Deborah Crawford: Operator, we have time for one last question. ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Operator: ",
+    "text_level": 1,
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Thank you.That will come from the line of Brent Thill with Jefferies.Your line is open. ",
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Brent Thill: ",
+    "text_level": 1,
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Thanks. Susan, for your Q1 guidance,can you just remind us all what your embedded expectations are for market conditions, how you think about seasonality? What's embedded in that guidance? ",
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Susan Li: ",
+    "text_level": 1,
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Thanks, Brent. For --I mean, for Q1, we are -- our guidance range of \\$26 billion to \\$28.5 billion corresponds to negative 7% to plus 2% year-over-year growth.And it reflects a wide range of uncertainty given the continuation of the general macro environment that we've been operating in. ",
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Again,we are pleased with the core engagement trends that we've talked about and the performance improvements that we're delivering for advertisers with our monetization work and our investments in Al. And we expect FX to be less of a headwind to year-over-year growth in Q1 than it was in Q4. But again,we are keeping a close eye on advertising demand and on the ongoing macroeconomic volatility. ",
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Deborah Crawford: Great.Thank you for joining us today. We appreciate your time,and we look forward to speaking with you again. ",
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Operator: ",
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "This concludes today's conference call. Thank you for joining us. You may now disconnect your lines. ",
+    "page_idx": 18
+  }
+]

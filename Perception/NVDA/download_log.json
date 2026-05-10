@@ -1,0 +1,448 @@
+{
+  "company": "NVIDIA",
+  "ticker": "NVDA",
+  "results": {
+    "presentations": [
+      {
+        "file": "NVDA_FY23_Q1_Presentation.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY23_Q2_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY23_Q3_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY23_Q4_Presentation.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY24_Q1_Presentation.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY24_Q2_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY24_Q3_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY24_Q4_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY25_Q1_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY25_Q2_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY25_Q3_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY25_Q4_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY26_Q1_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY26_Q2_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY26_Q3_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY26_Q4_Presentation.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY27_Q1_Presentation.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY27_Q2_Presentation.pdf",
+        "success": false
+      }
+    ],
+    "cfo_commentary": [
+      {
+        "file": "NVDA_FY23_Q1_CFO_Commentary.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY23_Q2_CFO_Commentary.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY23_Q3_CFO_Commentary.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY23_Q4_CFO_Commentary.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY24_Q1_CFO_Commentary.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY24_Q2_CFO_Commentary.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY24_Q3_CFO_Commentary.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY24_Q4_CFO_Commentary.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY25_Q1_CFO_Commentary.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY25_Q2_CFO_Commentary.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY25_Q3_CFO_Commentary.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY25_Q4_CFO_Commentary.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY26_Q1_CFO_Commentary.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY26_Q2_CFO_Commentary.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY26_Q3_CFO_Commentary.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY26_Q4_CFO_Commentary.pdf",
+        "success": true
+      },
+      {
+        "file": "NVDA_FY27_Q1_CFO_Commentary.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY27_Q2_CFO_Commentary.pdf",
+        "success": false
+      }
+    ],
+    "revenue_trends": [
+      {
+        "file": "NVDA_FY23_Q1_Revenue_Trend.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY23_Q2_Revenue_Trend.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY23_Q3_Revenue_Trend.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY23_Q4_Revenue_Trend.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY24_Q1_Revenue_Trend.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY24_Q2_Revenue_Trend.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY24_Q3_Revenue_Trend.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY24_Q4_Revenue_Trend.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY25_Q1_Revenue_Trend.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY25_Q2_Revenue_Trend.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY25_Q3_Revenue_Trend.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY25_Q4_Revenue_Trend.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY26_Q1_Revenue_Trend.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY26_Q2_Revenue_Trend.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY26_Q3_Revenue_Trend.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY26_Q4_Revenue_Trend.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY27_Q1_Revenue_Trend.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY27_Q2_Revenue_Trend.pdf",
+        "success": false
+      }
+    ],
+    "transcripts": [
+      {
+        "file": "NVDA_FY23_Q1_Transcript.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY23_Q2_Transcript.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY23_Q3_Transcript.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY23_Q4_Transcript.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY24_Q1_Transcript.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY24_Q2_Transcript.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY24_Q3_Transcript.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY24_Q4_Transcript.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY25_Q1_Transcript.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY25_Q2_Transcript.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY25_Q3_Transcript.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY25_Q4_Transcript.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY26_Q1_Transcript.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY26_Q2_Transcript.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY26_Q3_Transcript.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY26_Q4_Transcript.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY27_Q1_Transcript.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY27_Q2_Transcript.pdf",
+        "success": false
+      }
+    ],
+    "sec_filings": [
+      {
+        "file": "NVDA_2026-02-25_10K.htm",
+        "success": true
+      },
+      {
+        "file": "NVDA_2025-11-19_10Q.htm",
+        "success": true
+      },
+      {
+        "file": "NVDA_2025-08-27_10Q.htm",
+        "success": true
+      },
+      {
+        "file": "NVDA_2025-05-28_10Q.htm",
+        "success": true
+      },
+      {
+        "file": "NVDA_2025-02-26_10K.htm",
+        "success": true
+      },
+      {
+        "file": "NVDA_2024-11-20_10Q.htm",
+        "success": true
+      },
+      {
+        "file": "NVDA_2024-08-28_10Q.htm",
+        "success": true
+      },
+      {
+        "file": "NVDA_2024-05-29_10Q.htm",
+        "success": true
+      },
+      {
+        "file": "NVDA_2024-02-21_10K.htm",
+        "success": true
+      },
+      {
+        "file": "NVDA_2023-11-21_10Q.htm",
+        "success": true
+      },
+      {
+        "file": "NVDA_2023-08-28_10Q.htm",
+        "success": true
+      },
+      {
+        "file": "NVDA_2023-05-26_10Q.htm",
+        "success": true
+      },
+      {
+        "file": "NVDA_2023-02-24_10K.htm",
+        "success": true
+      },
+      {
+        "file": "NVDA_2022-11-18_10Q.htm",
+        "success": true
+      },
+      {
+        "file": "NVDA_2022-08-31_10Q.htm",
+        "success": true
+      },
+      {
+        "file": "NVDA_2022-05-27_10Q.htm",
+        "success": true
+      },
+      {
+        "file": "NVDA_2022-03-18_10K.htm",
+        "success": true
+      }
+    ],
+    "non_gaap": [
+      {
+        "file": "NVDA_FY23_Q1_Non_GAAP.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY23_Q2_Non_GAAP.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY23_Q3_Non_GAAP.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY23_Q4_Non_GAAP.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY24_Q1_Non_GAAP.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY24_Q2_Non_GAAP.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY24_Q3_Non_GAAP.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY24_Q4_Non_GAAP.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY25_Q1_Non_GAAP.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY25_Q2_Non_GAAP.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY25_Q3_Non_GAAP.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY25_Q4_Non_GAAP.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY26_Q1_Non_GAAP.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY26_Q2_Non_GAAP.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY26_Q3_Non_GAAP.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY26_Q4_Non_GAAP.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY27_Q1_Non_GAAP.pdf",
+        "success": false
+      },
+      {
+        "file": "NVDA_FY27_Q2_Non_GAAP.pdf",
+        "success": false
+      }
+    ]
+  },
+  "total_success": 43,
+  "total_failed": 64
+}

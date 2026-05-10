@@ -1,0 +1,836 @@
+[
+  {
+    "type": "text",
+    "text": "Investor Presentation Q2FY26 ,9 September 2025 ",
+    "text_level": 1,
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Cet e i ee materially different than expectations. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "i requiredbylawNVDAdisclaimsayobligationtoupdatetheseforward-lingstatementstoreflectfutureeventsorcicumstances ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Many of the products and features described herein various stages anc ilable basis ndedtobe, and should not be interpreted as a commitment, promise, or legal obligation, and the development, release,and timing of any featuresor functionalities described for our products is subject to change and remains at the sole discretion of NVIDIA. NVIDlA will have no liability for failure to deliver delay fthe produc features tforth ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "e thes-Geoedditeclit ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "# ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Content ",
+    "text_level": 1,
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Q2 FY26 Earnings Summary ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Key Announcements This Quarter ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Reconciliationof Non-GAAP to GAAP Financial Measures ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Q2 FY26 Earnings Summary ",
+    "text_level": 1,
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Record quarter exceeded our outlook in what continues to bea dynamic external environment ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Total revenue up 56% Y/Y to \\$46.7B, above outlook of \\$45.0B +/- 2%   \n· Data Center up 56% Y/Y to \\$41.1B   \nGaming up 49% Y/Y to \\$4.3B ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Record Data Center revenue driven by continued Blackwell ramp ",
+    "text_level": 1,
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA's Blackwell platform reached record levels with 17% sequential growth Cloud service providers, neo clouds,enterprises and sovereigns are allcontributing to growth We'reatthebeginningofanindustrialrevolution;see\\$3to\\$4trilioninAlinfrastructurespendbytheendofthedecade ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Record Gaming revenue due to Blackwell adoption by gamers,creatives,and Al enthusiasts ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Strong sales continued and we increased supply availability   \nFor Al enthusiasts,on-device Al run best on RTX GPUs   \nWiththeRTXplatformstackWindowsdeveloperscancreateAlapplicationsdesignedtorunontheworld'sargestAlPCuserbase ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Q2 FY26 Financial Summary ",
+    "text_level": 1,
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/872ddd299ae89888b3c70b63ff95d74943eb31ebb9a1e5ea9c1867cebabd3837.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/5d48f4629d47ca663f66f638096d57d8563a796ccfaeacf852d685035e08e813.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "DataCenter ",
+    "text_level": 1,
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "The GB200 NVL system is seeing widespread adoption with deployments at CSPs and consumer internet customers ",
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/0f4071cd650de502bb7bcf90c42ddbce3d7a53402308e48c60a6545065197b26.jpg",
+    "img_caption": [
+      "Revenue (\\$M) "
+    ],
+    "img_footnote": [],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "New Blackwell UItra platform had a strong quarter, generating tens of billions in revenue ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Current run rate back at full speed, producing approximately 1,000   \nracks per week; output expected to accelerate throughout Q3 ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Expect widespread market availability of Blackwell Ultra in the second half of the year ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA RTX PRO servers are in full production from the world's systems makers; poised to become a multi-billion-dollar product line ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "On track to achieve over \\$2O billion in sovereign Al revenue this year, more than double that of last year ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Networking was a record, up 46% q/q and 98% y/y, with strong demand across Spectrum-X Ethernet, InfiniBand,and NVLink ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Gaming ",
+    "text_level": 1,
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/5a4b0de30a39761e269c407375ecdf59069d92d3740c36e5461d8495b4df4d27.jpg",
+    "img_caption": [
+      "Revenue (\\$M) "
+    ],
+    "img_footnote": [],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Record gaming revenue driven by the ramp of Blackwell GeForce GPUs,as strong sales continued and supply availability increased ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "·Shipped GeForce RTX 5060 desktop GPUs this quarter ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Blackwellis coming to GeForce Now in September, the most significant upgrade, offering RTX 5080-class performance, minimal latency, and 5K resolution at 120 frames per second ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "GeForce Now catalog doubling to over 4,5OO titles,the largest library of any cloud gaming service ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Partnered with OpenAl to optimize their open-source gpt-oss models for high-quality, fast,and efficient inference on millions of RTX-enabled Windows devices ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Professional Visualization ",
+    "text_level": 1,
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/224e877e857b14402bd13f21a4011130ddb57eab73c3f8caa4ce1eb0410e6e77.jpg",
+    "img_caption": [
+      "Revenue (\\$M) "
+    ],
+    "img_footnote": [],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Growth driven by the adoption of high-end RTX workstation GPUs for Al-powered workloads like design, simulation, and prototyping ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Key customers are leveraging NVIDIA solutions to accelerate their operations ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Activision Blizzard uses RTX workstations to enhance creative workflows,while robotics innovator Figure Al powers its humanoid robots with RTX embedded GPUs ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Automotive ",
+    "text_level": 1,
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/0dc94e13e205982d132791faf4ed1182b2e00d029c020ac7b342fd41c9b336bd.jpg",
+    "img_caption": [
+      "Revenue (\\$M) "
+    ],
+    "img_footnote": [],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Growth primarily driven by self-driving solutions Began shipments of NVIDlA Thor SoC, the successor to Orin . NVIDIA's full-stack DRIVE AV software platform is now in production, opening up billions in new revenue opportunities for NVIDlA while improving vehicle safety and autonomy ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Sources & Uses of Cash ",
+    "text_level": 1,
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/23d954b614804665a06327334a4c8080b05dba4bb4407b5e298bc33acb144f3b.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Cash Flow from Operations (\\$M) ",
+    "text_level": 1,
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Y/Y increase reflects growth in revenue, partially offset by an increase in working capital   \n· Q/Q decrease was mainly driven by \\$8.1B in taxes paid in the quarter   \n. Returned \\$1O.OB to shareholders in the second quarter through \\$9.7B of share repurchases and \\$244M of cash dividends Invested \\$1.9B in capex (includes principal payments on PP&E) Ended the quarter with \\$56.8B in gross cash and \\$8.5B in debt; \\$48.3B in net cash ",
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Q3 FY26 Outlook ",
+    "text_level": 1,
+    "page_idx": 11
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/2e206b39dc30a055de4cb7668b40722277b5047c45f1b8b19ad09531338708a7.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Key Announcements This Quarter ",
+    "text_level": 1,
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Europe Builds Over 3,000 Exaflops of NVIDIA AI Infrastructure to Fuel Region's Next Industrial Transformation ",
+    "text_level": 1,
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA is working with European nations,and technology and industry leaders, to build NVIDlA Blackwell Al infrastructure that will strengthen digital sovereignty, support economic growth and position the continent as a leader in the Al industrial revolution In France, Mistral Al is building an end-to-end cloud platform powered by 18K NVIDlA Grace Blackwell systems in the first phase, with plans to expand across multiple sites in 2026 ",
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "",
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "In the U.K., NVIDIA Cloud Partners Nebius and Nscale announced the first phase of their Al infrastructure development plans to deploy 14K Blackwell GPUs to power new data centers ",
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "In Germany, NViDlA and partners are building the world's first industrial Al cloud for European manufacturers, powered by DGX B200 systems and RTX PRO Servers ",
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "These deployments will enable the EU to securely develop, train and deploy agentic and physical Al applications ",
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "EU plans to invest 2OB Euros to establish 2O Al factories including 5 \"gigafactories,\" to increase its Al compute infrastructure 10x ",
+    "page_idx": 13
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/c3d8a37092669973692605c45054780e03f3ba4a9838223ebaaf6d9361a58004.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Partners With Europe Model Builders and Cloud Providers to Accelerate Region's Leap Into Al ",
+    "text_level": 1,
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA is teaming with model builders and cloud providers across Europe and the Middle East to optimize sovereign LLMs, helping to accelerate enterprise Al adoption for the region's industries ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Model builders and Al consortiums are using NVIDIA Nemotron, to maximize model cost efficiency and accuracy for enterprise Al workloads, including agentic Al ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Model post-training and inference will run on Al infrastructure in Europe from NVIDIA Cloud Partners with DGX Cloud Lepton ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "The open, sovereign models will provide a foundation for an integrated regional Al ecosystem that reflects local languages and culture ",
+    "page_idx": 14
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/dcbc83b7bff86a35ca67c5b7b4e0ed541059f2e7195231e14891f51cad57e598.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Partners With Novo Nordisk and DCAl to Advance Drug Discovery ",
+    "text_level": 1,
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA and Novo Nordisk are collaborating to accelerate drug discovery through innovative Al use cases ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Novo Nordisk will use the Gefion sovereign Al supercomputer - powered by NVIDIA DGX SuperPOD- for running drug discovery and agentic Al workloads ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Andalso: ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA BioNeMo for generative Al-powered drug discovery NVIDIA NiM and NeMo for building customized agentic workflows NVIDIA Omniverse to create physically accurate simulation environments for developing physical Al applications ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Will use NVIDIA BioNeMo, NIM, and NeMo to create customized generative Al models and Al agents that can be used for early research and clinical development ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Omniverse will be used to apply advanced simulation and physical Al technologies ",
+    "page_idx": 15
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/473c0aea5136a7984231ec6ca7a4137ab041a38331e3d3ab8e1a9f0da0bdd518.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Siemens and NVIDIA Expand Partnership to Accelerate Al Capabilities in Manufacturing ",
+    "text_level": 1,
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Siemens and NVIDlA announced an expansion of their partnership to accelerate the next era of industrial Al and digitalization and enable the factory of the future ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The partnership empowers industrial companies to leverage Alpowered technologies for next-gen factory automation ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Advanced Al agents will work seamlessly across the Siemens Industrial Copilot portfolio, executing entire Al-powered processes without human intervention ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Siemens' Operations Copilot brings generative Al to shopfloor operators; optimized to run on premises with NVIDlA RTX PRO 6000 Blackwell Server Edition GPUs ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Siemens is also integrating NVIDlA BlueField DPUs for Al-driven cybersecurity ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "SIEMENS ",
+    "text_level": 1,
+    "page_idx": 16
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/5b5e686dd946678a1d97b45ac8738d9a67c955d97658d9964df4df1e415c8751.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA DGX Cloud Lepton Connects Europe's Developers to Global NVIDlA Compute Ecosystem ",
+    "text_level": 1,
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA is expanding NVIDIA DGX Cloud Lepton一 an Al platform featuring a global compute marketplace that connects developers building agentic and physical Al applications 一 with GPUs now available from a growing network of cloud providers ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Mistral Al,Nebius, Nscale, Firebird, Fluidstack,Hydra Host, Scaleway and Together Ai are now contributing NVIDlA Blackwell and other NVIDIA architecture GPUs to the marketplace ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "AWS and Microsoft Azure will be the first large-scale cloud providers to participate in DGX Cloud Lepton, joining CoreWeave, Crusoe, Firmus,Foxconn, GMl Cloud, Lambda and Yotta Data Services ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Hugging Face is introducing Training Cluster as a Service, seamlessly connecting Al researchers and developers building foundation models with the NVIDIA compute ecosystem ",
+    "page_idx": 17
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/fa5175ffc7d721e5b770b34e3b503466b3ab738a283d6c46130dbe3a84cbb209.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "NVIDlA Blackwell Delivers Breakthrough Performance in Latest MLPerf Training Results ",
+    "text_level": 1,
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Al platform delivered the highest performance at scale on every benchmark and powered every result submitted on the benchmark's toughest large language model (LLM)-focused test: Llama 3.1 4O5B pretraining - first MLPerf training submissions using NVIDIA GB200 NVL72 systems ",
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA was the only platform to submit results on every MLPerf Training v5.O benchmark- underscoring its exceptionall performance and versatility ",
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "These performance leaps highlight advancements in Blackwell that enable faster and more cost-effective training ",
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA is working with companies worldwide to build out Al factories - speeding the training and deployment of next-gen agentic Al applications that produce tokens and intelligence that can be applied to almost every industry and academic domain ",
+    "page_idx": 18
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/543590609be82c439c30c334738b0f65102ccdf79566c23cb0bed4a464e5f864.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 18
+  },
+  {
+    "type": "image",
+    "img_path": "",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "OpenAl and NVIDIA Propel Al Innovation With New Open Models Optimized for the World's Largest AiInference Infrastructure ",
+    "text_level": 1,
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "OpenAl's two new open-weight Al reasoning models, oss-120b and gpt-oss-2Ob, bring cutting-edge Al development to developers, enthusiasts, enterprises, startups and governments everywhere ",
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "This collaboration highlights the power of community-driven innovation and NViDiA's foundational role in making Al accessible worldwide ",
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "The models were trained on NVIDIA H1oO GPUs and run inference best on the hundreds of millions of GPUs running the NVIDIA CUDA platform ",
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "With software optimizations, the models offer optimal inference on NVIDIA GB200 NVL72 systems, achieving industry leading 1.5M tokens per second, driving massive efficiency for inference ",
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "OpenAl ",
+    "text_level": 1,
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA RTX PRO Servers are in Full Production From the World's Systems Makers ",
+    "text_level": 1,
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Powered by NVIDIA RTX PRO 60O0 Blackwell Server Edition GPUs, these servers speed the shift from traditional CPU systems to accelerated computing platforms ",
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "These air-cooled, PCle-based systems integrate seamlessly into standard IT environments ",
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "They run traditional enterprise IT applications as well as the most advanced agentic and physical Al applications ",
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Enterprises can achieve up to 45x better performance and 18x higher energy efficiency when running enterprise workloads ",
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Nearly 90 companies including many global leaders are already adopting RTX PRO servers ",
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Hitachi for real-time simulation and digital twins Lilly for drug discovery Hyundai for factory design and AV validation Disney for immersive storytelling ",
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "DELLTechnologies ",
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "HPE ",
+    "page_idx": 20
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/0aa5f3dd7448a9cbdff0f1c491c71f3088f40534f87a7a61a99a763d660cc79c.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Lenovo ",
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "SUPERMICR ",
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Multi Workload Acceleration ",
+    "text_level": 1,
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "vs. NVIDIA L40S ",
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "4X FPS Real-Time Rendering ",
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "6X Throughput LLM Inference ",
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "4X Faster Synthetic Data gen ",
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Data Center Consolidation vs. CPU ",
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "45X ",
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Performance Enterprise Workloads ",
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Opens Portals to World of Robotics With New Omniverse Libraries, Cosmos Physical Al Models and Al Computing Infrastructure ",
+    "text_level": 1,
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "New NVIDlA Omniverse libraries and Cosmos world foundation models (WFMs) accelerate the development and deployment of physical Al and robotics solutions ",
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Boston Dynamics,Disney Research, Figure AI, Hexagon, RAl Institute, Lightwheel and Skild Al are adopting Omniverse libraries, Isaac Sim and Isaac Lab to accelerate their Al robotics development, while Amazon Devices & Services is using them to power a new manufacturing solution ",
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Cosmos Reason is being used by Magna, and adopted by VAST Data,Milestone Systems and Linker Vision for autonomous delivery vehicles,automated traffic monitoring, visual inspectior ",
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Lightwheel, Moon Surgical and Skild Al are using Cosmos Transfer to accelerate physical Al training ",
+    "page_idx": 21
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/92694118deceb677efca65530ef14a39c3209e1c23349f4b7bb07161202ae617.jpg",
+    "img_caption": [
+      "NVIDIA Isaac Sim "
+    ],
+    "img_footnote": [],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Blackwell-Powered Jetson Thor Now Available, the Ultimate Platform for Physical Al & Robotics ",
+    "text_level": 1,
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "These powerful new robotics computers are built for generative reasoning and designed to power millions of robots across diverse industries including manufacturing, logistics,agriculture, transportation, healthcare, and retail ",
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "With over 2,0o0 teraflops of Al compute,it unlocks new capabilities such as simultaneous processing of multiple Al workstreams and real-time inference. ",
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Agility Robotics, Amazon Robotics, Boston Dynamics, Caterpillar, Figure, Hexagon, Medtronic and Meta are among the early Jetson Thoradopters ",
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Also available is the new NVIDIA DRIVE AGX Thor developer kit for safe, secure AV development ",
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Runs increasingly complex AV systems equipped with reasoning   \nvision language models, generative Al, and advanced sensor   \ntechnologies   \nLeading automotive and AV companies are embracing Thor including   \nAurora, BYD, Continental, Desay SV, Nuro, PlusAl, Volvo Cars, Waabi,   \nWayve,and WeRide ",
+    "page_idx": 22
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/a9404db9ceabbdfa40cf652c513c3319750dd6ca35a311e587602f8a28d42119.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 22
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/fdf1a4c1e8fdbaa643a7ca3ac22748fcc09669faa00e8b22d1d6d4c787f485f8.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Reconciliation of Non-GAAP to GAAP Financial Measures ",
+    "text_level": 1,
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Reconciliationof Non-GAAPto GAAP Financial Measures ",
+    "text_level": 1,
+    "page_idx": 24
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/0921865dfd54fcdb43837790dc8c6755812eaba5d81d74a4ba5928cb5504887a.jpg",
+    "table_caption": [],
+    "table_footnote": [
+      "Consists of amortization of intangible assets,transaction costs,and certain compensation charges. Stock-basedpetiedodeadveotpsddsi tis discount. "
+    ],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Reconciliationof Non-GAAPto GAAP FinancialMeasures (contd.) ",
+    "text_level": 1,
+    "page_idx": 25
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/87dd23eeb8a3d79ee8020113b95e50718e9fd84cd5e9a167888ce9141e182a09.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Reconciliation of Non-GAAP to GAAPFinancialMeasures(contd.) ",
+    "text_level": 1,
+    "page_idx": 26
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/82b4d48da96187a25bf036c36d39989fca678777425f8d6eaf42bf7e7734522d.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 26
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/868b9c08198c0f90e3e29bd0c62a555406bbd8db9e3204a1dc1b4dda46e952c1.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 27
+  }
+]

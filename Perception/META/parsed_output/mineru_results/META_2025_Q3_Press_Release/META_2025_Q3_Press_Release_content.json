@@ -1,0 +1,416 @@
+[
+  {
+    "type": "text",
+    "text": "Meta Reports Third Quarter 2025 Results ",
+    "text_level": 1,
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "MENLO PARK,Calif.,Oct.29,2025 /PRNewswire/-- Meta Platforms,Inc. (Nasdaq: META)todayreported financial results for the quarter ended September 30,2025. ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "\"We had a strong quarter for our businessand our community,\"said Mark Zuckerberg, Meta founder and CEO. \"Meta Superintellgence Labsisofftoa great start and we continue to lead the industryinAlglasses.If we deliver evenafraction of the opportunity ahead,then the next few years willbe the most exciting period inour history.\" ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Third Quarter 2025 Financial Highlights ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "In millions,except percentages and per share amounts   \nRevenue   \nCosts and expenses   \nIncome from operations   \nOperating margin   \nProvision for income taxes   \nEffective tax rate   \nNet income   \nDiluted earnings per share (EPS) ",
+    "page_idx": 0
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q3_Press_Release/images/a2bcde04746817a35a140c79cda7483f66ec2c661d7c2bbbe29b866297b20da9.jpg",
+    "table_caption": [
+      "Three Months Ended September 30, "
+    ],
+    "table_footnote": [],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Provision for Income Taxes - One-Time, Non-Cash Charge Impact ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Weexpect a significant reduction in our U.S.federal cash tax payments for the remainder of 2025 and future years due to the implementation of the One Big Beautiful BillAct.However,the implementation also led to the recognition of avaluation allowance against our U.S.federal deferred tax assets,reflecting the impactof the U.S. Corporate Alternative Minimum Tax.As aresult,the third quarter 2025 provision forincome taxes includes a onetime,non-cash income tax chargeof\\$15.93 billon.Excluding this one-time tax charge,ourthird quarter 2025: ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "· Effective tax rate would have decreased by73 percentage points to 14%,compared to the reported effective tax rate of 87%. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "· Netincome would have increased by \\$15.93 billon to \\$18.64 billion,compared to the reported netincome of \\$2.71 billion. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "· Diluted EPS would have increased by \\$6.20 to \\$7.25,compared to the reported diluted EPS of \\$1.05. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Third Quarter 2025 Operational and Other Financial Highlights ",
+    "text_level": 1,
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "·Family daily active people (DAP)- DAP was 3.54 billon on average for September 2025,an increase of 8% year-over-year. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "· Ad impressions - Ad impressions delivered across our Family of Apps increased by 14% year-over-year. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "· Average price per ad - Average price per ad increased by 10% year-over-year. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "· Revenue - Revenue was \\$51.24 bilion,an increase of 26% year-over-year. Revenue on a constant currency basis would have increased 25% year-over-year. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Costs and expenses - Total costs and expenses were \\$30.71 bilion,an increase of 32% year-over-year. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "· Capital expenditures - Capital expenditures,including principal payments on finance leases, were \\$19.37 billion. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "· Capital return program - Share repurchases of our Class A common stock were \\$3.16 billion and total dividend and dividend equivalent payments were \\$1.33 billion. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "·Cash,cash equivalents,and marketable securities- Cash,cash equivalents,and marketable securities were \\$44.45 billion as of September 30,2025.Cash flow from operating activities was \\$30.0 billion and free cash flow was \\$10.62 billion.(1) ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "· Headcount - Headcount was 78,450 as of September 30,2025,an increase of 8% year-over-year. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "CFO Outlook Commentary ",
+    "text_level": 1,
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "We expect fourth quarter 2025 total revenue to be in the range of \\$56-59 billon.Our guidance assumes foreign currency is an approximately1% tailwind to year-over-year total revenue growth,based on current exchange rates. Ouroutlook reflectsan expectation forcontinued strongad revenue growth,partiall offsetbylower year-over-year Reality Labs revenue in the fourth quarter.The anticipated reduction in Reality Labs revenue is due to us lapping theintroduction of Quest 3S in thefourth quarter oflast year as wellas retail partners procuring Quest headsets during the third quarterof this yearto prepareforthe holidayseason,which were recordedas revenueinthe third quarter. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Weexpect fullyear 2025 total expenses to be in the range of\\$116-118 bilion,updated from our prior outlook of \\$114-118 billion and reflecting a growth rate of 22-24% year-over-year. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Wecurrently expect 2025 capital expenditures,including principalpayments on finance leases,to bein therange of \\$70-72 billion,increased from our prior outlook of \\$66-72 billion. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Absent any changes to our tax landscape, we expect our fourth quarter 2025 tax rate to be 12-15%. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Weare atan exciting point for our company,where we have continued runwayto improve our core services today as wellas the opportunityto build newAl-powered experiences and services that wiltransform how people engage with our products in the future.We expect the set of investments we are making within our ads and organic engagement initiatives next year willenable us to continue to deliver strong revenue growth in 2026,while our progress on Al models and products willposition us to capitalize on new revenue opportunities in the years to come. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Acentral requirement to realizing these opportunities is infrastructure capacity.As we have begun to planfor next year,it has become clear that our compute needs have continued to expand meaningfuly,including versus our expectations last quarter.We are stillworking through our capacity plans for next year,but we expect to invest aggressively to meet these needs both by building our own infrastructure and contracting with third party cloud providers.We anticipate this willprovide further upward pressure on our capital expenditures and expense plans next year. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Asa result,our curent expectation is that capital expenditures dollar growth willbe notably larger in 2026 than 2025.We also anticipate total expenses will grow at a significantly faster percentage ratein 2O26 than 2025,with growth driven primarily by infrastructure costs,including incremental cloud expenses and depreciation.Employee compensation costs willbe thesecond largest contributorto growth,as we recognize afullyear of compensation for employees hired throughout 2025,particularly Al talent,and add technical talent in priority areas. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Finally,wecontinuetomonitor activelegal and regulatory matters,including the increasing headwinds in the EU andthe U.S.that could significantlyimpact our business and financial results.For example,in the EU,wecontinue to engage constructively with the European Commission on our Less Personalized Ads offering.However, We cannot rule out the Commission imposing further changes to that ofering that could have asignificant negative impact on our European revenue,as early as this quarter.In the U.S.,a number of youth-related trials are scheduled for 2026,and may ultimately result in a material loss. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Webcast and Conference Call Information ",
+    "text_level": 1,
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Meta willhosta conference calltodiscussitsresultsat1:30p.m.PT/4:30p.m.ETtoday.Thelive webcastof the call can be accessed at the Meta Investor Relations website at investor.atmeta.com,along with the company's earnings press release, financial tables,and slide presentation. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Followingthecall,a replay willbe available at the same website.Transcripts of conference calls with publishing equity research analysts held today willalso be posted to the investor.atmeta.com website. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Disclosure Information ",
+    "text_level": 1,
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Meta uses the investor.atmeta.com and meta.com/news websites as wellas Mark Zuckerberg's Facebook Page (facebook.com/zuck),Instagram account (instagram.com/zuck)and Threads profile (threads.net/zuck)as means of disclosing material non-public information and for complying with its disclosure obligations under Regulation FD. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "About Meta ",
+    "text_level": 1,
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Meta is building the future of human connection,powered by artificialinteligence and immersive technologies. When Facebook launched in 2004,it changed the way people connect. Apps like Messenger,Instagram,and WhatsApp further empowered billions around the world.Now,Meta is moving beyond 2D screens toward ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "experiences that foster deeper connections and unlock new possibilities. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Contacts ",
+    "text_level": 1,
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Investors:   \nKenneth Dorell   \ninvestor@meta.com /investor.atmeta.com   \nPress:   \nAshley Zandy   \npress@meta.com /meta.com/news ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Forward-Looking Statements ",
+    "text_level": 1,
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "This press release contains forward-looking statements regarding our future business plans and expectations. These forward-looking statements are only predictions and may difer materiall fromactual results due toa variety offactors including: the impact of macroeconomic conditions on our business and financial results,including as a result of geopolitical events; our ability to retain or increase users and engagement levels; our reliance on advertising revenue; our dependency on data signalsand mobile operating systems,networks,and standards that we do not control; changes to the content or application of third-party policies that impact our advertising practices; risks associated with new products and changes to existing products as wellas other new business initiatives,including our artificialintelligence initiatives and Reality Labs effrts; our emphasison community growth and engagement and the user experience over short-term financial results; maintainingand enhancing our brandand reputation;our ongoing privacy,safety,security,and content and advertising review and enforcement efforts; competition; risks associated with government actions that could restrict accessto our products or impair our abilitytoselladvertising in certain countries;litigationand government inquiries; privacy,legislative,and regulatory concerns or developments; risks associated with acquisitions; security breaches; our abilityto manage our scale and geographicall-dispersed operations; and market conditions orother factors affecting the payment of dividends.These and other potentialrisks and uncertainties that could cause actual results to differ from the results predicted are more fuly detailed under the caption \"Risk Factors\" in our Quarterly Report on Form 10-Q filed with the SEConJuly31,2025,whichisavailableonourInvestor Relations websiteat investor.atmeta.comand on the SEC website at www.sec.gov.Additional information willalso be set forth in our Quarterly Report on Form 10-Qfor the quarter ended September30,2025.Inaddition,please note thatthe date of this press release is October 29,2025,andany forward-looking statements contained hereinare based onassumptions thatwe believe to be reasonable as of this date.We undertake no obligation to update these statements as a result of new ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "information or future events. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Fora discussion oflimitations in the measurement of certain of our community metrics,see the section entitled \"Limitations of Key Metrics and Other Data\" in our most recent quarterly or annual report filed with the SEC. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Non-GAAP Financial Measures ",
+    "text_level": 1,
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "To supplement our condensed consolidated financial statements,whichare prepared and presented in accordance with generallyaccepted accounting principles in the United States (GAAP), we use the following non-GAAP financial measures: revenue excluding foreign exchange effect,advertising revenue excluding foreign exchange effect,and free cash flow.The presentation of thesefinancial measures is not intended to be considered in isolation or as a substitutefor,orsuperiorto,financialinformation preparedand presented inaccordance with GAAP.Investors are cautioned that there are materiallimitations associated with the use of non-GAAP financial measures as an analyticaltool. Inaddition,these measures may be diferent from non-GAAP financial measures used by other companies,limiting their usefulness for comparison purposes.We compensate for these limitations by providing specific information regarding the GAAP amounts excluded from these non-GAAP financial measures. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "We believe these non-GAAP financial measures provide investors with usefulsupplemental information about the financialperformance of our busines,enable comparison offinancial results between periods where certain items may vary independent of business performance,and alow for greater transparency with respect to key metrics used by management in operating our business. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Our non-GAAP financial measures are adjusted for the following items: ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Foreign exchange effect on revenue.We translated revenue for the three and nine months ended September 30, 2025 using the prior year's monthly exchange rates for our settement or billing currencies other than the U.S. dollar,which we believe is a useful metric that facilitates comparison to our historical performance. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Purchases of property and equipment; Principal payments on finance leases.We subtract both purchases of property and equipment,and principal payments on finance leases in our calculation offree cash flow because we believe that these two items collectively representthe amount of propertyand equipment we need to procure to support our business,regardless of whether we procure such property or equipment with a finance lease.We believe that this methodology can provide useful supplemental information to help investors better understand underlying trends inour business.Free cash flowis not intended to represent our residual cash flowavailable for discretionary expenditures. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "For more information on our non-GAAP financial measures and a reconciliation of GAAP to non-GAAP measures, see the \"Reconciliation of GAAP to Non-GAAP Results\" table in this press release. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Revenue   \nCosts and expenses:   \nCost of revenue   \nResearch and development   \nMarketing and sales   \nGeneral and administrative   \nTotal costs and expenses   \nIncome from operations   \nInterest and other income,net   \nIncome before provision for income taxes   \nProvision for income taxes\\* ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Net income Earnings per share: ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Basic ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Diluted   \nWeighted-average shares used to compute earnings per share:   \nBasic   \nDiluted ",
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q3_Press_Release/images/06dc2e7d794644c3147c05712f35c849861ee4d3928342d3e0bd90752c7276df.jpg",
+    "table_caption": [
+      "META PLATFORMS, INC. CONDENSED CONSOLIDATED STATEMENTS OF INCOME (In millions,except per share amounts) (Unaudited) ",
+      "Three Months Ended September 30, ",
+      "Nine Months Ended September 30, "
+    ],
+    "table_footnote": [],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Assets ",
+    "text_level": 1,
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Current assets:   \nCash and cash equivalents   \nMarketable securities   \nAccounts receivable,net   \nPrepaid expenses and other current assets   \nTotal current assets   \nNon-marketable equity investments   \nProperty and equipment, net   \nOperating lease right-of-use assets   \nGoodwill   \nOther assets   \nTotal assets   \nLiabilities and stockholders' equity   \nCurrent liabilities:   \nAccounts payable   \nOperating lease liabilities,current   \nAccrued expenses and other current liabilities   \nTotal current liabilities   \nOperating lease liabilities,non-current   \nLong-term debt   \nLong-term income taxes   \nOther liabilities   \nTotal liabilities   \nCommitments and contingencies   \nStockholders'equity:   \nCommon stock and additional paid-in capital   \nAccumulated other comprehensive income (loss)   \nRetained earnings   \nTotal stockholders' equity   \nTotal liabilities and stockholders' equity ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "",
+    "page_idx": 7
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q3_Press_Release/images/5dd35b33a4e8af8f9c3dd7366ba1edd0f70a2470b81b9a2834342c646029bbf9.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Cash flows from operating activities Net income ",
+    "page_idx": 7
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q3_Press_Release/images/b4dd05c9c1dd43809e1e6b3a5330bbd53d7b95655809c55e9cdf03635e88d5bf.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 7
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q3_Press_Release/images/681a595938fd74b0f5acea36594d73aa0696dbb8bfd66b2cc23eac9bee78a1bf.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "We report our financial results for our two reportable segments: Family of Apps (FoA)and Reality Labs (RL). FoA includes Facebook,Instagram,Messenger,WhatsApp,and other services.RLincludes ourvirtual,augmented,and mixed reality related consumer hardware,software,and content. ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "The following table sets forth our segment information of revenue and income (loss)from operations: ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Segment Information   \n(In millions)   \n(Unaudited) ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Revenue: Advertising Other revenue Family of Apps Reality Labs Total revenue ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Income (loss) from operations: Family of Apps   \nReality Labs   \nTotal income from operations ",
+    "page_idx": 9
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q3_Press_Release/images/c6aecc7ff6872fa2decaa4d2ac2c2b6ea990f5b8adc452c32895268e6b85326d.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 9
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q3_Press_Release/images/60250c1977cecf1b1f40da29056228633e7841bc4a80b35bb72e449a63f681bd.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "GAAP advertising revenue year-over-year change % Advertising revenue excluding foreign exchange effect year-over-year change% ",
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Net cash provided by operating activities Purchases of property and equipment Principal payments on finance leases Free cash flow ",
+    "page_idx": 10
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q3_Press_Release/images/a7c451c9acaba3610f3bb046280eb27cdf8ed12b5a3e7d5286848f0adfc91509.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 10
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q3_Press_Release/images/b0aaa31876191c5fc16e69c92feee032763e9a8deb318c3be02bdf380da14b07.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "SOURCE Meta ",
+    "page_idx": 10
+  }
+]

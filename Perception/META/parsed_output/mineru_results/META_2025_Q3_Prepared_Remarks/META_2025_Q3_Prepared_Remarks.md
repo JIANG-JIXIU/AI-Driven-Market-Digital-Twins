@@ -1,0 +1,168 @@
+# Meta Platforms, Inc.(META) Third Quarter 2O25 Results Conference Call- Prepared Remarks October 29th, 2025
+
+Kenneth Dorell, Director, Investor Relations
+
+Thank you. Good afternoon and welcome to Meta's third quarter 2025 earnings conference call.   
+Joining me today are Mark Zuckerberg, CEO and Susan Li, CFO.
+
+Our remarks today willinclude forward-looking statements, which are based on assumptions as of today. Actual results may differ materially as a result of various factors including those set forth in today's earnings press release,and in our quarterly report on Form 10-Q filed with the SEC.We undertake no obligation to update any forward-looking statement.
+
+During this call we will present both GAAP and certain non-GAAP financial measures. A reconciliation of GAAP to non-GAAP measures is included in today's earnings press release.The earnings press release and an accompanying investor presentation are available on our website at investor.atmeta.com.
+
+And now,I'd like to turn the call over to Mark.
+
+# Mark Zuckerberg, CEO
+
+Thanks Ken,and thanks everyone for joining today.
+
+We had another strong quarter -- with 3.5 bilion people using at least one of our apps every day. Instagram hit a major milestone with 3 billion monthly actives.We're seeing good momentum across our other apps as well,including Threads which recently passed 15O million daily actives and remains on track to become the leader in its category.
+
+I'm very focused on establishing Meta as the leading frontier Allab --building personal superinteligence for everyone,and delivering the app experiences and computing devices that will improve the lives of billions of people around the world. Our approach of advancing open source Al means that when Meta innovates,everyone benefits.
+
+Meta Superintelligence Labs is off to a strong start.Ithink that we have already built the lab with the highest talent density in the industry.We're heads down developing our next generation of models and products,and I'm looking forward to sharing more on that front over the coming months.We're also building what we expect to be an industry-leading amount of compute.
+
+Now there's a range of timelines for when people think that we're going to get superintelligence. Some think that we're going to get there in a few years,others think it'llbe 5 years,7 years, or longer.Ithink it's the right strategy to aggressvely front-load building capacity so that way we're prepared for the most optimistic cases. That way,if superintelligence arives sooner, we'll be ideally positioned for a generational paradigm shift and many large opportunities.If it takes longer,then we'lluse the extra compute to accelerate our core business -- which continues to be able to profitably use much more compute than we've been able to throw at it. And we're seeing very high demand for compute both internally and externally. And in the worst case,we would just slow building new infrastructure for some period while we grow into what we've built.
+
+The upside is extremely high for both our existing apps and new products and businesses that are becoming possible to build.
+
+Across Facebook,Instagram,and Threads,our Al recommendation systems are delivering higher quality and more relevant content, which led to 5% more time spent on Facebook in Q3 and 10% on Threads.Video is a particular bright spot, with video time spent on Instagram up more than 30% since last year. As video continues to grow across our apps, Reels now has an annual run rate of over \$50 billion.
+
+Improvements in our recommendation systems willalso become even more leveraged as the volume of Al-created content grows.Social media has gone through two eras so far.First was when allcontent was from friends,family,and accounts that you followed directly.The second was when we added allthe creator content.Now,as Al makes it easier to create and remix content, we're going to add yet another huge corpus of content on top of those.Recommendation systems that understand allof this content more deeply and can show you the right content to help you achieve your goals are going to be increasingly valuable.
+
+Our ads business continues to perform very wel, largely due to improvements in our Al ranking systems as well.This quarter,we saw meaningfuladvances from unifying different models into simpler,more general models -- which drive both better performance and efficiency.And now the annual run-rate going through our completely end-to-end Al-powered ad tools has passed \$60 billion.
+
+One way that Ithink about our company overallis that there are three giant transformers that run Facebook,Instagram,and ads recommendations.We have a very strong pipeline of lots of ways to improve these models by incorporating new Al advances and capabilities.And at the same time, we're also working on combining these three major Al systems into a single unified Al system that willeffectively run our family of apps and business -- using increasing inteligence to improve the trillions of recommendations that it will make for people every day.
+
+I'm also very excited about the new products that we're going to be able to build.
+
+More than a billion monthly actives already use Meta Al,and we see usage increase as we improve our underlying models.I'm very excited to get a frontier modelinto Meta Al and I think that the opportunity there is very large.
+
+The same goes for our Business Al.Every day,people have more than 1bilion active threads with business accounts across our messaging platforms --ranging from product questions to customer Support.Our Business Als willenable tens of millions of businesses to scale these conversations and improve their sales at low cost.The better our models get,the better this is going to work for all businesses.
+
+This quarter we also launched Vibes, which is the next generation of our Al creation tools and content experiences.Retention is looking good so far and its usage keeps growing quickly week over week.I'm looking forward to ramping up the growth of Vibes over the coming months. More broadly,Ithink that Vibesis an example of a new content type enabled byAl,and Ithink that there are opportunities to build many more novel types of content ahead as well. As our new models become ready,I'm looking forward to starting to show everyone some of the new kinds of products we're working on.
+
+At Connect,we announced our 2O25 line of Al glasses,and the response so far has been great. The new Ray-Ban Meta glasses and Oakley Meta Vanguards are both selling well as people love the improved battery life,camera resolution, new Al capabilities,and the great design.And then there's our new Meta Ray-Ban Display glasses --our first glasses with a high-resolution display and the Meta Neural Band to interact with them.They sold out in almost every store within 48 hours, with demo slots fully booked through the end of next month.So we're going to have to investin increasing manufacturing and selling more of those.This is an area where we're clearly leading and have a huge opportunity ahead.
+
+Taking a step back,if we deliver even a fraction of the opportunity ahead for our existing apps and the new experiences that are possible,then I think that the next few years willbe the most exciting in our history.
+
+We've got a lot to do.But we're making real progress,delivering strong business results,building the talent density and infrastructure needed for the next era,and leading the way on Al devices that willdefine the next computing platform.l'm proud of how our teams are rising to the challenge,andI'm grateful for their dedication,hard work,and creativity. As always,thank you all for being part of this journey with us.
+
+And now, here's Susan.
+
+# Susan Li, CFO
+
+Thanks Mark and good afternoon everyone.
+
+Let's begin with our segment results. Allcomparisons are on a year-over-year basis unless otherwise noted.
+
+Our community across the Family of Apps continues to grow,and we estimate more than 3.5 billion people used at least one of our Family of Apps on a daily basis in September.
+
+Q3 Total Family of Apps revenue was \$50.8 billion,up 26% year over year.
+
+Q3 Family of Apps ad revenue was \$50.1billion,up 26% or 25% on a constant currency basis.
+
+In Q3,the total number of ad impressions served across our services increased 14%.Impression growth was healthy across all regions, driven by engagement and user growth, particularly on video surfaces.The average price per ad increased 10% year-over-year,benefiting from increased advertiser demand,largely driven by improved ad performance.This was partially offset by impression growth,particularly from lower-monetizing regions and surfaces.
+
+Family of Apps other revenue was \$690 milion,up 59%,driven by WhatsApp paid messaging revenue growth as well as Meta Verified subscriptions.
+
+Within our Reality Labs segment, Q3 revenue was \$470 million, up 74% year-over-year. The significant year-over-year growth in Q3 was partly due to retail partners stocking up on Quest headsets ahead of the holiday season.We did not have a similar benefit in the third quarter of last year since our Quest 3S headset launched in the fourth quarter of 2O24.Aside from this,strong Al glasses revenue also contributed to revenue growth in Q3.
+
+Moving now to our consolidated results.
+
+Q3 total revenue was \$51.2 billion, up 26% or 25% on a constant currency basis.
+
+Q3 total expenses were \$30.7 billion,up 32% compared to last year. Year-over-year expense growth accelerated 2O percentage points from Q2 due primarily to three factors:
+
+First,legal-related expense growth was higher than in Q2,due to charges we recorded in the third quarter, as wellas us lapping a period of accrual reversals in the third quarter a year ago.
+
+Second,employee compensation growth accelerated,driven by technical hires, particularly Al talent.
+
+Finally,growth in infrastructure costs accelerated,due to increased infrastructure operating costs associated with our expanded data center fleet,depreciation on our incremental capex spend,and third party cloud spend.
+
+We ended Q3 with over 78,40O employees,up 8% year-over-year,driven by hiring in priority areas of monetization,infrastructure,Reality Labs, Meta Superintelligence Labs,as well as regulation and compliance.
+
+Third quarter operating income was \$20.5 bilion,representing a 40% operating margin.
+
+Q3 interest and other income was \$1.1 billion, driven primarily by unrealized gains on our marketable equity securities.
+
+Our tax rate for the quarter was 87%, which was unfavorably impacted by a one-time, non-cash reduction in deferred tax assets that we no longer anticipate using under new US tax law. Our tax rate would have been 14% excluding this charge. Although the transition to the new US tax law resulted in an accounting charge in the third quarter, we continue to expect we willrecognize significant cash tax savings for the remainder of the current year and future years under the new law,and this quarter's charge reflects the total expected impact from the transition to the new US tax law.
+
+Net income was \$2.7 billon or \$1.O5 per share. Excluding the one-time tax charge,our net income and EPS would have been \$18.6 billion and \$7.25 per share,respectively.
+
+Capital expenditures,including principal payments on finance leases,were \$19.4 bilion,driven by investments in servers,data centers and network infrastructure.
+
+Free cash flow was \$10.6 billion.We repurchased \$3.2 billion of our Class A common stock and paid \$1.3 bilion in dividends to shareholders.We ended the quarter with \$44.4 billon in cash and marketable securities and \$28.8 billion in debt.
+
+Turning now to the business outlook. There are two primary factors that drive our revenue performance: our ability to deliver engaging experiences for our community,and our effectiveness at monetizing that engagement over time.
+
+On the first,daily actives continue to grow year-over-year across Facebook,Instagram and WhatsApp.
+
+We're continuing to see improvements to our products and recommendations drive incremental engagement,with year-over-year growth in global time spent accelerating on both Facebook and Instagram in Q3.In the US,overal time spent on Facebook and Instagram grew double digits yearover-year,driven by continued video strength as wellas healthy growth in non-video time on Facebook.
+
+The engagement gains continue to be driven by product work and ongoing improvements to our recommendation systems as we optimize our model architectures,implement advanced modeling techniques,and integrate more signals about people's interests.We also continue to focus on increasing the freshness of recommended content. On Facebook,our systems are now surfacing twice as many Reels published that day than at the start of the year.
+
+Looking to 2026,we expect to advance our recommendation systems across several dimensions.
+
+On Instagram,one focus is evolving our systems to surface content across a broader set of topics that cater to the diverse interests of each person.This follows a similar approach we've implemented on Facebook that has driven good results.
+
+We also expect to make significant progress on our longer-term ranking innovations in 2026.We are seeing promising results from our research efforts to create foundational ranking models and expect the new model innovations we're developing as part of this willenable us to significantly scale up the amount of data and compute we use to train our recommendation models in 2026, yielding more relevant recommendations.
+
+Another large focus next year is leveraging LLMs to improve content understanding. We expect this is going to enable our systems to more precisely label the keywords and topics within videos and posts, which willallow our systems to both develop deeper intuition about a person's interests and retrieve the content that matches them.
+
+Finally, we're making good progress with Meta Al and Threads.
+
+The number of people using Meta Al across our family of apps continues to grow and we're increasingly leveraging first party content into Meta Al results, with the majority of Meta Al's responses to Facebook Deep Dive queries in the US now showing related Reels.We're also seeing a lot of traction with media generation. People have created over 2O billion images using our products,and since launching Vibes within Meta Al in September, we've seen media generation in the app increase more than tenfold.
+
+On Threads,we're seeing strong growth in both daily actives and the depth of engagement as we continue to improve recommendations.The ranking optimizations we madein Q3 alone drove a 10% increase in time spent on Threads.We also continue to ship new features,including launching direct messaging in Q3 so anyone on Threads can now message one another within the app.
+
+Now to the second driver of our revenue performance: increasing monetization efficiency.
+
+The first part of this work is optimizing the level of ads within organic engagement.
+
+We continue to refine ad supply across each of our major surfaces within Facebook and Instagram to better deliver ads at the time and place they are most relevant to people.Longer-term, we have exciting ads supply opportunities on both Threads and WhatsApp Status.Ads are now running globally in Feed on Threads,and we're following our typical monetization playbook of optimizing the ads formats and performance before we ramp supply.Within WhatsApp Status, we are continuing to gradually introduce ads and expect to complete the roll out next year.
+
+The second part of increasing monetization efficiency is improving marketing performance.
+
+Advancing our ads systems remains a critical aspect of this work,and we are driving performance gains through ongoing improvements in our larger-scale ads ranking models.
+
+For example, we continue to broaden the adoption of Lattice,our unified model architecture.In Q3 we rolled out Latice to app ads, which drove a nearly 3% gain in conversions for that objective. Since introducing Lattice back in 2O23 along with other back-end improvements, we have now cut the number of ads ranking and recommendation models by approximately one hundred as we consolidated smaller and more specialized models into larger ones that use the Lattice architecture to generalize learnings across surfaces and objectives. We continue to observe performance improvements as we combine models,and expect to drive additional gains as we consolidate another two hundred models over the coming years into a smaller number of highly capable models.
+
+In addition to advancing our foundational ads models, we're innovating on our run-time models we use downstream of them for ads inference.For example,we began piloting a new run-time ads ranking modelin Q3 that leverages more compute and data than our prior models to select more relevant ads.In testing, we've seen this new model drive a more than 2% lift in conversions on Instagram.
+
+We also significantly improved performance of Andromeda in Q3 by combining models across retrieval and early stage ranking into a single model,driving a 14% increase in ads quality on Facebook surfaces.
+
+Within our ads products, we're seeing continued momentum with Advantage+.In Q3, we completed the roll out of our streamlined campaign creation flow for Advantage+ Lead campaigns, so now advertisers running sales,app or lead campaigns have end-to-end automation turned on from the beginning,allowing our systems to look across our platform to optimize performance by automatically choosing criteria like who to show the ads to and where to show them.The annual run-rate of revenue running through our end-to-end automated solutions has now reached \$6O billion following the implementation of the new streamlined creation flow as we continue to see more advertisers leverage the performance benefits of our solutions.
+
+Within our Advantage+ creative suite,the number of advertisers using at least one of our video generation features was up 2O% versus the prior quarter as adoption of image animation and video expansion continues to scale.We've also added more generative Alfeatures to make it easier for advertisers to optimize their ad creatives and drive increased performance.In Q3,we introduced Al-generated music so advertisers can have music generated for their ad that aligns with the tone and message of the creative.
+
+Finally,business messaging remains a significant opportunity for us.We're seeing strong growth across our portfolio of solutions,including with click-to-WhatsApp ads,which grew revenue 60% year-over-year in Q3.We're also making good progress on our Business Al efforts, where we've been focused on building a turnkey Al that helps businesses generate leads and drive sales. We've been opening access in recent months to more businesses within our initial test markets, the Philippines and Mexico,and have seen strong usage, with milions of conversations between people and Business Als taking place since July.This month, we expanded availability within WhatsApp and Messenger to alleligible businesses in Mexico and the Philippines,respectively. In the US,we're also starting to rollout the ability for merchants to add their Business Als to their website so we can support the full sale funnel from ad to purchase.
+
+Next,I would like to discuss our approach to capital allocation.
+
+Our primary focus is deploying capital to support the company's highest order priorities,including developing leading Al products, models,and business solutions. As we make significant investments in infrastructure to support this work, we are focused on preserving maximum longterm flexibility to ensure we can meet our future capacity needs while also being able to respond to how the market develops in the years ahead.
+
+We're doing so in several ways,including staging data center sites so we can spring up capacity quickly in future years as we need it,as well as establishing strategic partnerships that give us option value for future compute needs.The strong financial position and cash generation of our business enable us to make these investments while also accessing additional pools of cost efficient capital.
+
+Moving to our financial outlook.We expect fourth quarter 2O25 total revenue to be in the range of \$56-59 billion. Our guidance assumes foreign currency is an approximately 1% tailwind to yearover-year total revenue growth,based on current exchange rates.Our outlook reflects an expectation for continued strong ad revenue growth,partially offset by lower year-over-year Reality Labs revenue in Q4.The anticipated reduction in Reality Labs revenue is due to us lapping the introduction of Quest 3S in Q4 of last year as wellas retail partners procuring Quest headsets during Q3 of this year to prepare for the holiday season,which were recorded as revenue in the third quarter.
+
+Turning to the expense and capex outlooks.I'llfirst start with 2025 before providing some commentary on our planning for 2026.
+
+We expect fullyear 2025 total expenses to be in the range of \$116-118 billion,updated from our prior outlook of \$114-118 billion and reflecting a growth rate of 22-24% year-over-year.
+
+We currently expect 2O25 capital expenditures,including principal payments on finance leases, to be in the range of \$7O-72 billion,increased from our prior outlook of \$66-72 billion.
+
+On to tax. Absent any changes to our tax landscape,we expect our fourth quarter 2O25 tax rate to be 12-15%.
+
+Turning now to 2026.
+
+We are at an exciting point for our company,where we have continued runway to improve our core services today as wellas the opportunity to build new Al-powered experiences and services that will transform how people engage with our products in the future.We expect the set of investments we're making within our ads and organic engagement initiatives next year willenable us to continue to deliver strong revenue growth in 2O26, while our progress on Al models and products willposition us to capitalize on new revenue opportunities in the years to come.
+
+A central requirement to realizing these opportunities is infrastructure capacity. As we have begun to plan for next year,it's become clear that our compute needs have continued to expand meaningfuly,including versus our own expectations last quarter.We are stillworking through our capacity plans for next year,but we expect to invest aggressively to meet these needs both by building our own infrastructure and contracting with third party cloud providers.We anticipate this willprovide further upward pressure on our capex and expense plans next year.
+
+As a result, our current expectation is that capex dollar growth will be notably larger in 2026 than 2025.We also anticipate total expenses wil grow at a significantly faster percentage rate in 2026 than 2025,with growth driven primarily by infrastructure costs,including incremental cloud expenses and depreciation.Employee compensation costs willbe the second largest contributor to growth,as we recognize a fullyear of compensation for employees hired throughout 2025, particularly Al talent, and add technical talent in priority areas.
+
+Finally,we continue to monitor active legal and regulatory matters,including the increasing headwinds in the EU and the US that could significantly impact our business and financial results. For example,in the EU,we continue to engage constructively with the European Commission on our Less Personalized Ads offering. However, we cannot rule out the Commission imposing further changes to that offering that could have a significant negative impact on our European revenue,as early as this quarter.In the US,a number of youth-related trials are scheduled for 2026,and may ultimately result in a material loss.
+
+In closing, this was another good quarter for our business. We have an exciting set of opportunities to continue improving our core business while delivering innovative new experiences and services for the people and businesses using our products in the years to come.
+
+With that, Krista, let's open up the callfor questions.

@@ -1,0 +1,183 @@
+# Meta Platforms, Inc.(META) First Quarter 2O26 Results Conference Call - Prepared Remarks April 29th, 2026
+
+Kenneth Dorell, Director, Investor Relations
+
+Thank you. Good afternoon and welcome to Meta Platforms'first quarter 2026 earnings conference call Joining me today to discuss our results are Mark Zuckerberg, CEO and Susan Li, CFO.
+
+Our remarks today willinclude forward-looking statements, which are based on assumptions as of today. Actual results may differ materially as a result of various factors including those set forth in today's earnings press release,and in our annual report on Form 1O-K filed with the SEC.We undertake no obligation to update any forward-looking statement.
+
+During this call we will present both GAAP and certain non-GAAP financial measures.A reconciliation of GAAP to non-GAAP measures is included in today's earnings press release.The earnings press release and an accompanying investor presentation are available on our website at investor.atmeta.com.
+
+And now,I'd like to turn the call over to Mark.
+
+# Mark Zuckerberg, CEO
+
+Hey everyone,thanks for joining today.We had a strong quarter for our community,our business, and our progress towards Al.
+
+More than 3.5 billion people use at least one of our apps every day.We saw a smalldecrease in total family dailies due to internet outages in Iran and blocks in Russa,but otherwise trends across our apps are strong.Daily and monthly actives on Instagram and Facebook continue to grow,with video driving all-time high engagement across both apps.WhatsApp continues to see strong momentum too,including in the US.And Threads continues on its trajectory to be the leading app in its category.
+
+Our biggest milestone so far this year has been the release of our Muse family of models and our first model, Muse Spark,along with a significantly upgraded new version of Meta Al.This was the first release from Meta Superintelligence Labs,and it shows that our work is on track to build a leading lab.
+
+Over the past 1O months,we have built the strongest research team in the industry,and established the scientific and technical foundations to scale very advanced models.Spark is just one step on that scaling ladder and we are already training even more advanced models.But Spark has already made Meta Al a world-class assistant that leads in several areas related to our vision of personal superintelligence,including visual understanding,health,shopping,social content, local,creating games,and more.We're hearing very positive feedback on it so far.We've seen large increases in Meta Al use since releasing the updates,and the Meta Al app has consistently been near the top of the app stores as well.
+
+Now that we have a strong model we can develop more novel products as well.Since lfirst wrote about our vision for personal superintelligence last year, we've been focused on delivering
+
+personal and business agents to bilions of people around the world. Our goal is not just to deliver Meta Al as an assstant, but to deliver agents that can understand your goals and then work day and night to help you achieve them.
+
+My view of Alis very different from many others in the industry.Ihear a lot of people out there talk about how Al is going to replace people.Instead,Ithink that Al is going to amplify people's ability to do what you want -- whether that's to improve your health, your learning, your relationships, your ability to achieve your personal and career goals and more.My view is that human progress has always been driven by people pursuing their individual aspirations,and l believe that this willcontinue to be true in the future. People will be more important in the future, not less. Meta believes in empowering individuals.Those are the kinds of products we're going to build,and Ibelieve they're going to be some of the most important and valuable products of all time.
+
+We are building a personal agent focused on helping people achieve the diverse goals in their lives. We are also building a business agent focused on helping entrepreneurs and businesses across the world use our tools and others to grow their efforts,reach new customers,and serve existing customers better.These agents will work togetherto form an ecosystem,and whether you use our personal or business agents to achieve your goals,Ibelieve that the future willsee a massive increase in entrepreneurship from people creating new things that they've always wanted to exist but previously didn't have the tools to bring into the world.We're already testing an early version of business Als,and weekly conversations have grown 1Ox since the start of this year.
+
+We're also working on using Spark and our upcoming models to improve our recommendation systems and core business in Facebook,Instagram,and ads. Right now,our apps primarily help people accomplish three important goals: connecting with people,learning about the world,and entertainment. But we've always wanted our apps to understand more of people's goals so we can help improve their lives in all the ways that they want.These new Al models willet us understand this in more detail.So instead of just looking at statistical patterns of what types of people engage with what content,for the first time in Meta's history we're going to be able to develop a firstprinciples understanding of what you care about and what each piece of content in our system is about so that way we can show you more useful things for what you're trying to accomplish. Well also be able to create personalized content specifically for people to help you achieve your goals as well.
+
+Since our recommendation systems are operating at such large scale, we'll phase in this new research and technology over time.But the trend over the last few years seems clear that we are seeing an increasing return on the amount that we can improve engagement for people and value for advertisers.This encourages us to continue investing heavilyin what we expect willprovide increasing value over the coming years as well.
+
+On that note, we are increasing our infrastructure capex forecast for this year.Most of that is due to higher component costs,particularly memory pricing.But every sign that we're seeing in our own work and across the industry gives us confidence in this investment.That said, we are very focused on increasing the eficiency of our investments.And as part of that, we're rolling out more than 1GW of our own custom silicon that we're developing with Broadcom as wellas significant amounts of AMD chips to compliment the new Nvidia systems that we're roling out as well.One of the primary goals of our Meta Compute initiative is to lead the industry in efficiency of building compute,and we expect that will be a strategic advantage over time.
+
+Talking about building physical goods at scale,our Al glasses continue to perform well with the number of people using them daily tripling year-over-year.This continues to be one of the fastestgrowing categories of consumer electronics ever.We released Ray-Ban Meta Optics this quarter, designed for all-day wear rather than primarily as sunglasses.And building on our release of Oakley last year, we have some exciting new partnerships and styles that I think are going to have the potential to reach even more people coming later this year.
+
+Al of our glasses are designed to easily update to use our newest Al models and features.I'm also really excited to see the glasses evolve from being able to answer questions to being able to be a personal agent that's with you all day long, helping you remember things and achieve your goals.
+
+Beyond glasses,lam excited for more of our metaverse efforts to be powered by the Al models we're training as well. We remain the biggest investor in the VR space across the industry,but we are focused on making our VR business sustainable as we invest more in other areas like Al and glasses.
+
+Before wrapping,Iwant to talk for a moment about how Alis transforming our work.We're seeing more and more examples where one or two people are building something in a week that would have previously taken dozens of people months.Iwant to make sure that Meta is the best place in the world for these types of people to come and make an impact. We're building the next evolution of our company around these people.There's a lot that we can do to enable this: building the best infrastructure for creating and delivering products at scale,streamlining our teams so they aren't bigger than they need to be,recognizing and rewarding the people who are having outsized impacts,and setting ourselves up to try many more ideas and take on many new projects in the future.Of course we'll continue pushing to increase our eficiency as well, but overall I think the future is about building many more higher quality things than we've ever built before.
+
+Alright,that is what Iwanted to cover today.We are living through a historic technological transformation. We are among the few companies positioned to shape the future,and we are on track to do that.I'm looking forward to delivering personal superinteligence to billons of people. And as always,I'm grateful for the hard work of our teams,and to allof you for being on this journey with us.
+
+# Susan Li, CFO
+
+Thanks Mark and good afternoon everyone.
+
+Let's begin with our segment results. Allcomparisons are on a year-over-year basis unless otherwise noted.
+
+We estimate 3.56 bilion people used at least one of our Family of Apps on a daily basis in March, which declined slightly from December due to internet disruptions in Iran and a restriction on access to WhatsApp in Russia. Absent these impacts,growth in Family Daily Active People would have been positive quarter-over-quarter.
+
+Q1Total Family of Apps revenue was \$55.9 billion, up 33% year-over-year.
+
+Q1 Family of Apps ad revenue was \$55.0 billion,up 33% or 29% on a constant currency basis.
+
+In Q1, the total number of ad impressions served across our services increased 19%.Impression growth was healthy across al regions,driven primarily by growth in engagement and users,as well as ad load optimizations.The global average price per ad increased 12% year-over-year in Q1, with broad-based growth as we benefited from ad performance improvements,better macro conditions versus Q1of last year,and currency tailwinds in international regions.This was partially offset by strong impression growth,including from lower monetizing regions.
+
+Family of Apps other revenue was \$885 milion,up 74%,driven primarily by WhatsApp paid messaging and subscriptions revenue.
+
+Within our Reality Labs segment, Q1 revenue was \$402 million,down 2% year-over-year due to lower Quest headset sales,which were partially offset by continued strong growth in Al glasses revenue.
+
+Moving now to our consolidated results.
+
+Q1 total revenue was \$56.3 bilion,up 33% or 29% on a constant currency basis.
+
+Q1 total expenses were \$33.4 bilion, up 35% compared to last year. Year-over-year growth was driven mainly by infrastructure costs and employee compensation.
+
+The growth in infrastructure costs was due to higher depreciation, data center operating costs, and third party cloud spend.
+
+The growth in employee compensation was driven by technical hires we've added over the past year, particularly Al talent.
+
+We ended Q1 with over 77,900 employees,down 1% from Q4 as the impact of headcount optimization efforts in certain functions was partially offset by hiring in priority areas of monetization and infrastructure.
+
+First quarter operating income was \$22.9 bilion,representing a 41% operating margin.
+
+Q1interest and other income was -\$1.1 bilion,driven by unrealized losses on our equity investments.
+
+Our tax rate for the quarter was -23%, which was favorably impacted by a tax benefit of \$8.03 billion. This benefit partially relieves the \$15.93 billion non-cash tax charge we recorded in the third quarter of 2025, which reflects updated guidance from the US Treasury issued in February 2026 regarding the tax treatment of previously capitalized R&D expenditures in the United States. Absent the tax benefit,our Q1 tax rate would have been 14%.
+
+Net income was \$26.8 billion or \$10.44 per share.Absent the tax benefit,our net income and EPS would have been \$18.7 billion and \$7.31, respectively.
+
+Capital expenditures,including principal payments on finance leases, were \$19.8 bilion,driven by investments in servers,data centers,and network infrastructure.
+
+Free cash flow was \$12.4 billion.We ended the quarter with \$81.2 billion in cash and marketable securities and \$58.7 billion in debt.
+
+Turning now to the business performance. There are two primary factors that drive our revenue performance: our ability to deliver engaging experiences for our community,and our effectiveness at monetizing that engagement over time.
+
+On the first, we're continuing to see significant gains from our content recommendation initiatives.
+
+On Instagram,the ranking improvements that we made in Q1 drove a 10% lift in Reels time spent.
+
+On Facebook, total video time increased more than 8% globallyin Q1,the largest quarter-overquarter gain in four years.Within the US & Canada,ranking improvements we made drove a 9% increase in video watch time on Facebook in Q1.
+
+These gains are benefiting from advances we're making across the full stack.
+
+Starting with data, we doubled the length of user interaction sequences we use for training on Instagram in Q1and increased the richness of how each user interaction is described,enabling our systems to develop a deeper understanding of user interests.
+
+Within our models,we've significantly increased the speed with which our ranking models index new posts,which is enabling us to recommend them sooner after they are published.We're also applying more advanced content understanding techniques,which is enabling us to quickly identify posts that may be interesting to someone,even if they haven't engaged with a lot of similarcontent.These and other improvements have enabled us to increase the diversity and recency of recommended content, with same-day posts now representing more than 30% of recommended Reels on both Instagram and Facebook,more than double the levels one year ago.
+
+We're also using Al to unlock more inventory by auto-translating and dubbing videos into a viewer's local language,enabling us to recommend a more diverse set of content. Over half a billion users on each of Facebook and Instagram are now watching Al-translated videos weekly.
+
+Looking forward, we're making several investments we expect will deliver more valuable recommendations.
+
+This year,we will continue scaling up our models in several dimensions,including their size and complexity,while incorporating LLMs to deepen content understanding across our platform.This will enable us to better match people to a wider variety of content aligned to their interests.
+
+At the same time,we are executing on our longer-term efforts to develop the next generation of our recommendation systems. This includes building foundation models that power organic content and ads recommendations,as wellas developing LLM-based recommender systems. Our focus this year is validating the model architectures and techniques in these domains before we scale them out in future years.
+
+Aside from our recommendations work, we are focused on deploying the models from Meta Superintelligence Labs to enable a new set of product experiences.
+
+We're seeing encouraging results within Meta Al since we began powering responses with the first model from MSL, Muse Spark.In tests we ran leading up to the launch, we saw meaningful
+
+engagement gains that accelerated week-over-week with each new iteration of the model. We're seeing similar gains within Meta Al following the broad rollout of our new model, with double-digit percent increases in Meta Al sessions per user. Muse Spark is now powering Meta Alin direct chat threads across our Family of Apps, as wellas the standalone Meta Al app and website, giving billions of people globally access to our latest model.
+
+Overall, we're very encouraged by the momentum within our research and product roadmap and look forward to sharing more detail on what we're building over the course of this year.
+
+Turning to the second driver of our revenue performance: increasing monetization efficiency.
+
+The first part of this work is optimizing the level of ads within organic engagement.
+
+Here,we continue to enhance our systems to show ads at the optimal time and location.In Q1,we also expanded availability of ads on our newer surfaces,including bringing ads on Threads to people in more markets. On WhatsApp,we are making good progress with the rollout of ads in Status, with hundreds of millons of people now viewing them daily.
+
+Moving to the second part of increasing monetization eficiency: improving performance for the businesses who use our services.To do so, we're deploying Al more deeply across each layer of our systems and tools.
+
+Within our ads systems, we're delivering performance gains as we deploy more complex and predictive models.
+
+In Q1,enhancements we made to Latice's modeling and learning techniques,along with advances in our GEM modelarchitecture,drove a more than 6% increase in conversion rate for landing page view ads.
+
+In addition,we've been investing in more performant inference models for when we're serving ads. In the second half of last year,we began rolling out our new Adaptive Ranking Model, which is an LLM-scale ads recommender model that we use for inference.This model improves our inference ROlby routing requests to more compute intensive inference models when it determines there is a higher probability of conversion.In Q1,we expanded coverage of our Adaptive Ranking model to support offsite conversions, which drove a 1.6% increase in conversion rates across the major surfaces on Facebook and Instagram.
+
+We're also leveraging Al to make it easier for businesses to manage their campaigns,develop ad creative,and engage with customers.
+
+The Meta Al business assistant has now been fully rolled out to all eligible advertisers on supported Meta buying surfaces, providing personalized recommendations to advertisers, resolving account issues,and surfacing campaign insights to help optimize results. Performance has been strong since we began testing the assistant in Q4, with common account issues being resolved at a 2O% higher rate.
+
+This week, we're also introducing Meta ads Al connectors in open beta, providing advertisers the ability to connect their Meta ad account directly to an Al agent. We've always supported advertisers both on our platform and through tools like the Marketing APl一 now we're extending that to Al so businesses and agencies can analyze and optimize campaigns with the tools they're already using.
+
+Usage of our ad creative tools is also scaling, with more than 8 milion advertisers using at least one of our gen Al ad creative tools and particularly strong adoption among smalland mediumsized advertisers.These tools are benefiting performance as well, with advertisers using our video generation feature seeing more than 3% higher conversion rates in tests.
+
+We're also seeing good traction in using Alto facilitate customer engagement.In Q1, we expanded Business Als on WhatsApp to SMBs across Latin America and Indonesia, as well as on Messenger in Asia-Pacific.We now have more than 10 million conversations each week being facilitated through Business Als,up from 1 million at the start of the year.We'llfurther expand access to more countries this quarter while adding more capabilities to the Als.
+
+We also continue to invest in the Value Optimization suite, which helps advertisers maximize their Return on Ad Spend by prioritizing the highest-value conversions rather than optimizing solely for the most conversions at the lowest cost. Adoption by businesses has been strong following performance improvements we've made over the past year,with the annual revenue run-rate of our value optimization suite now over \$2OB,more than doubling year-over-year.
+
+Last,l want to touch on our commerce efforts.
+
+People discover products on our platforms through ads and organic posts,with brands increasingly turning to creators to promote their products.This is contributing to rapid growthin our partnership ads product, with its revenue run-rate more than doubling year-over-year in Q1to \$10 billion.
+
+To support the product discovery and purchasing happening through creators, we're expanding our solutions beyond ads.Last month,we rolled out our afiliate partnerships offering on Facebook to more test partners,so creators can tag products from participating retailers on their posts and earn a commission when someone makes a purchase. We have also started testing similar experiences on Instagram.
+
+We see a real opportunity to help people more easily discover and buy products within our services,particularly as we incorporate Al deeply across our platforms.
+
+Next,I would like to discuss our approach to capital allocation.
+
+Compute is becoming increasingly important as it determines the quality of the services we can provide,including powering more capable models and delivering innovative new products.It is also becoming more critical to how we work at Meta,as we are entering a world where employees are managing agents to help them generate new ideas,run experiments,execute tasks,and build products.
+
+We are investing aggressively to meet our infrastructure needs and ensure we maximize our strategic flexibility over the coming years.This includes substantially expanding our own data center footprint and striking deals throughout the supply chain to secure necessary components for future capacity.We are also signing cloud deals that willcome online over the course of this year and 2O27,allowing us to scale more quickly. These multi-year cloud deals and our
+
+infrastructure purchase agreements drove a \$1O7 bilion step up in our contractual commitments this quarter.
+
+Our investments willsupport our training needs for future models,and most importantly, provide us the inference capacity necessary to deliver personal and business agents to billions of people around the world,along with several other Al product experiences we're developing.
+
+As we grow our infrastructure spend, we remain committed to operating efficiently,and we recently shared internally that we plan to reduce the size of our employee base in May.We believe a leaner operating model will allow us to move more quickly while also helping to offset the substantialinvestments we're making.
+
+Moving to our financial outlook.
+
+We expect second quarter 2026 total revenue to be in the range of \$58-61 bilion. Our guidance assumes foreign currency is an approximately 2% tailwind to year-over-year total revenue growth, based on current exchange rates.
+
+Turning to the expense and capex outlooks.
+
+We expect fullyear 2026 total expenses to be in the range of \$162-169 billion,unchanged from our prior outlook.
+
+We continue to expect to deliver operating income this year that is above 2O25 operating income
+
+We anticipate 2O26 capital expenditures, including principal payments on finance leases,to be in the range of \$125-145 billion,increased from our prior range of \$115-135 billion.This reflects our expectations for higher component pricing this year and,to a lesser extent,additional data center costs to support future year capacity.
+
+Absent any changes to our tax landscape,we expect our tax rate for the remaining quarters of 2026 to be between 13-16%.
+
+Lastly,we continue to monitor active legal and regulatory matters,including headwinds in the EU and the US that could significantly impact our business and financial results. For example,we continue to see scrutiny on youth-related issues and have additional trials scheduled for this year in the US,which may ultimately result in a material loss.
+
+In closing,Q1 was a solid start to the year,with strong execution across our core ads and engagement initiatives.We're also making exciting progress on our Al research and product efforts and expect to build on that momentum over the course of this year.
+
+With that, Krista, let's open up the callfor questions.

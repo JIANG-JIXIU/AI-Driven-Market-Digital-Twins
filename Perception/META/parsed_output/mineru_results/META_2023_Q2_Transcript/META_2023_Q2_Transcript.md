@@ -1,0 +1,351 @@
+# Meta Platforms, Inc. (META) Second Quarter 2023 Results Conference Call July 26th, 2023
+
+Ken Dorell, Director, Investor Relations
+
+Thank you. Good afternoon and welcome to Meta Platforms second quarter 2023 earnings conference call. Joining me today to discuss our results are Mark Zuckerberg, CEO and Susan Li, CFO.
+
+Before we get started,Iwould like to take this opportunity to remind you that our remarks today wil include forward-looking statements.Actual results may difer materially from those contemplated by these forward-looking statements.
+
+Factors that could cause these results to differ materially are set forth in today's press release,and in our quarterly report on form 10-Qfiled with the SEC.Any forward-looking statements that we make on this call are based on assumptions as of today and we undertake no obligation to update these statements as a result of new information or future events.
+
+During this callwe will present both GAAP and certain non-GAAP financial measures. A reconciliation of GAAP to non-GAAP measures is included in today's earnings press release.The press release and an accompanying investor presentation are available on our website at investor.fb.com.
+
+And now,I'd like to turn the call over to Mark.
+
+# Mark Zuckerberg, CEO
+
+Thanks Ken,and thanks everyone for joining.
+
+This was a good quarter for our business. We're seeing strong engagement trends across our apps. There are now more than 3.8 bilion people who use at least one of our apps every month.Facebook now has more than 3 billion monthly actives -- with daily actives continuing to grow around the world, including in the US and Canada.
+
+In addition to our core products performing wel,Ithink we have the most exciting roadmap ahead that I've seen in a while.We've got continued progress on Threads, Reels, Llama 2,and some groundbreaking Al products in the pipeline as wellas the Quest 3 launch coming up this fall. We're heads down executing on allof this right now,and it's really good to see the decisions and investments that we've made start to play out.
+
+On Threads,briefly,I'm quite optimistic about our trajectory.We saw unprecedented growth out of the gate and more importantly we're seeing more people coming back daily than I'd expected. And now, we're focused on retention and improving the basics.And then after that, we'llfocus on growing the community to the scale we think is possible. Only after that willwe work on monetization.We've run this playbook many times before-with Facebook, Instagram, WhatsApp,Stories, Reels,and more --and this is as good of a start as we could have hoped for,so I'm really happy with the path we're on here.
+
+One note that Iwant to mention about the Threads launch related to our Year of Eficiency is that the product was built by a relatively small team on a tight timeline.We've already seen a number of
+
+examples of how our leaner organization and some of the cultural changes that we've made can build higher quality products faster,and this is probably the biggest example so far.The Yearof Eficiency was always about two different goals: becoming an even stronger technology company,and improving our financial results so we can invest aggressively in our ambitious long term roadmap. Now that we've gotten through the major layoffs,the rest of 2023 willbe about creating stability for employees, removing barriers that slow us down,introducing new Al-powered tools to speed us up,and so on.
+
+Over the next few months, we're going to start planning for 2024,and I'm going to be focused on continuing to run the company as lean as possible for these cultural reasons even though our financial results have improved.lexpect that we're still going to hire in key areas,but newly budgeted headcount growth is going to be relatively low.That said,as part of this year's layofs, many teams chose to let people go in order to hire different people with different skils they need, so much of that hiring is going to spill into 2024.
+
+The other major budget point that we're working through is what the right level of Alcapex is to support our roadmap. Since we don't know how quickly our new Al products willgrow, we may not have a clear handle on this until later in the year.
+
+Moving onto our product roadmap,l've said on a number of these calls that the two technological waves that we're riding are Al in the near term and the metaverse over the longer term.
+
+Investments that we've made over the years in Al, including the billions of dollars we've spent on Al infrastructure,are clearly paying off across our ranking and recommendation systems and improving engagement and monetization.
+
+Al-recommended content from accounts you don't follow is now the fastest growing category of content on Facebook's feed.Since introducing these recommendations,they have driven a 7% increase in overall time spent on the platform.This improves the experience because you can now discover things that you might not have otherwise followed or come across.Reels is a key part of this Discovery Engine,and Reels plays exceed 2O0 billion per day across Facebook and Instagram. We're seeing good progress on Reels monetization as wel, with the annual revenue run-rate across our apps now exceeding \$10 billion, up from \$3 billion last fall.
+
+Beyond Reels,Al is driving results across our monetization tools through our automated ads products, which we call Meta Advantage. Almost all our advertisers are using at least one of our Al-driven products.We've also deployed Meta Latice,a new model architecture that learns to predict an ad's performance across a variety of datasets and optimization goals.And we introduced Al Sandbox, a testing playground for generative Al-powered tools like automatic text variation, background generation,and image outcropping.
+
+Business messaging is another key piece of our monetization strategy,and we recently announced that the 200 millon users of our WhatsApp Business app will now be able to create Click-to-WhatsApp ads for Facebook and Instagram without needing a Facebook account.This is a pretty big unlock, particularly in countries where WhatsApp is often the first step to bringing a business online.Paid messaging is a bit earlier but is also showing good adoption.The number of businesses using our paid messaging products has doubled year over year.
+
+While we're on messaging,I'llmention that we started rollng out Channels on WhatsApp last month. It's a simple,reliable and private way to receive important updates from people and organizations, and I'm quite excited for more people to tryit as we bring the product to more countries through the rest of this year.
+
+Beyond the recommendations and ranking systems across our products, we're also building leading foundation models to support a new generation of Al products.
+
+We've partnered with Microsoft to open source Llama 2,the latest version of our large language model, and make it available for both research and commercial use.We have a long history of open-sourcing our infrastructure and Al work --from PyTorch, which is the leading machine learning framework, to models like Segment Anything,ImageBind,and Dino,to basic infrastructure as part of the Open Compute Project.We've found that open sourcing our work allows the industry,including us,to benefit from innovations that come from everywhere.And these are often improvements in safety and security, since open source software is more scrutinized and more people can find and identify fixes for issues. The improvements also often come in the form of efficiency gains,which should hopefully allow us and others to run these models with less infrastructure investment going forward.l'm really looking forward to seeing the improvements that the community makes to Llama 2.
+
+We're also building a number of new products ourselves using Llama that will work across our services I'm going to share more details later this year,but you can imagine lots of ways Al could help people connect and expressthemselves in our apps: creative tools that make it easier and more fun to share content,agents that act as assistants,coaches,or that can help you interact with businesses and creators,and more.These new products willimprove everything that we do across both mobile apps and the metaverse -- helping people create worlds and the avatars and objects that inhabit them as well.
+
+As our investments in Al continue, we remain fully committed to the metaverse vision as well.We've been working on both of these two major priorities for many years in parallel now,and in many ways the two areas are overlapping and complementary.
+
+The next big thing on the Reality Labs side is the launch of our Quest 3 mixed reality headset at Connect. It's our most powerful headset yet -- with better displays and resolution,and next gen Qualcomm chipset with 2x the graphics performance.It willalso have the best immersive content library out there, and it's 40% thinner than Quest 2.Its mixed reality seamlessy blends your physical world and the virtual one by inteligently understanding the physical space around you.We pioneered mixed reality with our Quest Pro headset,and Quest 3 takes that to the next level. Others in the industry are of course working on bringing mixed reality to the market too,but Quest 3 is going to be the first mainstream,accessible device that we expect many millions of people will get to experience this technology with.
+
+The metaverse content and software vision continues coming together as well.We recently announced that Roblox is coming to Quest with an open beta on App Lab.For Horizon,the team is focused on retention right now and we're making good progress on that. We've made big improvements on avatars as well,and that's going to be a bridge between our mobile apps and our VR and mixed reality experiences.We'llhave a lot more to share on both our metaverse and Al work at our Connect conference, which we'llbe hosting in Hacker Square at our headquarters on September 27th.It's going to be a good one, so tune in!
+
+To wrap up,I just want to say I'm really proud of our teams for everything we've accomplished so far this year.It's been atough year in a lot of ways,but it'salso been an impactful one.l'm quite optimistic about the road ahead and grateful to you allfor being on this journey with us.Now,I'm going to hand it over to Susan.
+
+# Susan Li, CFO
+
+Thanks Mark and good afternoon everyone.
+
+Let's begin with our consolidated results.Allcomparisons are on a year-over-year basis unless otherwise noted.
+
+Q2 total revenue was \$32.0 billion, up 11% or 12% on a constant currency basis.
+
+Q2 total expenses were \$22.6 bilion, up 10% compared to last year.
+
+In terms of the specific line items:
+
+Cost of revenue increased 15%, driven primarily by infrastructure-related costs. R&D increased 8%,driven mainly by headcount-related costs from our Reality Labs and Family of Apps segments as well as restructuring costs. Marketing & Sales decreased 12%,due mostly to lower marketing spend and payrol-related costs. 1 G&A increased 39%, due primarily to an increase in legal accruals which was partially offset by lower payroll-related costs.
+
+We ended the second quarter with over 71,400 employees,down 7% from the first quarter.Our second quarter headcount stillincluded roughly half of the approximately 10,0o0 employees impacted by the 2023 layoffs.We expect that our third quarter headcount willno longer include the vast majority of impacted employees.
+
+Second quarter operating income was \$9.4 bilion, representing a 29% operating margin.
+
+Our tax rate for the quarter was 16%.This is lower than our previous full-year outlook as our higher share price provided a higher tax deduction and lowered our taxes.
+
+Net income was \$7.8 billion or \$2.98 per share.
+
+Capital expenditures, including principal payments on finance leases, were \$6.4 billion, driven by investments in data centers,servers and network infrastructure.
+
+Free cash flow was \$11.0 bilion,significantly benefitting from a deferral of income taxes that we expect will be paid in the fourth quarter.We repurchased \$793 million of our Class A common stock in the second quarter and ended the quarter with \$53.4 billion in cash and marketable securities.
+
+Moving now to our segment results.
+
+I'll begin with our Family of Apps segment.
+
+Our community across the Family of Apps continues to grow.We estimate that approximately 3.07 billion people used at least one of our Family of Apps on a daily basis in June,and that approximately 3.88 billion people used at least one on a monthly basis.
+
+Facebook continues to grow globally and engagement remains strong.For the first time, we crossed 3 billion monthly active users, with Facebook MAU ending at 3.03 billion in June, up 3% or 96 million compared to last year. Facebook daily active users were 2.06 billion, up 5% or 96 million. DAUs represented approximately 68% of MAUs.
+
+Q2 Total Family of Apps revenue was \$31.7 bilion, up 12% year over year.
+
+Q2 Family of Apps ad revenue was \$31.5 billion, up 12% or 13% on a constant currency basis.
+
+Within ad revenue,the online commerce vertical was the largest contributor to year-over-year growth, followed by entertainment & media and CPG.Online commerce benefited from strong spend among advertisers in China reaching customers in other markets.
+
+On a user geography basis,ad revenue growth was strongest in Rest of World at 16%,followed by Europe, North America and Asia-Pacific at 14%,11% and 10%, respectively. Foreign currency was a headwind to advertising revenue growth in all international regions.
+
+In Q2,the total number of ad impressions served across our services increased 34% and the average price per ad decreased 16%.Impression growth was primarily driven by Asia-Pacific and Rest of World. The year-over-year decline in pricing was driven by strong impression growth,especially from lower monetizing surfaces and regions. While overallpricing remains under pressure from these factors, we believe our ongoing improvements to ad targeting and measurement are continuing to drive improved results for advertisers.
+
+Family of Apps other revenue was \$225 million in Q2,up 3%, as strong business messaging revenue growth from our WhatsApp Business Platform was partially offset by a decline in other line items.
+
+We continue to direct the majority of our investments toward the development and operation of our Family of Apps. In Q2, Family of Apps expenses were \$18.6 bilion,representing approximately 82% of our overal expenses. FoA expenses were up 8% due primarily to legal-related expenses and restructuring charges,partially offset by a decrease in non headcount-related operating expenses, including marketing.
+
+Family of Apps operating income was \$13.1 billion, representing a 41% operating margin.
+
+Within our Reality Labs segment, Q2 revenue was \$276 milion,down 39% due to lower Quest 2 sales. Reality Labs expenses were \$4.0 billion,up 23% due to lapping a reduction in Reality Labs loss reserves in Q2 of last year as well as growth in employee-related costs.
+
+Reality Labs operating loss was \$3.7 billion.
+
+Turning now to the business outlook. There are two primary factors that drive our revenue performance: Our ability to deliver engaging experiences for our community,and our effectiveness at monetizing that engagement over time.
+
+On the first - overallengagement within Facebook and Instagram remains strong. Reels continues to grow and drive incremental engagement. On Facebook Feed in particular,recommended content from accounts you don't follow has increased significantly over the past year while also becoming more incremental to engagement - demonstrating that people are getting added value from discovering content from unconnected accounts. Looking forward, we are optimistic about our ability to increase that value even further by leveraging advanced Al techniques to improve recommendations.
+
+In addition to improving the value people get within our family of apps today, we're also investing in entirely new experiences for the future.We're standing up infrastructure to support new Al-powered products across our services, which wil give people more tools to express themselves and connect. And we've been pleased with the initial reception of our new standalone app,Threads,since its launch earlier this month. Our focus now is on further developing this into a product that willbe valuable for a large set of people over time.
+
+Moving to the other driver of revenue - improving monetization. Here, we're focused on improving monetization efficiency of products that monetize at lower rates today,like Reels and our messaging services; and, more broadly, driving measurable performance and returns for our advertisers.
+
+On Reels, we are making good progress on monetization, with more than 3/4 of our advertisers now using Reels ads.We remain focused on further reducing the Reels revenue headwind and narrowing the monetization eficiency gap with our more mature surfaces. However, we continue to expect time on Reels will monetize at a lower rate than Stories and Feed for the foreseeable future since people scroll more slowly through video content.
+
+Within messaging, billions of people and millions of businesses use our messaging services every day to connect.We see a significant opportunity to build tools and functionality for businesses to help facilitate those interactions and are seeing early but promising progress with WhatsApp's paid messaging solution today.
+
+In terms of our work to drive measurable performance for advertisers -it's concentrated in two primary areas: Al and onsite conversions.
+
+We're leveraging Al to move our systems towards using fewer, larger models that enable us to leverage learnings across product surfaces and deploy improvements more quickly, broadly,and efficiently. We're also leveraging Al to power advanced ads products,like Advantage+ shopping, which continues to gain adoption. We're seeing this work translate into results for advertisers as conversion growth remained strong in Q2. In terms of driving onsite conversions, we continue to see strong results with Click-to-messaging ads and are well positioned given our suite of messaging applications. Daily Click-to-WhatsApp ads revenue continues to grow very quickly at over 8O% year-over-year. We also recently started testing the ability to buy Click-to-WhatsApp ads directly from the WhatsApp Business App, which now has more than 200 million monthly users.Looking ahead, we're focused on enabling businesses to optimize for conversions further down the funnel in our messaging applications. We are also investing in scaling other onsite objectives like lead generation and Shops ads.
+
+Before turning toour revenue outlook,I'd also like to talk about our investment philosophy.We expect to bring the discipline and habits that we built during this year of efficiency with us as we plan for the future.At the same time, we remain focused on investing in the significant opportunities ahead.Part of supporting these initiatives willcome from prioritizing them against other areas of work and shifting resources.However, insome cases they willrequire incremental investment.This is particularly true in the areas we see the most significant opportunity, which include Al and the metaverse.
+
+As I mentioned last quarter, we also remain focused on modestly evolving our capital structure over time.We were pleased to execute our second bond offering in May and expect a measured pace of future debt raises as we work toward improving our overallcost of capital while maintaining a positive or neutral net cash balance.
+
+In addition, we continue to monitor the active regulatory landscape.With respect to EU-U.S. data transfers, we saw a positive development with the European Commision's adoption of a final adequacy decision, which alows us to continue to provide our services in Europe.This is good news, though broadly speaking, we continue to see increasing legal and regulatory headwinds in the EU and the US that could significantly impact our business and our financial results.
+
+Turning now to the revenue outlook.
+
+We expect third quarter 2023 total revenue to be in the range of \$32-34.5 bilion.Our guidance assumes a foreign currency tailwind of approximately 3% to year-over-year total revenue growth in the third quarter, based on current exchange rates.
+
+Turning now to the expense outlook.
+
+We anticipate that our full-year 2023 total expenses will be in the range of \$88-91 billion,increased from our prior range of \$86-90 billion due to legal-related expenses recorded in Q2.This outlook includes approximately \$4 billion of restructuring costs related to facilities consolidation charges and severance and other personnel costs.We expect Reality Labs operating losses to increase year-over-year in 2023.
+
+While we are not providing a quantitative outlook beyond 2023 at this point, we expect a few factors to be drivers of total expense growth in 2024 as we continue to invest in our most compelling opportunities,including Al and the metaverse.
+
+First, we expect higher infrastructure-related costs next year. Given our increased capital investments in recent years, we expect depreciation expenses in 2024 to increase by a larger amount than in 2023.We also expect to incur higher operating costs from running a larger infrastructure footprint. . Second, we anticipate growth in payrollexpenses as we evolve our workforce composition toward higher-cost technical roles. Finally, for Reality Labs, we expect operating losses to increase meaningfully year-over-year dui to our ongoing product development efforts in AR/VR and our investments to further scale our ecosystem.
+
+Turning now to the capex outlook.
+
+We expect capital expenditures to be in the range of \$27-30 bilion,lowered from our prior estimate of \$30-33 bilion.The reduced forecast is due to both cost savings,particularly on non-Al servers,as well as shifts in capex into 2024 from delays in projects and equipment deliveries rather than a reduction in overall investment plans.
+
+Looking ahead,while we continue to refine our plans as we progress throughout the year, we currently expect total capital expenditures to grow in 2O24,driven by our investments across both data centers and servers, particularly in support of our Al work.
+
+On to tax. Absent any changes to U.S.tax law, we expect the tax rate for the rest of the year to be similar to Q2 2023.
+
+In closing, Q2 was a good quarter for our business. We're executing well across our core priorities and are continuing to make progress on delivering exciting new experiences for our community.
+
+With that, Dave, let's open up the callfor questions.
+
+Operator:
+
+Your first question comes from the line of Brian Nowak with Morgan Stanley.
+
+Brian Nowak:
+
+Maybe a two-parter for Mark.Mark, you've spoken a few times over the last few months on Al agents and sort of building different types of assistants through Llama. I guess the two-part question is, can you just sort of talk to us a little bit about some of the use cases or consumer advertiser offerings you're most excited about enabling for some of these Al agents? And then the second one, just to sort of level set on timing a bit, can you just help us understand some of the larger technological barriers in your mind the teams will need to overcome to really scale these types of agent products across the ecosystem? Thanks.
+
+Mark Zuckerberg:Sure.So lthink the main thing that I'llsay on this for now is tune in to Connect coming up in September.We're going to have a lot more to talk about on the roadmap and products that we're launching.We wanted to get the Llama 2 model out now. That's going to be -- that's going to underpin a lot of the new things that we're building. And now we're nailing down a bunch of these additional products, and this is going to be stuff that we're working on for years. But Ithink a lot of the journey will kind of start later this year when we start rolling out some of these things.
+
+But overall, I think that there are three basic categories of products or technologies that we're planning on building with generative Al. One are around different kinds of agents,which I'll talk about in a second. Two are just kind of generative Alpowered features. So some of the canonical examples of that are things like in advertising, helping advertisers basically run ads without needing to supply as much creative or if they have an image but it doesn't fit the format, be able to fill in the image for them.So I talked about that a little bit upfront in my comments. But there's stuff like that across every app.
+
+And then the third category of things,I'd say,are broadly focused on productivity and efficiency internally.So everything from helping engineers write code faster to helping people internally understand the overall knowledge base at the company and things like that. So there's a lot to do on each of those zones.
+
+For Al agents specifically,I guess what l'd say is one of the things that's different about how we think about this compared to some others in the industry is we don't think that there's going to be one single Al that people interact with, just because there are allthese different entities on a day-to-day basis that people come across, whether they're different creators or different businesses or different apps or things that you use.So Ithink that there are going to be a handful of things that are just sort of focused on helping people connect around expression and creativity and facilitating connections.
+
+Ithink there are going to be a handful of experiences around helping people connect with the creators who they care about and helping creators foster their communities. And then the one that I think is going to have the fastest direct business loop is going to be around helping people interact with businesses. You can imagine a world on this where over time,every business has as an Al agent that basically people can message and interact with. And it's going to take some time to get there, right? I mean, this is going to be a long road to build that out.
+
+But lthink that, that's going to improve a lot of the interactions that people have with businesses as well as if that does work, it should alleviate one of the biggest issues that we're currently having around messaging monetization is that in order to --for a person to interact with a business, it's quite human labor-intensive for a person to be on the other side of that interaction,which is one of the reasons why we've seen this take off in some countries where the cost of labor is relatively low.
+
+But you can imagine in a world where every business has an Al agent, that we can see the kind of success that we're seeing in Thailand or Vietnam with business messaging could kind of spread everywhere. And I think that's quite exciting. But overall,Ithink we're going to follow a playbook that's similar to what we normally do on products.
+
+In terms of how quickly some of these new products scale, that's one of the big unknowns for the business and one of the things that we're debating heavily when thinking through the amount of Al CapEx to bring online because the reality is we just don't know how quickly these will scale. And we want to have the capacity in place in case they scale very quickly. But because they're kind of brand-new things, there aren't that many precedents for things like this. It's actually quite hard to forecast.
+
+So l don't know, Susan,if there's anything on that last point that you want to jump in on. But I think that's probably allI'll say on this for now. But l'm really excited about the segment.This is just going to be -- it fits into all the different products that we're building really well.I think that this is going to both complement and touch and transform every single thing that we're doing,and I'm really excited for it. So tune in to Connect.
+
+Operator:
+
+Your next question comes from the line of Eric Sheridan with Goldman Sachs.
+
+# Eric Sheridan:
+
+Maybe one for Mark,one for Susan.Mark, just following up on Brian's question. I did want to ask just to draw that out a little bit more, how you think about the extensions of the developer community sort of growing up around a platform like Llama 2. And we were intrigued by the Microsoft announcement. You traditionally have been more of a consumer-facing company with product. Could this provide you an avenue to be more of an enterprise-facing company over the long term? And is there a strategy there that maybe we haven't seen from you in the past? l'd love to flesh that out a little bit.
+
+And Susan, just one for you. The RL losses just continue to build. And I think we continue to struggle a little bit of what drivers of those losses are and how should we think about some of the components driving the losses versus elements of earning a return on those losses over the medium to long term as Mark sort of framed the time frame around metaverse.So any color there about sort of rate of change or components of the losses in RL,I think,would be super helpful.
+
+Mark Zuckerberg: Yes, sure.I'lltake a cut at both of those,and Susan can jump into the second one if there's anything that she wants to add there as well. Al right.So Llama is an open source project, which is a litle bit different from building out a developer platform, although there willbe an ecosystem around this.What we've seen around open source work that we've done, which we've done a lot of in our core infrastructure work,design of servers and data centers and basic infrastructure as well as in Al. And l pointed out some of these in my remarks upfront, like PyTorch and just a bunch of other models that we've released recently.
+
+One of the things that we've seen is that when you release these projects publicly and open source, there tend to be a few categories of innovations that the community makes. So on the one hand,I think it's just good to get the community standardized on the work that we're doing.That helps with recruiting because a lot of the best people want to come and work at the place that is building the things that everyone else uses. It makes sense that people are used to these tools from wherever else they're working. They can come here and build here.
+
+But in terms of improvements that we expect to see from the community, there are really a few different types. One is specifically around safety and security. That's a very important issue in Al. In open source software overall, we've just seen through the history here that open-source software gets scrutinized more and therefore ends up being more secure and safer. And we think that there's a very good chance that's the likely outcome here. And whatever improvements that people make to harden it in the community,we'll be able to roll that into our work, both for the first-party products that we'll launch as well as making it easy to propagate that across the industry and make the Al that everyone uses safer.
+
+I would also hope to see efficiency improvements.I mean, even from the initial Llama that was just released as a research project, some of the improvements are around things like quantization and being able to run the model way more efficiently. Now we're spending so much on Al CapEx that all the help that we can get from the community to make this stuff more efficient to run,willbe helpful not just for individuals to be able to run powerful models on their laptop or locally or without a huge amount of compute,so individuals can afford it. But that should hopefully translate over time into just a more eficient infrastructure for us, which hopefully could be quite a big savings.So that's more what we're seeing there.
+
+We partnered with Microsoft specifically because we don't have a public cloud offering.So this isn't about us getting into that. It's actually the opposite.We want to work with them because they have that and others have that,and that was the thing that we aren't planning on building out. But one of the things that you might have noticed is in addition to making this open through the open source license, we did include a term that for the largest companies,specifically ones that are going to have public cloud offerings, that they don't just get a free license to use this. They'll need to come and make a business arrangement with us.
+
+And our intent there is we want everyone to be using this.We want this to be open. But if you're someone like Microsoft or Amazon or Google and you're going to basically be reselling these services,that's something that we think we should get some portion of the revenue for.So those are the deals that we intend to be making, and we've started doing that a little bit.I don't think that that's going to be a large amount of revenue in the near term. But over the long term, hopefully, that can be something.
+
+Not sure if there's anything else to add on that, but Susan, you can jump in if you want. On RL, let me just jump over to that for a second.I don't think we're going to break out numbers right now but I'll defer to Susan on that.I mean,one big thing for the next year is the launch of Quest 3,right? And basically, this is going to be the biggest headset that we've released since 2O20 when we came out with Quest 2. And there are just a lot of expenses related to bringing that to market. And I think that's,at least in the near term,going to be one of the major drivers of this.
+
+So lthink that's probably the main thing that I would point to there.We're continuing to --l continue to think, looking at the VR work that we're doing and the AR work, some of the neural interfaces work, I think we're leading in these areas. It's been good to see what others in the industry have done because to some degree, it gives us more confidence that we're on the right track.
+
+And even though I know from an investor standpoint, most people aren't investing on quite as long of a time horizon as we are here, so l kind of get that, a lot of investors might want to see us spending less here in the near term. My view is that we are leading in these areas.Ibelieve that they're going to be big over time.I think we've shown that we can deliver good business results in the near term while investing ambitiously in the long term.So I'm planning on continuing to do that, and I do continue to believe that over time,we will be happy that we did that. So l don't know if Susan, if there's anything you wanted to add there.
+
+Susan Li:
+
+Sure. Let me just add a couple of things. Very quickly on the first question, l just want to clarify that we don't expect that Llama is going to result in a separate topline enterprise revenue line, so just making sure we're totally clear.
+
+On the second question about the growth in Reality Labs operating losses in 2024, Mark alluded to the fact that this is an ambitious long-term horizon multifaceted roadmap.There are lots of components to the Reality Labs portfolio across VR,AR, metaverse social platforms, neural interfaces.
+
+And we really have a long-term time horizon for evaluating the return on our investments here.So in the near term, we're focused on growing adoption of the existing products,and we're constantly learning more about demand and use cases that inform our future plans. But a lot of the investment that's driving the growth here is around conducting the fundamental R&D to solve hard technology problems that are going to enable our vision here. A lot of it is around clearing technical hurdles that will make subsequent devices smaller, cost less,weigh less, et cetera. So that's really on the Reality Labs side.
+
+Again,as we said,we expect operating losses to increase meaningfully year-overyear in 2024.In 2024,specifically,Ithink that will be driven by a combination of both headcount-related and operating costs. But again, our ambitions in Reality Labs haven't changed,and it continues to be a significant long-term opportunity for us.
+
+# Operator:
+
+Your next question comes from the line of Mark Shmulik with Bernstein.
+
+Mark, things move quickly. Like a month ago,we weren't talking about Reels. A quarter ago,we weren't talking about Llama,and start of the year,we were barely talking about Al. If you think back to kind of just how you were prioritizing your time at the start of the year to kind of where you are today and how that's kind of changed,would love to just get some color on kind of the changing priorities and really where you're spending your time.
+
+And then the second question,really impressive,obviously,acceleration of growth in kind of the core ad business.Would love to just get some color kind of beyond the vertical contribution.What are you seeing in terms of kind of adoption of Advantage+ products really driving some of that improved growth,especially what we've seen relative to the rest of the sector?
+
+# Mark Zuckerberg:
+
+Yes.lcan start with the first and then Susan can take the second.I actually think our priorities have been pretty consistent for a few years now.I think the way that people hear them might be different. But for example, last year,Ithink we were getting quite a bit of critique for the volume of Al CapEx spending that we were doing,and now obviously, people want to understand where that's going and where we think that trajectory is going and want to make it as efficient as possible. But l think at this point, it's more well understood that I think that was a good investment,and it's driving results in the near term and enabling us to build some of the new experiences that Ithink we all think are pretty fundamental.
+
+I don't think Reels is new,although maybe you meant Threads when you said that. Threads,Iwould say it's not that -- Threads is like -- it's not a massive project. It was -- l've thought for a while that the opportunity around public conversations and kind of a text-based product was bigger than what had been executed yet in the market. So we had a relatively smal team work on that. And this year, I think there have been two things that have been -- that have just vastly exceeded my expectations. One was Llama, the initial model, we thought it was interesting, but the scale of adoption,even just for the research version really spurred us to go do Llama 2,and that was vastly more than we expected.
+
+And the second is Threads has been dramatically more than we expected in terms of the adoption and the rate of that.We thought this was going to be kind of a project that we just -- we had a smallteam working on for a while, but it really kind of blew up and created a big opportunity immediately. But no,I mean,I think over time, you should expect that we're going to focus on Al and the metaverse. Al includes both all of the ranking and recommendation systems that power the core apps, so all the content that you're seeing in Facebook and Instagram,all the ads content that you're seeing. It also underpins all the safety systems that we build.
+
+And increasingly, it's all the generative Al stuff, so all the agents, all the generative features that we're going to be rolling out and a lot of the other work that's going to underly some of the efficiency stuff that we're doing internally. And then the metaverse stuff,I think we've talked about for a while.So l don't think that there's much change there, except that l'd say the signals that we're getting from the market are it's certainly not getting adopted a lot faster than we expected so that's sort of the somewhat sobering signal.
+
+But on the other side,I think a lot of companies that otherwise are doing, we respect and do great work, we don't necessarily view as building things that are ahead of where we are,which gives us confidence that we think that the long-term thesis still will hold there.We think that we're going to be the leaders in it. And nothing that we're seeing from the market makes us rethink that in a fundamental way. So Ithink we're going to continue focusing on Al and the metaverse as the two big thrusts of what we're doing and all the other things kind of fall out of that.
+
+Susan Li:
+
+And Mark,I'lltake the second question that you asked around the Q2 revenue acceleration.So l think there were a couple of parts. One was around the acceleration in the core ads business.The second was on the Advantage+ products. In terms of the Q2 revenue acceleration,I'd highlight there are a few factors driving that.The first is, frankly, we're lapping a weaker demand period,including the first full quarter of the war in Ukraine and the suspension of our services in Russia.
+
+Second, we saw increased supply and improvements to ad performance, including improved Reels monetization as we continue to work down the Reels revenue headwind. And third,there were lower FX headwinds for us this quarter.So those were all three things that helped drive the revenue acceleration in Q2.
+
+In terms of the question about Advantage+ specifically,Advantage+ is one of multiple Al-powered ad products that we have right now in the market.With Advantage+ specifically,we're seeing strong adoption and particular success with the e-commerce and retail verticals,and we've seen good traction with other verticals like CPG,especially DTC brands,and we're continuing to launch features to unlock use cases for advertisers and make it easier for them to adopt Advantage+ campaigns and measure their performance gains.So we've got a lot in the pipeline there that we're excited about for both the Advantage+ Shopping Campaigns specifically,which were our first sort of foray into this area,but then the Advantage+ portfolio more broadly that basically enables us to take that same playbook of helping advertisers iterate and test very quickly and apply it to many different steps of the end-to-end ad buying experience.
+
+So the feedback and results that we've seen from advertisers is good,and we think it's a really promising area that we're continuing to invest in. But it's one of many ways that we're using Al to continue to sort of help make our ads systems and recommendations and ranking engines,more performant to deliver better measurement and results to advertisers.
+
+# Operator:
+
+Your next question comes from the line of Justin Post with Bank of America Merrill Lynch.
+
+# Justin Post:
+
+I guess l want to follow up on Reality Labs,passing \$40 billion in losses and increasing annually next year. Just think about -- maybe help us understand how the ROl on the business, how you're thinking about that investment, either on a standalone basis or as a complement to the Family of Apps,if you're thinking about it from an investor perspective.
+
+Mark Zuckerberg:Wel,Ithink it's both over time.The primary way that Ithink about this is that we've been able to show that we can -- we've been quite successful at building large-scale social experiences within the constraints of platforms that often our competitors are defining.I think we're going to be able to do even better work. And there's a lot of things that l would like to see us build that we just can't because we're -- of the ways that we're constrained by the competitors who build these platforms.
+
+And over time, the main way that I think about this is from a product and mission perspective is we're here to build awesome experiences that help people connect.I think helping to shape the next platform is going to unlock that in a profound way for decades to come.And that's what I'm here to do and I think what a lot of people are here to do.So that's kind of the first principles part of this.
+
+From a business perspective,I think that there's going to end up being a large business component of this that is Reality Labs-specific. Directly, the products that we're building there and having that be a good business. But lalso think that a lot of this is going to be that it unlocks a lot of value for the other experiences,the current apps that we have, what you think of as the Family of Apps, where we currently, just a lot of the potential value,whether it's just engagement that could be created, features that we would love to build that we're not allowed to because Apple or others just don't allow us to build those things. And I think that that's really unfortunate for the industry.
+
+Ithink that there's a lot of lost engagement that would have happened,a lot of the monetization and value that gets created.I mean, just look at what happened with App Tracking Transparency, the massive value destruction for small businesses because of the rules that were set by another platform. And that's not -- in a future version of the world,it's not --that would be recognized not by device sales or some new, like,experience that we're building in Reality Labs.You would basically see that accrue through more efficient monetization of the apps and experiences that we're building in other places. So I think it's going to be both.
+
+But I think this is just a very fundamental thing.This is a very long-term bet. At a deep level, I understand the discomfort that a lot of investors have with it because it's just outside of the model of,I think, even most long-term investors, how you would think about this. And look,I mean,l can't guarantee you that I'm going to be right about this bet.I do think that this is the direction that the world is going in. There are 1 billion or 2 billion people who have glasses today. I think in the future, they're all going to be smart glasses.
+
+And all the time that we spend on TVs and computers,I think that's going to get more immersive and look something more like VR in the future. And I think that what we're seeing is richer ways for people to communicate across even the mobile apps that we have going from text to photos to videos, just a continual trend towards being more immersive. So like allof these trends line up to make me think that this is the right thing.
+
+I think we're going to be happy that we did this. So that's kind of how l think about it, both from kind of a mission and product perspective,a business perspective,an investment time frame perspective.But lalso understand the discomfort that some folks have with something that I can't put exact numbers on a near-term time horizon around.
+
+# Operator:
+
+Your next question comes from the line of Doug Anmuth with JPMorgan
+
+# Doug Anmuth:
+
+One for Mark,one for Susan. Mark, you touched on it a bit, but can you just talk a little bit more about what you've learned from Threads early on, not just for that product specifically but also as you look to leverage the Family of Apps platform to launch additional products over time.And then, Susan, you lowered the CapEx outlook this year by \$3 billion. Can you just provide more color on the delays in projects and equipment in '23? And is there any way to frame how meaningful the CapEx increase could be in '24?
+
+Mark Zuckerberg: Yes. On Threads,it's maybe too early to do this kind of analysis.I mean,I'm -- on the one hand, we've tried a bunch of standalone experiences over time,and in general, we haven't had a lot of success with building kind of standalone apps.The biggest exception to that, of course,is Messenger, but that started off as functionality inside Facebook and was spun out. So part of me wonders if this is just a kind of classic venture capital portfolio question, where you try a bunch of things and a bunch of them don't work. And then every once in a while,one hits and is a much bigger success. It could be that.
+
+Or it could just be that this is such an idiosyncratic case because of all of the factors that are happening around Twitter or X,I guess,it's called now. So it's hard to say.l mean, but I think when something works or doesn't,you can often point to the reason why it did or didn't.And I think it is an interesting intellectual question of whether you could have known that a priori, that, that was actually going to be the case.
+
+So I'm not sure.But also rather than trying to kind of analyze that,I'd say we have a lot of work to do to really make Threads reach its full potential. That's not a foregone conclusion yet even though I think we're off to a great start, and I'm optimistic that over time,this could be a fifth great app in the Family of Apps. But we have a lot of basic work to do.
+
+And we have a basic playbook here,which is build an experience.It's got to be something that people like so it has to have product market fit. Once you get that, it's not always retentive.So a lot of people might like an experience but you need to kind of tune it so that way the numbers works so that people who use it are continuing.We feel like we're getting to a good place on that with Threads. There's still a lot of basic functionality to build.
+
+Once we feel like we're in a very good place on that, then l'm highly confident that we're going to be able to pour enough gasoline on this to help it grow once we get to the point where we feel good that everyone who's using it is going to continue using it at a high rate. And then a few years, once we get to the point where it's at hundreds of millions of people,assuming we can get there, then we'll worry about monetization. But I mean, that's basically the playbook that we're focused on.
+
+And so rather than thinking about right now,like what does this mean for other things like it that we can build,I'd say we're really just focused on taking this opportunity,which is an awesome one that we didn't expect to this scale and making sure we make the most of this and execute it. But I do think it has been sort of this weird anomalous thing in the tech industry that there hasn't been an app for public discussions like this that has reached 1 billion people.
+
+When Ilook at allthe different social experiences,it just seems like there should be one like this.I think there are a lot of reasons that you can point to why that might have not been the case historically. But it's awesome that we get a chance to work on this and I'm really optimistic about where we are. But it's going to be a long road ahead.
+
+Susan Li:
+
+And Doug,on your second question about our 2023 CapEx forecast and the impact on '24,so I'll start with 2023.The reduced forecast that we gave for '23,I mentioned on the call, is driven both by some cost savings,particularly on non-Al servers, where were -- we previously had some underutilized capacity,and we've been identifying ways to be more efficient in the way that we allocate that capacity towards all of our various needs,as well as shifts in CapEx into 2024 that's coming from delays in data center projects and server deliveries. And that will just push that associated CapEx, which we were planning for in '23 into '24.
+
+We're still working on our '24 CapEx plans.We haven't yet finalized that,and we'll be working on that through the course of this year.But I mentioned that we expect that CapEx in '24 willbe higher than in '23.We expect both data center spend to grow in '24 as we ramp up construction on sites with the new data center architecture that we announced late last year. And then we certainly also expect to invest more in servers in 2O24 for both Al workloads to support allof the Al work that we've talked about across the core Al ranking, recommendation work along with the next-gen Al efforts. And then, of course, also our non-Al workloads as we refresh some of our servers and add capacity just to support continued growth across the site.
+
+# Operator:
+
+Your next question comes from the line of Youssef Squali with Truist.
+
+Youssef Squali:
+
+One for Mark and one for Susan maybe. Mark, you touched on this a little earlier, but there is this open source versus closed source debate going on with Meta as one of the companies on one side of it with Llama and Llama 2. How do you see this market evolving over time? Do you see one approach as being potentially superior to the other,and therefore,would be likely to garner greater adoption? Or is this really a win-win situation, just considering how early we are in this process and how largely potential TAM is?
+
+And then Susan,your guidance for Q3 implies at the midpoint about a 2O% growth, which is a pretty steep acceleration from Q2 at 11% or 12%. Could you maybe just help us understand the drivers of that acceleration? And as we look into Q4, the comps remain pretty easy.Is that sustainable to year-end?
+
+Mark Zuckerberg: Yes,l can speak briefly to the first one.I do think that there willcontinue to be both open and closed Al models.I think there are a bunch of reasons for this. There are obviously a lot of companies that their business model is to build a model and then sell access to it. So for them, making it open would undermine their business model. That is not our business model. We want to have the --like we view the model that we're building as sort of the foundation for building products.So if by sharing it, we can improve the quality of the model and improve the quality of the team that we have that is working on that, that's a win for our business of basically building better products.
+
+So l think you'lsee both of those models. There are also some important safety questions that I think we'll need to continue thinking about over time.There are a number of people who are out there saying that once the Al models get past a certain level of capability,it can become dangerous for them to become just in the hands of everyone openly.I think -- what Ithink is pretty clear is that we're not at that point today.Ithink that there's consensus generally among people who are working on this in the industry and policy folks that we're not at that point today. And it's not exactly clear at what point you reach that.
+
+So lthink there are people who are kind of making that argument in good faith, who are actually concerned about the safety risk.Ithink that there are probably some businesses that are out there making that argument because they want it to be more closed, because that's their business so lthink we need to be wary of that. But Ithink for both of those reasons, the business reasons and the safety reasons, l think there willcontinue to be a mix of open and closed models,and it's not just going to be like one thing is what everyone uses.I think different businesses will use different things for different reasons.
+
+And by open sourcing Llama now,we're not --on the second question around safety, we intentionally did not go out there and say we're going to open source every single thing in the future because we do want to have the space to be able to look at how the safety landscape evolves. And if we think that we do cross some kind of critical threshold in the future,it may not be the right thing to open source it in the future.But for our business model at least, since we're not selling access to this stuff,it's a lot easier for us to share this with the community because it just makes our products better and other people's,and that, Ithink,is a really healthy dynamic for the industry.
+
+Susan Li:
+
+And thanks, Youssef, for your second question, which I'll take.You asked about our Q3 revenue outlook and maybe also what that implies looking forward into Q4. So on the further acceleration that we've guided to in Q3,first of all,I'd just point out that Q3'22 revenue declined 4.5% year-over-year so we're really lapping a much weaker demand period a year ago,and we've certainly seen demand this year stabilize and so it's really a much easier compare.
+
+We also are expecting that currency is going to flip to a 3-point tailwind from a 1- point headwind last quarter. And finally,as I've mentioned earlier on this call, we've been investing for a long time and I think executing really well across our core monetization work and continuing to grow engagement. And I think we're going to benefit from all of the investments that we've made in those historical and key priorities for us.
+
+In terms of what this means for Q4, we're not sharing a Q4 revenue outlook yet. There are obviously some tailwinds to year-over-year growth in Q4. Again, the same point about a weaker compare applies.And at current rates, FX would be a larger tailwind in Q4 than we're expecting it to be in Q3. But we've had sizable fluctuations in advertiser demand over the last year. It's been a pretty volatile period.So while we're seeing strong advertiser demand now and that's certainly informing our outlook, it's harder to predict as we look further forward,and there are a wide range of possible outcomes in Q4.
+
+Kenneth Dorell: Dave, we have time for one last question.
+
+Operator:
+
+That will come from the line of Brad Erickson with RBC Capital Markets.
+
+Bradley Erickson:Just had a follow-up,I guess, on the CapEx.Just in that planning process you keep allding to for the '24 CapEx outlook,Ithink a lot of your commentary here implies that new products,it sounds like are going to be really central to instructing that number. Just curious how dependent it also is based on just views of revenue growth in '24 and the relationship there.
+
+# Susan Li:
+
+Yes. Thank you, Brad.I can go ahead and take that one.So our growth in Al investments is really the thing that is driving the growth in our 2024 CapEx outlook. And I think there are a couple of components to that.There is both the core Al work,which powers our ranking and recommendation systems, which underpins both a lot of our content ranking and engagement growth as well as the monetization work. And that's an area where we're able to measure the ROl of our investments there,and we feel good about the ROl of those investments. And we want to continue investing appropriately to drive revenue growth,at the same time being mindful of our desire to,over the long term, decrease capital intensity.
+
+There's also another component, which is the next-generation Al efforts that we've talked about around advanced research and gen Al,and that's a place where we're already standing up training clusters and inference capacity. But we don't know exactly what we'll need in 2O24 since we don't have any at-scale deployments yet of consumer business-facing features. And the scale of the adoption of those products is ultimately going to inform how much capacity we need.
+
+We think these are both going to be compelling investment opportunities and some of the Al capacity is fungible, so if we don't need -- end up needing some of the capacity for our gen Al work,we'll be able to allocate it to our core Al work, supporting ads and engagement. But we're really stillworking on our '24 plans.We will have a clearer and more quantitative outlook as those plans shape up. But we are mindful of our intention to reduce the capital intensity of these investments over time.
+
+Kenneth Dorell:
+
+Great. Thank you for joining us today.We appreciate your time. And we look forward to speaking again soon.
+
+Operator:
+
+And this concludes today's conference call. Thank you for joining us. You may now disconnect your lines.

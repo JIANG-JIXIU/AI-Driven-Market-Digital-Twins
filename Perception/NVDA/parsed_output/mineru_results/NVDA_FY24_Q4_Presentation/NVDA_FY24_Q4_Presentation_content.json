@@ -1,0 +1,644 @@
+[
+  {
+    "type": "text",
+    "text": "Investor Presentation Q4 FY24 ,0 February 26,2024 ",
+    "text_level": 1,
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "i g e ti ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "of our products or technologies when integrated into systems and other factors. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "i future results i are posted on our website and are available from NVIDlA without charge ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Many of the products and features described herein remair d not be interpreted as a commitment, promise, or legal obligation,and the development release,and timing of any features functionalitiesdescr ibed subject to change and remains at the sole discretion of NVIDIA. NVIDIA will have no dela eprodu eatu or ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "per share,and free cash flow. NVIDlA believes the presentation of its non-GAAP financial measures el hhances investors' overallunderstanding of the company's historical financial performance.The presentation e financialmeasurestothemostcomparableGmeasure,abfoundintslidetitedRecoiliaioofnGAAtoGAPaalesures ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "# ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Content ",
+    "text_level": 1,
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Q4 FY24 Earnings Summary ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Key Announcements This Quarter ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Reconciliation of Non-GAAP to GAAP Financial Measures ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Q4 FY24 Earnings Summary ",
+    "text_level": 1,
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Record quarter driven by strong Data Center growth ",
+    "text_level": 1,
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Total revenue up 265% Y/Y to \\$22.10B, well above outlook of \\$20.00B +/- 2%   \nData Center up 409% Y/Y to \\$18.40B   \nGaming up 56% Y/Y to \\$2.87B ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Record Data Centerrevenue driven by NVIDIA Hopper GPU computing platformand InfiniBand networking ",
+    "text_level": 1,
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "·GrowthwasdrivenbybothtrainingandinferenceofgenAlandLMsacrossabroadsetof industries,usecasesandregions Inferencewasestimatedtobe\\~40%ofDataCenterrevenuesinF24;versatility/performanceofourplatformenableshighROlformany use cases GenerativeAlhaskickedoffawholenewinvestmentcletobuildthenextillondollasof ifrastructureofAlgenerationfactories ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Gaming growth reflects solid consumer demand for GeForce RTX GPUs during the holidays ",
+    "text_level": 1,
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "GeForce RTX 40 SUPER Series GPUs sales off to a great start IntroducednewwaveofRTX40SeriesAlaptops,bringinghigh-performancegamingandAlcapabiliestowiderangeofformfactors NVIDIAfuelingthenext waveofgenerativeAlapplicationscoming toPCs,with1OOM+Al-readyRTXPCsintheinstalled base ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Q4 FY24 Financial Summary ",
+    "text_level": 1,
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/d18ff78540ccd1b1c1b206bb2728c2c96425b732e6de90dcd31263361773d743.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/0788259aefd6ae41461613c2f7d658a72255aff32f2b4c2f9a530cf6c0fc713e.jpg",
+    "table_caption": [],
+    "table_footnote": [
+      "All dollar figuresareinmillionsother than EPS.Refer toAppendixforreconciliationof Non-GAAPmeasures. "
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "DataCenter ",
+    "text_level": 1,
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/1925e565e2d0da7b49f5aa69e6433118cda47e49ceae571424588e8367c6f7f5.jpg",
+    "img_caption": [
+      "Revenue (\\$M) "
+    ],
+    "img_footnote": [],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Compute revenue grew more than 5X y/y; Networking 3X y/y   \nSupply of Hopper architecture products is improving; demand   \nremains very strong   \nExpect next-generation products to be supply-constrained as   \ndemand far exceeds supply   \nData Center revenue contribution from Auto vertical exceeded   \n\\$1B last year; Healthcare, Financial Services also seeing significant   \nAl adoption   \nSoftware/services reached an annualized revenue run rate of \\$1B   \nOn track to ship Spectrum-X end-to-end ethernet offering in Q1   \nOn track to ramp H200, initial shipments in Q2; demand is strong ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Gaming ",
+    "text_level": 1,
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/bb52020c528eefbb668e10f5313ae6bb6c671a6b97835b7c2a7cf4bf2f5b0fe7.jpg",
+    "img_caption": [
+      "Revenue (\\$M) "
+    ],
+    "img_footnote": [],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Q4 Gaming revenue above outlook on solid consumer demand for GeForce RTX GPUs during the holidays ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "GeForce RTX 40 SUPER Series GPUs sales off to a great start ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA offers an end-to-end platform for building and deploying generative Al applications for RTX PCs and workstations ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Avatar Cloud Engine microservices-which allow developers to integrate state-of-the-art generative Al models into digital avatars - won several “Best of CES 2024\" awards ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Professional Visualization ",
+    "text_level": 1,
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/8082b5ce0e7cb72d92a1fb374b39559d0ecb814d54cce1b1e1f60c224d7772a8.jpg",
+    "img_caption": [
+      "Revenue (\\$M) "
+    ],
+    "img_footnote": [],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Sequential growth driven by a richer mix as RTX Ada architecture GPUs continue to ramp ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Enterprises refreshing workstations to support generative Alrelated workloads, such as data preparation, LLM fine tuning and retrieval augmented generation ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Key industry verticals driving demand include manufacturing, automotive, and robotics ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Automotive industry an early adopter of NVIDIA Omniverse ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Creative partners and developers -including Brickland,WPP and ZeroLight -are building Omniverse-powered car configurators; Lotus adopting the technology ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Automotive ",
+    "text_level": 1,
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/7293df33e8d465c61805e07809988e9d26bd107a8a4859611afba9a619499e19.jpg",
+    "img_caption": [
+      "Revenue (\\$M) "
+    ],
+    "img_footnote": [],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Full year fiscal revenues crossed \\$1B mark for the first time NVIDIA DRIVE Orin is the Al car computer of choice for   \nsoftware-defined AV fleets   \nOrin's successor, NVIDlA DRIVE Thor, to be available next year Li Auto, Great Wall Motor, ZEEKR,and Xiaomi EV announced new vehicles built on NVIDIA ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Sources & Uses of Cash ",
+    "text_level": 1,
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/67db3bdb40789ebd839277a8b5d524ab852a69b5865199b89ee4a9c358a709ee.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Cash Flow from Operations (\\$M) ",
+    "text_level": 1,
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Y/Y and Q/Q growth reflect higher revenue Utilized cash of \\$2.8 billion towards shareholder returns,including \\$2.7 billion in share repurchases and \\$99 million in cash dividends Invested \\$282M in capex (includes principal payments on PP&E) Ended the quarter with \\$26.0B in gross cash and \\$9.8B in debt; \\$16.2B in net cash ",
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Q1 FY25 Outlook ",
+    "text_level": 1,
+    "page_idx": 11
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/ce7673d5fde1215b4fe3d14363b8f544b654619705de1fc25007f0c42bda141e.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Key Announcements This Quarter ",
+    "text_level": 1,
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Strategic Collaboration with AWS on New Infrastructure, Software and Services for Generative Al ",
+    "text_level": 1,
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA and AWS will collaborate to host NVIDIA DGX Cloud on AWS . DGX Cloud on AWS will accelerate training of cutting-edge gen Al and LLMs that can reach beyond 1 trillion parameters AWS will introduce three additional new Amazon EC2 instances, based on the NVIDlA H20O, L4 and L40S GPUs ",
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "aws NVIDIA ",
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "△ ga XX 福 國 西   \nNVIDIA NVIDIA NVIDIA NVIDIA NVIDIA NVIDIA NVIDIA NVIDIA   \nNeMo LLM NeMo Retriever BioNeMo Al Enterprise DGX Cloud Omniverse RAPIDS cuQuantum Isaac Sim ",
+    "page_idx": 13
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/7c692d78d31dcadad57d57501e0c9f427f6005d107482e465f275028fef5fa45.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "New Gen Al Partnerships with Recursion& Amgen in Healthcare ",
+    "text_level": 1,
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Digital biology and gen Al are helping to reinvent drug discovery, surgery， medical imaging and wearable devices ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Accelerating this shift is NVIDlA BioNeMo, a generative Al platform that provides services to develop, customize and deploy foundation models for drug discovery ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Recursion is the first hosting partner offering an Al model through BioNeMo cloud APls,available in beta this month ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Amgen will build Al models trained to analyze one of the world's largest human datasets on an NVIDlA DGX SuperPOD,enabling researchers to more efficiently analyze and learn from genome data to rapidly uncover novel health and therapeutics insights ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Recursion ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "AMGEN ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Brings Generative Al to Installed Base of over 10o Million Al-Ready RTX PCs and Workstations ",
+    "text_level": 1,
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA has a massive installed base for Al applications, with over 10OM NVIDIA RTX PCs and workstations shipped Al will be delivered with a hybrid of cloud and PC computation ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA GPUs in the cloud to run the largest language models . RTX Tensor Cores on PC to run privacy, latency and costsensitive applications ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Running gen Al locally on a PC requires the right developer tools to tune and optimize Al models. NVIDlA provides developers an end-to-end platform to build and deploy gen Al applications for RTX PCs and workstations ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA ACE (Avatar Cloud Engine) to enable developers to add intelligent, dynamic digital avatars to games NVIDIA Al Workbench for streamlined access to popular repositories like Hugging Face, GitHub and NVIDiA NGC TensorRT-LLM for Windows, an open-source library for accelerating LLMs up to 5X on RTX PCs ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA RTX AI Developer Platform ",
+    "text_level": 1,
+    "page_idx": 15
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/5b78550dccca18dbe49b2be284569837334052b2a26d84dc3a7815bd42e43d9f.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "New GeForce RTX 4O SUPER Series Desktop GPUs and New Wave of GeForce and Studio Laptops - All Al-Ready ",
+    "text_level": 1,
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Announced GeForce RTX 4O SUPER Series GPUs, the latest iteration of our Ada Lovelace architecture ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Up to 836 Al TOPS delivering transformative capabilities for Al in gaming, creating and everyday productivity Rich software stack on top of RTX GPUs further accelerates Al ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "With DLSS,7 out of 8 pixels can be Al-generated,accelerating full ray tracing by up to 4x with better image quality ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "3 new desktop GPUs now available ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "GeForce RTX 4080 SUPER - 1.4x faster than RTX 3080 Ti, and 2x faster with DLSS; priced at \\$999 GeForce RTX 407O Ti SUPER - 1.6x faster than RTX 3070 Ti, and 2.5x faster with DLSS; priced at \\$799 GeForce RTX 4070 SUPER - Faster than RTX 3090 at fraction of the power, and 1.5x faster with DLSS; priced at \\$599 ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Announced new GeForce RTX 4O Series laptops for the best gaming and Al experiences,and new NVIDlA Studio laptops and desktops for the best creative and Al experiences ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "With OEMs including Acer,AUS,Dell,HP,Lenovo,MSI Samung ",
+    "page_idx": 16
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/01fa0ab39b26d0e5663df16e58da1c8bb782ac94d66573f1ee777ffb45e8ed89.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "More EV Makers Choose NVIDIA DRIVEfor Automated Driving ",
+    "text_level": 1,
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "：Li Auto,a pioneer in extended-range EVs, has selected NVIDIA DRIVE Thor to power its next-generation fleets ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "GWM (Great Wall Motor), among China's leading new energy vehicle makers, has announced its upcoming EVs will integrate DRiVE Orin for intelligent assisted-driving; first model with the system debuts in 1H 2024 ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "ZEEKR, the premium EV subsidiary of Geely, has launched the ZEEkR Luxury Sedan, its 4th model powered by DRIVE Orin ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Xiaomi EV, the auto arm of Xiaomi, has announced its first EV, the SU7 sedan, built on a dual DRIVE Orin configuration; SU7 will be launched in 1H 2024 ",
+    "page_idx": 17
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/1f56c06c79b078c1a089c01b45248c2dc98aba09e60d821a012b91108c4af74f.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Drive Thor ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA DRIVE Orin is the Al car computer of choice for today's intelligent fleets ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Its successor, NVIDIA DRIVE Thor, offers more Al performance, and integrates a wide range of intelligent capabilities into a single Al compute platform ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Delivers autonomous driving and parking, driver and passenger monitoring,and Al cockpit functionality ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Singtel, NVIDIA to Bring Sovereign Al to Southeast Asia ",
+    "text_level": 1,
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Singtel, a leading communications services provider based in Singapore, will bring the NVIDlA Al platform to businesses in the island nation and beyond ",
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "The data centers will serve as sovereign national resources - Al factories that process the private datasets of companies, startups,universities and governments safely on shore ",
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Singtel will offer its customers: ",
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Al Enterprise,a software platform for building and deploying Al applications, including generative Al Singtel will also be an NVIDIA Cloud Partner, delivering optimized Al services on the NVIDlA platform ",
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Singtel's first Al services will spin up in Singapore, with future data centers under construction in Indonesia and Thailand ",
+    "page_idx": 18
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/5f0608574ac4292a74bd64c782d1ed381f45afa52ddf96ec6608e29d9a9fb2ed.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Announcing Equinix Private Al with NVIDIA DGX ",
+    "text_level": 1,
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Equinix, the world's digital infrastructure company, announced a fully managed private cloud service that enables enterprises to easily acquire and manage their own NVIDIA DGX Al infrastructure for building and running custom gen Al models ",
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Service includes NVIDIA DGX systems, networking and NVIDIA Al Enterprise software platform ",
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Enterprises can own NVIDIA Al supercomputing and software, paired with operational efficiency of Equinix management, in hundreds of data centers worldwide ",
+    "page_idx": 19
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/3a5bda7f85bdc89480ea6949107dfd2668414df8ad04e115d4720b168fab29f5.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Turnkey offering hosted and managed by Equinix, designed and deployed by NVIDIA ",
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Reconciliation of Non-GAAP to GAAP Financial Measures ",
+    "text_level": 1,
+    "page_idx": 20
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/463ea0dbe211c88067cb82e75831f14b61df0540d710d701d36f799e232763cb.jpg",
+    "table_caption": [
+      "Reconciliation of Non-GAAP to GAAP Financial Measures "
+    ],
+    "table_footnote": [
+      "A.Consists ofamortization of intangibleassetsand transactioncosts. B.Stock-baseaeddeotddst C.Otherrepresentsnetgains fromnon-afiliatedinvestmentsandinterestexpenserelatedtoamortizationofdebtdiscount "
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Reconciliation of Non-GAAPto GAAP Financial Measures (contd.) ",
+    "text_level": 1,
+    "page_idx": 22
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/93a80c3d74540d338a95e420fc9666bf8212dda228beb53ab44a6f1d28355e4d.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Reconciliation of Non-GAAPto GAAPFinancialMeasures(contd.) ",
+    "text_level": 1,
+    "page_idx": 23
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/7aec8a2828185e2c471eaa1210beb73baaccb671474303d9a22d8101df258476.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 23
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/fcc967c9e5cf6a75165903ce775618de0bf13ad8ecfca5c9da949b11817b5ec7.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 24
+  }
+]

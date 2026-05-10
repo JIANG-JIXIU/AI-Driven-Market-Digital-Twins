@@ -1,0 +1,316 @@
+[
+  {
+    "type": "text",
+    "text": "CFO Commentary on Third Quarter Fiscal 2O23 Results ",
+    "text_level": 1,
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Q3 Fiscal 2023 Summary ",
+    "text_level": 1,
+    "page_idx": 0
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q3_CFO_Commentary/images/a73397cb6404a83827c6236dc8df996f02fb914eaf310a90d1d1fd56eb1a6e5c.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 0
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q3_CFO_Commentary/images/c6b41903bb795a8c5f8209f6bf63f2e70b4f386fb7d73039b6ab4f183dd38081.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 0
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q3_CFO_Commentary/images/c39292e99fe72d53a280bca0d3eba2ce516dcdc71554d71941600a2de7175243.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 0
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q3_CFO_Commentary/images/9d795b5bfdd796308f011c240bad1fa94c4e160fb0b316df751a1cc879c469e9.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "We specialize in markets where our computing platforms can provide tremendous acceleration for applications.These platforms incorporate processors,interconnects,software，algorithms,systems,and services to deliver unique value.Our platforms address four large markets where our expertise is critical: Data Center,Gaming,Professional Visualization,and Automotive. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Revenue ",
+    "text_level": 1,
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Revenue was \\$5.93 bilion,down 17% from a year ago and down 12% sequentialy. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Data Center revenue was up 31% from a year ago and up 1% sequentially. Year-on-year growth was broadbased across U.S. cloud service providers，consumer internet companies and other vertical industries. Sequential growth was impacted by softnessin China.We started shipping our flagship H100 data center GPU based on the new Hopper-architecture. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "During the third quarter,the U.S.government announced new restrictions on exports of our A100 and H100- based products to China,and any product destined for certain systems or entities in China.These restrictions impacted third-quarter revenue,with the decline largely offset by sales of alternative products into China. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Gaming revenue was down 51% from a year ago and down 23% sequentially，reflecting lower sell-in to partners to help align channel inventory levels with current demand expectations as macro-economic conditions and COVID lockdowns in China continue to weigh on consumer demand. The year-on-year decrease was driven by lower GPU sales for both desktops and laptops; the sequential decline Was primarily driven by lower GPU sales for laptops.We believe the recent transition in verifying Ethereum cryptocurrency transactions from proof-of-work to proof-of-stake has reduced the utility of GPUs for cryptocurrency mining. This may have contributed to increased aftermarket sales of our GPUs in certain markets，potentially impacting demand for some of our products,particularly in the low-end. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Professional Visualization revenue was down 65% from a year ago and down 60% sequentially，reflecting lower sellin to partners to help align channelinventory levels with current demand expectations. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Automotive revenue was up 86% from a year ago and up 14% sequentially,primarily driven by revenue from self-driving solutions. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "OEM and Other revenue was down 69% from a year ago and down 48% sequentially.The sequential decline was driven by lower Jetson and notebook OEM sales. Cryptocurrency Mining Processor (CMP) revenue was nominalin the current and prior quarter,and \\$1O5 milion in the third quarter of fiscal 2022. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Gross Margin ",
+    "text_level": 1,
+    "page_idx": 1
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q3_CFO_Commentary/images/78b4a802f0ab9b15520b9685341064ba79edf1a4d4118c0d4d51bb7f0961886e.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "GAAP gross margin for the third quarter was down 11.6% and non-GAAP gross margin was down 10.9% from a year earlier,primarily due to a \\$7O2 milion inventory charge,largely relating to lower Data Center demand in China,partially offset by a warranty benefit of approximately \\$7O million. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Sequentially,GAAP gross margin was up 10.1% and non-GAAP gross margin was up 10.2%,primarily due to lower inventory charges compared with the second quarter. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The \\$702 milion inventory charge consists of approximately \\$354 million for inventory on hand and approximately \\$348 millon for inventory purchase obligations in excess of our current demand projections. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Expenses ",
+    "text_level": 1,
+    "page_idx": 2
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q3_CFO_Commentary/images/2e96b752d6d8447c4b1b239e41e318b6ceaaa888f923d6e60785b74e12f59963.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "GAAP and non-GAAP operating expenses increased primarily due to compensation and data center infrastructure.The year-on-year increase also reflects employee growth. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Other Income & Expense and Income Tax ",
+    "text_level": 1,
+    "page_idx": 2
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q3_CFO_Commentary/images/eca2fb8a949d015e9abfa97e78e4bedc32a344f926965fd99638dac94b3d2d4a.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 2
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q3_CFO_Commentary/images/b89d32beb649973fe2b627904dbcbbf4d091fc8a6bd9b9ffd2142a1f4d0f40b3.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "GAAP other income and expense (Ol&E) includes interest income, interest expense,gains and losses from non-afiliated investments and other. Non-GAAP Ol&E excludes the portion of interest expense from the amortization of the debt discount and the gains or losses from non-affiliated investments. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Interest income was \\$88 million,up from a year ago and sequentially，due to higher interest rates on investments.Net lossfrom non-afiliated investments was \\$11 million due to the mark-to-market of publicly traded equity investments and changes in value from our non-affiliated private investments. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "GAAP effective tax rate for the third quarter was a benefit of 10.9%,which reflects the foreign derived intangible income deduction，U.S.research tax credit，and excess tax benefits related to stock-based compensation. Non-GAAP effective tax rate was 6.7%. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Balance Sheet and Cash Flow ",
+    "text_level": 1,
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Cash,cash equivalents and marketable securities were \\$13.14 billion,down from \\$19.30 billion a year ago and down from \\$17.O4 billion a quarter ago. The year-on-year and sequential decreases reflect share repurchases and changes in free cash flow. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Accounts receivable was \\$4.91 billion,compared with \\$3.95 bilion a year ago and \\$5.32 bilion a quarter ago DSO was 75 days,up from 51 days a year ago and up from 72 days a quarter ago. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Inventory was \\$4.45 billon,compared with \\$2.23 billion a year ago and \\$3.89 billion aquarter ago.Inventory increased sequentially primarily driven by new Data Center and Gaming architecture supply. Outstanding grossinventory purchase and long-term supply obligations were \\$7.02 billon,up from \\$6.90 bilion a year ago,and down from \\$9.22 billion a quarter ago. Prepaid supply agreements were \\$3.14 billion,the same level asa quarter ago.Other non-inventory purchase obligations of \\$2.75 billion include \\$1.59 billion of multi-year cloud service agreements.DSl was 147days,up from 82 days a year ago and up from 93 days a quarter ago. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Cash flow from operating activities was \\$392 millon,down from \\$1.52 billion a year ago and down from \\$1.27 bilion a quarter ago.The year-on-year decrease reflects lower operating income,timing of supplier payments and inventory deliveries,partially offset by lower supplier prepayments.The sequential decrease reflects timing of supplier and other payments as wellas inventory deliveries,partially offset by lower cash tax payments. Free cash flow was an outflow of \\$156 milion compared with inflows of \\$1.28 billon a year ago and \\$824 million a quarter ago. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Depreciation and amortization expense was \\$406 million,including amortization of acquisition-related intangible assets. Capital expenditures including principal payments on property and equipment were \\$548 million,up from \\$243 milion a year ago and \\$447 millon a quarter ago,primarily driven by equipment to support product bring-up and compute infrastructure for research and development. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "During the third quarter of fiscal 2023，we returned \\$3.75 bilion to shareholders in the form of share repurchases and cash dividends,and we returned \\$9.29 bilion in the first nine months of fiscal 2023.As of the end of the third quarter of fiscal 2O23,we had \\$8.28 bilion remaining under our share repurchase authorization through December 2023. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Fourth Quarter of Fiscal 2023 Outlook ",
+    "text_level": 1,
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Outlook for the fourth quarter of fiscal 2023 is as follows: ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Revenue is expected to be \\$6.OO billion,plus or minus 2%. GAAP and non-GAAP gross margins are expected to be 63.2% and 66.0%,respectively， plus or minus 50 basis points. GAAP and non-GAAP operating expenses are expected to be approximately \\$2.56 bilion and \\$1.78 billion,respectively. GAAP and non-GAAP other income and expense are expected to be an income of approximately \\$40 million,excluding gains and losses from non-affiliated investments. GAAP and non-GAAP tax rates are expected to be 9.0%,plus or minus 1%,excluding any discrete items. Capital expenditures are expected to be approximately \\$500 million to \\$550 milion， including principal payments on property and equipment. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "For further information,contact: ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Simona Jankowski Investor Relations NVIDIA Corporation sjankowski@nvidia.com ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Robert Sherbin Corporate Communications NVIDIA Corporation rsherbin@nvidia.com ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Non-GAAP Measures ",
+    "text_level": 1,
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "To supplement NVIDIA's condensed consolidated financial statements presented in accordance with GAAP, the company uses non-GAAP measures of certain components of financial performance. These non-GAAP measures include non-GAAP gross profit,non-GAAP gross margin,non-GAAP operating expenses,non-GAAP income from operations, non-GAAP other income (expense)，net， non-GAAP net income，non-GAAP net income,or earnings,per diluted share,and free cash flow.In order for NVIDlA'sinvestors to be better able to compare its current results with those of previous periods,the company has shown a reconciliation of GAAP to non-GAAP financial measures.These reconciliations adjust the related GAAP financial measures to exclude acquisition termination costs，stock-based compensation expense，acquisition-related and other costs, contributions,IP-related costs，legal setement costs,restructuring costs，gains and losses from nonafliated investments,interest expense related to amortizationof debt discount,the associated tax impact of these items where applicable,and domestication tax benefit. Free cash flow is calculated as GAAP net cash provided by operating activities less both purchases of property and equipment and intangible assets and principal payments on property and equipment and intangible assets. NVIDIA believes the presentation of its non-GAAP financial measures enhances the user's overallunderstanding of the company's historicalfinancial performance.The presentation of the company's non-GAAP financial measures is not meant to be considered in isolation or as a substitute forthe company's financial results prepared in accordance with GAAP,and the company's non-GAAP measures may be different from non-GAAP measures used by other companies. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "CertainstatementsinthisCFOCommentaryincluding，butnotlimitedtostatementsasto:ourcomputingplatformsproviding tremendousacceleration forapplicationsanddeliveringuniquevalue;macro-economicconditionsandCOVIDlockdownsin China continuing toweighonconsumerdemand;theexpectedgrowthofourfullyearnon-GAAPoperatingexpense;ourfinancialoutlokfor thefourthquarteroffiscal223;ourexpectedtaxratesforthefourthquarterofiscal2023;andourexpectedcapitalexpendituresfor thefourthquarteroffiscal2O23areforward-lokingstatementsthataresubjectorisksanduncertaintiesthatcouldcauseresultsto bemateriallydiferentthanexpectations.Importantfactorsthatcouldcauseactualresultstodifermateriallyinclude:global economicconditions;ourrelianceon thirdparties to manufacture，assemble，packageand testourproducts;theimpactof technologicaldevelopmentandcompetition;developmentofnewproductsandtechnologiesorenhancements toourexistingproduct andtechnologies;marketaceptanceofourproductsorourpartners’products;design,manufacturingorsoftwaredefects;hanges inconsumerpreferencesordemands;changesinindustrystandardsandinterfaces;unexpected lossofperformanceofourproducts ortechnologieswhenintegratedintosystems;aswellasotherfactorsdetailedfromtimetotimeinthemostrecentreports NVIDIA fileswithtecritdEaneCmmiooCidgutotliitedtoaleprtoor-Kdtey reports onForm10-Q.CopiesofreportsfiledwiththeSECarepostedonthecompany'swebsiteandareavailablefrom NVIDIA withoutcharge.Theseforward-lookingstatementsarenot guaranteesoffutureperformanceand speak onlyasof thedate hereof, and,exceptasrequiredbylaw,NDAdisclaimsanyobligationtoupdatetheseforward-lookingstatementstoreflectfutureeventsor circumstances. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "### ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA CORPORATION ",
+    "text_level": 1,
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES ",
+    "text_level": 1,
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "(In millions,except per share data) (Unaudited) ",
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q3_CFO_Commentary/images/317c354546ede93956b6e8202f7ded24fd3f0f545510177a95739b7751822220.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q3_CFO_Commentary/images/7cf251f4f3b1fecb72cb7f048d8f0beab979f6b50d8e489ff6b60fae8789521c.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q3_CFO_Commentary/images/8826f180678296ca5df570965e4921926c2f96090c2a2117d142076dbaf784b6.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA CORPORATION ",
+    "text_level": 1,
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "RECONCILIATION OF GAAP TO NON-GAAP OUTLOOK ",
+    "text_level": 1,
+    "page_idx": 7
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q3_CFO_Commentary/images/4ecc5f168c14d4f54db3edb1b0a91364b30a9a1ae5314c5f5564732180971b06.jpg",
+    "table_caption": [
+      "Q4 FY2023 Outlook "
+    ],
+    "table_footnote": [],
+    "page_idx": 7
+  }
+]

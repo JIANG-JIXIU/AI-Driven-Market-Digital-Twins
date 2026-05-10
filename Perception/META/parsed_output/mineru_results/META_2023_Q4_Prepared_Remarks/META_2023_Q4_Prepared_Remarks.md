@@ -1,0 +1,199 @@
+# Meta Platforms, Inc. (META) Fourth Quarter 2O23 Results Conference Call - Prepared Remarks February 1st, 2024
+
+Ken Dorell, Director, Investor Relations
+
+Thank you. Good afternoon and welcome to Meta Platforms fourth quarter and full year 2023 earnings conference call Joining me today to discuss our results are Mark Zuckerberg, CEO and Susan Li, CFO.
+
+Before we get started,Iwould like to take this opportunity to remind you that our remarks today wil includeforward-looking statements.Actual results may difer materially from those contemplated by these forward-looking statements.
+
+Factors that could cause these results to difer materialy are set forth in today's earnings press release, and in our quarterly report on form 10-Q filed with the SEC. Any forward-looking statements that we make on this callare based on assumptions as of today and we undertake no obligation to update these statements as a result of new information or future events.
+
+During this callwe will present both GAAP and certain non-GAAP financial measures. A reconciliation of GAAP to non-GAAP measures is included in today's earnings press release.The earnings press release and an accompanying investor presentation are available on our website at investor.fb.com.
+
+And now,I'd like to turn the call over to Mark.
+
+# Mark Zuckerberg, CEO
+
+Hey everyone, thanks for joining us.
+
+This was a good quarter and it wrapped up an important year forour community and our company. We estimate that there are more than 3.1 billion people who use at least one of our apps each day.
+
+2023 was our "year of efficiency" which focused on making Meta a stronger technology company and improving our business to give us the stability to deliver our ambitious long-term vision for Al and the metaverse. And last year, not only did we achieve our efficiency goals,but we returned to strong revenue growth,saw strong engagement across our apps,shipped a number of exciting new products like Threads, Ray-Ban Meta smart glasses,and mixed reality in Quest 3,and of course established a world-class Al effort that is going to be the foundation for many of our future products.Ithink that being a leaner company is helping us execute better and faster,and we willcontinue to carry these values forward as a permanent part of how we operate.
+
+Now, moving forward,a major goal willbe building the most popular and most advanced Al products and services.And if we succeed,everyone who uses our services willhave a world-class Al assistant to help get things done,every creator will have an Al that their community can engage with,every business will have an Al that their customers can interact with to buy goods and get support,and every developer will have a state-of-the-art open source model to build with.I also think everyone willwant a new category of computing devices that let you frictionlessly interact with Als that can see what you see and hear what you hear, like smart glasses.
+
+One thing that became clearer to me in the last year is that this next generation of services requires building full general intelligence. Previously I thought that because many of the tools were social, commerce,or maybe media-oriented that it might be possible to deliver these products by solving only a subset ofAl's chalenges. But now it's clear that we're going to need our models to be able to reason, plan,code,remember,and many other cognitive abilities in order to provide the best versions of the services that we envision. We've been working on general inteligence research in FAlR for more than a decade,but now general intelligence willbe the theme of our product work as well.
+
+Meta has a long history of building new technologies into our services and we have a clear long-term playbook for becoming leaders.There are a few key aspects of this thatIwant to take some time to go through today.
+
+Thefirst is world-classcompute infrastructure.Irecently shared that by the end of this year we'll have about 350k H100s and including other GPUs that'Ilbe around 600k H100 equivalents of compute.We're well-positioned now because of the lessons we learned from Reels.We initially under-built our GPU clusters for Reels,and when we were going through that Idecided that we should build enough capacity to support both Reels and another Reels-sized Al service that we expected to emerge so we wouldn't be in that situation again.At the time the decision was somewhat controversial and we faced a lot of questions about capex spending,but l'm really glad that we did this.
+
+Going forward, we think training and operating future models willbe even more compute intensive. We don't have a clear expectation for exactly how much this willbe yet, but the trend has been that stateof-the-art large language models have been trained on roughly 1Ox the amount of compute each year. Our training clusters are only part of our overallinfrastructure and the rest obviously isn't growing as quickly. But overall,we're playing to win here and l expect us to continue investing aggressively in this area.Inorder to build the most advanced clusters, we're also designing novel data centers and designing our own custom silicon specialized for our workloads.
+
+The second part of our playbook is open source software infrastructure. Our long-standing strategy has been to build and open source general infrastructure while keeping our specific product implementations proprietary.In the case of Al, the general infrastructure includes our Llama models, including Llama 3 which is training now and is looking great sofar,as wellas industry-standard tools like PyTorch that we've developed.This approach to open source has unlocked a ton of innovation across the industry and it's something that we believe in deeply.
+
+I know some people have questions about how we benefit from open sourcing the results of our research and large amounts of compute,so lthought it might be usefulto lay out the strategic benefits. The short version is that open sourcing improves our models,and because there's stillsignificant work to turn our models into products and because there willbe other open source models available anyway, we find that there are mostly advantages to being the open source leader and it doesn't remove differentiation from our products much anyway.
+
+More specifically, there are several strategic benefits.First, open source software is typically safer and more secure,as well as more compute efficient to operate due to allte ongoing feedback, scrutiny,and development from the community.This is a big deal because safety is one of the most important issues in Al. Efficiencyimprovements and lowering the compute costs also benefits everyone including us. Second,open source software often become an industry standard,and when companies standardize on building with our stack,that then becomes easier to integrate new innovations into our products. That's subtle,but the ability to learn and improve quickly is a huge advantage and being an industry standard enables that.Third,open source is hugely popular with developers and researchers.We know that people want to work on open systems that willbe widely adopted,so this helps us recruit the best people at Meta, which is avery big dealfor leading in any new technology area.And again,we typically have unique data and build unique product integrations anyway,so providing infrastructure like Lama as open source doesn't reduce our main advantages.This is why our long-standing strategy has been to open source general infrastructure and why lexpect it to continue to be the right approach for us going forward.
+
+The next part of our playbook is just taking a long-term approach to our development.While we're working on today's products and models, we're also working on the research we need to advance for Llama 5,6,and 7 in the coming years and beyond to develop full general intelligence.It's important to have a portfolio of multi-year investments and research projects.But it's also important to have clear launch vehicles like future Llama models that help focus our work.We've worked on general intellgence in our lab FAIR for more than a decade as Imentioned and we've produced a lot of valuable work. But having clear product targets for delivering general intelligence reallyfocuses this work and helps us build the leading research program.
+
+The next key part of our playbook is learning from unique data and feedback loops in our products.
+
+When people think about data,they typicaly think about the corpus you use to train a model up front. On Facebook and Instagram there are hundreds of bilions of publicly shared images and tens of billions of public videos, which we estimate is greater than the Common Crawl dataset and people share large numbers of public text posts in comments across our services as well.
+
+But even more important than the upfront training corpus is the ability to establish the right feedback loops with hundreds of millions of people interacting with Al services across our products. And this feedback is a big part of how we've improved our Al systems so quickly with Reels and ads,especially over the last couple of years when we had to rearchitect it around new rules.
+
+That brings me to the last part of our playbook for building leading services,which is our culture of rapid learning and experimentation across our apps.When we decide that a new technology like Alrecommended Reels is going to be an important part of the future, we're not shy about having multiple teams experimenting with different versions across our apps until we get it right --and then we learn what works and rollit out to everyone.There used to be this meme that we'd probably launch Stories on our Setings page at some point. And look,Ithink it's kind offunny because it gets to a core part of our approach.
+
+We start by learning and tuning our products until they perform the way we want,and then we roll them out broadly.Sometimes,occasionally products blow up before we're ready for them to,like Threads,although I'llnote that now Threads has more people actively using it today thanit did during its initial launch peak -- so that one's on track Ithink to be a major success. But normally, we learn and iterate methodically. We started doing that with our Al services in the fal, launching Meta Al, our assistant, Al Studio,which is the precursor to Creator Als,our alpha with businessAls,and then the RayBan Meta smart glasses.We've been tuning them and we're getting closer to rolling them out widely. So you should expect that in the coming months.
+
+From there, we'll focus on rolling out services until they reach hundreds of millions or billions of people. And usually only when we reach that kind of scale do we start focusing on what monetization wilook like. Although in this case, the way that business Als willhelp business messaging grow in WhatsApp, Messenger,and Instagram is prety clear.But that's our basic approach,and I'm really excited about pointing our company at developing so many of these awesome things.
+
+We have two major parts of our long term vision,and in addition to Al the other part is the metaverse We've invested heavily in both Al and the metaverse for a long time,and we willcontinue to do so. These days there are a lot of questions,more about Al and that field is moving very quickly,but I stil expect this next generation of AR, MR,and VR computing platforms to deliver a realistic sense of presence that willbe the foundation for the future of social experiences and almost every other category of experiences as well.
+
+Reality Labs crossed \$1 billion in revenue in Q4 for the first time, with Quest having a strong holiday season. Quest 3 is offto a strong start and lexpect it to continue to be the most popular mixed reality device.With Quest 3 and Quest 2 both performing wel, we saw the Quest app was the most downloaded app in the app store on Christmas Day.
+
+I want to give a shout out to Asgard's Wrath 2,which was developed by one of our in-house studios and received IGN's 10/10‘masterpiece'rating, making it one of the best-rated games out there- not just in VR games, but of any game,on any platform,ever.It's a good sign that we're ableto deliver that quality of work at Meta.
+
+Horizon is growing quickly too.It's now in the top 10 most-used apps on Quest and we have an exciting roadmap ahead.This is another example of applying the long-term playbook I discussed earlier with Al to another area.We take the time to build up the core tech and tune the experience,and then when it's ready we're good at growing things. Our focus for this year willbe on growing the mobile version of Horizon as well the VR one.
+
+Ray-Ban Meta smart glasses are also off to a very strong start, both in sales and engagement. Our partner EssilorLuxottica is already planning on making more than we'd both expected due to high demand.Engagementand retention are also significantly higher than the first version of the glasses.The experience is just a lot better with Meta Al in there,as wellas there's a higher resolution camera,better audio,and more.We also have an exciting roadmap of software improvements ahead,starting with rollig out multimodal Al and then some other really exciting new Al features later in the year.Isaid this before,but Ithink that people are going to want new categories of devices that let you frictionlessly engage with Als frequently throughout the day without having to take out your phone and press a button and point it at what you want it to see.Ithink smart glasses are going to be a compelling form factor for this,and it's a good example of how our Al and metaverse visions are connected.
+
+In addition to Al and the metaverse,we're continuing to improve our apps and ads businesses as well. Reels and our discovery engine remain a major priority and driver of engagement,and messaging continues to be our focus for building the next revenue pillar of our business before our longer term work reaches scale. But since Iwent a bit longer on the other areas today,I'm just going to mention just a few highlights.
+
+Reels continues to do very wellacross both Instagram and Facebook.People reshare Reels 3.5 bilion times every day. Reels is now contributing to our net revenue across our apps.The biggest opportunity going forward is unifying our recommendations systems across Reels and other types of video.That wil help people discover the best content across our systems no matter what format it's in.
+
+WhatsApp is also doing very welland the most exciting new trend here is that it's succeeding more broadlyin the United States where there's a real appetite fora private,secure,and cros-platform messaging app that everyone can use. Given the strategic importance of the US and its outsized importance for revenue, this is just a huge opportunity.
+
+Threads is also growing steadily with more than 130 milion monthly actives.And I'm optimistic we can keep the pace of improvements and growth going,and show that a friendly discussion-oriented app can be as widely used as the most popular social apps.
+
+Alright, that's what Iwanted to cover today. Our communities are growing and our businessis back on track.
+
+Once again,a big thank you to allof our employees, partners,shareholders and everyone in our community for sticking with us and for making 2023 such a success.I'm looking forward to another exciting year ahead.
+
+And now, here's Susan.
+
+# Susan Li, CFO
+
+Thanks Mark and good afternoon everyone.
+
+Let's begin with our consolidated results.All comparisons are on a year-over-year basis unless otherwise noted.
+
+Q4 total revenue was \$40.1 billion, up 25% or 22% on a constant currency basis.
+
+Q4 total expenses were \$23.7 billion, down 8% compared to last year.
+
+In terms of the specific line items:
+
+Cost of revenue decreased 8%,driven mainly by lower restructuring costs that were partially ofset by higher infrastructure-related costs.
+
+R&D increased 8%,driven primarily by higher headcount-related costs from Family of Apps and Reality Labs as wellas higher non headcount-related Reality Labs operating expenses, which were partially offset by lower restructuring costs.
+
+Marketing & Sales decreased 29%, due mainly to lower marketing spend and restructuring costs.
+
+G&A decreased 26%, due mainly to lower restructuring expenses.
+
+We ended the fourth quarter with over 67,300 employees,down 22% from a year ago while up 2% from Q3 as our hiring efforts have resumed.
+
+Fourth quarter operating income was \$16.4 bilion, representing a 41% operating margin.
+
+Our tax rate for the quarter was 17%.
+
+Net income was \$14.0 billion or \$5.33 per share.
+
+Capital expenditures,including principal payments on finance leases, were \$7.9 billion,driven by investments in servers,data centers and network infrastructure.
+
+Free cash flow was \$11.5 billion, which reflects a \$1.6 billion payment of income taxes deferred from prior quarters of 2023.We ended the year with \$65.4 bilion in cash and marketable securities and \$18.4 billion in debt.
+
+In the fourth quarter we repurchased \$6.3 bilion of our ClassA common stock, bringing our total share repurchases for the full year to \$20.0 billon.We had \$30.9 billion remaining on our prior authorization as of December 31st and today we announced a \$50 billion increase in our stock repurchase authorization.
+
+Moving now to our segment results.
+
+I'll begin with our Family of Apps segment.
+
+In Q4,we saw continued community growth across the Family of Apps,as wellas Facebook specifically. We're sharing today that, as previewed when we first introduced our Family metrics, we are transitioning away from reporting Facebook-specific metrics.As part of this transition, we willno longer report Facebook daily and monthly active users or Family monthly active people.In Q1, we willinstead begin reporting year-over-year changes in ad impressions and the average price per ad at the regional level, while continuing to report Family daily active people.
+
+For full year 2023,Family of Apps total revenue was \$133.0 billion and ad revenue was \$131.9 billion, each up 16% year-over-year.The largest contributors to year-over-year ad revenue growth were the online commerce, CPG,entertainment and media,and gaming verticals.The online commerce and gaming verticals benefited from strong demand by advertisers in China reaching people in other markets.In 2023,revenue from China-based advertisers represented 10% of our overallrevenue and contributed 5 percentage points to total worldwide revenue growth.
+
+Turning back to Q4 results.
+
+Q4 Total Family of Apps revenue was \$39.0 billion, up 24% year over year.
+
+Q4 Family of Apps ad revenue was \$38.7 billion, up 24% or 21% on a constant currency basis.
+
+Within ad revenue, the online commerce vertical was the largest contributor to year-over-year growth, followed by CPG and gaming.
+
+On a user geography basis,ad revenue growth was strongest in Europe and Rest of World at 33% and 32%, respectively,followed by Asia Pacific at 23% and North America at 19%.Foreign currency was a tailwind to advertising revenue growth in all international regions.
+
+In Q4,the total number of ad impressions served across our services increased 21% and the average price per ad increased 2%.Impression growth was mainly driven by Asia-Pacific and Rest of World. Pricing growth was driven by advertiser demand and currency tailwinds,which were partially offset by strong impression growth, particularly from lower-monetizing surfaces and regions.
+
+Family of Apps other revenue was \$334 million in Q4, up 82%, driven by business messaging revenue growth from our WhatsApp Business Platform.
+
+We continue to direct the majority of our investments toward the development and operation of our Family of Apps. In Q4, Family of Apps expenses were \$18.0 billion, representing approximately 76% of our overallexpenses. Family of Apps expenses were down 13% due to lower restructuring expenses.
+
+Family of Apps operating income was \$21.0 bilion, representing a 54% operating margin. Within our Reality Labs segment, Q4 revenue was \$1.1 billion, up 47% driven by Quest 3 sales during the holiday season.
+
+Reality Labs expenses were \$5.7 bilion, up 14% year-over-year due primarily to higher headcountrelated expenses and non-headcount related R&D spend.
+
+Reality Labs operating loss was \$4.6 billion.
+
+Turning now to the business outlook. There are two primary factors that drive our revenue performance: Our ability to deliver engaging experiences for our community,and our efectiveness at monetizing that engagement over time.
+
+On the first - we remain pleased with engagement trends and have strong momentum across our product priorities.
+
+We're seeing sustained growth in Reels and video overallas daily watch time across allvideo types grew over 25% year-over-year in Q4,driven by ongoing ranking improvements.In-feed recommendations of posts from accounts you're not connected to also continue to drive incremental engagement as we increasingly personalize recommendations,and we expect to deliver further improvements this year. On Instagram,we're making strong progress increasing the freshness of recommended content,and a big focus for Facebook this year willbe unifying our video experiences and ranking acrossthe app, which should create a more seamless user experience and deliver increasingly relevant video recommendations. On WhatsApp, community growth remains strong and we're seeing good traction with our Channels product, which has quickly scaled to over 5O0 million monthly active users since we rolled it out globally in September.
+
+We're also making good progressin areas that have the potential to grow people's engagement with our products in the longer-term, such as Threads and generative Al.
+
+On Threads, we're coming into 2024 with strong product momentum and remain focused on introducing additional valuable features and further scaling the community this year.
+
+With generative Al, we fully rolled out our Meta Al assistant and other Al chat experiences in the US at the end of the year and began testing more than 20 gen Alfeatures across our Family of Apps. Our big areas of focus in 2024 willbe working towards the launch of Llama 3,expanding the usefulness of our Meta Al assistant, and progressing on our Al studio roadmap to make it easier for anyone to create an Al. For the experiences in our apps, we'llfollow our typical approach of making them great before we lean into growth and eventually monetization,but this continues to be an exciting area that has the potential to transform how people engage on our services in the years ahead.
+
+Now to the second driver of our revenue performance: increasing monetization efficiency. There are two parts to this work.
+
+The first part is growing the level of ad inventory within organic engagement. Our approach to optimizing ad levels in our apps has become increasingly sophisticated over the years as we've developed a better understanding of the optimal place,time and person to show an ad, which has enabled us to adopt a more dynamic approach to serving ads.We expect to continue that work going forward, while surfaces with relatively lower levels of monetization,like video and messaging, willserve as additional growth opportunities.
+
+The other part to increasing monetization eficiency is improving marketing performance.To do this, we're focused on three areas:
+
+The first is Al. We continue to leverage Al across our ads systems and product suite.
+
+We're delivering continued performance gains from ranking improvements as we adopt larger and more advanced models and this will remain an ongoing area of investment in 2024.
+
+We're also building out our Advantage+ portfolio of solutions to help advertisers leverage Al to automate their advertising campaigns. Advertisers can choose to automate part of the campaign creation set up process,such as who to show their ad to,with Advantage+ Audience. Or, they can automate their campaign completely using our end-to-end automation tool for driving online sales, Advantage+ Shopping, which continues to see strong growth. We're also now exploring ways to apply this end-to-end automation to new objectives.
+
+On the ads creative side,we completed the global rollout of two of our generative Al features in Q4 - text variations and image expansion -and plan to broaden availability of our background generation feature later in Q1. Initial adoption of these features has been strong and tests are showing promising early performance gains. This wil remain a big area of focus for us in 2024.
+
+The second area of our work is helping businesses connect their marketing data and measure results. Here,we're continuing to invest in Conversions APl to make it easier for advertisers to not only adopt, but maximize its impact.
+
+The last area is investing in new and engaging on-platform ad experiences.
+
+Business messaging remains a priority here. Click to message ads continue to grow and we're seeing advertisers increasingly use these ads to drive down-funnel conversions.
+
+Paid messaging is growing quickly and we are focused on broadening adoption in 2024 by making it easier for businesses to buy marketing messges and more easily adopt our Flows product to develop richerin-thread experiences for consumers. We're also progressing with our early testing on WhatsApp and Messenger of Als for businesses that can provide conversational support in chat. We'lltake our time to get these experiences right but we think this willbe a compelling opportunity that we're well positioned to deliver on. Outside of business messaging, we're making strong progress with our Shops ads product, which crossed a \$2 billion annual run-rate in Q4.
+
+Next,Iwould like to discuss our approach to capital allocation.We are in the fortunate position of being able to invest in many organic opportunities to improve the performance of our core business in the near-term while also making two significant longer time horizon investments in Al and Reality Labs. Al is a growing area of investment for us in 2O24 as we hire to support our roadmap.We're also investing more in our Al infrastructure capacity this year,and given many of our ambitious forward-looking plans will rely on having suficient compute capacity,we expect this to be an area we invest more aggressively in over the coming years.Reality Labs is the other long-term initiative we continue to invest heavily in as we progress on our efforts to develop the next computing platform.
+
+Aside from organic investments,returning capital to shareholders remains important to us.We believe our strong financial position and performance will enable us to invest in the business while also continuing to return capital to investors over time.We've historically done so through share repurchases,and while we expect to maintain an active share repurchase program,we are modestly evolving our approach going forward by returning a portion of capital through a regular dividend, subject to quarterly Board approval.
+
+In addition, we continue to monitor the active regulatory landscape,including the increasing legal and regulatory headwinds in the EU and the US that could significantly impact our business and our financial results. Of note,the FTC is seeking to substantially modify our existing consent order and impose additional restrictions on our ability to operate.We are contesting this matter,but if we are unsuccessfulit would have an adverse impact on our business.
+
+Turning now to the revenue outlook.
+
+We expect first quarter 2024 total revenue to be in the range of \$34.5-37 billion.Our guidance assumes foreign currency is neutral to year-over-year total revenue growth,based on current exchange rates.
+
+Turning now to the expense outlook. We expect full-year 2024 total expenses to be in the range of \$94- 99 billion,unchanged from our prior outlook.We continue to expect a few factors to be drivers of total expense growth in 2024:
+
+First, we expect higher infrastructure-related costs this year. Given our increased capital investments in recent years,we expect depreciation expenses in 2024 to increase by a larger amount than in 2023.We also expect to incur higher operating costs from running a larger infrastructure footprint.
+
+Second, we anticipate growth in payroll expenses as we work down our current hiring underrun and add incremental talent to support priority areas in 2024,which we expect willfurther shift our workforce composition toward higher-cost technical roles.
+
+Finally, for Reality Labs, we expect operating losses to increase meaningfully year-over-year due to our ongoing product development efforts in AR/VR and our investments to further scale our ecosystem.
+
+Turning now to the capex outlook.We anticipate our full-year 2024 capital expenditures willbe in the range of \$30-37 billon,a \$2 billion increase ofthe high end of our prior range.We expect growth will be driven by investments in servers,including both Al and non-Al hardware,and data centers as we ramp up construction on sites with our previously announced new data center architecture.Our updated outlook reflects our evolving understanding of our Al capacity demands as we anticipate what we may need for the next generations of foundational research and product development. While we are not providing guidance for years beyond 2024, we expect our ambitious long-term Al research and product development efforts will require growing infrastructure investments beyond this year.
+
+On to tax. Absent any changes to U.S.tax law, we expect our full-year 2024 tax rate to be in the midteens.
+
+In closing,this was a pivotal year for our company.We increased our operating discipline,delivered strong execution across our product priorities,and improved advertising performance for the businesses who rely on our services.We willook to build on our progress in each of those areas in 2024 while advancing our ambitious, longer-term efforts in Al and Reality Labs.
+
+With that, Krista,let's open up the callfor questions.

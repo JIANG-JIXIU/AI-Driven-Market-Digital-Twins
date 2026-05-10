@@ -1,0 +1,100 @@
+# Meta Earnings Presentation Q12024
+
+# Advertising Revenue by User Geography In Millions
+
+\$38,706 6.40 \$26.998 \$28.152 \$27.237 \$28.201 \$5,661 \$5,835 \$5,717 \$5,893 \$9,159 \$6,904 \$7,268 \$7,721 \$8,327 \$6,364 \$6,360 \$5,707 \$6,269 Rest of World \$12,024 \$12,788 \$12,766 \$15,005 \$12,710 \$14,131 \$14,956 \$17,784 \$15,451 Asia-Pacific Europe us&Canada Q1'22 Q2'22 Q3'22 Q4'22 Q1'23 Q2'23 Q3'23 Q4'23 Q1'24
+
+# Revenue by User Geography In Millions
+
+\$40,111 \$4,573 \$36,455 \$7,512 67.48 \$27.908 \$28.822 \$2714 \$28.645 \$5,759 \$5,908 \$5,782 \$5,960 \$9,441 \$7,050 \$7,32 \$7,777 \$8,483 \$6,486 \$6,452 \$5,797 \$6,345 Rest of World \$12,671 \$13,249 \$13,035 \$15,636 \$13,048 \$14,422 \$15,190 \$18,585 \$15,824 Asia-Pacific Europe JUS& Canada Q1'22 Q2'22 Q3'22 Q4'22 Q1'23 Q2'23 Q3'23 Q4'23 Q1'24
+
+# Segment Results
+
+In Millions
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2024_Q1_Earnings_Presentation/images/98f11d4c2102bc3d86474f5ed8bcf1d6a593db8645b68edd2bf04853c0d16987.jpg)
+We report our financial results based on two reportable seg consumer hardware,software,andcontent.
+
+# Expenses as a Percentage of Revenue
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2024_Q1_Earnings_Presentation/images/385352a75d9305cbe0f8307f0d8515836788d055da7f3bb0fe5ce353c7de7d83.jpg)
+
+# Effective Tax Rate
+
+In Millions, Except for Percentages
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2024_Q1_Earnings_Presentation/images/3c700cf320107c576f595a7cfa8946d2ba402f3f96e1a110adb1df0964a8f149.jpg)
+
+# Net Income
+
+In Millions
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2024_Q1_Earnings_Presentation/images/92995d667f29d40f29d70adfea0fdad42b3d2b8de3e14ecdcc9f7e494051a511.jpg)
+
+# Diluted Earnings Per Share
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2024_Q1_Earnings_Presentation/images/ab1c7a709ac1e39efcf28a111e7f7b37efcb361e9ea3965f4d0c61456c998dda.jpg)
+
+# Capital Expenditures In Millions
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2024_Q1_Earnings_Presentation/images/9954b87ad56ce90258f9f5550d52906cbcc5996513603a4fbdcf56a6a48beb84.jpg)  
+Capitalexpendituresforperiodspresentedererelatedtopurchasesofpropertyandquipment,netandprincipalpaymentsonfinanceleases.
+
+# Family Daily Active People (DAP) In Billions
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2024_Q1_Earnings_Presentation/images/2ad1a9e369c49da6915792f5c22ed8552eda5983298567a322d6570a28f71523.jpg)  
+rmobile browser ona given day.
+
+hembersfoeesotprodsstldwisealifdttimlc
+
+thefourth quarterof 2O23,our Family metrics no longer include Messenger Kids users.
+
+# Family Average Revenue per Person (ARPP)
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2024_Q1_Earnings_Presentation/images/341a06ab6917786186206e550a95c4b45ffb6d1b6fef1450b95eed1cba186f5b.jpg)
+
+# Ad Impressions Delivered YoY Percentage Change
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2024_Q1_Earnings_Presentation/images/9f06601c88344f424aaa666c260e8930bed756c9bc4e35e5fa01823725e134c6.jpg)  
+uradipsiii
+
+26% 25% 17%   
+11% 12%   
+Q1'23Q2'23Q3'23Q4'23Q1'24 Europe
+
+# Average Price Per Ad YoY Percentage Change
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2024_Q1_Earnings_Presentation/images/505324870fe773f48c2e96c9c1711e3e586dfd508a87344ba12b5f1a082817f3.jpg)
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2024_Q1_Earnings_Presentation/images/6a4bcada2e3f8c0e900a9922e1250a4d766a81b5aa9cfd46b4aa66c7aac1fa24.jpg)  
+Oueagr
+
+# Appendix
+
+# Free Cash Flow Reconciliation In Millions
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2024_Q1_Earnings_Presentation/images/c21cd077a6043bd14dcfbd470625521ea82e102fa7143fb9a0bd9d4dc7a6dfb0.jpg)
+
+# Limitations of Key Metrics and Other Data
+
+# Family Metrics
+
+Ti nde (collectively,our "Family" of products) during the applicable period of measurement.
+
+iltt fopr i dl l error margins disclosed below.
+
+ii online and mobile populations that are based on data published by third parties.
+
+metis ere metr t etat i t t trends.
+
+# Limitations of Key Metrics and Other Data
+
+T ase a veithed e frv ti leii i addition,such evolution may alow us to identify previouslyundetected violating accounts (as defined below).
+
+eei t l e tsi a ct e violating accounts may vary significantly from our estimates.
+
+# User Geography
+
+uestate a loat technical errors.
+
+# Meta Earnings Presentation Q12024

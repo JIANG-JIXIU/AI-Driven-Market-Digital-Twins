@@ -1,0 +1,374 @@
+{
+  "company": "Meta Platforms",
+  "ticker": "META",
+  "results": {
+    "presentations": [
+      {
+        "file": "META_2022_Q1_Earnings_Presentation.pdf",
+        "success": false
+      },
+      {
+        "file": "META_2022_Q2_Earnings_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2022_Q3_Earnings_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2022_Q4_Earnings_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2023_Q1_Earnings_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2023_Q2_Earnings_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2023_Q3_Earnings_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2023_Q4_Earnings_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2024_Q1_Earnings_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2024_Q2_Earnings_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2024_Q3_Earnings_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2024_Q4_Earnings_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2025_Q1_Earnings_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2025_Q2_Earnings_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2025_Q3_Earnings_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2025_Q4_Earnings_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2026_Q1_Earnings_Presentation.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2026_Q2_Earnings_Presentation.pdf",
+        "success": false
+      },
+      {
+        "file": "META_2026_Q3_Earnings_Presentation.pdf",
+        "success": false
+      },
+      {
+        "file": "META_2026_Q4_Earnings_Presentation.pdf",
+        "success": false
+      }
+    ],
+    "transcripts": [
+      {
+        "file": "META_2022_Q1_Transcript.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2022_Q2_Transcript.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2022_Q3_Transcript.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2022_Q4_Transcript.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2023_Q1_Transcript.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2023_Q2_Transcript.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2023_Q3_Transcript.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2023_Q4_Transcript.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2024_Q1_Transcript.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2024_Q2_Transcript.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2024_Q3_Transcript.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2024_Q4_Transcript.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2025_Q1_Transcript.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2025_Q2_Transcript.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2025_Q3_Transcript.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2025_Q4_Transcript.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2026_Q1_Transcript.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2026_Q2_Transcript.pdf",
+        "success": false
+      },
+      {
+        "file": "META_2026_Q3_Transcript.pdf",
+        "success": false
+      },
+      {
+        "file": "META_2026_Q4_Transcript.pdf",
+        "success": false
+      }
+    ],
+    "prepared_remarks": [
+      {
+        "file": "META_2022_Q1_Prepared_Remarks.pdf",
+        "success": false
+      },
+      {
+        "file": "META_2022_Q2_Prepared_Remarks.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2022_Q3_Prepared_Remarks.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2022_Q4_Prepared_Remarks.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2023_Q1_Prepared_Remarks.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2023_Q2_Prepared_Remarks.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2023_Q3_Prepared_Remarks.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2023_Q4_Prepared_Remarks.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2024_Q1_Prepared_Remarks.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2024_Q2_Prepared_Remarks.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2024_Q3_Prepared_Remarks.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2024_Q4_Prepared_Remarks.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2025_Q1_Prepared_Remarks.pdf",
+        "success": false
+      },
+      {
+        "file": "META_2025_Q2_Prepared_Remarks.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2025_Q3_Prepared_Remarks.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2025_Q4_Prepared_Remarks.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2026_Q1_Prepared_Remarks.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2026_Q2_Prepared_Remarks.pdf",
+        "success": false
+      },
+      {
+        "file": "META_2026_Q3_Prepared_Remarks.pdf",
+        "success": false
+      },
+      {
+        "file": "META_2026_Q4_Prepared_Remarks.pdf",
+        "success": false
+      }
+    ],
+    "press_releases": [
+      {
+        "file": "META_2022_Q1_Press_Release.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2022_Q2_Press_Release.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2022_Q3_Press_Release.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2022_Q4_Press_Release.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2023_Q1_Press_Release.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2023_Q2_Press_Release.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2023_Q3_Press_Release.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2023_Q4_Press_Release.pdf",
+        "success": false
+      },
+      {
+        "file": "META_2024_Q1_Press_Release.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2024_Q2_Press_Release.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2024_Q3_Press_Release.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2024_Q4_Press_Release.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2025_Q1_Press_Release.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2025_Q2_Press_Release.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2025_Q3_Press_Release.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2025_Q4_Press_Release.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2026_Q1_Press_Release.pdf",
+        "success": true
+      },
+      {
+        "file": "META_2026_Q2_Press_Release.pdf",
+        "success": false
+      },
+      {
+        "file": "META_2026_Q3_Press_Release.pdf",
+        "success": false
+      },
+      {
+        "file": "META_2026_Q4_Press_Release.pdf",
+        "success": false
+      }
+    ],
+    "sec_filings": [
+      {
+        "file": "META_2026-04-30_10Q.htm",
+        "success": true
+      },
+      {
+        "file": "META_2026-01-29_10K.htm",
+        "success": true
+      },
+      {
+        "file": "META_2025-10-30_10Q.htm",
+        "success": true
+      },
+      {
+        "file": "META_2025-07-31_10Q.htm",
+        "success": true
+      },
+      {
+        "file": "META_2025-05-01_10Q.htm",
+        "success": true
+      },
+      {
+        "file": "META_2025-01-30_10K.htm",
+        "success": true
+      },
+      {
+        "file": "META_2024-10-31_10Q.htm",
+        "success": true
+      },
+      {
+        "file": "META_2024-08-01_10Q.htm",
+        "success": true
+      },
+      {
+        "file": "META_2024-04-25_10Q.htm",
+        "success": true
+      }
+    ]
+  },
+  "total_success": 73,
+  "total_failed": 16
+}

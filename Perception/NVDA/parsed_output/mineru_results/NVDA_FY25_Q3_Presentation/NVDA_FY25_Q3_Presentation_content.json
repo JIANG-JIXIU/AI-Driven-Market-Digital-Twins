@@ -1,0 +1,559 @@
+[
+  {
+    "type": "text",
+    "text": "Investor Presentation Q3FY25 中 November 2024 ",
+    "text_level": 1,
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "related use cases entertainn ; VolvoCars rolingoutits fullyelectric SUVbuilton NVIDIA OrinandDRIVE OS; Indias leading CSPs building Al factories with i te twinbeforeexpaiiat ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "i of our products or technologies when integrated into systems and other factors. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "are posted on our website and are available from NVIDlA without charge. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Many of the products and features described herein remaii stages intended to be, and should not be interpreted as a commitment, promise, or legal obligation, and the development, release,and timing of any features or functionalities described for our products is subject to change and remains at the sole discretion of NVIDIA. NVIDIA will have no liability for failure to deliver thedel tforth ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "te et Gt GAAP measures, may be found in the slide titled“Reconciliation of Non-GAAP to GAAP Financial Measures\". ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "# ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Content ",
+    "text_level": 1,
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Q3 FY25 Earnings Summary ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Key Announcements This Quarter ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Reconciliationof Non-GAAP to GAAP Financial Measures ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Q3 FY25 Earnings Summary ",
+    "text_level": 1,
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Record quarter driven primarily by strong Data Center growth ",
+    "text_level": 1,
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Total revenue up 94% Y/Y to \\$35.1B, well above outlook of \\$32.5B +/- 2%   \n· Record Data Center up 112% Y/Y to \\$30.8B Gaming up 15% Y/Y to \\$3.3B ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Data Center revenue driven by exceptional demand for the NVIDIA Hopper platform ",
+    "text_level": 1,
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "·SequentialyAH2Osalesincreaedignificantlytouble-digitbillonsthfstestproductampinurcompansstory   \nBlackwell in full production after successfully executed mask change   \nNVIDIA's Ampere and Hopper infrastructures are fueling inference revenue growth for customers   \nEnterprise Al is in full throttle - industry leaders are using NVIDlA Al to build copilots and agents   \nIndustrial Al and robotics is accelerating, triggered by breakthroughs in Physical Al ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Gaming end demand is strong while channelinventory remains healthy ",
+    "text_level": 1,
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Great quarter for Gaming with notebook,console,and desktop revenue allgrowing sequentiallyand yearon year ·EnddemandfueledbytrongbacktoshoolsalesasconsumerschooseGeForceRXGPUsanddevicestopowergamingcreativeandAl applications ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Q3FY25 Financial Summary ",
+    "text_level": 1,
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/3c2672661e4141dddc46a5b9edafc04992e62fafe5b9c18af1340d1632bcd83a.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/652312307e52c08cb6aced9191e389289e9d25ad4b1deb15840c5013a4baf0c8.jpg",
+    "table_caption": [],
+    "table_footnote": [
+      "All dollar figuresareinmilionsother than EPS. Refer toAppendix forreconciliationof Non-GAAPmeasures. "
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "DataCenter ",
+    "text_level": 1,
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Cloud Service Providers were approximately half of our Data Center sales with revenue increasing more than 2x Y/Y ",
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/f76a5a680988994847026e25f00f6b9d5dd15a44b3fb517bf83f7e49ffeb3872.jpg",
+    "img_caption": [
+      "Revenue (\\$M) "
+    ],
+    "img_footnote": [],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA GPU regional cloud revenue jumped 2x Y/Y with strength in North America, EMEA and Asia Pacific regions ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Consumer Internet revenue more than doubled Y/Y as companies scaled their NVIDlA Hopper infrastructure ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA H20O-powered cloud instances now available from AWS, CoreWeave,Microsoft Azure, withGoogle Cloud,OCl coming soon ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA is the largest inference platform in the world ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Software, service, and support revenue is annualizing at \\$1.5B and we expect to exit this year annualizing at over \\$2B ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Spectrum-X Ethernet for Al revenue increased over 3x yearon-year, and our pipeline continues to build ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Gaming ",
+    "text_level": 1,
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/e478f319644c7372d6d7809186822f933b96ba8e33f5f618473e0290c65babbd.jpg",
+    "img_caption": [
+      "Revenue (\\$M) "
+    ],
+    "img_footnote": [],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Channel inventory remains healthy and we're gearing up for the holiday season   \n. Began shipping new GeForce RTX Al PCs with up to 321 Al TOPS from ASUS and MSl with Microsoft Copilot+ capabilities anticipated in Q4   \n. Celebrated the 25th anniversary of the GeForce 256, the world's first GPU ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Professional Visualization ",
+    "text_level": 1,
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/f4a77c14a269a2a1141a465d5e992c601f5b813197dcccc8a3c646f513a57ba1.jpg",
+    "img_caption": [
+      "Revenue (\\$M) "
+    ],
+    "img_footnote": [],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA RTX workstations continue to be the preferred choice to power professional graphics,design,and engineering related workloads ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Al is emerging as a powerful demand driver including for autonomous vehicle simulation, generative Al model prototyping for productivity related use cases,and generative Al content creation in media and entertainment ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Automotive ",
+    "text_level": 1,
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/aa518b525b6fce508d91adb1a542c4977e52507556071f5fb5c10e1df319b0bd.jpg",
+    "img_caption": [
+      "Revenue (\\$M) "
+    ],
+    "img_footnote": [],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Strong growth was driven by self-driving ramps of NVIDIA Orin and robust end market demand for NEVs Volvo Cars is rolling out its fully electric EX9O SUV built on NVIDIA Orin and DRIVE OS ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Sources & Uses of Cash ",
+    "text_level": 1,
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/0c1b319a05cfb5befb0dc25fdc31b8563208784d683bcf10221d2d9bc2ee2613.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Cash Flow from Operations (\\$M) ",
+    "text_level": 1,
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Q/Q increase reflects higher revenue and the timing of payments of cash taxes throughout the year   \nY/Y increase reflects higher revenue   \nUtilized cash of \\$11.2B towards shareholder returns, including \\$11.0B in share repurchases and \\$245M in cash dividends   \nInvested \\$842M in capex (includes principal payments on PP&E) Ended the quarter with \\$38.5B in gross cash and \\$8.5B in debt; \\$30.0B in net cash ",
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Q4 FY25 Outlook ",
+    "text_level": 1,
+    "page_idx": 11
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/13e69708582e9c4924c187e9db77b6ab4344827740a5dd9b0f9e4cd0a2cd4b46.jpg",
+    "table_caption": [],
+    "table_footnote": [
+      "Refer to Appendix for reconciliation of Non-GAAP measures. "
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Key Announcements This Quarter ",
+    "text_level": 1,
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "India Adopts NVIDIA Accelerated Computing to Revolutionize Industries with Al the Driving Force ",
+    "text_level": 1,
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "India's leading CSPs including Tata Communications and Yotta Data Services,are building Ai factories with tens of thousands of NVIDIA GPUs. By year end, they will have boosted NVIDlA GPU deployments in the country by nearly 10x ",
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Infosys, Tata Consultancy Services (TCS),and Wipro are adopting NVIDiA Al Enterprise and upskilling nearly half a million developers and consultants to help clients build and run Al agents on our platform ",
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Manufacturers and service providers in India including Reliance Industries, TCS,and Tech Mahindra are adopting NVIDIA Omniverse to tap into simulation, digital twins, and generative Al ",
+    "page_idx": 13
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/6a735eb28d1ce4a07442e6e113e1e12e7ade68aa41b69696b4d1bd858dcc6b57.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Al Aerial Launches to Optimize Wireless Networks, Deliver New Generative Al Experiences on One Platform ",
+    "text_level": 1,
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "We launched the NVIDIA Al Aerial platform and announced a collaboration with T-Mobile to revolutionize the wireless telecommunications network and industry ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Al Aerial is a fusion of wireless communications and Al computing into one platform. It is the world's first Al-RAN platform capable of hosting generative Al and RAN traffic, as well as integrating Al into network optimization ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Consisting of accelerated computing algorithms,software, and hardware, NviDIA Al Aerial willenable designing, simulating, training and deploying Al radio access network technology (Al-RAN) for wireless networks in the Al era ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Future telecommunications networks will run better with Al and, in addition to voice, data, and video, also host Al applications. Wireless networks can be exponentially more capable ",
+    "page_idx": 14
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/35d87190d4b7a31388754d07a6418d1f9df5728227f62049eca6513d29f0660a.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Volvo Cars EX9O SUV Rolls Out, Built on NVIDIA ",
+    "text_level": 1,
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Volvo Cars is rolling out its fully electric EX9O, built on the NVIDIA DRIVE Orin system-on-a-chip (SoC), capable of more than 250 trillion operations per second (TOPS) Running NVIDlA DriveOS, the system delivers high-performance processing with automotive-grade functional safety ",
+    "page_idx": 15
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/e0d74728a7dfa277ab354670e9e46e84e0c97576cb28f5eb49fd45034906186c.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Japan Adopts NVIDIA Technologies to Drive a New Industrial Revolution ",
+    "text_level": 1,
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "GMO Internet Group, Highreso, KDDI, Rutilea,and SAKURA internet are building Al infrastructure with NvIDIA accelerated computing, networking and software to accelerate transformation across the nation's robotics,automotive, healthcare, and telecom industries ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "SoftBank is building the nation's most powerful Al supercomputer with NVIDlA DGX Blackwell and Quantum InfiniBand ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Softbank is also partnering with NVIDlA to transform the telecommunications network into a distributed Al network with NVIDIA Al Aerial, an Al-RAN platform that can process both 5G-RAN and Al on CUDA ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Leaders across Japan including Fujitsu, NEC,and NTT are adopting NVIDIA Al Enterprise and major consulting companies including EY Strategy and Consulting will help bring NVIDlA Al technologies to Japan's industries ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Toyota, Yaskawa, Seven &i Holdings,and Rikei are bringing physical Al to industrieswith NViDiA Al and Omniverse ",
+    "page_idx": 16
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/a73c930bc1303c9fa8dce403477415c797d8b530c361aa250ec4a45032c6ace4.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Foxconn Uses NVIDIA Omniverse to Speed Bring-up of Blackwell Factories ",
+    "text_level": 1,
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "To meet demand for Blackwell, Foxconn, the world's largest electronics manufacturer, is using NVIDIA Omniverse, to bring facilities in the U.S., Mexico and Taiwan online faster than ever ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Omniverse enables industrial developers to maximize efficiency through test and optimization in a digital twin before deploying costly change-orders to the physical world ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Foxconn uses NVIDlA Omniverse to virtually integrate their facility and equipment layouts, NVIDlA Isaac Sim for autonomous robot testing and simulation,and NViDlA Metropolis for vision Al ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Foxconn expects its Mexico facility alone to deliver significant cost savings and a reduction in kilowatt-hour usage of more than 30% annually ",
+    "page_idx": 17
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/acf314b0bd007ea73e0d7db2d5ce7a9ba7cadbf27f777448a1c5cb21da66939d.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Blackwell Delivers Next-Level MLPerf Training Performance ",
+    "text_level": 1,
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "In the latest MLPerf Training 4.1 industry benchmarks, the NVIDlA Blackwell platform sweep the per-GPU benchmarks and delivered a 2.2x leap in performance over Hopper ",
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Hopper platform continued to hold at-scale records on all benchmarks, including a submission on the GPT-3 175B benchmark using 11,616 Hopper GPUs connected with NVIDIA NVLink and NVSwitch and NVIDIA Quantum-2 InfiniBand networking ",
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Blackwell's higher compute throughput and significantly larger and faster memory allowed it to run the GPT-3 175B benchmark on just 64 GPUs vs 256 Hopper GPUs, or a 4x reduction in cost ",
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "With continued full stack optimizations NVIDlA Hopper GPUs have more than tripled scale and performance on the GPT-3 175B benchmark since last year ",
+    "page_idx": 18
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/b071d5ba5a43daf735425d79d311bb221e4bb2112b8e3d390189ed58fa5ae699.jpg",
+    "img_caption": [
+      "LLM Pre-Training ",
+      "Full-Stack Innovation "
+    ],
+    "img_footnote": [],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Al Superchip   \n2nd Generation Transformer Engine   \n5th Generation NVLink and NVLink Switch   \nOptimized GEMMs and Convolutions   \nMore Efficient Math and Comms Overlap   \nEnhanced Parallelism   \nSystem Design ",
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "Reconciliation of Non-GAAP to GAAP Financial Measures ",
+    "text_level": 1,
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Reconciliationof Non-GAAPto GAAP Financial Measures ",
+    "text_level": 1,
+    "page_idx": 20
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/55d892cf2d46a62ac84e06177ad9f53e2dd37260bf861ddae86c8680bed7dc43.jpg",
+    "table_caption": [],
+    "table_footnote": [
+      "Consistsofamortizationof intangibleassetsand transactioncosts. B.Stockbaseidsedeodds Otersisfrie "
+    ],
+    "page_idx": 20
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/dd1ba66a954f946d2051ad8ed8c138616511dab8e7dd94b9b2e172c384ac7c02.jpg",
+    "table_caption": [
+      "Reconciliationof Non-GAAPto GAAP FinancialMeasures (contd.) "
+    ],
+    "table_footnote": [
+      "A.Consists of amortization of intangible assets. B. Stock-based compensation charge was allocated to cost of goods sold. C. Other consists of IP-related costs. "
+    ],
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "Reconciliation of Non-GAAPto GAAPFinancialMeasures(contd.) ",
+    "text_level": 1,
+    "page_idx": 22
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/4dc00aa6f743500213f7f057525902b141aff7b720bf7e2e6673327756f5155a.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 22
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/e25d21ca3e8a4ea0c2a53817a638286e0350c2119b3e690fd2abb1c44c0b0928.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 23
+  }
+]

@@ -1,0 +1,105 @@
+# CFO Commentary on Fourth Quarter and Fiscal 2O24 Results
+
+# Q4 Fiscal 2024 Summary
+
+GAAP   
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_CFO_Commentary/images/54db799d7f9472c9b887ccca2ba99ef8ae01a34ba671cd172d7f143f50b0b1fe.jpg)
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_CFO_Commentary/images/5cb8e446f8273d2c1acffcd85b48c29c425bb25147eb1ae56f7c3e82dc07d24b.jpg)
+
+Fiscal 2024 Summary   
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_CFO_Commentary/images/328f3b54c090dcd7fc0ca76479a3e8f888f829cb855d820dd802d6a050013ffe.jpg)
+
+We specialize in markets where our computing platforms can provide tremendous acceleration for applications. These platforms incorporate processors, interconnects, software,algorithms, systems and services to deliver unique value. Our platforms address four large markets where our expertise is critical: Data Center, Gaming, Professional Visualization,and Automotive.
+
+# Revenue
+
+Revenue for the fourth quarter was \$22.1 billon,up 265% from a year ago and up 22% sequentially.   
+Fiscal year revenue was \$60.9 bilion, up 126% from a year ago.
+
+Data Center revenue for the fourth quarter was a record, up 409% from a year ago and up 27% sequentially. These increases reflect higher shipments of the NVIDIA Hopper GPU computing platform used for the training and inference of large language models,recommendation engines,and generative Al applications,along with InfiniBand end-to-end solutions.Data Center revenue for fiscal year 2024 was up 217%.In the fourth quarter,large cloud providers represented more than half of our Data Center revenue，supporting both internal workloads and external customers.Strong demand was driven by enterprise software and consumer internet applications,and multiple industry verticals including automotive, financial services,and healthcare. Customers across industry verticals access NVIDIA Al infrastructure both through the cloud and on-premises. Data Center sales to China declined significantly in the fourth quarter due to U.S. government licensing requirements. Data Center compute revenue was up 488% from a year ago and up 27% sequentiallyin the fourth quarter; it was up 244% in the fiscal year. Networking revenue was up 217% from a year ago and up 28% sequentially in the fourth quarter; it was up 133% in the fiscal year.
+
+Gaming revenue was up 56% from a year ago and flat sequentially. Fiscal year revenue was up 15%. The year-on-year increases for the quarter and fiscal year reflect higher sell-in to partners following the normalization of channel inventory levels and growing demand.The launch of our GeForce RTX 40 SUPER Series family of GPUs also contributed to revenue in the quarter.
+
+Professional Visualization revenue was up lO5% from a year ago and up 11% sequentialy. Fiscal year revenue was up 1%.The year-on-year increase for the quarter primarily reflects higher sellin to partners folowing normalization of channel inventory levels.The sequential increase was primarily due to the ramp of desktop workstations based on the Ada Lovelace GPU architecture.
+
+Automotive revenue was down 4% from a year ago and up 8% sequentially. Fiscal year revenue was up 21%.The sequential increase was driven by self-driving platforms.The year-on-year decrease for the quarter was driven by Al Cockpit,offset by an increase in self-driving platforms.The year-on-year increase for the fiscal year primarily reflected growth in self-driving platforms.
+
+# Gross Margin
+
+GAAP and non-GAAP gross margins for the fourth quarter increased significantly from a year ago and sequentially on strong Data Center revenue growth primarily driven by our Hopper GPU computing platform. Our gross margins in the fourth quarter also benefited from favorable component costs.
+
+Fiscal year GAAP and Non-GAAP gross margin increased, primarily driven by Data Center revenue growth and lower net inventory provisions as a percentage of revenue.
+
+# Expenses
+
+GAAP operating expenses for the fourth quarter were up 23% from a year ago and up 6% sequentially. The year-on-year increase was driven by compensation and benefits,including stockbased compensation,primarily reflecting growth in employees and compensation increases. The sequential increase reflected higher compute and infrastructure investments. Fiscal 2O24 GAAP operating expenses were up 2% from a year ago,driven by growth in employees and compensation increases; the comparison was affected by a \$1.4 bilion acquisition termination charge related to the proposed Arm transaction in the prior year.
+
+Non-GAAP operating expenses for the fourth quarter were up 25% from a year ago and up 9% sequentially. The year-on-year increase was driven by growth in_employees and compensation increases.The sequential increase reflected higher compute and infrastructure investments. Fiscal year non-GAAP operating expenses were up l3% from a year ago,reflecting growth in employees and compensation increases.
+
+# Other Income & Expense and Income Tax
+
+GAAP other income and expense (Ol&E) includes interest income,interest expense, gains and losses from non-afiliated investments and other. Non-GAAP Ol&E excludes the gains or losses from nonaffiliated investments and the portion of interest expense from the amortization of the debt discount.
+
+Interest income for the fourth quarter was \$294 milion,up from a year ago and sequentially, primarily reflecting higher cash balances. Fiscal year interest income was \$866 milion, up from \$267 million in the prior year，reflecting higher yields and cash balances.Net gains from non-affiliated investments for the fourth quarter were \$26O milion and for the fiscal year were \$238 million, reflecting fair value adjustments.
+
+GAAP effective tax rate for the fourth quarter was 12.9%,and for the fiscal year was 12.0%, an increase from the prior year reflecting a lower impact of tax benefits from the foreign derived intangible income deduction,stock-based compensation,and the U.S.research tax credit,relative to the increase in income before income tax.The increase in the effective tax rate was partially offset by a benefit due to an Internal Revenue Service audit resolution during the fiscal year. Non-GAAP effective tax rate for the fourth quarter and fiscal year was 14.3% and 14.4%, respectively.
+
+# Balance Sheet and Cash Flow
+
+Cash,cash equivalents and marketable securities were \$26.0 billion,up from \$13.3 billion a year ago and \$18.3 billon a quarter ago.The increases primarily reflect higher revenue partially offset by taxes paid and stock repurchases.
+
+Accounts receivable was \$10.0 bilion with days sales outstanding (DSO) of 41. Accounts receivable was reduced by approximately \$557 milion from customer payments received prior to the invoice due date.
+
+Inventory was \$5.3 billion with days sales of inventory (DSl) of 90. Purchase commitments and obligations for inventory and manufacturing capacity were \$16.1 billion,down sequentially due to shortening lead times for certain components.Prepaid supply agreements were \$5.0 bilion. Other non-inventory purchase obligations were \$4.6 bilion, which includes \$3.5 bilion of multi-year cloud service agreements,largely to support our research and development efforts.
+
+Cash flow from operating activities_for the fourth quarter was \$11.5 billion,up from \$2.2 billion a year ago and \$7.3 bilion a quarter ago.Fiscal year cash flow from operating activities was \$28.1 billion,up from \$5.6 bilion a year ago.The sequential and year-on-year increases for the quarter and fiscal year reflect higher revenue.We paid \$6.5 billon in cash taxes in fiscal 2O24, up from \$1.4 billion in fiscal 2023.
+
+Depreciation and amortization expense was \$387 milion for the fourth quarter and \$1.5 billion for the fiscal year,including amortization of acquisition-related intangible assets.Starting in fiscal 2024, we extended the useful lives of most of our servers, storage,and network equipment from three years to a range of four to five years,and assembly and test equipment from five to seven years. This change in useful lives drove a favorable impact to operating expenses of \$19 milion in the fourth quarter and \$1O2 million in fiscal 2O24,and to cost of revenue of \$9 milion in the fourth quarter and \$33 million in fiscal 2024.
+
+In the fourth quarter,we utilized cash of \$2.8 bilion towards shareholder returns,including \$2.7 billion in share repurchases and \$99 milion in cash dividends.In fiscal 2O24,we utilized cash of \$9.9 billion towards shareholder returns,including \$9.5 bilion in share repurchases and \$395 millon in cash dividends.
+
+# First Quarter of Fiscal 2025 Outlook
+
+Outlook for the first quarter of fiscal 2025 is as follows:
+
+·Revenue is expected to be \$24.0 billion, plus or minus 2%. GAAP and non-GAAP gross margins are expected to be 76.3% and 77.0%, respectively, plus or minus 50 basis points.
+
+GAAP and non-GAAP operating expenses are expected to be approximately \$3.5 billon and \$2.5 billion, respectively.   
+GAAP and non-GAAP other income and expense are expected to be an income of approximately \$250 milion, excluding gains and losses from non-affiliated investments. GAAP and non-GAAP tax rates are expected to be 17.0%, plus or minus 1%, excluding any discrete items.
+
+For further information, contact:
+
+Simona Jankowski Investor Relations NVIDIA Corporation sjankowski@nvidia.com
+
+Mylene Mangalindan Corporate Communications NVIDIA Corporation mmangalindan@nvidia.com
+
+# Non-GAAP Measures
+
+To supplement NVIDIA's condensed consolidated financial statements presented in accordance with GAAP, the company uses non-GAAP measures of certain components of financial performance. These non-GAAP measures include non-GAAP gross profit， non-GAAP gross margin， non-GAAP operating expenses, non-GAAP income from operations, non-GAAP other income (expense), net, nonGAAP net income, non-GAAP net income,or earnings,per diluted share,and free cash flow.In order for NVIDIA's investors to be better able to compare its current results with those of previous periods, the company has shown a reconciliation of GAAP to non-GAAP financial measures. These reconciliations adjust the related GAAP financial measures to exclude acquisition termination costs, stock-based compensation expense，acquisition-related and other costs， IP-related costs,other, gains and losses from non-afiliated investments,interest expense related to amortization of debt discount,and the associated tax impact of these items where applicable.Free cash flow is calculated as GAAP net cash provided by operating activities less both purchases related to property and equipment and intangible assets and principal payments on property and equipment and intangible assets.NVIDlA believes the presentation of its non-GAAP financial measures enhances the user's overall understanding of the company's historical financial performance.The presentation of the company's non-GAAP financial measures is not meant to be considered in isolation or as a substitute for the company's financial results prepared in accordance with GAAP,and the company's non-GAAP measures may be different from non-GAAP measures used by other companies.
+
+Certain statementsin this CFO Commentary including,but notlimited to,statementsas to: our computing platforms providing tremendousacceleration forapplicationsanddelivering uniquevaue;markets whereourexpertiseis critical;and ourfinancialoutlook and expected taxrates for thefirst quarteroffiscal 2025areforward-looking statements that are subject torisksand uncertainties that couldcause results tobe materiall different thanexpectations.Important factors thatcould causeactual results todifer materiallyinclude: global economicconditions;；our reliance on third parties to manufacture，assemble，package and test our products;the impact of technological development and competition; development of new productsand technologies orenhancements toour existing product and technologies；market acceptance of our products orour partners’products; design,manufacturing or software defects;changes in consumer preferences or demands; changes in industry standards and interfaces；and unexpected loss of performance of our products ortechnologies when integrated intosystems;as wellas other factors detailed from timetotimein the most recentreports NVIDIAfileswiththe SecuritiesandExchange Commision,orSEC,including,butnotlimited to,itsanual reportonForm10-Kand quarterlyreportsonForm 10-Q.CopiesofreportsfiledwiththeSECarepostedon thecompany's website andare available from NVIDIA without charge.These forward-loking statements are not guaranteesof future performanceandspeakonlyasofthedatehereof,and,exceptasrequiredbyaw,NVIDIAdisclaimsanyobligationtoupdate these forward-looking statements to reflect future events or circumstances.
+
+# ###
+
+）2024 NVIDIA Corporation.Allrights reserved.NVIDIA and the NVIDIA logoare trademarksand/or registered trademarks f NVIDIA Corporation in the U.S.and/or other countries. Other company and product names may be trademarks of the
+
+respectivecompanies withwhichtheyareassociated.Features,pricing,availabilityandspecificationsaresubjecttochange without notice.
+
+# NVIDIA CORPORATIONRECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES
+
+(In millions,except per share data) (Unaudited)
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_CFO_Commentary/images/78bfa52760cb14abb4f1b92640e9825d9e518f1885f1be7c8c324fc1803bea68.jpg)
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_CFO_Commentary/images/a6d97fa397aefbc82f7344edc89f4d5c75c62cf95674f4c10e1f5ec66c43093a.jpg)
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_CFO_Commentary/images/550062223e028f0e7f62189d353e13e8b4f63f60d74f08fee529194f02e65a2f.jpg)
+
+egal settlement costs,and contributions.
+
+D)Income tax impact of non-GAAP adjustments，including the recognition of excess tax_benefits or Jeficiencies related to stock-based compensation under GAAP accounting standard (ASU 2016-09).
+
+# NVIDIA CORPORATIONRECONCILIATION OF GAAP TO NON-GAAP OUTLOOK
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_CFO_Commentary/images/61518d6343533e48fcd0d83cd679d75fe0b65727a8c88d95324e3eb9f2ae1663.jpg)

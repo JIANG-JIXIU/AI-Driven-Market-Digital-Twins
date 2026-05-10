@@ -1,0 +1,1489 @@
+[
+  {
+    "type": "text",
+    "text": "Investor Presentation Q2 FY2023 September 1,2022 ",
+    "text_level": 1,
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Eeptr f ADG ctoe p A ei sac forward-looking statements. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "a sea a eti eansaa ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "t d t e from NVIDIA without charge. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "AA dea sttutefi as measures,may be foundin the slide titled “Reconciliation of Non-GAAP to GAAP Financial Measures\" ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Content ",
+    "text_level": 1,
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Q2 FY23 Earnings Summary ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Key Announcements This Quarter ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Overview ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "N 吧 2 ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Financials ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Reconciliation of Non-GAAP to GAAP Financial Measures ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Q2 FY23 Earnings Summary ",
+    "text_level": 1,
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Challenging quarter; shortfall to expectations driven primarily by weaker Gaming revenue ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Total revenue up 3% y/y to \\$6.70B, below outlook of \\$8.10B +/- 2% provided on the Q1 earnings call   \nData Center up 61% y/y to \\$3.81B   \nGaming down 33% y/y to \\$2.04B ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Data Center revenue impacted by supply chain disruptions ",
+    "text_level": 1,
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Revenue from hyperscale customers nearly doubled year-on-year Vertical industries grew both sequentially and year-on-year Upcoming launches of next-generation platforms; H100 data center GPU in production ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Gaming revenue in Q2 and outlook for Q3 reflect channel inventory correction ",
+    "text_level": 1,
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Macroeconomic headwinds across the world drove a sudden slowdown in consumer demand Gaming partners and ecosystem are responding to the slowdown and correcting channel inventory Upcoming Gaming architecture launch set to kickstart the next high-end upgrade cycle ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Q2FY2023 Financial Summary ",
+    "text_level": 1,
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/e00996024450b27a491b87340251ccada1a16a157fb64f9db99d1cdb2f2b29ba.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/56f22670a284d11b56f2fdc6f1877be880f06448cda406e352b8234482f5636c.jpg",
+    "table_caption": [],
+    "table_footnote": [
+      "Aldollarfiguresareinmilionsother thanEPS.DilutedEPSchangesreflectsafour-for-onestock spliteffctiveJuly2021. "
+    ],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "DataCenter ",
+    "text_level": 1,
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/8ac2ac24c4b1765925bd349eed3bc4098714d5b53c25831bb3a9a3ccf0b95cff.jpg",
+    "img_caption": [
+      "Revenue (\\$M) "
+    ],
+    "img_footnote": [],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "·Revenue from hyperscale customers nearly doubled y/y Sales to North America hyperscale and cloud computing customers increased q/q, but were more than offset by lower sales to China hyperscale customers ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Vertical industries grew both q/q and y/y ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Key workloads driving growth include: ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Natural language processing   \nRecommender systems   \nAutonomous vehicle fleet data processing and training   \nCloud graphics ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Strong demand for high-speed ethernet adapters and design win momentum toward next-gen adapters, including the ConnectX-6 and ConnectX-7 ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Updates to the NeMo Megatron framework that can speed up the training of Large Language Models by up to 30% ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Gaming ",
+    "text_level": 1,
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Gaming partners and ecosystem are responding to a sudden slowdown in consumer demand and correcting channel inventory ",
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/81627202c3036997748b7753e2294569a1d326ca350fed8b5c78a3010cd5ac15.jpg",
+    "img_caption": [
+      "Revenue (\\$M) "
+    ],
+    "img_footnote": [],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA implemented programs with channel partners to adjust pricing,and to price-position current high-end desktop GPUs ahead of new architecture launch ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": ". Estimated GeForce GPU sell-through is up over 70% since before the pandemic ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "RTX now supported by almost 300 games & applications ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "： 15 of the top 15 most popular GPUs on Steam areNVIDIA GeForce GPUs",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "GeForce Now registered members now exceed 20 million; over 1,350 games total ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Professional Visualization ",
+    "text_level": 1,
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/a772f59a31dbdec418d55b3db4a8b514cdded1e970e4e2f98cc4c651826bb285.jpg",
+    "img_caption": [
+      "Revenue (\\$M) "
+    ],
+    "img_footnote": [],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Sequential increase in mobile revenue was more than offset by lower desktop revenue, particularly at the high-end ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "OEMs worked to reduce inventory; expect trends to persist in Q3 ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Enterprise demand slowed as macroeconomic headwinds intensified ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "· While Pro Viz is undergoing a near-term adjustment after doubling last year, Al and Omniverse workloads have expanded the market opportunity over the last couple of years ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Automotive ",
+    "text_level": 1,
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/ccc87a31a2ea3483e1b0a747eaadc49d5bd736b70053145f394b0de2da8d9784.jpg",
+    "img_caption": [
+      "Revenue (\\$M) "
+    ],
+    "img_footnote": [],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Q2 an inflection point for Automotive revenue, as NVIDIA Orin has great momentum ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Strong growth driven by Auto Al Solutions (Al Cockpit and Self-Driving revenue) ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Strength in Self-Driving driven by New Energy Vehicle design wins ramping into volume ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Announced rollout plans, all built on NVIDlA DRIVE New vehicles from NlO, Li Auto, JIDU, and Human Horizons Pony.ai's line of self-driving trucks and robotaxis ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Sources & Uses of Cash ",
+    "text_level": 1,
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/3fdc4d098310000dce06968a886823be0985f542d8bf30513ceaa83920a08a12.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Highlights ",
+    "text_level": 1,
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Sequential decrease reflects lower revenue and higher cash tax payments, partially offset by reduced advance payments on supply payments   \n. Returned \\$3.44 billion to shareholders in the form of share repurchases and cash dividends   \n. Invested \\$447M in capex (includes principal payments on PP&E)   \n. Ended the quarter with \\$17.OB in gross cash and \\$11.0B in debt, \\$6.0B in net cash ",
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Cash Flow from Operations (\\$M) ",
+    "text_level": 1,
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Q3 FY2023 Outlook ",
+    "text_level": 1,
+    "page_idx": 11
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/5419acf06c31867fcfc0862f065e4646967d6ca3720886a79d65967310753f94.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Key Announcements This Quarter ",
+    "text_level": 1,
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Top Global Systems Makers Accelerate Adoption of NVIDlA Grace and Grace Hopper ",
+    "text_level": 1,
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Atos,Dell Technologies, GIGABYTE, HPE, Inspur, Lenovo and Supermicro are adopting NVIDlA Grace CPU Superchip and Grace Hopper Superchip to build the next-gen of servers turbocharging Al and HPC workloads for the exascale era ",
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Leading supercomputing centers in the US and Europe will be among the first with systems featuring the superchips ",
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Los Alamos National Laboratory announced that Venado,its next-gen system, will be the first system in the US to be powered by NVIDIA Grace CPU technology ",
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Alps, the Swiss National Computing Center's new system, will use the Grace CPU Superchip to enable breakthrough research in a wide range of fields ",
+    "page_idx": 13
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/4b382c71f443105e50d694a03887cecb93901300b46b0c6116bd5da220896261.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Gains Ground in the Latest Top 500 List of Supercomputers ",
+    "text_level": 1,
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "357 of the top 500 supercomputers,or 71%,are powered by NVIDlA, including 31 of 39 new systems ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Includes_154 NVIDIA GPU-accelerated systems, up from 138 at ISC21 and 145 at SC21 ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "23 of the top 30 on the GREEN500 list of most energy-efficient supercomputers are powered by NVIDIA ",
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA's Selene supercomputer ranks at #8 in the TOP50O, and is the world's fastest enterprise supercomputer ",
+    "page_idx": 14
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/4943f595cb5916e2be036755a0bb4199935c78476476558deae02e81fb1e1b8e.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA and Siemensto Enable Industrial Metaverse ",
+    "text_level": 1,
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "As a first step in this collaboration, NViDlA plans to connect the Siemens Xcelerator open digital business platform with the NVIDlA Omniverse platform for 3D design and collaboration ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Enables an industrial metaverse with physics-based digital models from Siemens and real-time Al from NVIDlA in which companies make decisions faster and with increased confidence ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Companies will be able to: ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Employ digital twins with real-time performance data   \nCreate innovative industrial loT solutions   \nLeverage actionable insights from analytics at the   \nedge/in the cloud   \nTackle the engineering challenges of tomorrow by   \nmaking visually rich, immersive simulations more   \naccessible ",
+    "page_idx": 15
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/9bb3b3c4b067619eb881088340372b96f0141a8e6218545674209287e0987784.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "ReinforcingNVIDIA's LeadershipinLatestMLPerfTraining Benchmark ",
+    "text_level": 1,
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "What is MLPerf? ",
+    "text_level": 1,
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "The industry's first objective Al benchmark for measuring machine learning performance   \n. Consortium of over 7O universities and companies,   \nincluding Google, Intel, Baidu, and NVIDIA, founded in 2018   \nNVIDIA has consistently delivered leading results and record performances in both MLPerf Training and Inference benchmarks ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "MLPerf June 2022- AI Training ",
+    "text_level": 1,
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "A100 GPU continues to secure the highest number of wins; NViDlA Al remains the only platform to run all eight tests ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "On the“per-chip\" tests, A10O was the fastest on 6 of the 8 benchmarks. The NViDlA H1OO, available in Q3 of this year, willdeliver another giant leap in performance ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA and partners accounted for 90% of all submissions,reflecting the scale and reach of our ecosystem ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Al delivers the highest productivity per dollar Over the last 3.5 years, the NVIDlA Al platform has delivered 23x more performance - the result of fullstack innovations - GPUs, software and at-scale improvements ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Announces Hybrid Quantum-Classical Computing Platform ",
+    "text_level": 1,
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA QODA (Quantum Optimized Device Architecture) is an open, unified programming model that spans today's most powerful, “classical\" computers and quantum processors ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA QODA Unified Programming Platform adopted by community's global leaders to enable quantumaccelerated AI, HPC, Health and Finance Applications ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "HPC and Al domain experts can use NViDIA QODA in public clouds, NVIDlA DGX systems and a large installed base of NVIDIA GPUs in scientific supercomputing centers ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA collaborations in quantum computing include: ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "Hardware: IQM Quantum Computers, Pasqal, Quantinuum,   \nQuantum Brilliance and Xanadu   \nSoftware: QC Ware and Zapata Computing   \nSupercomputing: Forschungszentrum Julich, Lawrence   \nBerkeley National Laboratory and Oak Ridge National   \nLaboratory   \nA #   \n1 N 288   \nH 12 888 CN 1 3 ",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "",
+    "page_idx": 17
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Omniverse Avatar Cloud Engine for Virtual Assistants and Digital Humans ",
+    "text_level": 1,
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Omniverse Avatar Cloud Engine (ACE) is a suite of cloud-native Al models and services enabling businesses to create and deploy assistants and avatars ",
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "These assistants and avatars understand multiple languages, respond to speech prompts, interact with the environment and make intelligent recommendations ",
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "These can transform interactions in gaming, entertainment, banking, transportation and hospitality ",
+    "page_idx": 18
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/3f2becd8f8194b12875bb55c6acccdcba4ae26291cd3fb59db9f2300d013f7b1.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 18
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA and Partners Build Out Universal Scene Description to Accelerate Industrial Metaverse and Next Wave of Al ",
+    "text_level": 1,
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Announced a broad initiative to evolve Universal Scene Description (USD), the open-source and extensible language of 3D worlds, to become a foundation of the open metaverse and 3D internet ",
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Working together with USD's inventor, Pixar,as well as Adobe, Autodesk, Siemens and a host of other leading companies, NVIDlA will pursue a multi-year roadmap to expand USD's capabilities beyond visual effects, such as: ",
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Adding support for international characters Geospatial coordinates Real-time streaming of loT data ",
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Enables USD to better support industrial metaverse applications in architecture, engineering, manufacturing, scientific computing, robotics and industrial digital twins ",
+    "page_idx": 19
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/0210bc51beee3337183e9bcea9efa48840bc5af8e1e796e23ca7bace5949cf4e.jpg",
+    "img_caption": [
+      "ComposedWorld "
+    ],
+    "img_footnote": [],
+    "page_idx": 19
+  },
+  {
+    "type": "text",
+    "text": "Major Release of Omniversewith New USD Connectors and Neural Graphics SDKs ",
+    "text_level": 1,
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Unveiled 11 new Omniverse Connectors including for PTC Creo, Visual Components and SideFX Houdini, bringing the total number of Connectors to the Omniverse USD ecosystem to 112 ",
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Development is ongoing for Blender, Autodesk Alias and Autodesk Civil 3D, Siemens JT, SimScale, Open Geospatial Consortium,and Unity, which will further unlock metaverse workflows for manufacturing, engineering and design companies ",
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Neural Graphics is a new field intertwining Al and graphics to help automate design choices and provide new, yet to be imagined opportunities for artists and creators. Neural graphics will redefine how virtual worlds are created, simulated and experienced by users. Examples include: ",
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": ". Omniverse Audio2Face-create facial animations from an audio file ",
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "Audio2Gesture - generate realistic arm/body motion from an audio file ",
+    "page_idx": 20
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/8a80d4d848352277d1ac03a9c2842449f7f49e61472cbabedb86ca8c452914d6.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 20
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Overview ",
+    "text_level": 1,
+    "page_idx": 21
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA- A Computing Platform Company ",
+    "text_level": 1,
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA pioneered accelerated computing to help solve the most challenging computational problems. Theapproach is broadlyrecognizedasthewaytoadvancecomputingas Moore'slaw endsand Alliftsoff. NVIDIA'splatformisinstalledinseveral hundredmillioncomputers,isavailableineverycloudandfrom every server maker,powers 357 of the TOP500 supercomputers,and boasts over 3.0 millon developers. ",
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "Headquarters: Santa Clara, CA | Headcount: \\~25,300 ",
+    "page_idx": 22
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/b60298c5f71be89a1d8befd497fb2929200c7b30a4bb8c8a4aab6af38e7b1042.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 22
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA Ata Glance ",
+    "text_level": 1,
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Accelerated computing pioneer ",
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Brief History ",
+    "text_level": 1,
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "1993:Founded by Jensen Huang, Chris Malachowsky,and Curtis Priem   \n1999: IPO on NASDAQ at \\$12 (prior to 5 stock splits, now 48:1)   \n2001: Xbox win; fastest semiconductor company to reach \\$1B in sales   \n2006: Unveils CUDA architecture, expanding to scientific computing   \n2016: Introduces first products for Al and autonomous driving   \n2020: Acquires Mellanox for \\$7B; launches DPU as new processor class ",
+    "page_idx": 23
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/6f5280f7e9ad08c4924120a189b1265003dd64685a2826a513c05c2e1f081c3a.jpg",
+    "img_caption": [
+      "Revenue byMarket Platform "
+    ],
+    "img_footnote": [],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Recognitions ",
+    "text_level": 1,
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Harvard Business Review's The CEO 100 Fortune's Best Places to Work   \nMIT Tech Review's 50 Smartest Companies   \nFortune's World's Most Admired Companies   \nForbes JUST 10O Best Corporate Citizens Dow Jones Sustainability Index ",
+    "page_idx": 23
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/87f9a7309e80373687f647a71ab2f3819d00397aa19c750d37c3f81f780daf80.jpg",
+    "img_caption": [
+      "From Chip Vendor to Computing Platform "
+    ],
+    "img_footnote": [],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "Tremendous Market Forces Driving NViDlA Growth ",
+    "text_level": 1,
+    "page_idx": 24
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/f44158843679a9d401f87aed0b479452bd8630d47aaa845cbdac2b8207c55afe.jpg",
+    "img_caption": [
+      "Gaming "
+    ],
+    "img_footnote": [],
+    "page_idx": 24
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/c25b942f8b563e840852869de0f6af8047469194bbb7d9052ccf8a39807f28db.jpg",
+    "img_caption": [
+      "Artificial Intelligence "
+    ],
+    "img_footnote": [],
+    "page_idx": 24
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/191a72c089c3d89c8adc494b5145f7601fef4b0dd5c32c936331b56f082f74e5.jpg",
+    "img_caption": [
+      "DataCenter "
+    ],
+    "img_footnote": [],
+    "page_idx": 24
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/dce2056750806f60fb24c7b4f6cfa73b81357ec697816d28eb32a00017bfa6fb.jpg",
+    "img_caption": [
+      "Autonomous Vehicles "
+    ],
+    "img_footnote": [],
+    "page_idx": 24
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/a3468e77f4ea13b6791a603f4a7f1b2b51b9499b233715fc1102de47eeb12b98.jpg",
+    "img_caption": [
+      "Robotics& Omniverse "
+    ],
+    "img_footnote": [],
+    "page_idx": 24
+  },
+  {
+    "type": "text",
+    "text": "Our Core Businesses ",
+    "text_level": 1,
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Gaming ",
+    "text_level": 1,
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "46%of FY22 revenue ",
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "FY22 REVENUE \\$12.5B, 5-YEAR CAGR OF 25% ",
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Data Center 40% of FY22 revenue ",
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Professional Visualization 8% of FY22 revenue ",
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "FY22 REVENUE OF \\$10.6B, 5-YEAR CAGR OF 66% ",
+    "text_level": 1,
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "FY22 REVENUE OF \\$2.1B, 5-YEAR CAGR OF 20% ",
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Automotive 2% of FY22 revenue ",
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "FY22 REVENUE OF \\$566M, 5-YEAR CAGR OF 3% ",
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Strong market position and technology leadership ",
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Compounded long-term unit and ASP growth 200M+ gamers on GeForce Strong Gaming ecosystem ",
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Leader in deep learning/Al used by all major cloud computing providers and thousands of enterprises ",
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "",
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Leader in Supercomputing 357 of the TOP500 ",
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "90%+ market share in graphics for workstations ",
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Diversified end markets, e.g.media&entertainment, architecture,engineering& construction, public sector Strong software ecosystem ",
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "",
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Historical revenue driven largely by infotainment ",
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Future growth largely drivenby Autonomous Vehicles,where NVIDIA offers a full hardware& software stack ",
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Over \\$11B design win pipeline ",
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Multiple secular growth drivers:   \nadoption of RTX, expanding   \npopulation of gamers and creators,   \neSports, VR, rising production value   \nof games, gaming laptops and   \ncloud gaming ",
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Multiple secular growth drivers: fast growing adoption of Al and graphics in every major industry; rising compute needs unmet by conventional approaches such as x86 CPUs; data-center scale computing ",
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Multiple secular growth drivers: adoption of RTX, hybrid work environmentsand collaborative 3D design, AR/VR, Al and virtual world workloads, Omniverse Enterprise software ",
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Multiple secular growth drivers: transition to self-driving, software-defined cars,with new software and services business models ",
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "Growth, Profitability and Mix Metrics ",
+    "text_level": 1,
+    "page_idx": 26
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/61321f47e1548df7c8d2fa5df4b4c4502b39c9fd1e06613a7f3f2af1e4e81f28.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 26
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/959b6ea1b73565c73ebafca343cc743646aca44410668a312508582e8d33d479.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 26
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/78f8ac0149bbe76ee0562ddf3bc8b4609ed794104b12c017d97bddde39532d9f.jpg",
+    "img_caption": [
+      "Business Mix (%) "
+    ],
+    "img_footnote": [],
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "Revenueand Profitability ",
+    "text_level": 1,
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "(showing non-GAAP margins) ",
+    "page_idx": 26
+  },
+  {
+    "type": "text",
+    "text": "WhyAcceleratedComputing? ",
+    "text_level": 1,
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "Advancing computing in the post-Moore's Law era ",
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "The world's demand for computing power continues to grow exponentially, yet CPUs are no longer keeping up as Moore's law has ended ",
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA pioneered GPU-accelerated computing to solve this challenge ",
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "Optimizing across the entire stack一 from silicon to software - allows NVIDlA to advance computing in the post-Moore's law era for large and important markets ",
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "Gaming, Pro Viz, High Performance Computing (HPC), Al, Cloud, Transportation, Healthcare, Robotics,and the Internet of Things (IOT) ",
+    "page_idx": 27
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/0c747e9a661bbd01160d684a8f6a937e2f0f70b9eaa3f8c91b71c08ce671bff5.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 27
+  },
+  {
+    "type": "text",
+    "text": "WorldLeader in AcceleratedComputing ",
+    "text_level": 1,
+    "page_idx": 28
+  },
+  {
+    "type": "text",
+    "text": "Our four market platforms & key brands ",
+    "page_idx": 28
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/d705c3ee287a3218ae416fc825a482f50ee42eb78941332277c701165a0e3bfa.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 28
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/5563d4b3a9bbb73a8d210937e10337735ec6aadc7d5aee7a248ef221fad18742.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 28
+  },
+  {
+    "type": "text",
+    "text": "Gaming GeForce GPU for PC gamers ",
+    "page_idx": 28
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/f9a27bc5f637e76ec0d4dd36a9a2bd7653e7b54a82d0c48fbc7fbbba2bff6103.jpg",
+    "img_caption": [
+      "Professional Visualization Quadro/NVIDIA RTX for workstations "
+    ],
+    "img_footnote": [],
+    "page_idx": 28
+  },
+  {
+    "type": "text",
+    "text": "Data Center DGX/HGX/EGX for HPC/Al compute NVIDIA networking ",
+    "page_idx": 28
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/7f81e228a943d7e570b2935775caed68e20f296c0974d7de86ceabee63ca06b2.jpg",
+    "img_caption": [
+      "Automotive DRIVE for autonomous vehicles "
+    ],
+    "img_footnote": [],
+    "page_idx": 28
+  },
+  {
+    "type": "text",
+    "text": "DataCenter ",
+    "text_level": 1,
+    "page_idx": 29
+  },
+  {
+    "type": "text",
+    "text": "High performance computing (HPC) and Al ",
+    "page_idx": 29
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/b96f8286666c7e55cb8bdca8f8159a4c8ac1c6dfa484b8005636dac52d6cafbf.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 29
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/de25df24d05b88341f0e2d9046798e762590436f746b044edd344da98b597b51.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 29
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/eab0186b4116fb96fda04aa03c113e16fdb99553482dc49733c3ffa2b49ec40b.jpg",
+    "img_caption": [
+      "NVIDIA Share of TOP500 Systems ",
+      "Most TOP500 Supercomputers "
+    ],
+    "img_footnote": [],
+    "page_idx": 29
+  },
+  {
+    "type": "text",
+    "text": "Gaming ",
+    "text_level": 1,
+    "page_idx": 30
+  },
+  {
+    "type": "text",
+    "text": "GeForce一 The world's largest gaming platform",
+    "page_idx": 30
+  },
+  {
+    "type": "text",
+    "text": "#1 in PC gaming with 80%+ market share 15 of the top 15 most popular GPUs on Steam ",
+    "page_idx": 30
+  },
+  {
+    "type": "text",
+    "text": "Expanding the market with creators, gaming laptops and cloud gaming ",
+    "page_idx": 30
+  },
+  {
+    "type": "text",
+    "text": "Powering the Nintendo Switch console ",
+    "page_idx": 30
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/d05d1113a61a59464ff2f63058876d0d6555a6049f1ec6b6f3025f925407801d.jpg",
+    "img_caption": [
+      "Revenue (\\$M) "
+    ],
+    "img_footnote": [],
+    "page_idx": 30
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/16bd4a468ed58d88bdbc1ffb5cd5a28fcde32f492056dc37e5af462d6c60b82e.jpg",
+    "img_caption": [
+      "Highlights ",
+      "200M+ Gamersand Creators on GeForce "
+    ],
+    "img_footnote": [],
+    "page_idx": 30
+  },
+  {
+    "type": "text",
+    "text": "Professional Visualization Workstation graphics ",
+    "text_level": 1,
+    "page_idx": 31
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/4992cc1850a4133e3ea6c3f2174b98c83b80dda10eab70cb6fb14ce5f9f4fa99.jpg",
+    "img_caption": [
+      "20% 5-YR CAGR "
+    ],
+    "img_footnote": [],
+    "page_idx": 31
+  },
+  {
+    "type": "text",
+    "text": "Dn Ps Lr D △ALTAIR △ALTAIR Adobe Dimension Adobe Photoshop Adobe Photoshop Lightroom Adobe Premiere Pro Adobe Premiere Rush Thea Render Inspire Studio Ansys SPEOS 回 ® ARNOLD AUTODESK' AUTODESK FLAME' INVENTOR AUTODESK' VRED AUTODESK' Armorpaint ArcGi5 Enterprise ArcGI5 Pro AVerMedia Bentley Bentley dblender 鄂 CHERTCTER Cclarisse clo LumenRT Microstation Connect ? V-Ray choos Vantoge Ravinvci DABANJIABIM D-NOISE 0 DS CATIA D5 RENDER 3S SOLIDWORKS Daz3D □ OfinalRender FORGE VISUALIZE Denoise Al ENSCAPE Gigapixel Al iClone\\* IC.IDO Mars Marmoset Toolbag M M Maverick MODO KeyShot Marvelo us Desigr NOICH 公 NVIDICast 工 ray K Ill ParaView MVIDIA octane Open Bro RENDERMAN. PIXOT&PE POCKET STU)io REDSHIFT REALITY ENGINE 业 D 2 H lSideFX SIEMENS RHINO STRERMFX DESIGNER SUAINTNCE ALCHEANCST Mantra NX unity VMDocesr y an weta Wenderer 2 Sharpen Al Video Enhance AI UNREAL ",
+    "page_idx": 31
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/b59295ce967fce9d48a227b656714e69acb16f1fb811b4c9b94af31c971c9c54.jpg",
+    "img_caption": [
+      "Revenue (\\$M) ",
+      "70+ Applications Unlocking New Markets ",
+      "45M Designersand Creatives "
+    ],
+    "img_footnote": [],
+    "page_idx": 31
+  },
+  {
+    "type": "text",
+    "text": "Automotive ",
+    "text_level": 1,
+    "page_idx": 32
+  },
+  {
+    "type": "text",
+    "text": "Infotainment and autonomous vehicles ",
+    "page_idx": 32
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/0df2d4ce2cb536801e5d3b98e996412a72bcf8b11058df034eecc65c952599b1.jpg",
+    "img_caption": [
+      "Revenue (\\$M) "
+    ],
+    "img_footnote": [],
+    "page_idx": 32
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/42424fcf47e4f4de9ec6a097642f8b68fcb94179a5d19a0dfe1621923128824f.jpg",
+    "img_caption": [
+      "NVIDIADRIVEPartners "
+    ],
+    "img_footnote": [],
+    "page_idx": 32
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/6c2854295bc3e396505c94a4e9dab6d3b97fa0f4d237ff1d65f795e741e73ca8.jpg",
+    "img_caption": [
+      "Strong Partnership/Ecosystem "
+    ],
+    "img_footnote": [],
+    "page_idx": 32
+  },
+  {
+    "type": "text",
+    "text": "Large and Diverse Customer Base ",
+    "text_level": 1,
+    "page_idx": 33
+  },
+  {
+    "type": "text",
+    "text": "Reaching hundreds of millions of end users through hundreds of customers ",
+    "page_idx": 33
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/15758a53d72c5b85f15f66764f5c6a8f72ba2aa6c2741b32829d456a5c906480.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 33
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/8b67d66faeba4d7768d6ccfdc6f53ab4ac64f2b8e262813d7533d3a87b85b5a9.jpg",
+    "img_caption": [
+      "No Customer Larger than 1O% of Total Revenue for the Last 2 Fiscal Years "
+    ],
+    "img_footnote": [],
+    "page_idx": 33
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/1bc09ae985db0d256ce117df1438a24e3aeb04e4ff97ec5b39f71ce1336659df.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 34
+  },
+  {
+    "type": "text",
+    "text": "Annual Cash& Cash Flow Metrics ",
+    "text_level": 1,
+    "page_idx": 35
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/371e1a76a1da007d07b59f4c4cdca0cb544cd5cdf0b8032ad3b72d4c0485e2ef.jpg",
+    "img_caption": [
+      "Operating Income (Non-GAAP)- \\$M "
+    ],
+    "img_footnote": [],
+    "page_idx": 35
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/76dd01a435752ef4875372c2d24b08ff1ba7fff75aeffd94bb7a52fccbe7f670.jpg",
+    "img_caption": [
+      "Operating Cash Flow一\\$M "
+    ],
+    "img_footnote": [],
+    "page_idx": 35
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/4063ef98fd4c831d2dc3b3afe0a8b9b0c3d22cadbdaab413234a833906bc43ac.jpg",
+    "img_caption": [
+      "Free Cash Flow (Non-GAAP)-\\$M "
+    ],
+    "img_footnote": [],
+    "page_idx": 35
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/440e09708be54b560432c8c64700226e41e04490f88e6c948459dbc626d91db8.jpg",
+    "img_caption": [
+      "Cash Balance-\\$M "
+    ],
+    "img_footnote": [
+      "Cash balance is defined as cash and cash equivalents plus marketable securities Referto Appendixforreconciliation of non-GAAPmeasures "
+    ],
+    "page_idx": 35
+  },
+  {
+    "type": "text",
+    "text": "Corporate Responsibility ",
+    "text_level": 1,
+    "page_idx": 36
+  },
+  {
+    "type": "text",
+    "text": "ENVIRONMENTALLY CONSCIOUS A PLACE FOR PEOPLE TO DO THEIR LIFE'S WORK ",
+    "text_level": 1,
+    "page_idx": 36
+  },
+  {
+    "type": "text",
+    "text": "MANAGEMENT ",
+    "text_level": 1,
+    "page_idx": 36
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/ed3a116a75cbcd535abfc5fc16783c6b39e77f10b306b3112e974121f933dc89.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 36
+  },
+  {
+    "type": "text",
+    "text": "O ",
+    "page_idx": 36
+  },
+  {
+    "type": "text",
+    "text": "WRK202 ",
+    "page_idx": 36
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA GPUs Are Typically 20X More Energy Efficient than Traditional CPU Servers For Al ",
+    "page_idx": 36
+  },
+  {
+    "type": "text",
+    "text": "Earth-2-Building the World's Most Powerful Al Supercomputer Dedicated to Predicting Climate Change ",
+    "page_idx": 36
+  },
+  {
+    "type": "text",
+    "text": "Time Magazine's 1Oo Most Influential Companies CEO Magazine's 1O Best CEOs Fortune's World's Most Admired Companies   \nWall Street Journal's Management Top 250 AllStars ",
+    "page_idx": 36
+  },
+  {
+    "type": "text",
+    "text": "\"100 Best Companies to Work For\" FORTUNE ",
+    "page_idx": 36
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/dbde81950a42f3a2f844954d3a43080925e01f95dfc6899f54c2cdc11f93f053.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 36
+  },
+  {
+    "type": "text",
+    "text": "23ofTop 30 Supercomputers on the June 2022 Green500 Powered by NVIDIA 田 ",
+    "page_idx": 36
+  },
+  {
+    "type": "text",
+    "text": "",
+    "page_idx": 36
+  },
+  {
+    "type": "text",
+    "text": "We Plan For 100%of Our Global   \nElectricity Usage For Our Offices and Data Centers to Be Renewable by 2025 ",
+    "page_idx": 36
+  },
+  {
+    "type": "text",
+    "text": "\"America's Most Just Companies\" FORBES ",
+    "page_idx": 36
+  },
+  {
+    "type": "text",
+    "text": "\"Most Responsible Companies\" NEWSWEEK ",
+    "page_idx": 36
+  },
+  {
+    "type": "text",
+    "text": "\"Best Places to Work for LGBT Equality” HUMAN RIGHTS CAMPAIGN ",
+    "page_idx": 36
+  },
+  {
+    "type": "text",
+    "text": "CORPORATE GOVERNANCE ",
+    "text_level": 1,
+    "page_idx": 36
+  },
+  {
+    "type": "text",
+    "text": "38% Of Board is Gender,Racially，, or Ethnically Diverse 92% of Directors are Independent ",
+    "page_idx": 36
+  },
+  {
+    "type": "text",
+    "text": "Reconciliation of Non-GAAP to GAAP Financial Measures ",
+    "text_level": 1,
+    "page_idx": 37
+  },
+  {
+    "type": "text",
+    "text": "Reconciliation of Non-GAAP to GAAP Financial Measures ",
+    "text_level": 1,
+    "page_idx": 38
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/a42ddd1f65fb03f35fef9211aef521e0cb84a743bc389f9abf551ec83966f449.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 38
+  },
+  {
+    "type": "text",
+    "text": "Reconciliationof Non-GAAP to GAAP Financial Measures (contd) ",
+    "text_level": 1,
+    "page_idx": 39
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/8dffc4702c7e64cde85f0aa1dc778c0287421ca3a9494adf15a2d5be112f571e.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 39
+  },
+  {
+    "type": "text",
+    "text": "Reconciliation of Non-GAAP to GAAPFinancial Measures (contd.) ",
+    "text_level": 1,
+    "page_idx": 40
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/549b322c8fcd001b115773634376304cec8bf74a52a14446aa1e36b76755a257.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 40
+  },
+  {
+    "type": "text",
+    "text": "Reconciliation of Non-GAAPto GAAPFinancial Measures (contd.) ",
+    "text_level": 1,
+    "page_idx": 41
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/b28c56985b83c54b66b94168f0ec39d53bd4eadeb6c8770784df8f90c21f4d29.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 41
+  },
+  {
+    "type": "text",
+    "text": "Reconciliation of Non-GAAPto GAAP Financial Measures (contd.) ",
+    "text_level": 1,
+    "page_idx": 42
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/a92afd757c7570e109d1e05bcb40d07596510000ccc97f2a66d0e43d739bdcde.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 42
+  },
+  {
+    "type": "text",
+    "text": "Reconciliation of Non-GAAP to GAAPFinancialMeasures(contd.) ",
+    "text_level": 1,
+    "page_idx": 43
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/8d610c52aa78b89b2c8fa59f07cc056852c73acbaf0d08b729f85c065e4c4225.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 43
+  },
+  {
+    "type": "text",
+    "text": "Reconciliation of Non-GAAP toGAAP Financial Measures (contd.) ",
+    "text_level": 1,
+    "page_idx": 44
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/487f2cfa8f8bd7853ea2668e5e0da96d4ad98485ca3bc6cacfe591e25f811c9c.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 44
+  },
+  {
+    "type": "text",
+    "text": "Reconciliation of Non-GAAPto GAAP Financial Measures ",
+    "text_level": 1,
+    "page_idx": 45
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/d785ad710603016594e1a1ca64cc0fb609cdb7a0f800a72140d48d96f6ba1926.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 45
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q2_Presentation/images/9dad9528b7ab101b638bf2d97b67d8e2b5491bad174fe0d425d199c88498441d.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 46
+  }
+]

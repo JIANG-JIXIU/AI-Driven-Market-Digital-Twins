@@ -1,0 +1,195 @@
+# Meta Reports Second Quarter 2025 Results
+
+MENLO PARK,Calif.,July30,2025 /PRNewswire/--Meta Platforms,Inc.(Nasdaq: META)today reportedfinancial results for the quarter ended June 30,2025.
+
+"We've hada strong quarter both in terms of our business and community,"said Mark Zuckerberg, Meta founder and CEO."'m excited to build personal superintelligence for everyone in the world."
+
+Second Quarter 2025 Financial Highlights
+
+In millions,except percentages and per share amounts   
+Revenue   
+Costs and expenses   
+Income from operations   
+Operating margin   
+Provision for income taxes   
+Effective tax rate   
+Net income   
+Diluted earnings per share (EPS)
+
+Three Months Ended June 30,   
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q2_Press_Release/images/3f68d55ae567168d4bd817c4e57e839540a9caa2c7875c6e164767ecf15a5a95.jpg)
+
+Second Quarter 2025 Operational and Other Financial Highlights · Family daily active people(DAP)- DAP was 3.48 bilion on average forJune 2025,an increase of 6% year-overyear.
+
+· Ad impressions - Ad impressions delivered across our Family of Apps increased by 11% year-over-year.
+
+·Average price per ad - Average price per ad increased by 9% year-over-year.
+
+· Revenue - Revenue was \$47.52 billion, which increased by 22% year-over-year on both a reported and constant currency basis.
+
+· Costs and expenses - Total costs and expenses were \$27.07 bilion,an increase of 12% year-over-year.
+
+· Capital expenditures - Capital expenditures,including principal payments on finance leases, were \$17.01 billion.
+
+· Capital return program - Share repurchases of our Class A common stock were \$9.76 billion and total dividend and dividend equivalent payments were \$1.33 billion.
+
+· Cash,cash equivalents,and marketable securities - Cash,cash equivalents,and marketable securities were \$47.07 billion as ofJune30,2025.Cash flow from operating activities was \$25.56 billon and free cash flow was \$8.55 billion.(1)
+
+· Headcount - Headcount was 75,945 as of June 30,2025,an increase of 7% year-over-year.
+
+# CFO Outlook Commentary
+
+We expect third quarter 2025 total revenue tobe in the range of \$47.5-50.5 billon.Ourguidance assumes foreign currency is anapproximately1% tailwindtoyear-over-yeartotalrevenue growth,based on current exchange rates. While we are not providing an outlook for fourth quarter revenue,we would expect our year-over-year growth rate inthe fourth quarter of 2025 to be slowerthan the third quarteras we lapaperiod of stronger growth in the fourth quarter of 2024.
+
+We expect fullyear2025 total expenses to be in the range of\$114-118 billion,narowed from our prioroutlook of \$113-118 billion and reflecting a growth rate of 20-24% year-over-year.
+
+While we are stil very early in planning for next year,there are afew factors we expect willprovide meaningful upward pressure on our 2026 total expense growth rate.The largest single driver of growth willbe infrastructure costs,driven bya sharp acceleration in depreciation expense growth and higher operating costs as we continue to scale up ourinfrastructure fleet. Asidefrom infrastructure,we expect the second largest driver of growth to be employee compensationas weadd technical talent in priority areasand recognize afullyear of compensation expenses for employees hired throughout 2025.We expect these factors willresult in a 2026 year-over-year expense growth rate that is above the 2025 expense growth rate.
+
+Wecurrentlyexpect 2025 capital expenditures,including principal paymentsonfinance leases,to bein therange of \$66-72 billion,narowed from ourprioroutlook of \$64-72 billon andupapproximately \$30 billion year-over-yearat themid-point.While the infrastructure planning process remains highly dynamic,we currently expect another year of similarly significant capital expenditures dollar growth in 2026 as we continue aggressively pursuing opportunities tobring additionalcapacityonline to meet the needs ofourartificialinteligence effrtsand business operations.
+
+With theenactmentofthe new U.S.taxlaw,we anticipateareduction inour U.S.federalcash taxforthe remainder of the current year and future years.Thereare several alternative ways of implementing the provisions of the Act, which we are currently evaluating.While we estimatethatthe2025 taxratewillbe higher than our second quarter rate,we cannot quantify the magnitude at this time.
+
+In addition,we continue to monitoranactive regulatorylandscape,including theincreasing legal and regulatory headwinds in the EU that could significantly impact our business and our financial results.For example,we continue to engage with the European Commission (EC)on our Less Personalized Ads offering(LPA),which we introduced in November 2024 based on fedback from the EC in connection with the Digital Markets Act(DMA). As the EC provides further feedback on LPA,we cannotrule outthatit mayseek toimposefurther modifications to it that would resultin a materially worse user and advertiser experience.This could haveasignificant negative impact on our European revenue,as early as later this quarter.We have appealed the EC's DMA decision but any modifications to our model may be imposed during the appeal process.
+
+# Webcast and Conference Call Information
+
+Meta willhostaconference calltodiscussitsresultsat 2:00p.m.PT/5:00p.m.ETtoday.Thelive webcastofthecal can be accessed at the Meta Investor Relations website at investor.atmeta.com,along with the company's earnings press release, financial tables,and slide presentation.
+
+Following the call,a replay willbe available at the same website.Transcripts ofconference calls with publishing equity research analysts held today willalso be posted to the investor.atmeta.com website.
+
+# Disclosure Information
+
+Meta uses the investor.atmeta.com and meta.com/news websites as wellas Mark Zuckerberg's Facebook Page (facebook.com/zuck),Instagram account (instagram.com/zuck)and Threads profile(threads.net/zuck)as means of disclosing material non-public information and for complying with its disclosure obligations under Regulation FD.
+
+# About Meta
+
+Meta is building the future of human connection,powered by artificial inteligence and immersive technologies. When Facebook launched in 2004,it changed the way people connect. Appslike Messenger, Instagram,and WhatsApp further empowered billions around the world.Now,Meta is moving beyond 2D screens toward experiences that foster deeper connections and unlock new possibilities.
+
+Contacts
+
+Investors:   
+Kenneth Dorell   
+investor@meta.com / investor.atmeta.com
+
+Ashley Zandy
+
+press@meta.com /meta.com/news
+
+# Forward-Looking Statements
+
+This press release contains forward-looking statements regarding our future business plans and expectations. These forward-looking statements are only predictions and may difer materiall fromactual results due toavariety offactors including: the impact of macroeconomic conditions on our business and financial results,including as a result of geopolitical events; our abilityto retain or increase users and engagement levels; our reliance on advertising revenue;our dependency on data signalsand mobile operating systems,networks,and standards that we do not control; changes to the content or application of third-party policies that impact our advertising practices; risks associated with new products and changes to existing products as wellas other new business initiatives,including our artificial inteligence initiatives and Reality Labs efforts; our emphasis on community growth and engagementand the user experience over short-term financial results; maintaining and enhancing our brand and reputation; our ongoing privacy,safety,security,and content and advertising reviewand enforcement efforts; competition;risks associated with government actions that could restrict accessto our products or impair ourabilitytoselladvertising in certain countries;litigationand government inquiries; privacy,legislative,and regulatory concerns or developments; risks associated with acquisitions; security breaches; our ability to manage our scale and geographicall-ispersed operations;and market conditions orother factors affecting the payment of dividends.These and other potential risks and uncertainties that could cause actual results to difer from the results predicted are more fuly detailed under the caption "Risk Factors" in our Quarterly Report on Form 10-Q filed withthe SECon May1,2025,which is available onour Investor Relations websiteat investor.atmeta.comand onthe SECwebsite at www.sec.gov.Additionalinformation willalso beset forth in our Quarterly Report on Form 10-Qfor thequarterendedJune30,2025.Inaddition,please note thatthe dateofthis pressreleaseisJuly30,2025, andany forward-looking statements contained herein are based on assumptions that we believe to be reasonable as of this date.We undertake no obligation to update these statements asa result of new information or future events.
+
+Fora discussion oflimitations in the measurement of certain of our community metrics,see the section entitled "Limitations of Key Metricsand Other Data" in our most recent quarterly or annual reportfiled with the SEC.
+
+# Non-GAAP Financial Measures
+
+To supplement our condensed consolidated financial statements,which are prepared and presented in accordance with generallyaccepted accounting principles in the United States (GAAP), we use the following non-GAAP financial measures: revenue excluding foreign exchange effect,advertising revenue excluding foreign exchange effect,and free cash flow.The presentation of these financial measures is not intended to be considered in isolation or as a substitute for,orsuperiorto,financialinformation preparedand presented inaccordance with GAAP.Investorsare cautioned that there are materiallimitations associated with the use of non-GAAP financial measures as an analytical tool.In addition,these measures may be diferent from non-GAAP financial measures used by other Companies,limiting their usefulness for comparison purposes.We compensate for theselimitations by providing specific information regarding the GAAP amounts excluded from these non-GAAP financial measures.
+
+We believe these non-GAAP financial measures provide investors with usefulsupplemental information about the financialperformance of our busines,enable comparison offinancial results between periods where certain items may vary independent of business performance,and alow for greater transparency with respect to key metrics used by management in operating our business.
+
+Our non-GAAP financial measures are adjusted for the following items:
+
+Foreign exchange efect on revenue.We translated revenue forthe three and six months endedJune 30,2025 using the prioryear's monthly exchange rates foroursettlement or billng currencies other than the U.S.dolla,which we believe is a useful metric that facilitates comparison to our historical performance.
+
+Purchases of property and equipment; Principal payments on finance leases.We subtract both purchases of property and equipment,and principal payments onfinance leases inour calculation offree cash flow because we believe thatthese two items collectively represent the amount of property and equipment we need to procure to support our business,regardless of whether we procure such property or equipment with a finance lease.We believe that this methodology can provide useful supplemental information to help investors better understand underlying trends in our business.Free cash flowis notintendedto represent our residual cash flow available for discretionary expenditures.
+
+For more information on our non-GAAP financial measures and a reconciliation of GAAP to non-GAAP measures, see the "Reconciliation of GAAP to Non-GAAP Results" table in this press release.
+
+Revenue   
+Costs and expenses: Cost of revenue   
+Research and development Marketing and sales   
+General and administrative   
+Total costs and expenses   
+Income from operations   
+Interest and other income,net   
+Income before provision for income taxes   
+Provision for income taxes   
+Net income   
+Earnings per share:   
+Basic   
+Diluted   
+Weighted-average shares used to compute earnings per   
+share:   
+Basic   
+Diluted
+
+META PLATFORMS, INC. CONDENSED CONSOLIDATED STATEMENTS OF INCOME (In millions,except per share amounts) (Unaudited)   
+Three Months Ended JuneSix Months Ended June 30， 30，   
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q2_Press_Release/images/e9b485cc16dfaddac52056b1c80e2713457a4ea84ceb89081783c0da1f360679.jpg)
+
+# Assets
+
+Current assets:   
+Cash and cash equivalents   
+Marketable securities   
+Accounts receivable,net   
+Prepaid expenses and other current assets   
+Total current assets   
+Non-marketable equity investments   
+Property and equipment, net   
+Operating lease right-of-use assets   
+Goodwill   
+Other assets   
+Total assets   
+Liabilities and stockholders' equity   
+Current liabilities:   
+Accounts payable   
+Operating lease liabilities,current   
+Accrued expenses and other current liabilities   
+Total current liabilities   
+Operating lease liabilities,non-current   
+Long-term debt   
+Long-term income taxes   
+Other liabilities   
+Total liabilities   
+Commitments and contingencies   
+Stockholders' equity:   
+Common stock and additional paid-in capital   
+Accumulated other comprehensive income (loss)   
+Retained earnings   
+Total stockholders' equity   
+Total liabilities and stockholders' equity
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q2_Press_Release/images/bff484f3b06e229ce6f73d313365f55d56f7fa00fa7e2de9a109c44350685e74.jpg)
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q2_Press_Release/images/72abeb63da4577e10fa9f4bc60bc7321d9965e9f901151f09bf1ff9a921d258c.jpg)
+
+(In millions) (Unaudited)
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q2_Press_Release/images/1a241449bd7d463c4b16dafd4d7709ebeff1083c3403c9d489f8bb5765f737c2.jpg)
+
+Supplemental cash flow data
+
+# Segment Results
+
+We report our financial results for our two reportable segments: Family of Apps (FoA)and Reality Labs (RL). FoA includes Facebook,nstagram,Messenger,WhatsApp,andotherservices.RLincludes ourvirtual,ugmented,and mixed reality related consumer hardware,software,and content.
+
+The following table sets forth our segment information of revenue and income (lossfrom operations:
+
+Revenue: Advertising Other revenue Family of Apps Reality Labs Total revenue
+
+Segment Information (In millions) (Unaudited)   
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q2_Press_Release/images/862f81b49eba60f895d1e2b8b8d48ee98e0b3d0709fad863c8202ee742471ab5.jpg)
+
+Income (loss) from operations: Family of Apps   
+Reality Labs   
+Total income from operations   
+GAAP revenue   
+Foreign exchange effect on 2025 revenue using 2024 rates   
+Revenue excluding foreign exchange effect   
+GAAP revenue year-over-year change %   
+Revenue excluding foreign exchange effect year-over-year change %   
+GAAP advertising revenue   
+Foreign exchange effect on 2025 advertising revenue using 2024 rates   
+Advertising revenue excluding foreign exchange effect
+
+Reconciliation of GAAP to Non-GAAP Results (In millions,except percentages) (Unaudited)   
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q2_Press_Release/images/0c78496d9e3be6b8a7cac143f02576b837a6663b28e43a42077b5d75f526687d.jpg)
+
+GAAP advertising revenue year-over-year change % Advertising revenue excluding foreign exchange effect year-over-year change%
+
+Net cash provided by operating activities Purchases of property and equipment Principal payments on finance leases Free cash flow
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q2_Press_Release/images/3c346b29a8800e52705f1f6234422f27d5c6677949895288b459a374af00ad9c.jpg)
+
+SOURCE Meta

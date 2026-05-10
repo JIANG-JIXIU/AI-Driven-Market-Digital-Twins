@@ -1,0 +1,292 @@
+[
+  {
+    "type": "text",
+    "text": "Meta Earnings Presentation Q3 2025 ",
+    "text_level": 1,
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Advertising Revenue by User Geography In Millions ",
+    "text_level": 1,
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "\\$50,082 \\$46,783 \\$46,563 \\$6,659 \\$33643 \\$35.635 5632 5.408 \\$10,020 \\$6.829 \\$7,338 \\$11,154 \\$11,366 \\$12,072 \\$7,721 \\$9,159 \\$8,327 \\$9,135 \\$9,358 \\$9,527 Rest of World \\$14,956 \\$17,784 \\$15,451 \\$16,593 \\$17,389 \\$20,982 \\$18,259 \\$20,045 \\$21,1 AsraPecfic Us&Canada Q3'23 Q4'23 Q1'24 Q2'24 Q3'24 Q4'24 Q1'25 Q2'25 Q3'25 ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Revenue by User Geography In Millions ",
+    "text_level": 1,
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "\\$51,242\\$48,385 \\$47,516 \\$6,951\\$34.46 \\$36.455 54 56246 \\$10,272\\$6,928 \\$7,481 \\$11,503 \\$11,532 \\$12,268\\$7,777 \\$9,441 \\$8,483 \\$9,300 \\$9,492 \\$9,680Rest of World\\$15,190 \\$18,585 \\$15,824 \\$16,847 \\$17,609 \\$21,783 \\$18,605 \\$20,371 \\$21,751 Asia-PacificEuropeJUS & CanadaQ3'23 Q4'23 Q1'24 Q2'24 Q3'24 Q4'24 Q1'25 Q2'25 Q3'25",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Segment Results ",
+    "text_level": 1,
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "In Millions, Except Percentages ",
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q3_Earnings_Presentation/images/1a105ccd21195e61ed6f97047ecbfbadce2db7df62ec9123214c9f1afa136506.jpg",
+    "table_caption": [],
+    "table_footnote": [
+      "e reality related consumer hardware,software,and content. "
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Expenses as a Percentage of Revenue ",
+    "text_level": 1,
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q3_Earnings_Presentation/images/ca4e7b53809b311bf95d276c56c709a21f202757222ffc372e69f31c7161acbe.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Effective Tax Rate ",
+    "text_level": 1,
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In Millions, Except Percentages ",
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q3_Earnings_Presentation/images/37d0482bf869f19522d29379f2091b8b14e4aca9a65534f29d12f43a759b6e17.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Net Income ",
+    "text_level": 1,
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "In Millions ",
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q3_Earnings_Presentation/images/c1573e6916acef0dcff8b83915b7e78cc7b289b511c870e6e8dcef832a44e763.jpg",
+    "img_caption": [],
+    "img_footnote": [
+      "dquarter025netincomewouldaveincreasedby\\$5.93bilito\\$18.64billoomparedtothereportednetincomf\\$ilio "
+    ],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Diluted Earnings Per Share ",
+    "text_level": 1,
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q3_Earnings_Presentation/images/3461ca75d0dd731a12ca44a02ce3270c57a69466324e36e02ff7dd4b0bf6643b.jpg",
+    "img_caption": [],
+    "img_footnote": [
+      "lquarter2025dilutedearningspersharewouldhaveincreasedby\\$6.2Oto\\$.25comparedtothereporteddilutedEPSof\\$1.05. "
+    ],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "Capital Expenditures In Millions ",
+    "text_level": 1,
+    "page_idx": 8
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q3_Earnings_Presentation/images/4b18ee1addc9fc7ee3b01272384d650f58bb659d71a569816c7d57a32b2b755e.jpg",
+    "img_caption": [],
+    "img_footnote": [
+      "Capitalexpendituresforperiodspresentedwererelatedtopurchasesofpropertyandequipmentandprincipalpaymentsonfinanceleases. "
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Family Daily Active People (DAP) In Billions ",
+    "text_level": 1,
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q3_Earnings_Presentation/images/b421b8bab2bdd2b2e74fef5c17cc56c312011b498f5a7d2ace77402fe163caa4.jpg",
+    "img_caption": [],
+    "img_footnote": [
+      "e e "
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "theAppendixofthispresentationBeginninginthefourthquarterof2O23,ourFamilymetricsnolongerincludeMessengerKidsusers. ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Family Average Revenue per Person (ARPP) ",
+    "text_level": 1,
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q3_Earnings_Presentation/images/5c11a5a3ed26c908d059af7cba8ab96db9a474cf100199f61e8c99f34ecda606.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Ad Impressions Delivered YoY Percentage Change ",
+    "text_level": 1,
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q3_Earnings_Presentation/images/e0bce8d6fbb2b02c183cd8d0b0779d0b224965730a34c5d536d2d0ce4ce11d49.jpg",
+    "img_caption": [],
+    "img_footnote": [
+      "Ouradipresl "
+    ],
+    "page_idx": 11
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q3_Earnings_Presentation/images/f5a05f512bb731d02112cdb4e24e748a072344dbff674c5ade3185148198138e.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Average Price Per Ad YoY Percentage Change ",
+    "text_level": 1,
+    "page_idx": 12
+  },
+  {
+    "type": "image",
+    "img_path": "",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 12
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q3_Earnings_Presentation/images/6a2baa007116a4167da1312b88438c7996c983b85ab6c9929e0b903ea307b22c.jpg",
+    "img_caption": [],
+    "img_footnote": [
+      "uravegi "
+    ],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Appendix ",
+    "text_level": 1,
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Free Cash Flow Reconciliation In Millions ",
+    "text_level": 1,
+    "page_idx": 14
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q3_Earnings_Presentation/images/54141fed9d0f67111a907000d5ada03d976775df5b327528b3b772a716814e37.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Limitations of Key Metrics and Other Data ",
+    "text_level": 1,
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Family Metrics ",
+    "text_level": 1,
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "i \"Family\" of products) during the applicable period of measurement. ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "ie p te generaldoielruao ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "mei mobile populations that are based on data published by third parties. ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "i e il t a et g t may indicate changes or trends in user numbers that do not match actual changes or trends. ",
+    "page_idx": 15
+  },
+  {
+    "type": "text",
+    "text": "Limitations of Key Metrics and Other Data ",
+    "text_level": 1,
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "ee fu i oteisefi ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "e b o o ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "User Geography ",
+    "text_level": 1,
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "ea li e tathetoe ",
+    "page_idx": 16
+  },
+  {
+    "type": "text",
+    "text": "Meta Earnings Presentation Q3 2025 ",
+    "text_level": 1,
+    "page_idx": 17
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "type": "text",
+    "text": "Investor Presentation Q3FY26 0 November 2025 ",
+    "text_level": 1,
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "e ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "i s requiredbylawNDAdisclaisanyobligationtoupdatetheseforward-looingstatementstoreflectfutureeventsorcircumstances ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Many of the products and features described hereir ndec d should not be interpreted as acommitment,promise,orlegalobligationandthedevelopment,releaseandtimingofanyfeaturesorfunctionaitiesdescribed for our roducts is subject to change and remains at the sole discretion of NVIDIA. NVIDlA will have no liability for failure to deliver dela thed ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "financiameasurestotemostcompaableGmeasuresaefundinthedetitdRecocliatioofoGAAPtoGAAFiancasure ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Revenue \\$in billions ",
+    "text_level": 1,
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Record sequential revenue growth of \\$10 billion   \nThree platform shifts -accelerated computing,powerful Al   \nmodels,and agentic applications - on the path to   \n\\$3 to \\$4 trillion in annual Al infrastructure build   \nVisibility into \\$O.5 trillion of Blackwell and Rubin revenue   \nfrom the start of this year through the end of calendar 2026   \nBlackwell UItra ramping across all customer categories   \nNVIDIA now the world's largest networking business ",
+    "page_idx": 2
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q3_Presentation/images/063877abb23c03e12fa0a426cf7e564f9d120472d44ef471f7315d36d2b8264d.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Data Center Revenue \\$in billions ",
+    "text_level": 1,
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q3_Presentation/images/26d45c7976312421d2e0b9a5ade08dd3cd64f0755928fbd37b047c00efb43b81.jpg",
+    "img_caption": [
+      "Compute "
+    ],
+    "img_footnote": [],
+    "page_idx": 3
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q3_Presentation/images/1bc3b37ebd26f214de9183e46d0e8b1d46012d0972cefcde34c5fc87fdb86e4e.jpg",
+    "img_caption": [
+      "Networking "
+    ],
+    "img_footnote": [],
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Blackwell Ultra now our leading architecture across all customer categories ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Largest networking business in the world ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "GrossMargin ",
+    "text_level": 1,
+    "page_idx": 4
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q3_Presentation/images/27f1bbb1a30b0fd06637f08edc5b52e7d064c4a9013d1dfc6d8ede4569d0366a.jpg",
+    "img_caption": [
+      "GAAP ",
+      "Non-GAAP "
+    ],
+    "img_footnote": [],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Transitioning from offering Hopper HGXTM systems to Blackwellfull-scale data center solutions Blackwell ramping with improved mix and cost structure ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Operating Expenses \\$ in billions ",
+    "text_level": 1,
+    "page_idx": 5
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q3_Presentation/images/bbf7cbb448af70151951a5bab6b69363a0ca88df3c538c74582a6a45ad907e5e.jpg",
+    "img_caption": [
+      "GAAP ",
+      "Non-GAAP ",
+      "Investing to address the multitude of growth opportunities ahead "
+    ],
+    "img_footnote": [],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Earnings per Share ",
+    "text_level": 1,
+    "page_idx": 6
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q3_Presentation/images/9039f74df40181dd24eb2715c38e9d647592908307aed145ed25a42ff8a82c75.jpg",
+    "img_caption": [
+      "GAAP ",
+      "Non-GAAP ",
+      "Top-line growth and operating leverage drives accelerating EPS "
+    ],
+    "img_footnote": [],
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Summary Cash Flow Items \\$ in billions ",
+    "text_level": 1,
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q3_Presentation/images/aa52da739bdf367c40f9ce46e94c2b986511844791fe12417a65c7eb3ca78d06.jpg",
+    "img_caption": [
+      "Free Cash Flow "
+    ],
+    "img_footnote": [],
+    "page_idx": 7
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q3_Presentation/images/1f9b82deb4f86095dd0ecdc375b0910c880753cfd1cb998f9dc42b7ad59e4152.jpg",
+    "img_caption": [
+      "Investing for growth while returning capital to shareholders "
+    ],
+    "img_footnote": [],
+    "page_idx": 7
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q3_Presentation/images/71604ef1d1e468ffe642a68dc0fc43ab7135bcd9cae7acafdfa0347c3a94b8f6.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Non-GAAPP&L ",
+    "text_level": 1,
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "\\$ in billions, except EPS ",
+    "page_idx": 9
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q3_Presentation/images/2e3a3971123604dc7e93a90211e9dd6b82edc45ea868a6289eaf8409edb20fc5.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Q4 FY26 Outlook - Non-GAAP ",
+    "text_level": 1,
+    "page_idx": 10
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q3_Presentation/images/0cc72d1b95e5e0de6a1374694780c123afb577693c785856d5536ff047866859.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Reconciliation of Non-GAAP to GAAP Financial Measures ",
+    "text_level": 1,
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "Reconciliation of Non-GAAP to GAAPFinancial Measures ",
+    "text_level": 1,
+    "page_idx": 12
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q3_Presentation/images/23e5e85b4786b5340936c16d19233992b5e926ff2c54c49a7304a7d07582d71e.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 12
+  },
+  {
+    "type": "text",
+    "text": "Reconciliation of Non-GAAP to GAAP Financial Measures (contd.) ",
+    "text_level": 1,
+    "page_idx": 13
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q3_Presentation/images/065defab1e7b86b7802305f10a1872ceeefb5d103cfc5c78e93340d8dfa64070.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 13
+  },
+  {
+    "type": "text",
+    "text": "Reconciliation of Non-GAAPto GAAPFinancialMeasures (contd.) ",
+    "text_level": 1,
+    "page_idx": 14
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q3_Presentation/images/94e959dc1f7b6ab20432eb4caee30445d02663bfc62de7705ecf11ce7a481713.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 14
+  },
+  {
+    "type": "text",
+    "text": "Reconciliation of Non-GAAP to GAAPFinancialMeasures (contd.) ",
+    "text_level": 1,
+    "page_idx": 15
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q3_Presentation/images/35e307710522e12278fea75081756ef161c863514f5bba74abdbf0a69b9cfb6f.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 15
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q3_Presentation/images/e0dd89863a27b2c0df56642ea8537b406a0c125c347fdde09499287205de1545.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 16
+  }
+]

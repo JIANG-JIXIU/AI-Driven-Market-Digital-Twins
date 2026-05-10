@@ -1,0 +1,132 @@
+# Meta Earnings Presentation Q2 2023
+
+# Advertising Revenue by User Geography In Millions
+
+\$32,639 \$31,254 \$31,498 \$3,220 \$28.580 \$28.276 \$6,183 \$2.949 \$28.152 \$27237 \$5.39 \$28.201 54.8 \$5,52 \$5,398 \$5,661 \$5,835 \$5,717 \$5,893 \$7,205 \$6,821 \$8,174 \$6,364 \$6,360 \$5,707 \$6,904 \$6,269 \$7,268 ] Rest of World \$13,366 \$13,094 \$15,062 \$12,024 \$12,788 \$12,766 \$15,005 \$12,710 \$14,131 Asia-Pacific Europe Us&Canada Q2'21 Q3'21 Q4'21 Q1'22 Q2'22 Q3'22 Q4'22 Q1'23 Q2'23
+
+# Revenue by User Geography In Millions
+
+\$33,671 \$3,244 \$32,165 \$31,999 \$29.077 \$29.010 \$6,244 \$27.908 \$28.82 \$27714 55420 \$28.645 6.35 \$5,190 \$5,461 \$5,759 \$5,908 \$5,782 \$5,960 \$7,270 \$6,955 \$8,357 \$6,486 \$6,452 \$5,797 \$7,050 \$6,345 \$7,323 Rest of World \$13,738 \$13,613 \$15,826 \$12,671 \$13,249 \$13,035 \$15,636 \$13,048 \$14,422 Asia-Pacific Europe US& Canada Q2'21 Q3'21 Q4'21 Q1'22 Q2'22 Q322 Q4'22 Q1'23 Q2'23
+
+# Segment Results
+
+In Millions
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2023_Q2_Earnings_Presentation/images/7bc884b5392e6c85fa48edf092cf36fb09fa6b53a74a9bcd5c272685fab6507d.jpg)
+
+# Expenses as a Percentage of Revenue
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2023_Q2_Earnings_Presentation/images/502bcd8831141aa22a59a4ae336da6e051e9b434abdad03cec8d11420ae1e6db.jpg)
+
+# Effective Tax Rate
+
+In Millions, Except for Percentages
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2023_Q2_Earnings_Presentation/images/48462f9f0f4074b4c848a965904a41371c2b5c05c3fdf6fa32156ce77bd96cc5.jpg)
+
+# Net Income
+
+In Millions
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2023_Q2_Earnings_Presentation/images/6ffec1e5ff7870b9bf5929eb1c665164427543d160c107b24170b4d3d28cf4be.jpg)
+
+# Diluted Earnings Per Share
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2023_Q2_Earnings_Presentation/images/7b037a20288b0621db9227cd17a00166eee00fb14f115ffce01550444436b1a0.jpg)
+
+# Capital Expenditures In Millions
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2023_Q2_Earnings_Presentation/images/2c82712639c3497aa7a2112d6827edf10d33a9972e05409857e34224c45a08a3.jpg)  
+Capitalexpenditureforiodspresentedererelatedtopurcasesofpropertyandequpmentetandprincipalpaymentsonfianelse.
+
+# Family Daily Active People (DAP)
+
+In Billions
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2023_Q2_Earnings_Presentation/images/3a7a123dfc13ee38548aaef00d440c3790bfe69948105df5ae44c891a732fd2f.jpg)  
+usingawebormobilebrowseronagivenday.
+
+'emberfooeooerodusdtheselifdttirc
+
+approximately 30 million DAP to our reported worldwide DAP in September 2022.
+
+# Family Monthly Active People (MAP) In Billions
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2023_Q2_Earnings_Presentation/images/341878468794a6b3c8dc66f2e00aa677b64a663b2d1b81eeed1ba81b75103f2e.jpg)
+
+feree
+
+suchupdatecontributedanaggregateofapproximately40millonMAPtoourreportedworldwideMAPinSeptember2022.
+
+# Family Average Revenue per Person (ARPP)
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2023_Q2_Earnings_Presentation/images/a00fbbdb0c650cc068afd3d84e56d9fb8d994ad2d9124d00f90ce474a8eda296.jpg)  
+itiononlyincludesusersof ourFamilyproductsasdescribedinthedefinitionof MAPintheprevious slide.
+
+# Facebook Daily Active Users (DAUs)
+
+In Millions
+
+1,908 1,930 1,929 1,960 1,968 1,984 2,000 2,037 2,064   
+618 622 619 629 631 638 643 657 665   
+788 805 806 827 836 845 854 873 891 Rest of World Asia-Pacific   
+307 308 309 307 303 303 304 307 307 Europe   
+195 196 195 196 197 197 199 200 202 US&Canada   
+Q2'21 Q3'21 Q4'21 Q1'22 Q2'22 Q3'22 Q4'22 Q1'23 Q2'23
+
+DAUs/MAUs   
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2023_Q2_Earnings_Presentation/images/6c95218f3cecef80be4a9cbe96167ba271c72441140696d166982a0740e108df.jpg)
+
+# Facebook Monthly Active Users (MAUs) In Millions
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2023_Q2_Earnings_Presentation/images/9cf3e28b821513bc6110a284eacf6cfacd86ca15e509b9c8b52f32dc1da376a7.jpg)
+
+# Facebook Average Revenue per User (ARPU)
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2023_Q2_Earnings_Presentation/images/ce66970d64fbfcc60172a3679d3b600ae62a38f4ca2faaf4de279944fe57570e.jpg)![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2023_Q2_Earnings_Presentation/images/9ad3ed99fc2a4b4e93ae6b56f8be45c097cd12da5c3a89b002639b1e5a97ec6c.jpg)
+
+i ationonlyincludesusersof FacebookandMessengerasdescribedinthedefinitionofMAUinthepreviousslide.
+
+ondensedconsolidatedfinancialstatementswhererevenueisgeographicallyapportionedbasedontheaddressesofourcustomers.
+
+# Appendix
+
+# Free Cash Flow Reconciliation In Millions
+
+![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2023_Q2_Earnings_Presentation/images/83045e276197ab7344ccb735d50f62fc4140244ecb5c1f952587db28f322858e.jpg)
+
+# Limitations of Key Metrics and Other Data
+
+T e te intend to report our Family metrics as key metrics in place of DAUs, MAUs,and ARPU.
+
+Wilett ofu i l l error margins disclosed below.
+
+dditionurFmilerdacbmetrtiasillffrtimatespbddrtiuetreido
+
+# Family Metrics
+
+ilit ail i mil pe e i t i trends.
+
+# Limitations of Key Metrics and Other Data
+
+e r fr ee ec ei aii i t previously undetected violating accounts (as defined below).
+
+ee te c ep t a tecti te of violating accounts may vary significantly from our estimates.
+
+T respectively,based on their other activities on our Family products.
+
+# Limitations of Key Metrics and Other Data
+
+# Facebook Metrics
+
+eel ri at pr evi de t aia bodi significantly from our estimates.
+
+tt m e acti of the number of duplicate and false accounts among our MAUs on an annual basis.
+
+as DAUs or MAUs,respectively,based on their other activities on Facebook.
+
+# User Geography
+
+ude acuel e revenue by user device are also affected by these factors.
+
+# Meta Earnings Presentation Q2 2023

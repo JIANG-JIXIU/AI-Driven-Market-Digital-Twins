@@ -1,0 +1,282 @@
+[
+  {
+    "type": "text",
+    "text": "CFO Commentary on Second Quarter Fiscal 2024 Results ",
+    "text_level": 1,
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Q2 Fiscal 2024 Summary ",
+    "text_level": 1,
+    "page_idx": 0
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q2_CFO_Commentary/images/76e26bc047e0fb45435bc77d127076a8503d0f00ded34ac5226842491b4347e6.jpg",
+    "table_caption": [
+      "GAAP "
+    ],
+    "table_footnote": [],
+    "page_idx": 0
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q2_CFO_Commentary/images/08ce1f3be77e10e9958162b7abf4f861027a677610e488628d51b0d1fd5ae254.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "We specialize in markets where our computing platforms can provide tremendous acceleration for applications.These platforms incorporate processors,interconnects, software,algorithms,systems, and services to deliver unique value. Our platforms address four large markets where our expertise is critical: Data Center, Gaming, Professional Visualization,and Automotive. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Revenue ",
+    "text_level": 1,
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Revenue was \\$13.51 bilion,up 101% from a year ago and up 88% sequentially. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Data Center revenue was a record, up 171% from a year ago and up 141% sequentially,led by cloud service providers and large consumer internet companies. Strong demand for the NVIDIA HGX platform based on our Hopper and Ampere GPU architectures was primarily driven by the development of large language models and generative Al. Data Center Compute grew 195% from a year ago and 157% sequentially，largely reflecting the strong ramp of our Hopper-based HGX platform. Networking was up 94% from a year ago and up 85% sequentially，primarily on strong growth in InfiniBand infrastructure to support our HGX platform. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Gaming revenue was up 22% from a year ago and up 11% sequentially, primarily reflecting demand for our GeForce RTX 4O Series GPUs based on the NVIDIA Ada Lovelace architecture following normalization of channel inventory levels. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Professional Visualization revenue was down 24% from a year ago and up 28% sequentialy. The yearon-year decrease primarily reflects lower sell-in to partners following normalization of channel inventory levels. The sequential increase was primarily due to stronger enterprise workstation demand and the ramp of NVIDlA RTX products based on the Ada Lovelace Architecture. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Automotive revenue was up 15% from a year ago and down 15% sequentially. The year-on-year increase was primarily driven by sales of self-driving platforms.The sequential decrease primarily reflects lower overallauto demand, particularly in China. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Gross Margin ",
+    "text_level": 1,
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "GAAP and non-GAAP gross margins increased from a year ago and sequentially, primarily reflecting growth in Data Center sales.The year-on-year increase also reflects the impact on the year-ago gross margin from \\$1.34 billion in inventory provisions and related charges. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Expenses ",
+    "text_level": 1,
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "GAAP operating expenses were up_10% from a year ago and up 6% sequentialy, primarily driven by compensation and benefits,including stock-based compensation,reflecting growth in employees and compensation increases. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Non-GAAP operating expenses were up 5% from a year ago and up 5% sequentiall， primarily reflecting increased compensation and benefits. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Other Income & Expense and Income Tax ",
+    "text_level": 1,
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "GAAP other income and expense (Ol&E) includes interest income, interest expense, gains and losses from non-afiliated investments and other. Non-GAAP Ol&E excludes the gains or losses from nonafliated investments and the portion of interest expense from the amortization of the debt discount. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Interest income was \\$187 million, up from a year ago and sequentially，reflecting higher yields on investments. Net gains from non-afliated investments were \\$62 million due to the mark-to-market of publicly traded equity investments. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "GAAP effective tax rate was 11.4%, which reflects tax benefits from the foreign-derived intangible income deduction, stock-based compensation,and the U.S. federal research tax credit. Non-GAAP effective tax rate was 14.6%. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Balance Sheet and Cash Flow ",
+    "text_level": 1,
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Cash,cash equivalents and marketable securities were \\$16.02 bilion,down from \\$17.04 billion a year ago and up from \\$15.32 billion a quarter ago. The year-on-year decrease primarily reflects stock repurchases and repayment of debt at maturity，partially offset by higher revenue.The sequential increase reflects higher revenue,partially offset by stock repurchases and repayment of debt at maturity. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Accounts receivable was \\$7.07 bilion with a DSO of 48. The growth in accounts receivable reflects strong growth in revenue, timing of payments and the linearity of shipments. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Inventory was \\$4.32 billon with a DSl of 97. Purchase commitments and obligations of inventory and capacity were \\$11.15 billion and prepaid supply agreements were \\$3.81 billon. Our commitment increases largely reflect our long-term supply needs for our Data Center products. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Cash flow from operating activities was \\$6.35 billon,up from \\$1.27 billon a year ago and \\$2.91 billion a quarter ago，with both increases driven by higher revenue. Accounts receivable in the second quarter benefited by approximately \\$1.25 bilion from customer payments received ahead of the invoice due date. In the third quarter, we expect to pay approximately \\$3.81 billon in cash taxes which were previously deferred due to the disaster relief made available by the Internal Revenue Service for certain California taxpayers. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Depreciation and amortization expense was \\$365 milion, including amortization of acquisitionrelated intangible assets.Starting in fiscal 2O24,we extended the useful ives of most of our servers, storage,and network equipment from three years to a range of four to five years,and assembly and test equipment from five to seven years.This change in useful lives drove a favorable impact to operating expenses of \\$28 millon and to cost of goods sold of \\$5 million in the second quarter. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "During the second quarter,we returned \\$3.38 billon to shareholders in the form of 7.5 milion shares repurchased for \\$3.28 bilion,and cash dividends. As of the end of the second quarter, we had \\$3.95 billion remaining under our share repurchase authorization. On August 21，2O23，our Board of Directors approved an increase to our share repurchase program of an additional \\$25.Oo billion, without expiration. We plan to continue share repurchases this fiscal year. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Third Quarter of Fiscal 2024 Outlook ",
+    "text_level": 1,
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Outlook for the third quarter of fiscal 2O24 is as follows: ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "·Revenue is expected to be \\$16.00 billion, plus or minus 2%. GAAP and non-GAAP gross margins are expected to be 71.5% and 72.5%, respectively, plus or minus 50 basis points. GAAP and non-GAAP operating expenses are expected to be approximately \\$2.95 billon and \\$2.00 billion,respectively. GAAP and non-GAAP other income and expense are expected to be an income of approximately \\$1oO million, excluding gains and losses from non-affiliated investments. GAAP and non-GAAP tax rates are expected to be 14.5%, plus or minus 1%, excluding any discrete items. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "For further information, contact: ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Simona Jankowski Investor Relations NVIDIA Corporation sjankowski@nvidia.com ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Robert Sherbin Corporate Communications NVIDIA Corporation rsherbin@nvidia.com ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Non-GAAP Measures ",
+    "text_level": 1,
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "To supplement NVIDIA's condensed consolidated financial statements presented in accordance with GAAP, the company uses non-GAAP measures of certain components of financial performance. These non-GAAP measures include non-GAAP gross profit， non-GAAP gross margin， non-GAAP operating expenses, non-GAAP income from operations,non-GAAP other income (expense), net, nonGAAP net income, non-GAAP net income,or earnings,per diluted share,and free cash flow. In order for NVIDIA's investors to be better able to compare its current results with those of previous periods, the company has shown a reconciliation of GAAP to non-GAAP financial measures.These reconciliations adjust the related GAAP financial measures to exclude acquisition termination costs, stock-based compensation expense，acquisition-related and other costs， IP-related costs， legal settlement costs，contributions, other, losses from non-affiliated investments, interest expense related to amortization of debt discount, and the associated tax impact of these items where applicable.Free cash flow is calculated as GAAP net cash provided by operating activities less both purchases of property and equipment and intangible assets and principal payments on property and equipment and intangible assets. NVIDIA believes the presentation of its non-GAAP financial measuresenhances the user's overall understanding of the company's historical financial performance. The presentation of the company's non-GAAP financial measures is not meant to be considered in isolation or as a substitute for the company's financial results prepared in accordance with GAAP,and the company's non-GAAP measures may be different from non-GAAP measures used by other companies. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Certain statementsin this CFO Commentary including,but notlimited to,statementsas to:our computing platforms providingtremendousacceleration for applicationsanddelivering uniquevalue;our expectedpayment of previously deferedcash taxes;ourplanto continue share repurchases;andourfinancialoutlook and expectedtaxrates forthe third quarteroffiscal 2O24areforward-looking statements thatare subjecttorisksand uncertaintiesthatcouldcauseresults to be materiall different than expectations.Important factors thatcouldcause actual results to differ materiall include: global economicconditions;our reliance on third partiesto manufacture,assemble,package and testour products;the impactof technologicaldevelopmentand competition;developmentof new productsand technologies orenhancements to our existing product and technologies; market acceptanceof our products orour partners'products;design,manufacturing orsoftwaredefects;changes in consumer preferences ordemands;changes in industry standardsand interfaces; unexpected lossof performance of our products or technologies when integrated into systems; as wellas other factors detailedfromtimeto time in the most recent reports NVIDIAfiles with the Securities and Exchange Commission,or SEC, including,butnotlimitedto,itsannualreportonForm10-KandquarterlyreportsonForm1O-Q.Copiesofreportsfiledwith the SECare postedonthecompany's websiteandareavailable from NvIDIA without charge.These forward-looking statementsare not guaranteesoffutureperformance andspeak onlyasof thedate hereof,and,except asrequired bylaw, NVIDIA disclaims anyobligation to update these forward-looking statements to reflect future events or circumstances. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "### ",
+    "text_level": 1,
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA CORPORATIONRECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES",
+    "text_level": 1,
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "(In millions,except per share data) (Unaudited) ",
+    "page_idx": 4
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q2_CFO_Commentary/images/363c148d534ad968a0464601ef6e6d12b06f62bc1252ff8f84578295fae3c78a.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 4
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q2_CFO_Commentary/images/8051cf2cc35a2e846d7a160ac4d9e2c7f2a8171f8464bd9b10fe7841981a8191.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Cost of revenue Research and development Sales, general and administrative ",
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q2_CFO_Commentary/images/5f0e203cc2b65273584671e643d7d82309751058228eaa9ebdfab3401baa9549.jpg",
+    "table_caption": [
+      "(A)Acquisition-related and other costs are comprised of amortization of intangible assets,transaction costs, and certain compensation charges and are included in the following line items: "
+    ],
+    "table_footnote": [],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "(B) Stock-based compensation consists of the following: ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Cost of revenue Research and development Sales, general and administrative ",
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q2_CFO_Commentary/images/fde002357a128b505172dd3f6cd26a91fbd3f4018c4ee4d63a0cb117de8b94b8.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "(C) Other consists of assets held for sale related adjustments. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "(D) Income tax impact of non-GAAP adjustments,including the recognition of excess tax benefits or deficiencies related to stock-based compensation under GAAP accounting standard (ASU 2016-09). ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "NVIDIA CORPORATIONRECONCILIATION OF GAAP TO NON-GAAP OUTLOOK",
+    "text_level": 1,
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q2_CFO_Commentary/images/18b2d76d7535e3417a15cd550b7594d4cd83ff4e3d3f4745eb12e7fdc566d859.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 6
+  }
+]

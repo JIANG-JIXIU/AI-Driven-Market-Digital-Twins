@@ -1,0 +1,405 @@
+[
+  {
+    "type": "text",
+    "text": "Meta Platforms, Inc. (META) Second Quarter 2023 Results - Prepared Remarks July 26th, 2023 ",
+    "text_level": 1,
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Ken Dorell, Director, Investor Relations ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Thank you. Good afternoon and welcome to Meta Platforms second quarter 2023 earnings conference call. Joining me today to discuss our results are Mark Zuckerberg, CEO and Susan Li, CFO. ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Before we get started,Iwould like to take this opportunity to remind you that our remarks today wil include forward-looking statements.Actual results may difer materially from those contemplated by these forward-looking statements. ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Factors that could cause these results to differ materially are set forth in today's press release,and in our quarterly report on form 10-Qfiled with the SEC.Any forward-looking statements that we make on this call are based on assumptions as of today and we undertake no obligation to update these statements as a result of new information or future events. ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "During this callwe will present both GAAP and certain non-GAAP financial measures. A reconciliation of GAAP to non-GAAP measures is included in today's earnings press release.The press release and an accompanying investor presentation are available on our website at investor.fb.com. ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "And now,I'd like to turn the call over to Mark. ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Mark Zuckerberg, CEO ",
+    "text_level": 1,
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Thanks Ken,and thanks everyone for joining. ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "This was a good quarter for our business.We're seeing strong engagement trends across our apps. There are now more than 3.8 bilion people who use at least one of our apps every month.Facebook now has more than 3 bilion monthly actives -- with daily actives continuing to grow around the world, including in the US and Canada. ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "In addition to our core products performing wel,Ithink we have the most exciting roadmap ahead that I've seen in a while.We've got continued progress on Threads, Reels, Llama 2,and some groundbreaking Al products in the pipeline as wellas the Quest 3 launch coming up this fall.We're heads down executing on allof this right now,and it's really good to see the decisions and investments that we've made start to play out. ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "On Threads,briefly,I'm quite optimistic about our trajectory.We saw unprecedented growth out of the gate and more importantly we're seeing more people coming back daily than I'd expected. And now, we're focused on retention and improving the basics.And then after that, we'llfocus on growing the community to the scale we think is possible. Only after that willwe work on monetization.We've run this playbook many times before-with Facebook, Instagram, WhatsApp,Stories, Reels,and more --and this is as good of a start as we could have hoped for,so I'm really happy with the path we're on here. ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "One note that Iwant to mention about the Threads launch related to our Year of Eficiency is that the product was built by a relatively small team on a tight timeline.We've already seen a number of ",
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "examples of how our leaner organization and some of the cultural changes that we've made can build higher quality products faster,and this is probably the biggest example so far.The Yearof Eficiency was always about two different goals: becoming an even stronger technology company,and improving our financial results so we can invest aggressively in our ambitious long term roadmap. Now that we've gotten through the major layoffs,the rest of 2023 willbe about creating stability for employees, removing barriers that slow us down,introducing new Al-powered tools to speed us up,and so on. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Over the next few months, we're going to start planning for 2024,and I'm going to be focused on continuing to run the company as lean as possible for these cultural reasons even though our financial results have improved.lexpect that we're still going to hire in key areas,but newly budgeted headcount growth is going to be relatively low.That said,as part of this year's layofs, many teams chose to let people go in order to hire different people with different skils they need, so much of that hiring is going to spill into 2024. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "The other major budget point that we're working through is what the right level of Alcapex is to support our roadmap. Since we don't know how quickly our new Al products willgrow, we may not have a clear handle on this until later in the year. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Moving onto our product roadmap,l've said on a number of these calls that the two technological waves that we're riding are Al in the near term and the metaverse over the longer term. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Investments that we've made over the years in Al, including the billions of dollars we've spent on Al infrastructure,are clearly paying off across our ranking and recommendation systems and improving engagement and monetization. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Al-recommended content from accounts you don't follow is now the fastest growing category of content on Facebook's feed.Since introducing these recommendations,they have driven a 7% increase in overall time spent on the platform.This improves the experience because you can now discover things that you might not have otherwise followed or come across.Reels is a key part of this Discovery Engine,and Reels plays exceed 2O0 billion per day across Facebook and Instagram. We're seeing good progress on Reels monetization as wel, with the annual revenue run-rate across our apps now exceeding \\$10 billion, up from \\$3 billion last fall. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Beyond Reels,Al is driving results across our monetization tools through our automated ads products, which we call Meta Advantage. Almost all our advertisers are using at least one of our Al-driven products.We've also deployed Meta Latice,a new model architecture that learns to predict an ad's performance across a variety of datasets and optimization goals.And we introduced Al Sandbox, a testing playground for generative Al-powered tools like automatic text variation, background generation,and image outcropping. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "Business messaging is another key piece of our monetization strategy,and we recently announced that the 200 millon users of our WhatsApp Business app will now be able to create Click-to-WhatsApp ads for Facebook and Instagram without needing a Facebook account.This is a pretty big unlock, particularly in countries where WhatsApp is often the first step to bringing a business online.Paid messaging is a bit earlier but is also showing good adoption.The number of businesses using our paid messaging products has doubled year over year. ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "While we're on messaging,I'llmention that we started rollng out Channels on WhatsApp last month. It's a simple,reliable and private way to receive important updates from people and organizations, and I'm quite excited for more people to tryit as we bring the product to more countries through the rest of this year. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Beyond the recommendations and ranking systems across our products, we're also building leading foundation models to support a new generation of Al products. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "We've partnered with Microsoft to open source Llama 2,the latest version of our large language model, and make it available for both research and commercial use.We have a long history of open-sourcing our infrastructure and Al work --from PyTorch, which is the leading machine learning framework, to models like Segment Anything,ImageBind,and Dino,to basic infrastructure as part of the Open Compute Project.We've found that open sourcing our work allows the industry,including us,to benefit from innovations that come from everywhere.And these are often improvements in safety and security, since open source software is more scrutinized and more people can find and identify fixes for issues. The improvements also often come in the form of efficiency gains,which should hopefully allow us and others to run these models with less infrastructure investment going forward.l'm really looking forward to seeing the improvements that the community makes to Llama 2. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "We're also building a number of new products ourselves using Llama that will work across our services I'm going to share more details later this year,but you can imagine lots of ways Al could help people connect and expressthemselves in our apps: creative tools that make it easier and more fun to share content,agents that act as assistants,coaches,or that can help you interact with businesses and creators,and more.These new products willimprove everything that we do across both mobile apps and the metaverse -- helping people create worlds and the avatars and objects that inhabit them as well. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "As our investments in Al continue, we remain fully committed to the metaverse vision as well.We've been working on both of these two major priorities for many years in parallel now,and in many ways the two areas are overlapping and complementary. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The next big thing on the Reality Labs side is the launch of our Quest 3 mixed reality headset at Connect. It's our most powerful headset yet -- with better displays and resolution,and next gen Qualcomm chipset with 2x the graphics performance.It willalso have the best immersive content library out there, and it's 40% thinner than Quest 2.Its mixed reality seamlessy blends your physical world and the virtual one by inteligently understanding the physical space around you.We pioneered mixed reality with our Quest Pro headset,and Quest 3 takes that to the next level. Others in the industry are of course working on bringing mixed reality to the market too,but Quest 3 is going to be the first mainstream,accessible device that we expect many millions of people will get to experience this technology with. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "The metaverse content and software vision continues coming together as well.We recently announced that Roblox is coming to Quest with an open beta on App Lab.For Horizon,the team is focused on retention right now and we're making good progress on that. We've made big improvements on avatars as well,and that's going to be a bridge between our mobile apps and our VR and mixed reality experiences.We'llhave a lot more to share on both our metaverse and Al work at our Connect conference, which we'llbe hosting in Hacker Square at our headquarters on September 27th.It's going to be a good one, so tune in! ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "To wrap up,I just want to say I'm really proud of our teams for everything we've accomplished so far this year.It's been atough year in a lot of ways,but it'salso been an impactful one.l'm quite optimistic about the road ahead and grateful to you allfor being on this journey with us.Now,I'm going to hand it over to Susan. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Susan Li, CFO ",
+    "text_level": 1,
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Thanks Mark and good afternoon everyone. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Let's begin with our consolidated results.Allcomparisons are on a year-over-year basis unless otherwise noted. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Q2 total revenue was \\$32.0 billion, up 11% or 12% on a constant currency basis. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Q2 total expenses were \\$22.6 bilion, up 10% compared to last year. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "In terms of the specific line items: ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Cost of revenue increased 15%, driven primarily by infrastructure-related costs. R&D increased 8%,driven mainly by headcount-related costs from our Reality Labs and Family of Apps segments as well as restructuring costs. Marketing & Sales decreased 12%,due mostly to lower marketing spend and payrol-related costs. 1 G&A increased 39%, due primarily to an increase in legal accruals which was partially offset by lower payroll-related costs. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "We ended the second quarter with over 71,400 employees,down 7% from the first quarter.Our second quarter headcount stillincluded roughly half of the approximately 10,0o0 employees impacted by the 2023 layoffs.We expect that our third quarter headcount willno longer include the vast majority of impacted employees. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Second quarter operating income was \\$9.4 bilion, representing a 29% operating margin. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Our tax rate for the quarter was 16%.This is lower than our previous full-year outlook as our higher share price provided a higher tax deduction and lowered our taxes. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Net income was \\$7.8 billion or \\$2.98 per share. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Capital expenditures, including principal payments on finance leases, were \\$6.4 billion, driven by investments in data centers,servers and network infrastructure. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Free cash flow was \\$11.0 bilion,significantly benefitting from a deferral of income taxes that we expect will be paid in the fourth quarter.We repurchased \\$793 million of our Class A common stock in the second quarter and ended the quarter with \\$53.4 billion in cash and marketable securities. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Moving now to our segment results. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "I'll begin with our Family of Apps segment. ",
+    "page_idx": 3
+  },
+  {
+    "type": "text",
+    "text": "Our community across the Family of Apps continues to grow.We estimate that approximately 3.07 billion people used at least one of our Family of Apps on a daily basis in June,and that approximately 3.88 billion people used at least one on a monthly basis. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Facebook continues to grow globally and engagement remains strong.For the first time, we crossed 3 billion monthly active users, with Facebook MAU ending at 3.03 billion in June, up 3% or 96 million compared to last year. Facebook daily active users were 2.06 billion, up 5% or 96 million. DAUs represented approximately 68% of MAUs. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Q2 Total Family of Apps revenue was \\$31.7 billion, up 12% year over year. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Q2 Family of Apps ad revenue was \\$31.5 billion, up 12% or 13% on a constant currency basis. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Within ad revenue,the online commerce vertical was the largest contributor to year-over-year growth, followed by entertainment & media and CPG.Online commerce benefited from strong spend among advertisers in China reaching customers in other markets. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "On a user geography basis,ad revenue growth was strongest in Rest of World at 16%,followed by Europe, North America and Asia-Pacific at 14%,11% and 10%, respectively. Foreign currency was a headwind to advertising revenue growth in all international regions. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "In Q2,the total number of ad impressions served across our services increased 34% and the average price per ad decreased 16%.Impression growth was primarily driven by Asia-Pacific and Rest of World. The year-over-year decline in pricing was driven by strong impression growth,especially from lower monetizing surfaces and regions. While overallpricing remains under pressure from these factors, we believe our ongoing improvements to ad targeting and measurement are continuing to drive improved results for advertisers. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Family of Apps other revenue was \\$225 million in Q2,up 3%, as strong business messaging revenue growth from our WhatsApp Business Platform was partially offset by a decline in other line items. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "We continue to direct the majority of our investments toward the development and operation of our Family of Apps. In Q2, Family of Apps expenses were \\$18.6 bilion,representing approximately 82% of our overal expenses. FoA expenses were up 8% due primarily to legal-related expenses and restructuring charges, partially offset by a decrease in non headcount-related operating expenses, including marketing. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Family of Apps operating income was \\$13.1 billion, representing a 41% operating margin. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Within our Reality Labs segment, Q2 revenue was \\$276 milion,down 39% due to lower Quest 2 sales. Reality Labs expenses were \\$4.0 billion,up 23% due to lapping a reduction in Reality Labs loss reserves in Q2 of last year as well as growth in employee-related costs. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Reality Labs operating loss was \\$3.7 billion. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Turning now to the business outlook. There are two primary factors that drive our revenue performance: Our ability to deliver engaging experiences for our community,and our effectiveness at monetizing that engagement over time. ",
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "On the first - overallengagement within Facebook and Instagram remains strong. Reels continues to grow and drive incremental engagement. On Facebook Feed in particular,recommended content from accounts you don't follow has increased significantly over the past year while also becoming more incremental to engagement - demonstrating that people are getting added value from discovering content from unconnected accounts. Looking forward, we are optimistic about our ability to increase that value even further by leveraging advanced Al techniques to improve recommendations. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In addition to improving the value people get within our family of apps today, we're also investing in entirely new experiences for the future.We're standing up infrastructure to support new Al-powered products across our services, which wil give people more tools to express themselves and connect. And we've been pleased with the initial reception of our new standalone app,Threads,since its launch earlier this month. Our focus now is on further developing this into a product that willbe valuable for a large set of people over time. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Moving to the other driver of revenue - improving monetization. Here, we're focused on improving monetization efficiency of products that monetize at lower rates today,like Reels and our messaging services; and, more broadly, driving measurable performance and returns for our advertisers. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "On Reels, we are making good progress on monetization, with more than 3/4 of our advertisers now using Reels ads.We remain focused on further reducing the Reels revenue headwind and narrowing the monetization eficiency gap with our more mature surfaces. However, we continue to expect time on Reels will monetize at a lower rate than Stories and Feed for the foreseeable future since people scroll more slowly through video content. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Within messaging, billions of people and millions of businesses use our messaging services every day to connect.We see a significant opportunity to build tools and functionality for businesses to help facilitate those interactions and are seeing early but promising progress with WhatsApp's paid messaging solution today. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "In terms of our work to drive measurable performance for advertisers -it's concentrated in two primary areas: Al and onsite conversions. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "We're leveraging Al to move our systems towards using fewer, larger models that enable us to leverage learnings across product surfaces and deploy improvements more quickly, broadly,and efficiently. We're also leveraging Al to power advanced ads products,like Advantage+ shopping, which continues to gain adoption. We're seeing this work translate into results for advertisers as conversion growth remained strong in Q2. In terms of driving onsite conversions, we continue to see strong results with Click-to-messaging ads and are well positioned given our suite of messaging applications. Daily Click-to-WhatsApp ads revenue continues to grow very quickly at over 8O% year-over-year. We also recently started testing the ability to buy Click-to-WhatsApp ads directly from the WhatsApp Business App, which now has more than 200 million monthly users.Looking ahead, we're focused on enabling businesses to optimize for conversions further down the funnel in our messaging applications. We are also investing in scaling other onsite objectives like lead generation and Shops ads. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Before turning to our revenue outlook,I'd also like to talk about our investment philosophy. We expect to bring the discipline and habits that we built during this year of efficiency with us as we plan for the future.At the same time, we remain focused on investing in the significant opportunities ahead.Part of supporting these initiatives willcome from prioritizing them against other areas of work and shifting resources.However, insome cases they willrequire incremental investment.This is particularly true in the areas we see the most significant opportunity, which include Al and the metaverse. ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "As I mentioned last quarter, we also remain focused on modestly evolving our capital structure over time.We were pleased to execute our second bond offering in May and expect a measured pace of future debt raises as we work toward improving our overallcost of capital while maintaining a positive or neutral net cash balance. ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "In addition, we continue to monitor the active regulatory landscape.With respect to EU-U.S. data transfers, we saw a positive development with the European Commision's adoption of a final adequacy decision, which alows us to continue to provide our services in Europe.This is good news, though broadly speaking, we continue to see increasing legal and regulatory headwinds in the EU and the US that could significantly impact our business and our financial results. ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Turning now to the revenue outlook. ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "We expect third quarter 2023 total revenue to be in the range of \\$32-34.5 bilion. Our guidance assumes a foreign currency tailwind of approximately 3% to year-over-year total revenue growth in the third quarter, based on current exchange rates. ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Turning now to the expense outlook. ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "We anticipate that our full-year 2023 total expenses will be in the range of \\$88-91 billion,increased from our prior range of \\$86-90 billion due to legal-related expenses recorded in Q2.This outlook includes approximately \\$4 billion of restructuring costs related to facilities consolidation charges and severance and other personnel costs.We expect Reality Labs operating losses to increase year-over-year in 2023. ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "While we are not providing a quantitative outlook beyond 2023 at this point, we expect a few factors to be drivers of total expense growth in 2024 as we continue to invest in our most compelling opportunities,including Al and the metaverse. ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "First, we expect higher infrastructure-related costs next year. Given our increased capital investments in recent years, we expect depreciation expenses in 2024 to increase by a larger amount than in 2023.We also expect to incur higher operating costs from running a larger infrastructure footprint. . Second, we anticipate growth in payrollexpenses as we evolve our workforce composition toward higher-cost technical roles. Finally, for Reality Labs, we expect operating losses to increase meaningfully year-over-year dui to our ongoing product development efforts in AR/VR and our investments to further scale our ecosystem. ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Turning now to the capex outlook. ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "We expect capital expenditures to be in the range of \\$27-30 bilion,lowered from our prior estimate of \\$30-33 bilion.The reduced forecast is due to both cost savings,particularly on non-Al servers,as well as shifts in capex into 2024 from delays in projects and equipment deliveries rather than a reduction in overall investment plans. ",
+    "page_idx": 6
+  },
+  {
+    "type": "text",
+    "text": "Looking ahead, while we willcontinue to refine our plans as we progress throughout this year, we currently expect total capital expenditures to grow in 2O24,driven by our investments across both data centers and servers, particularly in support of our Al work. ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "On to tax. Absent any changes to U.S.tax law, we expect the tax rate for the rest of the year to be similar to Q2 2023. ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In closing, Q2 was a good quarter for our business. We're executing well across our core priorities and are continuing to make progress on delivering exciting new experiences for our community. ",
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "With that, Dave,let's open up the callfor questions. ",
+    "page_idx": 7
+  }
+]
