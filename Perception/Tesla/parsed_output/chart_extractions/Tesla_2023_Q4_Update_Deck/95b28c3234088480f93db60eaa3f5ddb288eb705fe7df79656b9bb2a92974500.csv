@@ -1,0 +1,8 @@
+```csv
+Time Period,Net (loss) income attributable to common stockholders (GAAP),Stock-based compensation expense,Release of valuation allowance on deferred tax assets,Net income attributable to common stockholders (non-GAAP),Less: Buy-out of noncontrolling interest,Less: Dilutive convertible debt,Net income used in computing diluted EPS attributable to common stockholders (non-GAAP),EPS attributable to common stockholders, diluted (GAAP),Stock-based compensation expense per share,Release of valuation allowance on deferred tax assets per share,EPS attributable to common stockholders, diluted (non-GAAP),Shares used in EPS calculation, diluted (GAAP and non-GAAP),Net (loss) income attributable to common stockholders (GAAP),Interest expense,Provision for (benefit from) income taxes,Depreciation, amortization and impairment,Stock-based compensation expense,Adjusted EBITDA (non-GAAP),Total revenues,Adjusted EBITDA margin (non-GAAP)
+2019,-862,898,0,36,8,0,28,-0.33,0.34,0,-0.01,2661,-862,685,110,2154,898,2985,24578,12.1%
+2020,721,1734,0,2455,31,0,2424,0.21,0.54,0,0.75,3249,721,748,292,2322,1734,5817,31536,18.4%
+2021,5519,2121,0,7640,-5,-9,7654,1.63,0.63,0,2.26,3386,5519,371,699,2911,2121,11621,53823,21.6%
+2022,12556,1560,0,14116,-27,-1,14143,3.62,0.45,0,4.07,3475,12556,191,1132,3747,1560,19186,81462,23.6%
+2023,14997,1812,-5927,10882,-2,-1,10884,4.3,0.52,-1.7,3.12,3485,14997,156,5001,4667,1812,16631,96773,17.2%
+```

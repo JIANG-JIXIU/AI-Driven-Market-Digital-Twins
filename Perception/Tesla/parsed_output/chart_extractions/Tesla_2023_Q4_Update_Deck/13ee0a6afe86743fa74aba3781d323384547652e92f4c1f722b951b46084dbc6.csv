@@ -1,0 +1,8 @@
+```csv
+Time Period,Net income attributable to common stockholders (GAAP),Stock-based compensation expense,Release of valuation allowance on deferred tax assets,Net income attributable to common stockholders (non-GAAP),Less: Buy-out of noncontrolling interest,Net income used in computing diluted EPS attributable to common stockholders (non-GAAP),EPS attributable to common stockholders, diluted (GAAP),Stock-based compensation expense per share,Release of valuation allowance on deferred tax assets per share,EPS attributable to common stockholders, diluted (non-GAAP),Shares used in EPS calculation, diluted (GAAP and non-GAAP),Net income attributable to common stockholders (GAAP),Interest expense,Provision for (benefit from) income taxes,Depreciation, amortization and impairment,Stock-based compensation expense,Adjusted EBITDA (non-GAAP),Total revenues,Adjusted EBITDA margin (non-GAAP)
+Q4-2022,3687,419,-,4106,-,4141,1.07,0.12,-,0.12,1.19,3471,3687,33,276,989,419,5404,24318,22.2%
+Q1-2023,2513,418,-,2931,-,2936,0.73,0.12,-,0.12,0.85,3468,2513,29,261,1046,418,4267,23329,18.3%
+Q2-2023,2703,445,-,3148,-,3148,0.78,0.13,-,0.13,0.91,3478,2703,28,323,1154,445,4653,24927,18.7%
+Q3-2023,1853,465,-,2318,2,2316,0.53,0.13,-,0.14,0.66,3493,1853,38,167,1235,465,3758,23350,16.1%
+Q4-2023,7928,484,-,2485,1,2484,2.27,0.14,-,1.70,0.71,3492,7928,61,-,1232,484,3953,25167,15.7%
+```

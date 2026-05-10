@@ -1,0 +1,5 @@
+```csv
+Time_Period,GAAP_Operating_Income($B),GAAP_Net_Income($B),Non_GAAP_Net_Income($B),One_time_non_cash_tax_benefit($B),Operating_Cash_Flow($B),Free_Cash_Flow($B),Increase_in_Cash_and_Investments($B),Model_Y_best_selling_vehicle_world,Energy_storage_deployment(GWh)
+2023,8.9,15.0,10.9,5.9,13.3,4.4,3.0,1,14.7
+Q4,2.1,7.9,2.5,,4.4,2.1,,,
+```

@@ -1,0 +1,8 @@
+```csv
+Time Period,Cash Flows from Operating Activities Net income (1),Adjustments to reconcile net income to net cash provided by operating activities:Depreciation, amortization and impairment,Stock-based compensation,Deferred income taxes (1),Digital assets (gain) loss, net (1),Other,Changes in operating assets and liabilities,Cash provided by operating activities,Cash Flows from Investing ActivitiesCapital expenditures (2),Purchases of investments,Proceeds from maturities of investments,Proceeds from sales of investments,Cash used in investing activities,Cash Flows from Financing ActivitiesNet cash flows from other debt activities,Net borrowings (repayments) under vehicle and energy product financing,Net cash flows from noncontrolling interests - Solar,Other,Cash provided by (used in) financing activities,Effect of exchange rate changes on cash and cash equivalents and restricted cash,Nat (decrease) increase in cash and cash equivalents and restricted cash,Cash and cash equivalents and restricted cash at beginning of period,Cash and cash equivalents and restricted cash at end of period
+Q1-2024,1405,1246,524,63,-335,-,1405,242,-2661,242,-2777,-6622,4315,-,5084,-140,216,-131,251,196,-79,-4725,17189,12464
+Q2-2024,1416,1278,439,122,100,119,1416,3612,138,3612,-2272,-8143,6990,200,-3225,2598,-212,-43,197,2540,-37,2890,12464,15354
+Q3-2024,2189,1348,457,286,-7,408,2189,6255,1574,6255,-3513,-6032,6670,-,2875,75,-107,-26,340,132,108,3620,15354,18974
+Q4-2024,2143,1496,579,6,347,-93,2143,4814,1030,4814,-2780,-15158,10335,-,7603,108,677,-37,453,985,-133,-1937,18974,17037
+Q1-2025,420,1447,573,-43,125,-93,420,2156,-554,2156,-1492,-6015,5856,-,1651,-50,-674,-22,414,-332,40,213,17037,17250
+```

@@ -1,0 +1,526 @@
+[
+  {
+    "type": "text",
+    "text": "Q4 and FY 2022 Update ",
+    "text_level": 1,
+    "page_idx": 0
+  },
+  {
+    "type": "text",
+    "text": "Highlights 03   \nFinancial Summary 04   \nOperational Summary 07   \nVehicle Capacity 09   \nCore Technology 10   \nOther Highlights 11   \nOutlook 12   \nPhotos & Charts 13   \nKey Metrics 22   \n，   \nFinancial Statements 27   \nAdditional Information 34 ",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "",
+    "page_idx": 1
+  },
+  {
+    "type": "text",
+    "text": "HIGHLIGHTS",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "16.8% operating margin in 2022; 16.0% in Q4   \n\\$13.7B GAAP operating income in 2022; \\$3.9B in Q4   \n\\$12.6B GAAP net income in 2022; \\$3.7B in Q4   \n\\$14.1B non-GAAP net income1 in 2022; \\$4.1B in Q4 ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Operating cash flow of \\$14.7B; free cash flow² of \\$7.6B in 2022 Operating cash flow of \\$3.3B; free cash flow of \\$1.4B in Q4 \\$1.1B increase in our cash and investments³ in Q4 to \\$22.2B ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Operations 6.5 GWh of energy storage deployed in 2022, up 64% YoY Record vehicle deliveries of 1.31 million in 2022 ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Q4-2022 was another record-breaking quarter and 2o22 was another recordbreaking year. In the last quarter, we achieved the highest-ever quarterly revenue, operating income and net income in our history. In 2o22, total revenue grew 51% YoY to \\$81.5B and net income (GAAP) more than doubled YoY to \\$12.6B. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "As we progress into 2o23, we know that there are questions about the nearterm impact of an uncertain macroeconomic environment, and in particular, with rising interest rates. The Tesla team is used to challenges, given the culture required to get the company to where it is today. In the near term we are accelerating our cost reduction roadmap and driving towards higher production rates, while staying focused on executing against the next phase of our roadmap. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "Our ASPs4 have generally been on a downward trajectory for many years. Improving affordability is necessary to become a multi-million vehicle producer. While ASPs halved between 2O17 and 2022, our operating margin consistently improved from approximately negative 14% to positive 17% in the same period. This margin expansion was achieved through introduction of lower cost models, buildout of localized, more-efficient factories, vehicle cost reduction and operating leverage. ",
+    "page_idx": 2
+  },
+  {
+    "type": "text",
+    "text": "In any scenario, we are prepared for short-term uncertainty， while being focused on the long-term potential of autonomy, electrification and energy solutions. Our relentless cost control and cost innovation is why we believe that no other OEM is better equipped to navigate through 2O23, and ultimately succeed in the long run, than we are. ",
+    "page_idx": 2
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/7c6321822ed2c115387eee0be069ea8658711a81009dbb4087e12943a6886948.jpg",
+    "table_caption": [],
+    "table_footnote": [
+      ""
+    ],
+    "page_idx": 3
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/04f6224752000bb3c347a1bfcbca3b79e29d576937c6ee90b3a9fcdf5abcd407.jpg",
+    "table_caption": [],
+    "table_footnote": [
+      "022 "
+    ],
+    "page_idx": 4
+  },
+  {
+    "type": "text",
+    "text": "Revenue ",
+    "text_level": 1,
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Total revenue grew 37% YoY in Q4 to \\$24.3B. YoY, revenue was impacted by the following items: ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "+ growth in vehicle deliveries   \n+ growth in other parts of the business   \n+ increase in ASP YoY (excluding FX impact),including favorable impact of model and regional mix   \n- negative FX impact of \\$1.4B1 ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Profitability ",
+    "text_level": 1,
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Our operating income improved YoY to \\$3.9B in Q4,resulting in a 16.0%operating margin.YoY,operating income was primarily impacted by the following items: ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "+ growth inASP(excluding FX)and vehicle deliveries (despite margin headwind from underutilization of new factories)   \n+ gross profit growth in other parts of the business   \n+ FSD revenue recognition of \\$324M in Automotive Sales2   \n+ lower stock-based compensation and payrolltax expense related to CEO awards   \n- higher raw material, commodity, logistics and warranty costs   \n- cost of production ramp of 468O cells   \n- negative FX impact of over \\$30OM1 ",
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Cash ",
+    "text_level": 1,
+    "page_idx": 5
+  },
+  {
+    "type": "text",
+    "text": "Quarter-endcash,cashequivalentsandinvestmentsincreasedsequentiallby\\$1.1Bto \\$222Bin Q4,drivenmainly byfree cash flow of \\$1.4B, partially offset by debt repayments of \\$497M. ",
+    "page_idx": 5
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/3ad797f549c4b42172e9b9b8121266baf3de8539ffb70bb09dce9fc7642b3e54.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 6
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/b32e92a86ae4422007f5232c154cbc2c0d0cd698a6a7b08ce0749a00cdd77302.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 7
+  },
+  {
+    "type": "text",
+    "text": "In Q4,each of our vehicle factories produced a record number of vehicles. We continued a gradual shift towards a more even regional mix of both production and deliveries. While in Q2-2O22 the 3rd month of the quarter accounted for 74% of vehicle deliveries, that number fellto 64% in Q3,and to 51% in Q4.We are working to reduce the percentage of vehicles delivered in the 3rd month and smooth deliveries throughout the quarter, which will help to reduce cost per vehicle. ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "US: California, Nevada and Texas ",
+    "text_level": 1,
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The Model Y production line in Austin produced over 3,Ooo vehicles in a week towards the end of Q4.In Q4,we produced enough in-house 468O cells in a single week to make over 1,Ooo battery packs. Pilot production of Tesla Semi commenced in Q4 with first deliveries occurring in December 2022. ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "China: Shanghai ",
+    "text_level": 1,
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Production and delivery challenges in 2O22 were largely concentrated in China. Since our Shanghai factory has been successfully running near full capacity for several months,we do not expect meaningful sequential volume increases in the near term. Gigafactory Shanghai remains our main export hub, supplying vehicles to most markets outside of North America. ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Europe: Berlin-Brandenburg ",
+    "text_level": 1,
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "The Model Y production line in Germany produced over 3,OoO vehicles in a week towards the end of Q4.We also introduced two new multi-layer paint colors from our advanced paint shop at our Berlin factory - Quicksilver and Midnight Cherry Red. ",
+    "page_idx": 8
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/4702b27b4612ec3a3c4377bde14b37c19bdb11ff028d7ffbedaa8248ef6aebd7.jpg",
+    "table_caption": [
+      "Installed Annual Vehicle Capacity "
+    ],
+    "table_footnote": [
+      "Installed capacity ≠ current production rate and there may be limitations discovered as production rates approach capacity. Production rates depend on a variety of factors, including equipment uptime, component supply,downtime related to factory upgrades, regulatory considerations and other factors. ",
+      "Source: Tesla estimates based on ACEA; Autonews.com; CAAM - light-duty vehicles only T = 5L TTM = Trailing twelve months "
+    ],
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "US/Canada Europe China   \n4%   \n3%   \n2%   \n1%   \n0%   \nQ4 2016 Q12017 Q22017 Q32017 Q4 2017 Q22018 Q4 2018 Q12019 Q22019 Q32019 Q12020 Q22020 2020 Q42020 Q12021 Q32021 Q4 2021 Q12022 3 Market share of Tesla vehicles by region (TTM) ",
+    "page_idx": 8
+  },
+  {
+    "type": "text",
+    "text": "Autopilot and Full Self-Driving (FSD) ",
+    "text_level": 1,
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "We have now released FSD Beta to nearly all customers in the US and Canada who bought FSD (approximately 4Oo,OoO). This is an important milestone for our company. Every customer in the US and Canada can now access FSD Beta functionality upon purchase/subscription and start experiencing the evolution of Alpowered autonomy. ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Vehicle Software ",
+    "text_level": 1,
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "This year, our annual holiday release was the biggest ever. Our customers can now videoconference directly on their touchscreen via Zoom, streaming video from the car's interior camera - an industry first.We integrated Apple Music into the media player,and added a live view of the interior camera to the mobile app when Dog Mode or Sentry Mode is active. In the latest Model S and X,you can now play all the games in your Steam library using the powerful built-in gaming computer, picking up where you left off on other devices,using wireless Bluetooth or wired USB game controllers. ",
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Battery,Powertrain & Manufacturing ",
+    "text_level": 1,
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "We are particularly focused on vehicle cost during this period of macroeconomic uncertainty, high interest rates (thus higher cost of vehicle financing) and vehicle price deflation.We continue to focus on cost efficiencies while improving functionality and reliability.While cost efficient manufacturing of EVs is still rare across most of the industry,it is critical for profitability at scale and will ultimately determine long-term success of OEms. ",
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/e994be67ceb4800b64c7c9608821ef20cda1cb2362949676306b0f7584c9250e.jpg",
+    "img_caption": [
+      "Cumulative miles driven with FSD Beta (millions) "
+    ],
+    "img_footnote": [],
+    "page_idx": 9
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/e9376e4bd9f99cb8b4b84ba7903e662d00cd7d300ef3e176225f589a17e898ef.jpg",
+    "img_caption": [],
+    "img_footnote": [
+      "Source: https://www.tesla.com/vehiclesafetyreport "
+    ],
+    "page_idx": 9
+  },
+  {
+    "type": "text",
+    "text": "Energy Storage ",
+    "text_level": 1,
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Energy storage deployments increased by 152% YoY in Q4 to 2.5 GWh, for a total deployment of 6.5 GWh in 2O22, by far the highest level of deployments we have achieved. Demand for our storage products remains in excess of our ability to supply. We are in the process of ramping production at our dedicated 4O GWh Megapack factory in Lathrop, California to address the growing demand. This factory should help to further accelerate growth of energy storage deployments. ",
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Solar ",
+    "text_level": 1,
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Solar deployments increased by 18% YoY in Q4 to 10o MW, one of the strongest quarters in recent years. Despite supply chain challenges, we deployed 348 MW of solar in 2O22, the highest deployment since 2O17. Our solar installation team continues to improve installation efficiency，enabling higher volumes and stronger economics. ",
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Services and Other ",
+    "text_level": 1,
+    "page_idx": 10
+  },
+  {
+    "type": "text",
+    "text": "Both revenue and gross profit from Services and Other reached an all-time high in 2022.Much of the profit in 2O22 was driven by used cars and transactions in support of a growing Tesla fleet, such as part sales, paid supercharging and others.While our used car ASPs declined sequentially in Q4 (which was reflective of the industry),our used car margins remained healthy. ",
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/98dd6ea1c44b91b92972597c5fd95068a669d57e3e420d6ef1e65514517a8ce0.jpg",
+    "img_caption": [
+      "Energy Storage deployments (GWh) "
+    ],
+    "img_footnote": [],
+    "page_idx": 10
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/01776481853f6dd2d41ee67b547796841afac2696e0985406e1f78e6d298f2f3.jpg",
+    "img_caption": [],
+    "img_footnote": [
+      "Number of Supercharging locations "
+    ],
+    "page_idx": 10
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/f084ba91137273579daa681141f14ad9da603637113913b4afe44589b198203e.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 11
+  },
+  {
+    "type": "text",
+    "text": "PHOTOS & CHARTS",
+    "page_idx": 12
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/fedd1921314ba46228a56a5f782692b6061313eb8692cf5e3d952123e69fa319.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 13
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/0324458feab92faada37d120cbbd4f0df551ec16d267d8398af3082e52b43692.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 14
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/830403dea54d86ae2acbb3f3eab344499c7024cac4be84827d6cbeb826826ce3.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 15
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/0ab37608eb75aea4f902a8cabf13af130b351f7e2170e7f88b05a92be46de897.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 16
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/f41d4020c95aaa933d467ba4b7a97b4143ca205fdfbc3ae0cf943a5da9f6037f.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 17
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/7bb713003a86297cd49708e10fb180a0a736adbd15787e07969cbc50e2781284.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 18
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/c19a54bd97ec0cdc17d1a9f5c8a1842e0dd28a1075bbdf357ac674b4d05c7beb.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 19
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/0b8f9925d482a3c3668f150b83031dd50f8c91aa01ffd24dfff1f6e6503d93c5.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 20
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/518571e0f62ea8986b867464951c58307f0ab7a688801b372611886d97262f9c.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 21
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/91b5aa6dfec5296c48f245a2df38333338a0b10863447b976004efb3d7ff976a.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 21
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/d7fccf14c7d7baccb13c58cfada158a247192f913c82893f4a59febcb3d57e81.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 22
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/273c4edef94ffb03ba4644bfd48a22c17feb7f27c2f60a33927e4c5742d54e63.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 22
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/7a51e4f811e24916e49ad8679c7576910cc19985a73f9382555cd6d984b4d322.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 23
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/8be2db93e3c0df527fae6432715b11df99e1d35ae52ad2c4e3d3caa7c15fe670.jpg",
+    "img_caption": [],
+    "img_footnote": [],
+    "page_idx": 23
+  },
+  {
+    "type": "text",
+    "text": "\\$120,000 18%   \n\\$100,000 12%   \n\\$80,000 6%   \n\\$60,000 三 0% ?   \n\\$40,000 -6%   \n\\$20,000 -12% \\$0 -18% 2017 2018 2019 ASP ",
+    "page_idx": 24
+  },
+  {
+    "type": "image",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/74e592a8a1640a6f98d6310c7569b969f26cc344952b991e177f14b8148e64bb.jpg",
+    "img_caption": [
+      "Vehicle Delivery Growth Rate - Assuming 5O% CAGR Since 2020 "
+    ],
+    "img_footnote": [],
+    "page_idx": 25
+  },
+  {
+    "type": "text",
+    "text": "FINANCIAL STATEMENTS ",
+    "page_idx": 26
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/afc34965c6ff69a9b701bce7603c4dad930b48f9445682e4cbb218aba474bb3e.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 27
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/45c75c366e0b9428e7f080b1ee9af25dac840e4748f49a28f4a86f336ca3935e.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 28
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/559fec9d08b40717558e45d050f48050fbae1cad3600a74f847139cebee4423d.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 29
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/16fbbb2d2007254c0bc0d08b95af449a0555c960bd0b65b6678c62207e5bcdf8.jpg",
+    "table_caption": [
+      "RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL INFORMATION (Unaudited) "
+    ],
+    "table_footnote": [],
+    "page_idx": 30
+  },
+  {
+    "type": "text",
+    "text": "RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL INFORMATION (Unaudited) ",
+    "page_idx": 31
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/572b3d35ecef064db4e80fef4f05e099ffaa7c80575aa6e20dba81d2f0d7cd23.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 31
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/f5090b59fecf5bd5c34a022de736e0c25c166829dc511157357c5e391650d33a.jpg",
+    "table_caption": [
+      "RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL INFORMATION (Unaudited) "
+    ],
+    "table_footnote": [],
+    "page_idx": 32
+  },
+  {
+    "type": "table",
+    "img_path": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/Tesla/parsed_output/mineru_results/Tesla_2022_Q4_Update_Deck/images/8c2a0d36e87b54120a69a349dcae44a4a59dcde1cf66d14149c083ad8610b64d.jpg",
+    "table_caption": [],
+    "table_footnote": [],
+    "page_idx": 32
+  },
+  {
+    "type": "text",
+    "text": "WEBCAST INFORMATION ",
+    "text_level": 1,
+    "page_idx": 33
+  },
+  {
+    "type": "text",
+    "text": "imatelyone yea ",
+    "page_idx": 33
+  },
+  {
+    "type": "text",
+    "text": "CERTAIN TERMS ",
+    "text_level": 1,
+    "page_idx": 33
+  },
+  {
+    "type": "text",
+    "text": "s Ising average exchange rates from the prior period. ",
+    "page_idx": 33
+  },
+  {
+    "type": "text",
+    "text": "NON-GAAP FINANCIAL INFORMATION ",
+    "text_level": 1,
+    "page_idx": 33
+  },
+  {
+    "type": "text",
+    "text": "s e inderUS.GAdersanslaseatigperfoaAecolietwGdiaalifratioisde ",
+    "page_idx": 33
+  },
+  {
+    "type": "text",
+    "text": "FORWARD-LOOKING STATEMENTS ",
+    "text_level": 1,
+    "page_idx": 33
+  },
+  {
+    "type": "text",
+    "text": "si)-，",
+    "page_idx": 33
+  },
+  {
+    "type": "text",
+    "text": "T 三 5 L i ",
+    "page_idx": 34
+  }
+]

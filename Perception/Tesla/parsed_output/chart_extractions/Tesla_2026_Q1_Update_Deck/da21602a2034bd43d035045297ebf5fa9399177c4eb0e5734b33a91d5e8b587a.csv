@@ -1,0 +1,7 @@
+Region,Product,Capacity,Status
+Texas,Cortex 1,>100k H100e,Production
+Texas,Cortex 2,>130k H100e,Early Ramp
+Nevada,LFP,7 GWh,Early Ramp
+Texas,4680,40 GWh,Production
+,Nan,Cathode Materials,10 GWh,Early Ramp
+,Nan,Lithium Refining,30 GWh,Early Ramp

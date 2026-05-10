@@ -1,0 +1,9 @@
+```csv
+Time Period,Model S/X production,Model 3/Y production,Total production,Model S/X deliveries,Model 3/Y deliveries,Total deliveries,of which subject to operating lease accounting,Total end of quarter operating lease vehicle count,Global vehicle inventory (days of supply),Solar deployed (MW),Storage deployed (MWh),Tesla locations^(2),Mobile service fleet,Supercharger stations,Supercharger connectors
+Q3-2022,,345988,365923,18672,325158,343830,11004,135054,8,94,2100,903,1532,4283,38883
+Q4-2022,19935,419088,439701,17147,388131,405278,15184,140667,13,100,2462,963,1584,4678,42419
+Q1-2023,20613,421371,440808,10695,412180,422875,22357,153988,15,67,3889,1000,1692,4947,45169
+Q2-2023,19437,460211,479700,19225,446915,466140,21883,168058,16,66,3653,1068,1769,5265,48082
+Q3-2023,13688,416800,430488,15985,419074,435059,17423,176231,16,49,3980,1129,1846,5595,51105
+YoY,-31%,20%,18%,-14%,29%,27%,58%,30%,100%,-48%,90%,25%,20%,31%,31%
+```

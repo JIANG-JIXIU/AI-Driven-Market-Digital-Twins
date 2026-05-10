@@ -1,0 +1,4 @@
+```csv
+Time_Period,GAAP_Operating_Income($B),Q4_GAAP_Operating_Income($B),GAAP_Net_Income($B),Q4_GAAP_Net_Income($B),Mark_to_Market_Gain_on_Digital_Assets($B),Non_GAAP_Net_Income($B),Q4_Non_GAAP_Net_Income($B),Operating_Cash_Flow($B),Q4_Operating_Cash_Flow($B),Free_Cash_Flow($B),Q4_Free_Cash_Flow($B),Increase_in_Cash_and_Investments($B),Cash_and_Investments($B),AI_Training_Compute_Increase(percentage),Cumulative_Miles_Driven(FSD_Supervised)(billion),Megafactory_Shanghai_Construction_Status
+2024,7.1,1.6,7.1,2.3,0.6,8.4,2.6,14.9,4.8,3.6,2.0,7.5,36.6,400%,3,Completed
+```

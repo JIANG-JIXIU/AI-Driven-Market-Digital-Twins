@@ -1,0 +1,18 @@
+```csv
+Time Period,Cash, cash equivalents and investments,Accounts receivable, net,Inventory,Prepaid expenses and other current assets,Total current assets,Operating lease vehicles, net,Energy generation and storage systems, net,Property, plant and equipment, net,Operating lease right-of-use assets,Digital assets (2),Deferred tax assets (2),Other non-current assets,Total assets (2),Accounts payable,Accrued liabilities and other,Deferred revenue,Current portion of debt and finance leases (1),Total current liabilities,Debt and finance leases, net of current portion (1),Deferred revenue, net of current portion,Other long-term liabilities,Total liabilities,Redeemable noncontrolling interests in subsidiaries,Total stockholders' equity (2),Noncontrolling interests in subsidiaries,Total liabilities and equity (2),Non-recourse debt,Recourse debt,Days sales outstanding,Days payable outstanding
+"31-Dec-24",36563,4418,12017,5362,58360,5581,4924,35836,5160,1076,6524,4609,122070
+"31-Mar-25",36996,3782,13706,4905,59389,5477,4855,37088,5330,951,6687,5334,125111
+"30-Jun-25",36782,3838,14570,5943,61133,5230,4788,38574,5633,1235,6721,5253,128567
+"30-Sep-25",41647,4703,12276,6027,64653,5019,4673,39407,5783,1315,6637,6248,133735
+"31-Dec-25",44059,4576,12392,7615,68642,4912,4604,40643,6027,1008,6925,5045,137806
+"31-Dec-24",2456,2237,2040,1640
+"31-Mar-25",2237,2237,2040,1924
+"30-Jun-25",2040,2040,1924,1640
+"30-Sep-25",1924,1924,1640,1640
+"31-Dec-25",1640,1640,1640,1640
+"31-Dec-24",14,58
+"31-Mar-25",19,72
+"30-Jun-25",15,65
+"30-Sep-25",14,52
+"31-Dec-25",17,61
+```

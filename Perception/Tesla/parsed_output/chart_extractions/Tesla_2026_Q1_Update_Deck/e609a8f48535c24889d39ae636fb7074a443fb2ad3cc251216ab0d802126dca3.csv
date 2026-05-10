@@ -1,0 +1,9 @@
+```csv
+Time Period,Model 3/Y production,Other models production,Total production,Model 3/Y deliveries,Other models deliveries,Total deliveries,of which subject to operating lease accounting,Cumulative deliveries (all-time; mil),Active FSD Subscriptions (mil),Total end of quarter operating lease (new vehicle) count,Global vehicle inventory (days of supply),Storage deployed (GWh),Supercharger stations,Supercharger connectors
+Q1-2025,,345454,17161,323800,12881,336681,13721,7.6,0.85,179930,22,10.4,7131,67316
+Q2-2025,396835,13409,410244,373728,10394,384122,6670,8.0,0.95,172882,24,9.6,7377,70228
+Q3-2025,435826,11624,447450,481166,15933,497099,10230,8.5,1.04,167163,10,12.5,7753,73817
+Q4-2025,422652,11706,434358,406585,11642,418227,10996,8.9,1.10,163075,15,14.2,8182,77682
+Q1-2026,394611,13775,408386,341893,16130,358023,3430,9.2,1.28,151991,27,8.8,8463,79918
+YoY,14%,-20%,13%,6%,25%,6%,-75%,21%,51%,-16%,23%,-15%,19%,19%
+```

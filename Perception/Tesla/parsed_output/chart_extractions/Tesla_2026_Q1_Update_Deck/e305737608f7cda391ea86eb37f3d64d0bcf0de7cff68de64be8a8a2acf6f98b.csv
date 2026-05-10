@@ -1,0 +1,15 @@
+Region,Product,Capacity,Status
+California,Model 3 / Model Y,>550,000,Production
+Shanghai,Model 3 / Model Y,>950,000,Production
+Berlin,Model Y,>375,000,Production
+Texas,Model Y,>250,000,Production
+Texas,Cybertruck,>125,000,Production
+Cybercab,-,,-,Pilot Production
+Nevada,Tesla Semi,-,,-,Pilot Production
+TBD,Roadster,-,,-,Design development
+California,Megapack,40 GWh,Production
+Nevada,Powerwall,>6 GWh,Production
+Shanghai,Megapack,20 GWh,Production
+Texas,Megapack,-,,-,Construction
+California,Optimus,-,,-,Construction
+Texas,Optimus,-,,-,Construction

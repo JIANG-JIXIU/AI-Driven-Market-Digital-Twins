@@ -1,0 +1,9 @@
+```csv
+Time Period,Automotive revenues,Automotive revenues of which regulatory credits,Automotive gross profit,Automotive gross margin,Total revenues,Total gross profit,Total GAAP gross margin,Operating expenses,(Loss) income from operations,Operating margin,Adjusted EBITDA,Adjusted EBITDA margin,Net (loss) income attributable to common stockholders (GAAP),Net (loss) income attributable to common stockholders (non-GAAP),EPS attributable to common stockholders, diluted (GAAP),EPS attributable to common stockholders, diluted (non-GAAP),Net cash provided by operating activities,Capital expenditures,Free cash flow,Cash, cash equivalents and investments
+2018,18515,419,4341,23.4%,21461,4042,18.8%,4430,-388,-1.8%,2395,11.2%,-976,-227,-0.38,-0.09,2098,-2101,-3,3686
+2019,20821,594,4423,21.2%,24578,4069,16.6%,4138,-69,-0.3%,2985,12.1%,-862,36,-0.33,0.01,2405,-1327,1078,6268
+2020,27236,1580,6977,25.6%,31536,6630,21.0%,4636,1994,6.3%,5817,18.4%,721,2455,0.21,0.75,5943,-3157,2786,19384
+2021,47232,1465,13839,29.3%,53823,13606,25.3%,7083,6523,12.1%,11621,21.6%,5519,7640,1.63,2.26,11497,-6482,5015,17707
+2022,71462,1776,20354,28.5%,81462,20853,25.6%,7197,13656,16.8%,19186,23.6%,12556,14116,3.62,4.07,14724,-7158,7566,22185
+YoY,51%,21%,47%,-82 bp,51%,53%,32 bp,2%,109%,464 bp,65%,196 bp,128%,85%,122%,80%,28%,10%,51%,25%
+```

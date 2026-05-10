@@ -1,0 +1,8 @@
+```csv
+Time Period,Net income attributable to common stockholders (GAAP),Stock-based compensation expense,Net income attributable to common stockholders (non-GAAP),Less: Buy-out of noncontrolling interest,Less: Dilutive convertible debt,Net income used in computing diluted EPS attributable to common stockholders (non-GAAP),EPS attributable to common stockholders, diluted (GAAP),Stock-based compensation expense per share,EPS attributable to common stockholders, diluted (non-GAAP),Shares used in EPS calculation, diluted (GAAP and non-GAAP),Net income attributable to common stockholders (GAAP),Interest expense,Provision for income taxes,Depreciation, amortization and impairment,Stock-based compensation expense,Adjusted EBITDA (non-GAAP),Total revenues,Adjusted EBITDA margin (non-GAAP),Automotive gross margin (GAAP),Less: Total regulatory credit revenue recognized,Automotive gross margin excluding regulatory credit sales (non-GAAP)
+Q1-2021,438,614,1052,-,5,1057,0.39,0.54,0.93,1133,438,99,69,621,614,1841,10389,17.7%,26.5%,4.5%,22.0%
+Q2-2021,1142,474,1616,-,2,1618,1.02,0.43,1.45,1119,1142,75,115,681,474,2487,11958,20.8%,28.4%,2.6%,25.8%
+Q3-2021,1618,475,2093,-,1,2094,1.44,0.42,1.86,1123,1618,126,223,761,475,3203,13757,23.3%,30.5%,1.7%,28.8%
+Q4-2021,2321,558,2879,-,1,2885,2.05,0.49,2.54,1135,2321,71,292,848,558,4090,17719,23.1%,30.6%,1.4%,29.2%
+Q1-2022,3318,418,3736,-,5,3731,2.86,0.36,3.22,1157,3318,61,346,880,418,5023,18756,26.8%,32.9%,2.9%,30.0%
+```

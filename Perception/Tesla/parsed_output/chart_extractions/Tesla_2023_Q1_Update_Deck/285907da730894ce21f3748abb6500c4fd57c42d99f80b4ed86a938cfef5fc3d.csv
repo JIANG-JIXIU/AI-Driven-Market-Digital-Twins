@@ -1,0 +1,8 @@
+```csv
+Time Period,Automotive sales,Automotive regulatory credits,Automotive leasing,Total automotive revenues,Energy generation and storage,Services and other,Total revenues,Automotive sales,Automotive leasing,Total automotive cost of revenues,Energy generation and storage,Services and other,Total cost of revenues,Gross profit,Research and development,Selling, general and administrative,Restructuring and other,Total operating expenses,Income from operations,Interest income,Interest expense,Other income (expense), net,Income before income taxes,Provision for income taxes,Net income,Net (loss) income attributable to noncontrolling interests and redeemable noncontrolling interests in subsidiaries,Net income attributable to common stockholders,Net income per share of common stock attributable to common stockholders (1),Weighted average shares used in computing net income per share of common stock (1)
+Q1-2022,15514,679,668,16861,616,1279,18756,10914,408,11322,688,1286,13296,5460,865,992,142,1857,3603,28,-61,56,3626,346,3280,-38,3318,1.07,3103
+Q2-2022,13670,344,588,14602,866,1466,16934,10153,368,10521,769,1410,12700,4234,667,961,0,1770,2464,26,-44,28,2474,205,2269,10,2259,0.73,3111
+Q3-2022,17785,286,621,18692,1117,1645,21454,13099,381,13480,1013,1579,16072,5382,733,961,0,1694,3688,86,-53,-85,3636,305,3331,39,3292,1.05,3146
+Q4-2022,20241,467,599,21307,1310,1701,24318,15433,352,15785,1151,1605,18541,5777,810,1032,34,1876,3901,157,-33,-42,3983,276,3707,20,3687,1.18,3160
+Q1-2023,18878,521,564,19963,1529,1837,23329,15422,333,15755,1361,1702,18818,4511,771,1076,0,1847,2664,213,-29,-48,2800,261,2539,26,2513,0.80,3166
+```

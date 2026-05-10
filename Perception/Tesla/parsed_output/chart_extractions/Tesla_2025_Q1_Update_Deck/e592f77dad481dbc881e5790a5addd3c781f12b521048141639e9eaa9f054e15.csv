@@ -1,0 +1,8 @@
+```csv
+Time Period,Net income attributable to common stockholders (GAAP),Stock-based compensation expense,net of tax,Digital assets (gain) loss,net of tax,Net income attributable to common stockholders (non-GAAP),Less: Buy-outs of noncontrolling interests,Net income used in computing diluted EPS attributable to common stockholders (non-GAAP),EPS attributable to common stockholders, diluted (GAAP),Stock-based compensation expense, net of tax, per share,Digital assets (gain) loss, net of tax, per share,EPS attributable to common stockholders, diluted (non-GAAP),Shares used in EPS calculation, diluted (GAAP and non-GAAP),Net income attributable to common stockholders (GAAP),Interest expense,Provision for income taxes,Depreciation, amortization and impairment,Stock-based compensation expense,Digital assets (gain) loss, Adjusted EBITDA (non-GAAP),Total revenues,Adjusted EBITDA margin (non-GAAP)
+Q1-2024,1390,407,-261,1536,-42,1578,0.41,0.11,-0.07,0.45,3484,1390,76,483,1246,524,-335,3384,21301,15.9%
+Q2-2024,1400,334,78,1812,-,1812,0.40,0.10,0.02,0.52,3481,1400,86,371,1278,439,100,3674,25500,14.4%
+Q3-2024,2173,338,-6,2505,3,2505,0.62,0.10,-,0.72,3497,2173,92,602,1348,457,-7,4665,25182,18.5%
+Q4-2024,2128,249,-270,2107,3,2104,0.60,0.08,-0.08,0.60,3517,2128,96,381,1496,579,-347,4333,25707,16.9%
+Q1-2025,409,428,97,934,3,934,0.12,0.12,0.03,0.27,3521,409,91,169,1447,573,125,2814,19335,14.6%
+```
