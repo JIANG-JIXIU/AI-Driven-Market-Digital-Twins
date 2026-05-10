@@ -1,13 +1,245 @@
 {
-  "pdf_name": "NVDA_FY26_Q2_Presentation",
-  "source_file": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/NVDA_FY26_Q2_Presentation.md",
-  "text_content": "# Investor Presentation Q2FY26 ,9 September 2025\n\nCet e i ee materially different than expectations.\n\ni requiredbylawNVDAdisclaimsayobligationtoupdatetheseforward-lingstatementstoreflectfutureeventsorcicumstances\n\nMany of the products and features described herein various stages anc ilable basis ndedtobe, and should not be interpreted as a commitment, promise, or legal obligation, and the development, release,and timing of any featuresor functionalities described for our products is subject to change and remains at the sole discretion of NVIDIA. NVIDlA will have no liability for failure to deliver delay fthe produc features tforth\n\ne thes-Geoedditeclit\n\n#\n\n# Content\n\nQ2 FY26 Earnings Summary\n\nKey Announcements This Quarter\n\nReconciliationof Non-GAAP to GAAP Financial Measures\n\n# Q2 FY26 Earnings Summary\n\n# Highlights\n\nRecord quarter exceeded our outlook in what continues to bea dynamic external environment\n\nTotal revenue up 56% Y/Y to \\$46.7B, above outlook of \\$45.0B +/- 2%   \n· Data Center up 56% Y/Y to \\$41.1B   \nGaming up 49% Y/Y to \\$4.3B\n\n# Record Data Center revenue driven by continued Blackwell ramp\n\nNVIDIA's Blackwell platform reached record levels with 17% sequential growth Cloud service providers, neo clouds,enterprises and sovereigns are allcontributing to growth We'reatthebeginningofanindustrialrevolution;see\\$3to\\$4trilioninAlinfrastructurespendbytheendofthedecade\n\nRecord Gaming revenue due to Blackwell adoption by gamers,creatives,and Al enthusiasts\n\nStrong sales continued and we increased supply availability   \nFor Al enthusiasts,on-device Al run best on RTX GPUs   \nWiththeRTXplatformstackWindowsdeveloperscancreateAlapplicationsdesignedtorunontheworld'sargestAlPCuserbase\n\n# Q2 FY26 Financial Summary\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/872ddd299ae89888b3c70b63ff95d74943eb31ebb9a1e5ea9c1867cebabd3837.jpg)\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/5d48f4629d47ca663f66f638096d57d8563a796ccfaeacf852d685035e08e813.jpg)\n\n# DataCenter\n\n# Highlights\n\nThe GB200 NVL system is seeing widespread adoption with deployments at CSPs and consumer internet customers\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/0f4071cd650de502bb7bcf90c42ddbce3d7a53402308e48c60a6545065197b26.jpg)  \nRevenue (\\$M)\n\nNew Blackwell UItra platform had a strong quarter, generating tens of billions in revenue\n\nCurrent run rate back at full speed, producing approximately 1,000   \nracks per week; output expected to accelerate throughout Q3\n\nExpect widespread market availability of Blackwell Ultra in the second half of the year\n\nNVIDIA RTX PRO servers are in full production from the world's systems makers; poised to become a multi-billion-dollar product line\n\nOn track to achieve over \\$2O billion in sovereign Al revenue this year, more than double that of last year\n\nNetworking was a record, up 46% q/q and 98% y/y, with strong demand across Spectrum-X Ethernet, InfiniBand,and NVLink\n\n# Gaming\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/5a4b0de30a39761e269c407375ecdf59069d92d3740c36e5461d8495b4df4d27.jpg)  \nRevenue (\\$M)\n\n# Highlights\n\nRecord gaming revenue driven by the ramp of Blackwell GeForce GPUs,as strong sales continued and supply availability increased\n\n·Shipped GeForce RTX 5060 desktop GPUs this quarter\n\nBlackwellis coming to GeForce Now in September, the most significant upgrade, offering RTX 5080-class performance, minimal latency, and 5K resolution at 120 frames per second\n\nGeForce Now catalog doubling to over 4,5OO titles,the largest library of any cloud gaming service\n\nPartnered with OpenAl to optimize their open-source gpt-oss models for high-quality, fast,and efficient inference on millions of RTX-enabled Windows devices\n\n# Professional Visualization\n\n# Highlights\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/224e877e857b14402bd13f21a4011130ddb57eab73c3f8caa4ce1eb0410e6e77.jpg)  \nRevenue (\\$M)\n\nGrowth driven by the adoption of high-end RTX workstation GPUs for Al-powered workloads like design, simulation, and prototyping\n\nKey customers are leveraging NVIDIA solutions to accelerate their operations\n\nActivision Blizzard uses RTX workstations to enhance creative workflows,while robotics innovator Figure Al powers its humanoid robots with RTX embedded GPUs\n\n# Automotive\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q2_Presentation/images/0dc94e13e205982d132791faf4ed1182b2e00d029c020ac7b342fd41c9b336bd.jpg)  \nRevenue (\\$M)\n\n# Highlights\n\nGrowth primarily driven by self-driving solutions Began shipments of NVIDlA",
-  "tables": [],
-  "charts": [],
   "metadata": {
-    "total_images": 23,
-    "total_charts": 0,
-    "total_tables": 0,
-    "markdown_length": 18556
+    "company": "NVIDIA",
+    "ticker": "NVDA",
+    "pdf_name": "NVDA_FY26_Q2_Presentation",
+    "fiscal_year": 2026,
+    "quarter": "Q2",
+    "period_end": "2025-07-31",
+    "calendar_year": 2025,
+    "report_type": "Investor Presentation",
+    "extraction_timestamp": "2026-05-10T20:39:21.901319",
+    "data_completeness": {
+      "text_sections_found": 7,
+      "charts_processed": 0,
+      "md_tables_found": 0,
+      "highlights_extracted": 23,
+      "metrics_extracted": 8
+    }
+  },
+  "highlights": {
+    "bullet_points": [
+      "Total revenue up 56% Y/Y to \\$46.7B, above outlook of \\$45.0B +/- 2%",
+      "· Data Center up 56% Y/Y to \\$41.1B",
+      "Gaming up 49% Y/Y to \\$4.3B",
+      "NVIDIA's Blackwell platform reached record levels with 17% sequential growth Cloud service providers, neo clouds,enterprises and sovereigns are allcontributing to growth We'reatthebeginningofanindustrialrevolution;see\\$3to\\$4trilioninAlinfrastructurespendbytheendofthedecade",
+      "On track to achieve over \\$2O billion in sovereign Al revenue this year, more than double that of last year",
+      "Networking was a record, up 46% q/q and 98% y/y, with strong demand across Spectrum-X Ethernet, InfiniBand,and NVLink",
+      "·Shipped GeForce RTX 5060 desktop GPUs this quarter",
+      "Blackwellis coming to GeForce Now in September, the most significant upgrade, offering RTX 5080-class performance, minimal latency, and 5K resolution at 120 frames per second",
+      "GeForce Now catalog doubling to over 4,5OO titles,the largest library of any cloud gaming service",
+      "· Q/Q decrease was mainly driven by \\$8.1B in taxes paid in the quarter",
+      ". Returned \\$1O.OB to shareholders in the second quarter through \\$9.7B of share repurchases and \\$244M of cash dividends Invested \\$1.9B in capex (includes principal payments on PP&E) Ended the quarter with \\$56.8B in gross cash and \\$8.5B in debt; \\$48.3B in net cash",
+      "NVIDIA is working with European nations,and technology and industry leaders, to build NVIDlA Blackwell Al infrastructure that will strengthen digital sovereignty, support economic growth and position the continent as a leader in the Al industrial revolution In France, Mistral Al is building an end-to-end cloud platform powered by 18K NVIDlA Grace Blackwell systems in the first phase, with plans to expand across multiple sites in 2026",
+      "In the U.K., NVIDIA Cloud Partners Nebius and Nscale announced the first phase of their Al infrastructure development plans to deploy 14K Blackwell GPUs to power new data centers",
+      "In Germany, NViDlA and partners are building the world's first industrial Al cloud for European manufacturers, powered by DGX B200 systems and RTX PRO Servers",
+      "Siemens' Operations Copilot brings generative Al to shopfloor operators; optimized to run on premises with NVIDlA RTX PRO 6000 Blackwell Server Edition GPUs",
+      "NVIDIA was the only platform to submit results on every MLPerf Training v5.O benchmark- underscoring its exceptionall performance and versatility",
+      "OpenAl's two new open-weight Al reasoning models, oss-120b and gpt-oss-2Ob, bring cutting-edge Al development to developers, enthusiasts, enterprises, startups and governments everywhere",
+      "The models were trained on NVIDIA H1oO GPUs and run inference best on the hundreds of millions of GPUs running the NVIDIA CUDA platform",
+      "With software optimizations, the models offer optimal inference on NVIDIA GB200 NVL72 systems, achieving industry leading 1.5M tokens per second, driving massive efficiency for inference",
+      "Powered by NVIDIA RTX PRO 60O0 Blackwell Server Edition GPUs, these servers speed the shift from traditional CPU systems to accelerated computing platforms",
+      "Enterprises can achieve up to 45x better performance and 18x higher energy efficiency when running enterprise workloads",
+      "6X Throughput LLM Inference",
+      "With over 2,0o0 teraflops of Al compute,it unlocks new capabilities such as simultaneous processing of multiple Al workstreams and real-time inference."
+    ],
+    "key_metrics_mentioned": [
+      {
+        "metric_name": "total_revenue",
+        "value": 46.7,
+        "unit": "B",
+        "context": "Total revenue up 56% Y/Y to \\$46.7B, above outlook of \\$45.0B +/- 2%"
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 56.0,
+        "unit": "",
+        "context": "Total revenue up 56% Y/Y to \\$46.7B, above outlook of \\$45.0B +/- 2%"
+      },
+      {
+        "metric_name": "data_center_revenue",
+        "value": 41.1,
+        "unit": "B",
+        "context": "· Data Center up 56% Y/Y to \\$41.1B"
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 56.0,
+        "unit": "",
+        "context": "· Data Center up 56% Y/Y to \\$41.1B"
+      },
+      {
+        "metric_name": "gaming_revenue",
+        "value": 4.3,
+        "unit": "B",
+        "context": "Gaming up 49% Y/Y to \\$4.3B"
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 49.0,
+        "unit": "",
+        "context": "Gaming up 49% Y/Y to \\$4.3B"
+      },
+      {
+        "metric_name": "share_repurchases",
+        "value": 9.7,
+        "unit": "B",
+        "context": ". Returned \\$1O.OB to shareholders in the second quarter through \\$9.7B of share repurchases and \\$244M of cash dividends Invested \\$1.9B in capex (includes principal payments on PP&E) Ended the quart"
+      },
+      {
+        "metric_name": "cash_position",
+        "value": 1.9,
+        "unit": "B",
+        "context": ". Returned \\$1O.OB to shareholders in the second quarter through \\$9.7B of share repurchases and \\$244M of cash dividends Invested \\$1.9B in capex (includes principal payments on PP&E) Ended the quart"
+      }
+    ]
+  },
+  "financial": {
+    "revenue": {
+      "total": null,
+      "data_center": {
+        "value": 41100.0,
+        "unit": "$M"
+      },
+      "gaming": {
+        "value": 4300.0,
+        "unit": "$M"
+      },
+      "professional_visualization": null,
+      "automotive": null,
+      "yoy_growth_pct": 56.0,
+      "sequential_growth_pct": null
+    },
+    "profitability": {
+      "gross_margin_gaap_pct": null,
+      "gross_margin_non_gaap_pct": null,
+      "operating_income_gaap": null,
+      "operating_income_non_gaap": null,
+      "operating_margin_pct": null,
+      "net_income_gaap": null,
+      "net_income_non_gaap": null
+    },
+    "per_share": {
+      "eps_gaap_diluted": null,
+      "eps_non_gaap_diluted": null
+    },
+    "cash_flow": {
+      "operating_cash_flow": null,
+      "free_cash_flow": null,
+      "capital_expenditure": {
+        "value": 56800.0,
+        "unit": "$M"
+      },
+      "share_repurchases": null,
+      "dividends": null
+    },
+    "balance_sheet": {
+      "cash_and_marketable_securities": null,
+      "inventory": null,
+      "accounts_receivable": null,
+      "total_debt": {
+        "value": 8500.0,
+        "unit": "$M"
+      },
+      "net_cash": {
+        "value": 48300.0,
+        "unit": "$M"
+      },
+      "dso_days": null,
+      "dsi_days": null
+    }
+  },
+  "segments": {
+    "data_center": {
+      "revenue": null,
+      "yoy_growth_pct": 56.0,
+      "sequential_growth_pct": null,
+      "compute_revenue": null,
+      "networking_revenue": null,
+      "key_drivers": [
+        "NVIDIA's Blackwell platform reached record levels with 17% sequential growth Cloud service providers, neo clouds,enterprises and sovereigns are allcontributing to growth We'reatthebeginningofanindustrialrevolution;see\\$3to\\$4trilioninAlinfrastructurespendbytheendofthedecade",
+        "Record Gaming revenue due to Blackwell adoption by gamers,creatives,and Al enthusiasts",
+        "Strong sales continued and we increased supply availability",
+        "For Al enthusiasts,on-device Al run best on RTX GPUs",
+        "WiththeRTXplatformstackWindowsdeveloperscancreateAlapplicationsdesignedtorunontheworld'sargestAlPCuserbase"
+      ],
+      "customer_mix": {}
+    },
+    "gaming": {
+      "revenue": null,
+      "yoy_growth_pct": 49.0,
+      "sequential_growth_pct": null,
+      "key_drivers": []
+    },
+    "professional_visualization": {
+      "revenue": null,
+      "yoy_growth_pct": null,
+      "sequential_growth_pct": null,
+      "key_drivers": []
+    },
+    "automotive": {
+      "revenue": null,
+      "yoy_growth_pct": null,
+      "sequential_growth_pct": null,
+      "key_drivers": []
+    }
+  },
+  "guidance": {
+    "next_quarter_revenue": null,
+    "next_quarter_revenue_range_pct": null,
+    "gross_margin_gaap_pct": null,
+    "gross_margin_non_gaap_pct": null,
+    "opex_gaap": null,
+    "opex_non_gaap": null,
+    "tax_rate_pct": null,
+    "raw_text": "outlook in what continues to bea dynamic external environment\n\nTotal revenue up 56% Y/Y to \\$46.7B, above outlook of \\$45.0B +/- 2%   \n· Data Center up 56% Y/Y to \\$41.1B   \nGaming up 49% Y/Y to \\$4.3B\n\n"
+  },
+  "qualitative": {
+    "key_announcements": [],
+    "technology_highlights": [
+      "# Record Data Center revenue driven by continued Blackwell ramp",
+      "NVIDIA's Blackwell platform reached record levels with 17% sequential growth Cloud service providers, neo clouds,enterprises and sovereigns are allcontributing to growth We'reatthebeginningofanindustrialrevolution;see\\$3to\\$4trilioninAlinfrastructurespendbytheendofthedecade",
+      "Record Gaming revenue due to Blackwell adoption by gamers,creatives,and Al enthusiasts",
+      "The GB200 NVL system is seeing widespread adoption with deployments at CSPs and consumer internet customers",
+      "New Blackwell UItra platform had a strong quarter, generating tens of billions in revenue",
+      "Expect widespread market availability of Blackwell Ultra in the second half of the year",
+      "Networking was a record, up 46% q/q and 98% y/y, with strong demand across Spectrum-X Ethernet, InfiniBand,and NVLink",
+      "Record gaming revenue driven by the ramp of Blackwell GeForce GPUs,as strong sales continued and supply availability increased",
+      "Blackwellis coming to GeForce Now in September, the most significant upgrade, offering RTX 5080-class performance, minimal latency, and 5K resolution at 120 frames per second",
+      "Growth driven by the adoption of high-end RTX workstation GPUs for Al-powered workloads like design, simulation, and prototyping",
+      "Growth primarily driven by self-driving solutions Began shipments of NVIDlA Thor SoC, the successor to Orin . NVIDIA's full-stack DRIVE AV software platform is now in production, opening up billions in new revenue opportunities for NVIDlA while improving vehicle safety and autonomy",
+      "· Q/Q decrease was mainly driven by \\$8.1B in taxes paid in the quarter",
+      "NVIDIA is working with European nations,and technology and industry leaders, to build NVIDlA Blackwell Al infrastructure that will strengthen digital sovereignty, support economic growth and position the continent as a leader in the Al industrial revolution In France, Mistral Al is building an end-to-end cloud platform powered by 18K NVIDlA Grace Blackwell systems in the first phase, with plans to expand across multiple sites in 2026",
+      "In the U.K., NVIDIA Cloud Partners Nebius and Nscale announced the first phase of their Al infrastructure development plans to deploy 14K Blackwell GPUs to power new data centers",
+      "In Germany, NViDlA and partners are building the world's first industrial Al cloud for European manufacturers, powered by DGX B200 systems and RTX PRO Servers",
+      "Model builders and Al consortiums are using NVIDIA Nemotron, to maximize model cost efficiency and accuracy for enterprise Al workloads, including agentic Al",
+      "Model post-training and inference will run on Al infrastructure in Europe from NVIDIA Cloud Partners with DGX Cloud Lepton",
+      "Novo Nordisk will use the Gefion sovereign Al supercomputer - powered by NVIDIA DGX SuperPOD- for running drug discovery and agentic Al workloads",
+      "NVIDIA BioNeMo for generative Al-powered drug discovery NVIDIA NiM and NeMo for building customized agentic workflows NVIDIA Omniverse to create physically accurate simulation environments for developing physical Al applications",
+      "Will use NVIDIA BioNeMo, NIM, and NeMo to create customized generative Al models and Al agents that can be used for early research and clinical development"
+    ],
+    "risks_and_challenges": [],
+    "product_launches": [
+      "In the U.K., NVIDIA Cloud Partners Nebius and Nscale announced the first phase of their Al infrastructure development plans to deploy 14K Blackwell GPUs to power new data centers",
+      "Siemens and NVIDlA announced an expansion of their partnership to accelerate the next era of industrial Al and digitalization and enable the factory of the future"
+    ]
+  },
+  "chart_data": {
+    "total_charts_processed": 0,
+    "categorized_charts": {},
+    "chart_details": {}
+  },
+  "tables_extracted": [],
+  "data_sources": {
+    "sections_found": [
+      "_unclassified",
+      "highlights",
+      "data_center",
+      "gaming",
+      "automotive",
+      "cash_flow",
+      "reconciliation"
+    ],
+    "chart_categories": []
   }
 }

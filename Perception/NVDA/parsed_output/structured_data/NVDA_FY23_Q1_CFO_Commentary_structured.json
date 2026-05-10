@@ -1,13 +1,232 @@
 {
-  "pdf_name": "NVDA_FY23_Q1_CFO_Commentary",
-  "source_file": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q1_CFO_Commentary/NVDA_FY23_Q1_CFO_Commentary.md",
-  "text_content": "# CFO Commentary on First Quarter Fiscal 2023 Results\n\n# Q1 Fiscal 2023 Summary\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q1_CFO_Commentary/images/e3de1ed1fc3b79d5ca616c389576dde1e54c5406f30b96f507afe463158f095d.jpg)\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q1_CFO_Commentary/images/e343babe95f57a96dd5d24d6988dcb2e17a2238f558bc6ca1360b22c4a59169e.jpg)\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q1_CFO_Commentary/images/1d624286b42fd4852aad7f7dcf34cfe90edff7f617199c2224ab9a04c5bcf2f5.jpg)\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q1_CFO_Commentary/images/d4432982c8cfbbba19ec0ff324869ded4098967190b16c0a8a8795931de3e9af.jpg)\n\nWe specialize in markets where our computing platforms can provide tremendous acceleration for applications.These platforms incorporate processors,interconnects，software，algorithms，systems，and services to deliver unique value.Our platforms address four large markets where our expertise is critical: Gaming, Data Center, Professional Visualization,and Automotive.\n\n# Revenue\n\nRevenue was a record \\$8.29 billion,up 46% from a year ago and up 8% sequentialy，with record revenue achieved in Gaming and Data Center.\n\nGaming revenue was up 31% from a year ago and up 6% sequentialy The year-on-year increase reflects higher sales of GeForce GPUs based on our NVIDIA Ampere architecture.The sequential increase was driven by higher sales of GeForce GPUs for laptops and SOCs for game consoles.\n\nOur GPUs are capable of cryptocurrency mining,though we have limited visibilityinto how much this impacts our overall GPU demand. Volatility in the cryptocurrency market - such as the recent declines in cryptocurrency prices or changes in method of verifying transactions,including proof of work or proof of stake - can impact demand for our products and our ability to accurately estimate it. Most desktop NVIDIA Ampere architecture GeForce GPU shipments were Lite Hash Rate to help direct GeForce GPUs to gamers.\n\nData Center revenue was up 83% from a year ago and up 15% sequentially.These increases were primarily driven by sales of NVIDIA Ampere architecture GPUs and DGX systems used across both training and inference. Growth was led by cloud computing and hyperscale customers for workloads such as natural language processing and deep recommenders.\n\nProfessional Visualization revenue was up 67% from a year ago and down 3% sequentially. The year-on-year increase was driven by sales of NVIDIA Ampere architecture products，with growth in workstations as enterprises supported hybrid work environments.The sequential decrease was due to lower sales of desktop workstation GPUs,partially offset by higher sales of notebook workstations GPUs.\n\nAutomotive revenue was down 10% from a year ago and up 10% sequentialy. The year-on-year decrease was due to automakers'supply constraints and the decline of legacy cockpit revenue.The sequential increase was driven by Al cockpit revenue.\n\nOEM and Other revenue was down 52% from a year ago and down 18% sequentially. The year-on-year decrease was due to a decline in Cryptocurrency Mining Processor (CMP) revenue,which was nominal in the quarter compared with \\$155 milion from a year ago.The sequential decrease was driven by lower entry level notebook GPU sales.\n\n# Gross Margin\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q1_CFO_Commentary/images/5081ebbfc16843d9db1fad910970b365702878344a7c7233597e6f2564632eca.jpg)\n\nGAAP gross margin was up 140 basis points from a year ago,primarily due to a higher-end mix of GeForce GPUs within Gaming and the reduced impact of acquisition-related costs.Sequentially,GAAP gross margin was up 10 basis points due to increased contribution of,and favorable product mix changes within,Data\n\nCenter,partially offset by higher sales of SOCs for game consoles.Non-GAAP gross margin was up 90 basis points from a year ago and up 10 basis points sequentially.\n\n# Expenses\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY23_Q1_CFO_Commentary/images/41da0ee123de6d4b490f7892e94a999895f7631230738ef1f5f2ecf820e7d06a.jpg)\n\nGAAP operating expenses were up 113% from a year ago and up 76% sequentially and include a \\$1.35 billion acquisition termination charge related to the Arm transaction.\n\nNon-GAAP operating expenses were up 35% from a year ago and up 11% sequentially.These increases were driven by employee growth,compensation-related costs and engineering development costs.We have been successful in hiring this year and expect to slow hiring in the second half of fiscal 2023 as weintegrate our new employees.\n\n# Operating Income\n\nGAAP operating income Was \\$1.87 bilion,down 4% from",
-  "tables": [],
-  "charts": [],
   "metadata": {
-    "total_images": 12,
-    "total_charts": 0,
-    "total_tables": 0,
-    "markdown_length": 15015
+    "company": "NVIDIA",
+    "ticker": "NVDA",
+    "pdf_name": "NVDA_FY23_Q1_CFO_Commentary",
+    "fiscal_year": 2023,
+    "quarter": "Q1",
+    "period_end": "2022-04-30",
+    "calendar_year": 2022,
+    "report_type": "CFO Commentary",
+    "extraction_timestamp": "2026-05-10T20:39:21.936890",
+    "data_completeness": {
+      "text_sections_found": 7,
+      "charts_processed": 0,
+      "md_tables_found": 0,
+      "highlights_extracted": 30,
+      "metrics_extracted": 7
+    }
+  },
+  "highlights": {
+    "bullet_points": [
+      "Revenue was a record \\$8.29 billion,up 46% from a year ago and up 8% sequentialy，with record revenue achieved in Gaming and Data Center.",
+      "Gaming revenue was up 31% from a year ago and up 6% sequentialy The year-on-year increase reflects higher sales of GeForce GPUs based on our NVIDIA Ampere architecture.The sequential increase was driven by higher sales of GeForce GPUs for laptops and SOCs for game consoles.",
+      "Data Center revenue was up 83% from a year ago and up 15% sequentially.These increases were primarily driven by sales of NVIDIA Ampere architecture GPUs and DGX systems used across both training and inference. Growth was led by cloud computing and hyperscale customers for workloads such as natural language processing and deep recommenders.",
+      "Professional Visualization revenue was up 67% from a year ago and down 3% sequentially. The year-on-year increase was driven by sales of NVIDIA Ampere architecture products，with growth in workstations as enterprises supported hybrid work environments.The sequential decrease was due to lower sales of desktop workstation GPUs,partially offset by higher sales of notebook workstations GPUs.",
+      "Automotive revenue was down 10% from a year ago and up 10% sequentialy. The year-on-year decrease was due to automakers'supply constraints and the decline of legacy cockpit revenue.The sequential increase was driven by Al cockpit revenue.",
+      "OEM and Other revenue was down 52% from a year ago and down 18% sequentially. The year-on-year decrease was due to a decline in Cryptocurrency Mining Processor (CMP) revenue,which was nominal in the quarter compared with \\$155 milion from a year ago.The sequential decrease was driven by lower entry level notebook GPU sales.",
+      "GAAP gross margin was up 140 basis points from a year ago,primarily due to a higher-end mix of GeForce GPUs within Gaming and the reduced impact of acquisition-related costs.Sequentially,GAAP gross margin was up 10 basis points due to increased contribution of,and favorable product mix changes within,Data",
+      "Center,partially offset by higher sales of SOCs for game consoles.Non-GAAP gross margin was up 90 basis points from a year ago and up 10 basis points sequentially.",
+      "GAAP operating expenses were up 113% from a year ago and up 76% sequentially and include a \\$1.35 billion acquisition termination charge related to the Arm transaction.",
+      "Non-GAAP operating expenses were up 35% from a year ago and up 11% sequentially.These increases were driven by employee growth,compensation-related costs and engineering development costs.We have been successful in hiring this year and expect to slow hiring in the second half of fiscal 2023 as weintegrate our new employees.",
+      "GAAP operating income Was \\$1.87 bilion,down 4% from a year ago and down 37% sequentially. Non-GAAP operating income was \\$3.96 billion,up 55% from a year ago and up 8% sequentially.",
+      "Interest income was \\$18 million,up from a year ago and sequentialy,due to higher interest rates earned on investments. Interest expense was \\$68 millon，up from a year ago and sequentiallyThe year-on-year increase was primarily due to debt issuances and the sequential increase primarily relates to a reduction in capitalized interest. Loss from non-afiliated investments was \\$17 million,up from a year ago and down sequentially.These changes were primarily driven by_the mark-to-market of public trading equity investments and changes in value from our non-affiliated private investments.",
+      "GAAP net income was a \\$1.62 billion.GAAP earnings per diluted share were \\$0.64, down 16% from a year ago and down 46% sequentially，and include an after-tax impact of \\$0.52 related to the \\$1.35 billion Arm acquisition termination charge.",
+      "Non-GAAP net income was \\$3.44 bilion. Non-GAAP earnings per diluted share were \\$1.36,up 49% from a year ago and up 3% sequentially.",
+      "Cash,cash equivalents and marketable securities were \\$20.34 billion,up from \\$12.67 billion a year ago and down from \\$21.21 bilion a quarter ago.The year-on-year increase reflects free cash flow generation and \\$5.00 bilion of debt issuance proceeds.The sequential decrease reflects share repurchases and advanced payments on supply agreements.",
+      "Accounts receivable was \\$5.44 billion compared with \\$3.02 billon a year ago and \\$4.65 billion a quarter ago.",
+      "DSO was 60 days,up from 49 days a year ago and up from 55 days a quarter ago.",
+      "Inventory was \\$3.16 billion compared with \\$1.99 billion a year ago and \\$2.61 billion a quarter ago. Outstanding inventory purchase and long-term supply obligations were \\$9.59 bilion,up from \\$3.46 billion a year ago and up from \\$9.0o bilion a quarter ago,due to longer lead-times throughout the supply chain. Prepaid supply agreements were \\$3.06 billion,up from \\$1.84 bilion a quarter ago.DSlwas 101 days,up from 89 days a year ago and up from 90 days a quarter ago.",
+      "Cashflow from operating activities was \\$1.73 billon,down from \\$1.87 bilion a year ago and down from \\$3.03 billion a quarter ago.These decreases primarily reflect advanced payments on supply agreements.",
+      "Free cash flow was \\$1.35 bilion,down from \\$1.56 bilion a yearago and down from \\$2.74 billion a quartel ago.",
+      "Depreciation and amortization expense was \\$334 millon,including amortization of intangible assets related to the Mellanox acquisition.Capital expenditures including principal payments on property and equipment were \\$383 million.",
+      "During the first quarter of fiscal 2O23, NVIDIA returned \\$2.10 bilion to shareholders in the form of share repurchases and cash dividends.",
+      "On May 23，2022，our board of directors increased and extended our share repurchase program to repurchase additional common stock up to a total of \\$15 bilion through December 2023.",
+      "Revenue is expected to be \\$8.10 billion,plus or minus 2%.This includes an estimated reduction of approximately \\$5O0 million relating to Russia and the COVID lockdowns in China.",
+      "GAAP and non-GAAP gross margins are expected to be 65.1% and 67.1%,respectively, plus or minus 50 basis points.",
+      "GAAP and non-GAAP operating expenses are expected to be approximately \\$2.46 bilion and \\$1.75 billion,respectively.",
+      "GAAP and non-GAAP other income and expense are expected to be an expense of approximately \\$40 million,excluding gains and losses from non-afiliated investments.",
+      "Capital expenditures are expected to be approximately \\$400 million to \\$450 milion， including principal payments on property and equipment.",
+      "Certain statementsinthisCFO Commentaryincluding，butnotlimitedto，statementsasto:ourcomputing platformsproviding tremendousaccelerationforapplications;ourlimitedvisibityintotheimpactcryptocurrencymininghasonoverallGPUdemand; volatilityinthecryptocurrencymarketimpactingdemandforourproductsandourabilitytoaccuratelyestimatedemand forour products;ourefortstohelpdirectGeForcetogamers;growthinworkstationsasenterprisessupporthybridworkenvironments;ur expectationtoslowhiringinthesecondhalfoffiscal2023;oursharerepurchaseprogram;ourfinancialoutlokforthesecond quarteroffiscal2023,including theestimatedimpactonourrevenuerelating toRussiaandtheCOVIDlockdownsin China;our expectedtaxratesforthesecondquarteroffiscal2023;andourexpectedcapitalexpendituresforthesecondquarterofiscal2023 areforward-lookingstatementsthataresubjecttorisksanduncertaintiesthatcouldcauseresultstobematerialldiferentthan expectations.mportantfactorsthatcouldcauseactualresultstodifermaterialliclude:globaleconomiccondions;ourelianceon thirdparties tomanufacture，asemble,packageandtestourproducts;theimpactoftechnologicaldevelopmentandcompeition; developmentofnewproductsandtechnologiesorenhancements toourexistingproductandtechnologies;marketacceptanceofour productsorourpartners'products;design,manufacturingorsoftware defects;changesinconsumerpreferencesordemands; changesinindustrystandardsandinterfaces;unexpectedlossofperformanceofourproductsortechnologieswhenintegratedinto systems;aswellasotherfactorsdetailedfromtimetotimeinthemostrecentreportsNVIDAfileswith theSecuritiesandExchange",
+      "Commission,orSEC,including,butnotlimitedtoitsannualreportonForm10-KandquarterlyreportsonForm10-Q.Copiesof reportsfiledwiththeSECarepostedonthecompanyswebsiteandareavailablefromNviDIAwithoutcharge.Theseforward-looking statementsarenotguaranteesoffutureperformanceandspeakonlyasofthedatehereof,and,exceptasrequiredbylaw,NVIDIA disclaims any obligation to update these forward-looking statements to reflectfuture events or circumstances."
+    ],
+    "key_metrics_mentioned": [
+      {
+        "metric_name": "free_cash_flow",
+        "value": 5.0,
+        "unit": "b",
+        "context": "Cash,cash equivalents and marketable securities were \\$20.34 billion,up from \\$12.67 billion a year ago and down from \\$21.21 bilion a quarter ago.The year-on-year increase reflects free cash flow gen"
+      },
+      {
+        "metric_name": "share_repurchases",
+        "value": 20.34,
+        "unit": "b",
+        "context": "Cash,cash equivalents and marketable securities were \\$20.34 billion,up from \\$12.67 billion a year ago and down from \\$21.21 bilion a quarter ago.The year-on-year increase reflects free cash flow gen"
+      },
+      {
+        "metric_name": "cash_position",
+        "value": 20.34,
+        "unit": "b",
+        "context": "Cash,cash equivalents and marketable securities were \\$20.34 billion,up from \\$12.67 billion a year ago and down from \\$21.21 bilion a quarter ago.The year-on-year increase reflects free cash flow gen"
+      },
+      {
+        "metric_name": "cash_position",
+        "value": 1.73,
+        "unit": "b",
+        "context": "Cashflow from operating activities was \\$1.73 billon,down from \\$1.87 bilion a year ago and down from \\$3.03 billion a quarter ago.These decreases primarily reflect advanced payments on supply agreeme"
+      },
+      {
+        "metric_name": "free_cash_flow",
+        "value": 1.35,
+        "unit": "b",
+        "context": "Free cash flow was \\$1.35 bilion,down from \\$1.56 bilion a yearago and down from \\$2.74 billion a quartel ago."
+      },
+      {
+        "metric_name": "cash_position",
+        "value": 1.35,
+        "unit": "b",
+        "context": "Free cash flow was \\$1.35 bilion,down from \\$1.56 bilion a yearago and down from \\$2.74 billion a quartel ago."
+      },
+      {
+        "metric_name": "share_repurchases",
+        "value": 2.1,
+        "unit": "b",
+        "context": "During the first quarter of fiscal 2O23, NVIDIA returned \\$2.10 bilion to shareholders in the form of share repurchases and cash dividends."
+      }
+    ]
+  },
+  "financial": {
+    "revenue": {
+      "total": {
+        "value": 8290.0,
+        "unit": "$M"
+      },
+      "data_center": null,
+      "gaming": null,
+      "professional_visualization": null,
+      "automotive": null,
+      "yoy_growth_pct": null,
+      "sequential_growth_pct": 8.0
+    },
+    "profitability": {
+      "gross_margin_gaap_pct": null,
+      "gross_margin_non_gaap_pct": null,
+      "operating_income_gaap": null,
+      "operating_income_non_gaap": null,
+      "operating_margin_pct": null,
+      "net_income_gaap": null,
+      "net_income_non_gaap": null
+    },
+    "per_share": {
+      "eps_gaap_diluted": 0.64,
+      "eps_non_gaap_diluted": 1.36
+    },
+    "cash_flow": {
+      "operating_cash_flow": null,
+      "free_cash_flow": {
+        "value": 5000.0,
+        "unit": "$M"
+      },
+      "capital_expenditure": {
+        "value": 383.0,
+        "unit": "$M"
+      },
+      "share_repurchases": null,
+      "dividends": null
+    },
+    "balance_sheet": {
+      "cash_and_marketable_securities": null,
+      "inventory": null,
+      "accounts_receivable": null,
+      "total_debt": null,
+      "net_cash": null,
+      "dso_days": null,
+      "dsi_days": null
+    }
+  },
+  "segments": {
+    "data_center": {
+      "revenue": null,
+      "yoy_growth_pct": 83.0,
+      "sequential_growth_pct": 15.0,
+      "compute_revenue": null,
+      "networking_revenue": null,
+      "key_drivers": [],
+      "customer_mix": {}
+    },
+    "gaming": {
+      "revenue": null,
+      "yoy_growth_pct": 31.0,
+      "sequential_growth_pct": 6.0,
+      "key_drivers": []
+    },
+    "professional_visualization": {
+      "revenue": null,
+      "yoy_growth_pct": 67.0,
+      "sequential_growth_pct": null,
+      "key_drivers": []
+    },
+    "automotive": {
+      "revenue": null,
+      "yoy_growth_pct": null,
+      "sequential_growth_pct": null,
+      "key_drivers": []
+    }
+  },
+  "guidance": {
+    "next_quarter_revenue": null,
+    "next_quarter_revenue_range_pct": 2.0,
+    "gross_margin_gaap_pct": 65.1,
+    "gross_margin_non_gaap_pct": 67.1,
+    "opex_gaap": {
+      "value": 2460.0,
+      "unit": "$M"
+    },
+    "opex_non_gaap": {
+      "value": 1750.0,
+      "unit": "$M"
+    },
+    "tax_rate_pct": 12.5,
+    "raw_text": "Our outlook for the second quarter of fiscal 2023 is as follows:\n\nRevenue is expected to be \\$8.10 billion,plus or minus 2%.This includes an estimated reduction of approximately \\$5O0 million relating to Russia and the COVID lockdowns in China.\n\nGAAP and non-GAAP gross margins are expected to be 65.1% and 67.1%,respectively, plus or minus 50 basis points.   \nGAAP and non-GAAP operating expenses are expected to be approximately \\$2.46 bilion and \\$1.75 billion,respectively.   \nGAAP and non-GAAP other income and expense are expected to be an expense of approximately \\$40 million,excluding gains and losses from non-afiliated investments.   \nGAAP and non-GAAP tax rates are expected to be 12.5%, plus or minus 1%,excluding any discrete items.   \nCapital expenditures are expected to be approximately \\$400 million to \\$450 milion， including principal payments on property and equipment.\n\nFor further information,contact:\n\nSimona Jankowski Investor Relations NVIDIA Corporation sjankowski@nvidia.c"
+  },
+  "qualitative": {
+    "key_announcements": [],
+    "technology_highlights": [
+      "Gaming revenue was up 31% from a year ago and up 6% sequentialy The year-on-year increase reflects higher sales of GeForce GPUs based on our NVIDIA Ampere architecture.The sequential increase was driven by higher sales of GeForce GPUs for laptops and SOCs for game consoles.",
+      "Data Center revenue was up 83% from a year ago and up 15% sequentially.These increases were primarily driven by sales of NVIDIA Ampere architecture GPUs and DGX systems used across both training and inference. Growth was led by cloud computing and hyperscale customers for workloads such as natural language processing and deep recommenders.",
+      "Professional Visualization revenue was up 67% from a year ago and down 3% sequentially. The year-on-year increase was driven by sales of NVIDIA Ampere architecture products，with growth in workstations as enterprises supported hybrid work environments.The sequential decrease was due to lower sales of desktop workstation GPUs,partially offset by higher sales of notebook workstations GPUs.",
+      "Automotive revenue was down 10% from a year ago and up 10% sequentialy. The year-on-year decrease was due to automakers'supply constraints and the decline of legacy cockpit revenue.The sequential increase was driven by Al cockpit revenue.",
+      "OEM and Other revenue was down 52% from a year ago and down 18% sequentially. The year-on-year decrease was due to a decline in Cryptocurrency Mining Processor (CMP) revenue,which was nominal in the quarter compared with \\$155 milion from a year ago.The sequential decrease was driven by lower entry level notebook GPU sales.",
+      "Non-GAAP operating expenses were up 35% from a year ago and up 11% sequentially.These increases were driven by employee growth,compensation-related costs and engineering development costs.We have been successful in hiring this year and expect to slow hiring in the second half of fiscal 2023 as weintegrate our new employees.",
+      "Interest income was \\$18 million,up from a year ago and sequentialy,due to higher interest rates earned on investments. Interest expense was \\$68 millon，up from a year ago and sequentiallyThe year-on-year increase was primarily due to debt issuances and the sequential increase primarily relates to a reduction in capitalized interest. Loss from non-afiliated investments was \\$17 million,up from a year ago and down sequentially.These changes were primarily driven by_the mark-to-market of public trading equity investments and changes in value from our non-affiliated private investments."
+    ],
+    "risks_and_challenges": [
+      "Professional Visualization revenue was up 67% from a year ago and down 3% sequentially. The year-on-year increase was driven by sales of NVIDIA Ampere architecture products，with growth in workstations as enterprises supported hybrid work environments.The sequential decrease was due to lower sales of desktop workstation GPUs,partially offset by higher sales of notebook workstations GPUs.",
+      "Automotive revenue was down 10% from a year ago and up 10% sequentialy. The year-on-year decrease was due to automakers'supply constraints and the decline of legacy cockpit revenue.The sequential increase was driven by Al cockpit revenue.",
+      "OEM and Other revenue was down 52% from a year ago and down 18% sequentially. The year-on-year decrease was due to a decline in Cryptocurrency Mining Processor (CMP) revenue,which was nominal in the quarter compared with \\$155 milion from a year ago.The sequential decrease was driven by lower entry level notebook GPU sales.",
+      "Cash,cash equivalents and marketable securities were \\$20.34 billion,up from \\$12.67 billion a year ago and down from \\$21.21 bilion a quarter ago.The year-on-year increase reflects free cash flow generation and \\$5.00 bilion of debt issuance proceeds.The sequential decrease reflects share repurchases and advanced payments on supply agreements.",
+      "Inventory was \\$3.16 billion compared with \\$1.99 billion a year ago and \\$2.61 billion a quarter ago. Outstanding inventory purchase and long-term supply obligations were \\$9.59 bilion,up from \\$3.46 billion a year ago and up from \\$9.0o bilion a quarter ago,due to longer lead-times throughout the supply chain. Prepaid supply agreements were \\$3.06 billion,up from \\$1.84 bilion a quarter ago.DSlwas 101 days,up from 89 days a year ago and up from 90 days a quarter ago.",
+      "Cashflow from operating activities was \\$1.73 billon,down from \\$1.87 bilion a year ago and down from \\$3.03 billion a quarter ago.These decreases primarily reflect advanced payments on supply agreements.",
+      "Certain statementsinthisCFO Commentaryincluding，butnotlimitedto，statementsasto:ourcomputing platformsproviding tremendousaccelerationforapplications;ourlimitedvisibityintotheimpactcryptocurrencymininghasonoverallGPUdemand; volatilityinthecryptocurrencymarketimpactingdemandforourproductsandourabilitytoaccuratelyestimatedemand forour products;ourefortstohelpdirectGeForcetogamers;growthinworkstationsasenterprisessupporthybridworkenvironments;ur expectationtoslowhiringinthesecondhalfoffiscal2023;oursharerepurchaseprogram;ourfinancialoutlokforthesecond quarteroffiscal2023,including theestimatedimpactonourrevenuerelating toRussiaandtheCOVIDlockdownsin China;our expectedtaxratesforthesecondquarteroffiscal2023;andourexpectedcapitalexpendituresforthesecondquarterofiscal2023 areforward-lookingstatementsthataresubjecttorisksanduncertaintiesthatcouldcauseresultstobematerialldiferentthan expectations.mportantfactorsthatcouldcauseactualresultstodifermaterialliclude:globaleconomiccondions;ourelianceon thirdparties tomanufacture，asemble,packageandtestourproducts;theimpactoftechnologicaldevelopmentandcompeition; developmentofnewproductsandtechnologiesorenhancements toourexistingproductandtechnologies;marketacceptanceofour productsorourpartners'products;design,manufacturingorsoftware defects;changesinconsumerpreferencesordemands; changesinindustrystandardsandinterfaces;unexpectedlossofperformanceofourproductsortechnologieswhenintegratedinto systems;aswellasotherfactorsdetailedfromtimetotimeinthemostrecentreportsNVIDAfileswith theSecuritiesandExchange"
+    ],
+    "product_launches": []
+  },
+  "chart_data": {
+    "total_charts_processed": 0,
+    "categorized_charts": {},
+    "chart_details": {}
+  },
+  "tables_extracted": [],
+  "data_sources": {
+    "sections_found": [
+      "_unclassified",
+      "revenue",
+      "gross_margin",
+      "expenses",
+      "cash_flow",
+      "outlook",
+      "reconciliation"
+    ],
+    "chart_categories": []
   }
 }

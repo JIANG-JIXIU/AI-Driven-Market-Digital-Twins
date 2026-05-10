@@ -1,13 +1,256 @@
 {
-  "pdf_name": "META_2025_Q2_Prepared_Remarks",
-  "source_file": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q2_Prepared_Remarks/META_2025_Q2_Prepared_Remarks.md",
-  "text_content": "# Meta Platforms, Inc.(META) Second Quarter 2O25 Results Conference Call- Prepared Remarks July 30th,2025\n\nKenneth Dorell, Director, Investor Relations\n\nThank you.Good afternoon and welcome to Meta's second quarter 2O25 earnings conference call.   \nJoining me today are Mark Zuckerberg,CEO and Susan Li, CFO.\n\nOur remarks today willinclude forward-looking statements, which are based on assumptions as of today.Actual results may differ materially as a result of various factors including those set forth in today's earnings press release,and in our quarterly report on Form 10-Q filed with the SEC.We undertake no obligation to update any forward-looking statement.\n\nDuring this call we will present both GAAP and certain non-GAAP financial measures. A reconciliation of GAAP to non-GAAP measures is included in today's earnings press release.The earnings press release and an accompanying investor presentation are available on our website at investor.atmeta.com.\n\nAnd now,I'd like to turn the call over to Mark.\n\n# Mark Zuckerberg, CEO\n\nThanks Ken -- thanks everyone for joining today.\n\nWe had another strong quarter with more than 3.4 bilion people using at least one of our apps each day -- and strong engagement across the board. Our business continues to perform very well,which enables us to invest heavily in our Al efforts.\n\nOver the last few months we have begun to see glimpses of our Al systems improving themselves. The improvement is slow for now,but undeniable. Developing superintelligence -- which we define as Al that surpasses human intelligence in every way -- we think is now in sight.\n\nMeta's vision is to bring personal superintelligence to everyone -- so that people can direct it towards what they value in their own lives.We believe this has the potential to begin an exciting new era of individual empowerment.\n\nA lot has been written about the economic and scientific advances that superintelligence can bring.lam extremely optimistic about this.But Ithink that if history is a guide,then an even more important role willbe how superintellgence empowers people to be more creative,develop culture and communities,connect with each other,and lead more fulfilling lives.\n\nTo build this future,we've established Meta Superintelligence Labs,which includes our foundations,product,and FAIR teams,as wellas a new lab that is focused on developing the next generation of our models. We're making good progress towards Llama 4.1 and 4.2 --and in parallel, we're also working on our next generation of models that willpush the frontierin the next year or so.\n\nWe're building an elite,talent-dense team.Alexandr Wang is leading the overallteam,Nat Friedman is leading our Al products and applied research,and Shengjia Zhao is Chief Scientist for the new effort.They're allincredibly talented leaders and I'm excited to work closely with them and the world-class group of Al researchers,and infrastructure and data engineers that we're assembling.\n\nI've spent a lot of time building this team this quarter,and the reason that so many people are excited to join is because Meta has allthe ingredients required to build leading models and deliver them to bilions of people. The people who are joining us are going to have access to unparalleled compute as we build out several multi-GW clusters. Our Prometheus clusteris coming online next year and we think it'llbe the world's first 1GW+ cluster.We're also building out Hyperion, which will be able to scale up to 5GW over several years.And we have multiple more titan clusters in development as well.\n\nWe're making allthese investments because we have conviction that superintelligence is going to improve every aspect of what we do.\n\nFrom abusiness perspective,Imentioned last quarter that there are five basic opportunities that we're pursuing: improved advertising, more engaging experiences, business messaging, Meta Al, and Al devices. So l can go into a bit of detail on each.\n\nOn advertising,the strong performance this quarter is largely thanks to Al unlocking greater efficiency and gains across our ads system.This quarter, we expanded our new Al-powered recommendation model for ads to new surfaces and improved its performance by using more signals and a longer context.It's driven roughly 5% more ad conversions on Instagram and 3% on Facebook.\n\nWe're also seeing good progress with Al for ad creative -- with a meaningful percent of our ad revenue now coming from campaigns using one of our Generative Al features.This is going to be especially valuable for smaller advertisers with limited budgets,while agencies will continue to the important work to help larger brands apply these tools strategically.\n\nThe second opportunity is more engaging experiences. Al is significantly improving our ability to show people content that they're going to find interesting and useful. Advancements in our recommendation systems have improved quality so much that it has led to a 5% increase in time spent on Facebook and 6% on I",
-  "tables": [],
-  "charts": [],
   "metadata": {
-    "total_images": 0,
-    "total_charts": 0,
-    "total_tables": 0,
-    "markdown_length": 26813
+    "company": "Meta Platforms",
+    "ticker": "META",
+    "pdf_name": "META_2025_Q2_Prepared_Remarks",
+    "year": 2025,
+    "quarter": "Q2",
+    "period_end": "2025-06-30",
+    "report_type": "Prepared Remarks",
+    "extraction_timestamp": "2026-05-10T20:39:28.218512",
+    "data_completeness": {
+      "text_sections_found": 3,
+      "charts_processed": 0,
+      "md_tables_found": 0,
+      "highlights_extracted": 43,
+      "metrics_extracted": 7
+    }
+  },
+  "highlights": {
+    "bullet_points": [
+      "To build this future,we've established Meta Superintelligence Labs,which includes our foundations,product,and FAIR teams,as wellas a new lab that is focused on developing the next generation of our models. We're making good progress towards Llama 4.1 and 4.2 --and in parallel, we're also working on our next generation of models that willpush the frontierin the next year or so.",
+      "On advertising,the strong performance this quarter is largely thanks to Al unlocking greater efficiency and gains across our ads system.This quarter, we expanded our new Al-powered recommendation model for ads to new surfaces and improved its performance by using more signals and a longer context.It's driven roughly 5% more ad conversions on Instagram and 3% on Facebook.",
+      "The second opportunity is more engaging experiences. Al is significantly improving our ability to show people content that they're going to find interesting and useful. Advancements in our recommendation systems have improved quality so much that it has led to a 5% increase in time spent on Facebook and 6% on Instagram just this quarter.",
+      "Finally,we're seeing people continue to spend more time with our Quest ecosystem and the community continues to grow steadily.We launched the Meta Quest 3S Xbox Edition last month, and we're seeing record interest in cloud gaming. And beyond gaming, we continue to see a broader set of use cases with media and web-browsing contributing a significant portion of engagement.",
+      "We're going to have more to share on allof this,especially our Reality Labs work,at Connect on September 17th,so lencourage you to tune into that.",
+      "Q2 total revenue was \\$47.5 billion,up 22% on both a reported and constant currency basis.",
+      "Q2 total expenses were \\$27.1 billion, up 12% compared to last year.",
+      "Cost of revenue increased 16%,driven mostly by higher infrastructure costs and payments to partners,partially offset by a benefit from the previously announced extension of server useful lives.",
+      "Second quarter operating income was \\$20.4 bilion,representing a 43% operating margin.",
+      "Net income was \\$18.3 billion or \\$7.14 per share.",
+      "Capital expenditures,including principal payments on finance leases, were \\$17.O bilion,driven by investments in servers,data centers and network infrastructure.",
+      "Free cash flow was \\$8.5 billon. We repurchased \\$9.8 billion of our Class A common stock and paid \\$1.3 billion in dividends to shareholders. We also made \\$15.1 billion in non-marketable equity investments in the second quarter, which includes our minority investment in Scale Al along with other investment activities.We ended the quarter with \\$47.1 billion in cash and marketable securities and \\$28.8 billion in debt.",
+      "Our community across the Family of Apps continues to grow,and we estimate more than 3.4 billion people used at least one of our Family of Apps on a daily basis in June.",
+      "Q2 Total Family of Apps revenue was \\$47.1 bilion, up 22% year-over-year.",
+      "Q2 Family of Apps ad revenue was \\$46.6 bilion,up 21% or 22% on a constant currency basis.",
+      "On a user geography basis,ad revenue growth was strongest in Europe and Rest of World at 24% and 23%, respectively. North America and Asia-Pacific grew 21% and 18%.",
+      "In Q2,the total number of ad impressions served across our services increased 11%,with growth mainly driven by Asia-Pacific.Impresson growth accelerated across all regions due primarily to engagement tailwinds on both Facebook and Instagram and,to a lesser extent,ad load optimizations on Facebook.The average price per ad increased 9%,benefiting from increased advertiser demand,largely driven by improved ad performance.Pricing growth slowed modestly from the first quarter due to the accelerated impression growth in Q2.",
+      "Family of Apps other revenue was \\$583 milion,up 5O%,driven by WhatsApp paid messaging revenue growth as well as Meta Verified subscriptions.",
+      "We continue to directthe majority of our investments toward the development and operation of our Family of Apps.In Q2,Family of Apps expenses were \\$22.2 billion,representing 82% of our overallexpenses. Family of Apps expenses were up 14%, mainly due to growth in employee compensation and infrastructure costs,partially offset by lower legal-related costs.",
+      "Family of Apps operating income was \\$25.0 bilion,representing a 53% operating margin.",
+      "Within our Reality Labs segment,Q2 revenue was \\$370 million, up 5% year-over-year due to increased sales of Al glasses, partially offset by lower Quest sales.",
+      "Reality Labs expenses were \\$4.9 billion, up 1% year-over-year driven by higher non-headcount related technology development costs.",
+      "Reality Labs operating loss was \\$4.5 billion.",
+      "We continue to see momentum with video engagement in particular.In Q2,Instagram video time was up more than 2O% year-over-year globally.We're seeing strong traction on Facebook as well, particularly in the US where video time spent similarly expanded more than 2O% year-over-year. These gains have been enabled by ongoing optimizations to our ranking systems to better identify the most relevant content to show.",
+      "We are also making good progress on our longer-term ranking innovations that we expect wil provide the next leg of improvements over the coming years. Our research efforts to develop cross-surface foundation recommendation models continue to progress. We are also seeing promising results from using LLMs in Threads recommendation systems.The incorporation of LLMs are now driving a meaningful share of the ranking-related time spent gains on Threads. We're now exploring how to extend the use of LLMs in recommendation systems to our other apps. We're leveraging Llama in several other back-end processes as well,including actioning bug reports so we can identify and resolve recurring issues more quickly and efficiently.This has resulted in top-line bug reports in the US& Canadain Facebook Feed and Notifications dropping by roughly 30% over the past 10 months.",
+      "The primary way we're using Llama in our apps today is to power Meta Al, which is now available in over 2OO countries and territories. WhatsApp continues to be the largest driver of queries as people message Meta Al directly for tasks such as information gathering, homework assistance, and generating images. Outside of WhatsApp,we're seeing Meta Al become an increasingly valuable complement to our content discovery engines. Meta Al usage on Facebook is expanding as people use it to ask about posts they see in Feed and find content across our platform in Search. Another way we expect Meta Al willhelp with content discovery is through the automatic translation and dubbing of foreign-language content into the audience's locallanguage.We'll have more to share on our efforts there later this year.",
+      "Moving to Reality Labs.The growth of Ray-Ban Meta sales accelerated in Q2, with demand stil outstripping supply for the most popular SKUs despite increases to our production earlier this year. We're working to ramp supply to better meet consumer demand later this year.",
+      "We continue to optimize ad supply across each surface to better deliver ads at the time and place they are most relevant to people.In Q2,we also began introducing ads within Feed on Threads and the Updates tab on WhatsApp, which is a separate space away from people's chats.",
+      "On WhatsApp,we are rolling out ads in Status and Channels,along with Channel Subscriptions in the Updates tab to help businesses reach the more than 1.5 bilion daily actives who visit that part of the app.We expect the introduction of ads in Status willbe gradual over the course of this year and next, with low levels of expected ad supply initially.We also expect WhatsApp ads in Status to earn a lower average price than Facebook or Instagram ads for the foreseeable future,due in part to WhatsApp's skew toward lower monetizing markets and morelimited information that can be used for targeting. Given this, we do not expect ads in Status to be a meaningful contributor to total impressions or revenue growth for the next few years.",
+      "The Andromeda model architecture we began introducing in the second half of 2024 powers the ads retrieval stage of our ads system, where we select the few thousand most relevant ads from tens of milions of potential candidates.In Q2,we made enhancements to Andromeda that enabled it to select more relevant and more personalized ads candidates,while also expanding coverage to Facebook Reels. These improvements have driven nearly 4% higher conversions on Facebook mobile Feed and Reels.",
+      "Our new Generative Ads Recommendation System,or GEM,powers the ranking stage of our ads system,which is the part of the process after ads retrieval where we determine which ads to show someone from candidates suggested by our retrieval engine.In Q2, we improved the performance of GEM by further scaling our training capacity and adding organic and ads engagement data on Instagram.We also incorporated new advanced sequence modeling techniques that helped us double the length of event sequences we use,enabling our systems to consider a longer history of the content or ads that a person has engaged with in order to provide better ad selections.The combination of these improvements increased ad conversions by approximately 5% on Instagram and 3% on Facebook Feed and Reels in Q2.",
+      "Finally,we expanded coverage of our Lattice model architecture in Q2.We first began deploying Lattice in 2O23 with our later stage ads ranking efforts,alowing us to run significantly larger models that generalize learnings across objectives and surfaces in place of numerous,smallr ads models that have historically been optimized for individual objectives and surfaces.In April, we began deploying Lattice to earlier stage ads ranking models as well.This is leading not only to greater capacity and engineering efficiency,but also improved performance,with the recent Lattice deployments driving a nearly 4% increase in ad conversions across Facebook Feed and Reels in Q2.",
+      "In Q2,we completed the roll out of our streamlined campaign creation flow for Advantage+ sales and app campaigns,which makes it easier for advertisers to realize the performance benefits from Advantage+ by having it turned on at the beginning.We've seen lifts in advertiser adoption of Sales and App campaigns since we've expanded availability and are working to complete the rollout for leads campaigns in the coming months.",
+      "Within our Advantage+ creative suite,adoption of gen Al ad creative tools continues to broaden. Nearly 2 milion advertisers are now using our video generation features - Image Animation and Video Expansion,and we're seeing strong results with our text generation tools as we continue to add new features.In Q2,we started testing Al-powered translations so that advertisers can automatically translate the caption of their ads to 1O different languages.While it's early,we've seen promising performance lifts in our pre-launch tests.",
+      "Outside of Advantage+,we're seeing good momentum in business messaging,particularly in the US where click-to-message revenue grew more than 4O% year-over-year in Q2.The strong US growth is benefiting from a ramp in adoption of our Website to Message ads, which drive people to a businesses'website for more information before choosing to launch a chat with the business in one of our messaging apps.",
+      "We also launched Omnichannel ads globally in Q2, which enable advertisers to optimize for incremental sales both in-store and online with just one campaign.In tests, Advertisers using Omnichannel ads have seen a median 15% reduction in total Cost Per Purchase compared to website-only optimization.",
+      "I'll start with hiring. Our approach to adding headcount continues to be targeted at the company's highest priority areas.We expect talent additions across all of our priority areas willcontinue to drive overallheadcount growth through this year and 2O26,while headcount growth in our other functions remains constrained.Within Al,we've had a particular emphasis on recruiting leading talent within the industry as we build out Meta Superinteligence Labs to accelerate our Al model development and product initiatives.",
+      "Moving to our financial outlook.We expect third quarter 2O25 total revenue to be in the range of \\$47.5-50.5 billion. Our guidance assumes foreign currencyis an approximately 1% tailwind to year-over-year total revenue growth,based on current exchange rates.While we are not providing an outlook for fourth quarter revenue, we would expect our year-over-year growth rate in the fourth quarter of 2O25 to be slower than the third quarter as we lap a period of stronger growth in the fourth quarter of 2024.",
+      "We expect fullyear 2025 total expenses to be in the range of \\$114-118 billon, narrowed from our prior outlook of \\$113-118 billion and reflecting a growth rate of 20-24% year-over-year.",
+      "While we're stillvery early in planning for next year,there are a few factors we expect will provide meaningful upward pressure on our 2O26 total expense growth rate.The largest single driver of growth wil be infrastructure costs,driven by a sharp acceleration in depreciation expense growth and higher operating costs as we continue to scale up our infrastructure fleet. Aside from infrastructure,we expect the second largest driver of growth to be employee compensation as we add technical talent in priority areas and recognize a fullyear of compensation expenses for employees hired throughout 2025.We expect these factors willresult in a 2026 year-over-year expense growth rate that is above the 2025 expense growth rate.",
+      "Turning now to the capex outlook. We currently expect 2O25 capital expenditures,including principal payments on finance leases,to be in the range of \\$66-72 bilion, narrowed from our prior outlook of \\$64-72 billion and up approximately \\$30 bilion year-over-year at the mid-point. While the infrastructure planning process remains highly dynamic, we currently expect another year of similarly significant capex dollar growth in 2O26 as we continue aggressively pursuing",
+      "On to tax.With the enactment of the new U.S.tax law,we anticipate a reduction in our U.S.federal cash tax for the remainder of the current year and future years.There are several alternative ways of implementing the provisions of the Act,which we are currently evaluating.While we estimate that the 2O25 tax rate willbe higher than our Q2 tax rate, we cannot quantify the magnitude at this time.",
+      "In addition, we continue to monitor an active regulatory landscape,including the increasing legal and regulatory headwinds in the EU that could significantly impact our business and our financial results.For example,we continue to engage with the European Commission on our Less Personalized Ads offering,or LPA,which we introduced in November 2O24 based on feedback from the European Commission in connection with the DMA.As the Commission provides further feedback on LPA, we cannot rule out that it may seek to impose further modifications to it that would result in a materially worse user and advertiser experience.This could have a significant negative impact on our European revenue,as early as later this quarter.We have appealed the European Commission's DMA decision but any modifications to our model may be imposed during the appeal process."
+    ],
+    "key_metrics_mentioned": [
+      {
+        "metric_name": "operating_margin",
+        "value": 43.0,
+        "unit": "",
+        "context": "Second quarter operating income was \\$20.4 bilion,representing a 43% operating margin."
+      },
+      {
+        "metric_name": "eps",
+        "value": 7.14,
+        "unit": "",
+        "context": "Net income was \\$18.3 billion or \\$7.14 per share."
+      },
+      {
+        "metric_name": "ad_revenue",
+        "value": 46.6,
+        "unit": "b",
+        "context": "Q2 Family of Apps ad revenue was \\$46.6 bilion,up 21% or 22% on a constant currency basis."
+      },
+      {
+        "metric_name": "ad_impressions_growth",
+        "value": 11.0,
+        "unit": "",
+        "context": "In Q2,the total number of ad impressions served across our services increased 11%,with growth mainly driven by Asia-Pacific.Impresson growth accelerated across all regions due primarily to engagement "
+      },
+      {
+        "metric_name": "price_per_ad_growth",
+        "value": 9.0,
+        "unit": "",
+        "context": "In Q2,the total number of ad impressions served across our services increased 11%,with growth mainly driven by Asia-Pacific.Impresson growth accelerated across all regions due primarily to engagement "
+      },
+      {
+        "metric_name": "operating_margin",
+        "value": 53.0,
+        "unit": "",
+        "context": "Family of Apps operating income was \\$25.0 bilion,representing a 53% operating margin."
+      },
+      {
+        "metric_name": "capex",
+        "value": 72.0,
+        "unit": "b",
+        "context": "Turning now to the capex outlook. We currently expect 2O25 capital expenditures,including principal payments on finance leases,to be in the range of \\$66-72 bilion, narrowed from our prior outlook of "
+      }
+    ]
+  },
+  "financial": {
+    "revenue": {
+      "total": null,
+      "advertising": null,
+      "other_revenue": null,
+      "yoy_growth_pct": 5.0,
+      "constant_currency_growth_pct": null,
+      "by_geography": {
+        "us_canada": null,
+        "europe": null,
+        "asia_pacific": null,
+        "rest_of_world": null
+      }
+    },
+    "profitability": {
+      "total_costs_and_expenses": null,
+      "cost_of_revenue": null,
+      "research_and_development": null,
+      "marketing_and_sales": null,
+      "general_and_administrative": null,
+      "income_from_operations": null,
+      "operating_margin_pct": 43.0,
+      "net_income": null,
+      "effective_tax_rate_pct": 11.0
+    },
+    "per_share": {
+      "eps_basic": null,
+      "eps_diluted": 7.14
+    },
+    "cash_flow": {
+      "free_cash_flow": null,
+      "capital_expenditures": null,
+      "share_repurchases": null,
+      "dividends": null
+    },
+    "balance_sheet": {
+      "cash_and_marketable_securities": null,
+      "long_term_debt": null
+    }
+  },
+  "segments": {
+    "family_of_apps": {
+      "revenue": null,
+      "ad_revenue": null,
+      "other_revenue": null,
+      "expenses": null,
+      "operating_income": null,
+      "operating_margin_pct": null,
+      "yoy_growth_pct": null
+    },
+    "reality_labs": {
+      "revenue": null,
+      "expenses": null,
+      "operating_loss": null,
+      "yoy_growth_pct": null
+    }
+  },
+  "operational": {
+    "users": {
+      "family_dap_billions": 3.4,
+      "dap_yoy_growth_pct": null,
+      "threads_monthly_actives_millions": null
+    },
+    "advertising": {
+      "ad_impressions_yoy_pct": 11.0,
+      "average_price_per_ad_yoy_pct": 9.0,
+      "top_vertical_driver": "online commerce vertical was the largest contributor"
+    },
+    "headcount": null,
+    "headcount_yoy_growth_pct": null
+  },
+  "guidance": {
+    "revenue_range": null,
+    "total_expenses_range": null,
+    "capex_range": null,
+    "tax_rate": null,
+    "reality_labs_commentary": null,
+    "raw_text": "We expect to deliver additional improvements throughout the year as we further scale up our models and make recommendations more adaptive to aperson's interests within their session.\nwe expect wil provide the next leg of improvements over the coming years.\nwe expect Meta Al willhelp with content discovery is through the automatic translation and dubbing of foreign-language content into the audience's locallanguage.\nWe expect the introduction of ads in Status willbe gradual over the course of this year and next, with low levels of expected ad supply initially.\nwe expect agencies willcontinue to be valuable partners in helping apply these new tools to drive performance.\nWe expect talent additions across all of our priority areas willcontinue to drive overallheadcount growth through this year and 2O26,while headcount growth in our other functions remains constrained.\nWe expect having sufficient compute capacity willbe central to realizing many of the largest opportunities in front of us over the coming years.\nwe expect to ramp our investments significantly in 2026 to support that work.\nWe expect third quarter 2O25 total revenue to be in the range of \\$47.\nWe expect fullyear 2025 total expenses to be in the range of \\$114-118 billon, narrowed from our prior outlook of \\$113-118 billion and reflecting a growth rate of 20-24% year-over-year.\nwe expect will provide meaningful upward pressure on our 2O26 total expense growth rate.\nwe expect the second largest driver of growth to be employee compensation as we add technical talent in priority areas and recognize a fullyear of compensation expenses for employees hired throughout 2025.\nWe expect these factors willresult in a 2026 year-over-year expense growth rate that is above the 2025 expense growth rate.\nWe expect the significant investments we're making now willallow us to continue leveraging advances in Al to extend those gains and unlock a new set of opportunities in the years to come.\nwe anticipate a reduction in our U."
+  },
+  "qualitative": {
+    "ceo_highlights": [
+      "We had another strong quarter with more than 3.4 bilion people using at least one of our apps each day -- and strong engagement across the board. Our business continues to perform very well,which enables us to invest heavily in our Al efforts.",
+      "To build this future,we've established Meta Superintelligence Labs,which includes our foundations,product,and FAIR teams,as wellas a new lab that is focused on developing the next generation of our models. We're making good progress towards Llama 4.1 and 4.2 --and in parallel, we're also working on our next generation of models that willpush the frontierin the next year or so.",
+      "I've spent a lot of time building this team this quarter,and the reason that so many people are excited to join is because Meta has allthe ingredients required to build leading models and deliver them to bilions of people. The people who are joining us are going to have access to unparalleled compute as we build out several multi-GW clusters. Our Prometheus clusteris coming online next year and we think it'llbe the world's first 1GW+ cluster.We're also building out Hyperion, which will be able to scale up to 5GW over several years.And we have multiple more titan clusters in development as well.",
+      "On advertising,the strong performance this quarter is largely thanks to Al unlocking greater efficiency and gains across our ads system.This quarter, we expanded our new Al-powered recommendation model for ads to new surfaces and improved its performance by using more signals and a longer context.It's driven roughly 5% more ad conversions on Instagram and 3% on Facebook.",
+      "The second opportunity is more engaging experiences. Al is significantly improving our ability to show people content that they're going to find interesting and useful. Advancements in our recommendation systems have improved quality so much that it has led to a 5% increase in time spent on Facebook and 6% on Instagram just this quarter.",
+      "Finally,we're seeing people continue to spend more time with our Quest ecosystem and the community continues to grow steadily.We launched the Meta Quest 3S Xbox Edition last month, and we're seeing record interest in cloud gaming. And beyond gaming, we continue to see a broader set of use cases with media and web-browsing contributing a significant portion of engagement.",
+      "We're going to have more to share on allof this,especially our Reality Labs work,at Connect on September 17th,so lencourage you to tune into that."
+    ],
+    "ai_initiatives": [
+      "To build this future,we've established Meta Superintelligence Labs,which includes our foundations,product,and FAIR teams,as wellas a new lab that is focused on developing the next generation of our models. We're making good progress towards Llama 4.1 and 4.2 --and in parallel, we're also working on our next generation of models that willpush the frontierin the next year or so.",
+      "I've spent a lot of time building this team this quarter,and the reason that so many people are excited to join is because Meta has allthe ingredients required to build leading models and deliver them to bilions of people. The people who are joining us are going to have access to unparalleled compute as we build out several multi-GW clusters. Our Prometheus clusteris coming online next year and we think it'llbe the world's first 1GW+ cluster.We're also building out Hyperion, which will be able to scale up to 5GW over several years.And we have multiple more titan clusters in development as well.",
+      "On advertising,the strong performance this quarter is largely thanks to Al unlocking greater efficiency and gains across our ads system.This quarter, we expanded our new Al-powered recommendation model for ads to new surfaces and improved its performance by using more signals and a longer context.It's driven roughly 5% more ad conversions on Instagram and 3% on Facebook.",
+      "The second opportunity is more engaging experiences. Al is significantly improving our ability to show people content that they're going to find interesting and useful. Advancements in our recommendation systems have improved quality so much that it has led to a 5% increase in time spent on Facebook and 6% on Instagram just this quarter.",
+      "On the first, daily actives continue to grow across Facebook,Instagram and WhatsApp as we make additional improvements to our recommendation systems and product experiences.",
+      "We continue to see momentum with video engagement in particular.In Q2,Instagram video time was up more than 2O% year-over-year globally.We're seeing strong traction on Facebook as well, particularly in the US where video time spent similarly expanded more than 2O% year-over-year. These gains have been enabled by ongoing optimizations to our ranking systems to better identify the most relevant content to show.",
+      "We expect to deliver additional improvements throughout the year as we further scale up our models and make recommendations more adaptive to aperson's interests within their session. Another emphasis of our recommendations work is promoting original content. On Instagram, over two-thirds of recommended content in the US now comes from original posts.In the second half, we'llbe focused on further increasing the freshness of original posts so the right audiences can discover original content from creators soon after it is posted.",
+      "We are also making good progress on our longer-term ranking innovations that we expect wil provide the next leg of improvements over the coming years. Our research efforts to develop cross-surface foundation recommendation models continue to progress. We are also seeing promising results from using LLMs in Threads recommendation systems.The incorporation of LLMs are now driving a meaningful share of the ranking-related time spent gains on Threads. We're now exploring how to extend the use of LLMs in recommendation systems to our other apps. We're leveraging Llama in several other back-end processes as well,including actioning bug reports so we can identify and resolve recurring issues more quickly and efficiently.This has resulted in top-line bug reports in the US& Canadain Facebook Feed and Notifications dropping by roughly 30% over the past 10 months.",
+      "The primary way we're using Llama in our apps today is to power Meta Al, which is now available in over 2OO countries and territories. WhatsApp continues to be the largest driver of queries as people message Meta Al directly for tasks such as information gathering, homework assistance, and generating images. Outside of WhatsApp,we're seeing Meta Al become an increasingly valuable complement to our content discovery engines. Meta Al usage on Facebook is expanding as people use it to ask about posts they see in Feed and find content across our platform in Search. Another way we expect Meta Al willhelp with content discovery is through the automatic translation and dubbing of foreign-language content into the audience's locallanguage.We'll have more to share on our efforts there later this year.",
+      "First is our ads systems, where we're innovating in both the ads retrieval and ranking stages to serve more relevant ads to people.A lot of this work involves us continuing to advance the modeling innovations we've introduced previously while expanding their adoption across our platform.",
+      "Our new Generative Ads Recommendation System,or GEM,powers the ranking stage of our ads system,which is the part of the process after ads retrieval where we determine which ads to show someone from candidates suggested by our retrieval engine.In Q2, we improved the performance of GEM by further scaling our training capacity and adding organic and ads engagement data on Instagram.We also incorporated new advanced sequence modeling techniques that helped us double the length of event sequences we use,enabling our systems to consider a longer history of the content or ads that a person has engaged with in order to provide better ad selections.The combination of these improvements increased ad conversions by approximately 5% on Instagram and 3% on Facebook Feed and Reels in Q2.",
+      "Finally,we expanded coverage of our Lattice model architecture in Q2.We first began deploying Lattice in 2O23 with our later stage ads ranking efforts,alowing us to run significantly larger models that generalize learnings across objectives and surfaces in place of numerous,smallr ads models that have historically been optimized for individual objectives and surfaces.In April, we began deploying Lattice to earlier stage ads ranking models as well.This is leading not only to greater capacity and engineering efficiency,but also improved performance,with the recent Lattice deployments driving a nearly 4% increase in ad conversions across Facebook Feed and Reels in Q2."
+    ],
+    "product_updates": [
+      "On advertising,the strong performance this quarter is largely thanks to Al unlocking greater efficiency and gains across our ads system.This quarter, we expanded our new Al-powered recommendation model for ads to new surfaces and improved its performance by using more signals and a longer context.It's driven roughly 5% more ad conversions on Instagram and 3% on Facebook.",
+      "The second opportunity is more engaging experiences. Al is significantly improving our ability to show people content that they're going to find interesting and useful. Advancements in our recommendation systems have improved quality so much that it has led to a 5% increase in time spent on Facebook and 6% on Instagram just this quarter.",
+      "The third opportunityis business messaging.l've talked before about how Ibelieve every business will soon have a business Al just like they have an email address,social media account,and website.We're starting to see some product market fit in a number of countries where we're testing these agents,and we're integrating these business Als into ads on Facebook and Instagram, as wellas directly into e-commerce websites.",
+      "The fifth opportunity is Al devices.We continue to see strong momentum with our Ray-Ban Meta glasses, with sales accelerating.We're also launching new performance Al glasses with the Oakley Meta HSTNs.They have longer battery life, higher resolution camera,and are designed for sports. The percent of people using Meta Alis growing and we're seeing new users' Al retention increase too,which is a good sign for that continued use.I think Al glasses willbecome the main way we integrate superinteligence into our day-to-daylives,so it's important to have allthese different styles that appeal to different people in different settings.",
+      "Finally,we're seeing people continue to spend more time with our Quest ecosystem and the community continues to grow steadily.We launched the Meta Quest 3S Xbox Edition last month, and we're seeing record interest in cloud gaming. And beyond gaming, we continue to see a broader set of use cases with media and web-browsing contributing a significant portion of engagement.",
+      "In Q2,the total number of ad impressions served across our services increased 11%,with growth mainly driven by Asia-Pacific.Impresson growth accelerated across all regions due primarily to engagement tailwinds on both Facebook and Instagram and,to a lesser extent,ad load optimizations on Facebook.The average price per ad increased 9%,benefiting from increased advertiser demand,largely driven by improved ad performance.Pricing growth slowed modestly from the first quarter due to the accelerated impression growth in Q2.",
+      "Family of Apps other revenue was \\$583 milion,up 5O%,driven by WhatsApp paid messaging revenue growth as well as Meta Verified subscriptions.",
+      "Within our Reality Labs segment,Q2 revenue was \\$370 million, up 5% year-over-year due to increased sales of Al glasses, partially offset by lower Quest sales.",
+      "On the first, daily actives continue to grow across Facebook,Instagram and WhatsApp as we make additional improvements to our recommendation systems and product experiences.",
+      "We continue to see momentum with video engagement in particular.In Q2,Instagram video time was up more than 2O% year-over-year globally.We're seeing strong traction on Facebook as well, particularly in the US where video time spent similarly expanded more than 2O% year-over-year. These gains have been enabled by ongoing optimizations to our ranking systems to better identify the most relevant content to show.",
+      "We expect to deliver additional improvements throughout the year as we further scale up our models and make recommendations more adaptive to aperson's interests within their session. Another emphasis of our recommendations work is promoting original content. On Instagram, over two-thirds of recommended content in the US now comes from original posts.In the second half, we'llbe focused on further increasing the freshness of original posts so the right audiences can discover original content from creators soon after it is posted.",
+      "We are also making good progress on our longer-term ranking innovations that we expect wil provide the next leg of improvements over the coming years. Our research efforts to develop cross-surface foundation recommendation models continue to progress. We are also seeing promising results from using LLMs in Threads recommendation systems.The incorporation of LLMs are now driving a meaningful share of the ranking-related time spent gains on Threads. We're now exploring how to extend the use of LLMs in recommendation systems to our other apps. We're leveraging Llama in several other back-end processes as well,including actioning bug reports so we can identify and resolve recurring issues more quickly and efficiently.This has resulted in top-line bug reports in the US& Canadain Facebook Feed and Notifications dropping by roughly 30% over the past 10 months.",
+      "The primary way we're using Llama in our apps today is to power Meta Al, which is now available in over 2OO countries and territories. WhatsApp continues to be the largest driver of queries as people message Meta Al directly for tasks such as information gathering, homework assistance, and generating images. Outside of WhatsApp,we're seeing Meta Al become an increasingly valuable complement to our content discovery engines. Meta Al usage on Facebook is expanding as people use it to ask about posts they see in Feed and find content across our platform in Search. Another way we expect Meta Al willhelp with content discovery is through the automatic translation and dubbing of foreign-language content into the audience's locallanguage.We'll have more to share on our efforts there later this year.",
+      "Moving to Reality Labs.The growth of Ray-Ban Meta sales accelerated in Q2, with demand stil outstripping supply for the most popular SKUs despite increases to our production earlier this year. We're working to ramp supply to better meet consumer demand later this year.",
+      "We continue to optimize ad supply across each surface to better deliver ads at the time and place they are most relevant to people.In Q2,we also began introducing ads within Feed on Threads and the Updates tab on WhatsApp, which is a separate space away from people's chats.",
+      "As of May,advertisers globally can now run video and image ads to Threads users in most countries,including the United States.While ad supply remains low and Threads is not expected to be a meaningful contributor to overallimpresson growth in the near-term,we are optimistic about the longer-term opportunity with Threads as the community and engagement grow and monetization scales.",
+      "On WhatsApp,we are rolling out ads in Status and Channels,along with Channel Subscriptions in the Updates tab to help businesses reach the more than 1.5 bilion daily actives who visit that part of the app.We expect the introduction of ads in Status willbe gradual over the course of this year and next, with low levels of expected ad supply initially.We also expect WhatsApp ads in Status to earn a lower average price than Facebook or Instagram ads for the foreseeable future,due in part to WhatsApp's skew toward lower monetizing markets and morelimited information that can be used for targeting. Given this, we do not expect ads in Status to be a meaningful contributor to total impressions or revenue growth for the next few years.",
+      "The Andromeda model architecture we began introducing in the second half of 2024 powers the ads retrieval stage of our ads system, where we select the few thousand most relevant ads from tens of milions of potential candidates.In Q2,we made enhancements to Andromeda that enabled it to select more relevant and more personalized ads candidates,while also expanding coverage to Facebook Reels. These improvements have driven nearly 4% higher conversions on Facebook mobile Feed and Reels.",
+      "Our new Generative Ads Recommendation System,or GEM,powers the ranking stage of our ads system,which is the part of the process after ads retrieval where we determine which ads to show someone from candidates suggested by our retrieval engine.In Q2, we improved the performance of GEM by further scaling our training capacity and adding organic and ads engagement data on Instagram.We also incorporated new advanced sequence modeling techniques that helped us double the length of event sequences we use,enabling our systems to consider a longer history of the content or ads that a person has engaged with in order to provide better ad selections.The combination of these improvements increased ad conversions by approximately 5% on Instagram and 3% on Facebook Feed and Reels in Q2.",
+      "Finally,we expanded coverage of our Lattice model architecture in Q2.We first began deploying Lattice in 2O23 with our later stage ads ranking efforts,alowing us to run significantly larger models that generalize learnings across objectives and surfaces in place of numerous,smallr ads models that have historically been optimized for individual objectives and surfaces.In April, we began deploying Lattice to earlier stage ads ranking models as well.This is leading not only to greater capacity and engineering efficiency,but also improved performance,with the recent Lattice deployments driving a nearly 4% increase in ad conversions across Facebook Feed and Reels in Q2."
+    ],
+    "risks_and_challenges": [
+      "G&A decreased 27%, driven mostly by lower legal-related costs.",
+      "We continue to directthe majority of our investments toward the development and operation of our Family of Apps.In Q2,Family of Apps expenses were \\$22.2 billion,representing 82% of our overallexpenses. Family of Apps expenses were up 14%, mainly due to growth in employee compensation and infrastructure costs,partially offset by lower legal-related costs.",
+      "Reality Labs operating loss was \\$4.5 billion.",
+      "In addition, we continue to monitor an active regulatory landscape,including the increasing legal and regulatory headwinds in the EU that could significantly impact our business and our financial results.For example,we continue to engage with the European Commission on our Less Personalized Ads offering,or LPA,which we introduced in November 2O24 based on feedback from the European Commission in connection with the DMA.As the Commission provides further feedback on LPA, we cannot rule out that it may seek to impose further modifications to it that would result in a materially worse user and advertiser experience.This could have a significant negative impact on our European revenue,as early as later this quarter.We have appealed the European Commission's DMA decision but any modifications to our model may be imposed during the appeal process."
+    ]
+  },
+  "chart_data": {
+    "total_charts_processed": 0,
+    "categorized_charts": {},
+    "chart_details": {}
+  },
+  "tables_extracted": [],
+  "data_sources": {
+    "sections_found": [
+      "highlights",
+      "ceo_remarks",
+      "cfo_remarks"
+    ],
+    "chart_categories": []
   }
 }

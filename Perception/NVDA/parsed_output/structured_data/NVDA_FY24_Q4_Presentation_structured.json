@@ -1,13 +1,262 @@
 {
-  "pdf_name": "NVDA_FY24_Q4_Presentation",
-  "source_file": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/NVDA_FY24_Q4_Presentation.md",
-  "text_content": "# Investor Presentation Q4 FY24 ,0 February 26,2024\n\ni g e ti\n\nof our products or technologies when integrated into systems and other factors.\n\ni future results i are posted on our website and are available from NVIDlA without charge\n\nMany of the products and features described herein remair d not be interpreted as a commitment, promise, or legal obligation,and the development release,and timing of any features functionalitiesdescr ibed subject to change and remains at the sole discretion of NVIDIA. NVIDIA will have no dela eprodu eatu or\n\nper share,and free cash flow. NVIDlA believes the presentation of its non-GAAP financial measures el hhances investors' overallunderstanding of the company's historical financial performance.The presentation e financialmeasurestothemostcomparableGmeasure,abfoundintslidetitedRecoiliaioofnGAAtoGAPaalesures\n\n#\n\n# Content\n\nQ4 FY24 Earnings Summary\n\nKey Announcements This Quarter\n\nReconciliation of Non-GAAP to GAAP Financial Measures\n\n# Q4 FY24 Earnings Summary\n\n# Highlights\n\n# Record quarter driven by strong Data Center growth\n\nTotal revenue up 265% Y/Y to \\$22.10B, well above outlook of \\$20.00B +/- 2%   \nData Center up 409% Y/Y to \\$18.40B   \nGaming up 56% Y/Y to \\$2.87B\n\n# Record Data Centerrevenue driven by NVIDIA Hopper GPU computing platformand InfiniBand networking\n\n·GrowthwasdrivenbybothtrainingandinferenceofgenAlandLMsacrossabroadsetof industries,usecasesandregions Inferencewasestimatedtobe\\~40%ofDataCenterrevenuesinF24;versatility/performanceofourplatformenableshighROlformany use cases GenerativeAlhaskickedoffawholenewinvestmentcletobuildthenextillondollasof ifrastructureofAlgenerationfactories\n\n# Gaming growth reflects solid consumer demand for GeForce RTX GPUs during the holidays\n\nGeForce RTX 40 SUPER Series GPUs sales off to a great start IntroducednewwaveofRTX40SeriesAlaptops,bringinghigh-performancegamingandAlcapabiliestowiderangeofformfactors NVIDIAfuelingthenext waveofgenerativeAlapplicationscoming toPCs,with1OOM+Al-readyRTXPCsintheinstalled base\n\n# Q4 FY24 Financial Summary\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/d18ff78540ccd1b1c1b206bb2728c2c96425b732e6de90dcd31263361773d743.jpg)\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/0788259aefd6ae41461613c2f7d658a72255aff32f2b4c2f9a530cf6c0fc713e.jpg)\nAll dollar figuresareinmillionsother than EPS.Refer toAppendixforreconciliationof Non-GAAPmeasures.\n\n# DataCenter\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/1925e565e2d0da7b49f5aa69e6433118cda47e49ceae571424588e8367c6f7f5.jpg)  \nRevenue (\\$M)\n\n# Highlights\n\nCompute revenue grew more than 5X y/y; Networking 3X y/y   \nSupply of Hopper architecture products is improving; demand   \nremains very strong   \nExpect next-generation products to be supply-constrained as   \ndemand far exceeds supply   \nData Center revenue contribution from Auto vertical exceeded   \n\\$1B last year; Healthcare, Financial Services also seeing significant   \nAl adoption   \nSoftware/services reached an annualized revenue run rate of \\$1B   \nOn track to ship Spectrum-X end-to-end ethernet offering in Q1   \nOn track to ramp H200, initial shipments in Q2; demand is strong\n\n# Gaming\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/bb52020c528eefbb668e10f5313ae6bb6c671a6b97835b7c2a7cf4bf2f5b0fe7.jpg)  \nRevenue (\\$M)\n\n# Highlights\n\nQ4 Gaming revenue above outlook on solid consumer demand for GeForce RTX GPUs during the holidays\n\nGeForce RTX 40 SUPER Series GPUs sales off to a great start\n\nNVIDIA offers an end-to-end platform for building and deploying generative Al applications for RTX PCs and workstations\n\nNVIDIA Avatar Cloud Engine microservices-which allow developers to integrate state-of-the-art generative Al models into digital avatars - won several “Best of CES 2024\" awards\n\n# Professional Visualization\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q4_Presentation/images/8082b5ce0e7cb72d92a1fb374b39559d0ecb814d54cce1b1e1f60c224d7772a8.jpg)  \nRevenue (\\$M)\n\n# Highlights\n\nSequential growth driven by a richer mix as RTX Ada architecture GPUs continue to ramp\n\nEnterprises refreshing workstations to support generative Alrelated workloads, such as data preparation, LLM fine tuning and retrieval augmented generation\n\nKey industry verticals driving demand include manufacturing, automotive, and robotics\n\nAutomotive industry an early adopter of NVIDIA Omniverse\n\nCreative partners and developers -including Brickland,WPP and ZeroLight -are building Omniverse-powered car configurators; Lotus adopting the technology\n\n# Automotive\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Percepti",
-  "tables": [],
-  "charts": [],
   "metadata": {
-    "total_images": 18,
-    "total_charts": 0,
-    "total_tables": 0,
-    "markdown_length": 14559
+    "company": "NVIDIA",
+    "ticker": "NVDA",
+    "pdf_name": "NVDA_FY24_Q4_Presentation",
+    "fiscal_year": 2024,
+    "quarter": "Q4",
+    "period_end": "2024-01-31",
+    "calendar_year": 2023,
+    "report_type": "Investor Presentation",
+    "extraction_timestamp": "2026-05-10T20:39:21.704926",
+    "data_completeness": {
+      "text_sections_found": 8,
+      "charts_processed": 0,
+      "md_tables_found": 0,
+      "highlights_extracted": 26,
+      "metrics_extracted": 8
+    }
+  },
+  "highlights": {
+    "bullet_points": [
+      "Total revenue up 265% Y/Y to \\$22.10B, well above outlook of \\$20.00B +/- 2%",
+      "Data Center up 409% Y/Y to \\$18.40B",
+      "Gaming up 56% Y/Y to \\$2.87B",
+      "·GrowthwasdrivenbybothtrainingandinferenceofgenAlandLMsacrossabroadsetof industries,usecasesandregions Inferencewasestimatedtobe\\~40%ofDataCenterrevenuesinF24;versatility/performanceofourplatformenableshighROlformany use cases GenerativeAlhaskickedoffawholenewinvestmentcletobuildthenextillondollasof ifrastructureofAlgenerationfactories",
+      "GeForce RTX 40 SUPER Series GPUs sales off to a great start IntroducednewwaveofRTX40SeriesAlaptops,bringinghigh-performancegamingandAlcapabiliestowiderangeofformfactors NVIDIAfuelingthenext waveofgenerativeAlapplicationscoming toPCs,with1OOM+Al-readyRTXPCsintheinstalled base",
+      "Compute revenue grew more than 5X y/y; Networking 3X y/y",
+      "Software/services reached an annualized revenue run rate of \\$1B",
+      "On track to ship Spectrum-X end-to-end ethernet offering in Q1",
+      "On track to ramp H200, initial shipments in Q2; demand is strong",
+      "Q4 Gaming revenue above outlook on solid consumer demand for GeForce RTX GPUs during the holidays",
+      "GeForce RTX 40 SUPER Series GPUs sales off to a great start",
+      "Full year fiscal revenues crossed \\$1B mark for the first time NVIDIA DRIVE Orin is the Al car computer of choice for",
+      "Y/Y and Q/Q growth reflect higher revenue Utilized cash of \\$2.8 billion towards shareholder returns,including \\$2.7 billion in share repurchases and \\$99 million in cash dividends Invested \\$282M in capex (includes principal payments on PP&E) Ended the quarter with \\$26.0B in gross cash and \\$9.8B in debt; \\$16.2B in net cash",
+      "NVIDIA and AWS will collaborate to host NVIDIA DGX Cloud on AWS . DGX Cloud on AWS will accelerate training of cutting-edge gen Al and LLMs that can reach beyond 1 trillion parameters AWS will introduce three additional new Amazon EC2 instances, based on the NVIDlA H20O, L4 and L40S GPUs",
+      "# NVIDIA Brings Generative Al to Installed Base of over 10o Million Al-Ready RTX PCs and Workstations",
+      "NVIDIA ACE (Avatar Cloud Engine) to enable developers to add intelligent, dynamic digital avatars to games NVIDIA Al Workbench for streamlined access to popular repositories like Hugging Face, GitHub and NVIDiA NGC TensorRT-LLM for Windows, an open-source library for accelerating LLMs up to 5X on RTX PCs",
+      "# New GeForce RTX 4O SUPER Series Desktop GPUs and New Wave of GeForce and Studio Laptops - All Al-Ready",
+      "Announced GeForce RTX 4O SUPER Series GPUs, the latest iteration of our Ada Lovelace architecture",
+      "Up to 836 Al TOPS delivering transformative capabilities for Al in gaming, creating and everyday productivity Rich software stack on top of RTX GPUs further accelerates Al",
+      "With DLSS,7 out of 8 pixels can be Al-generated,accelerating full ray tracing by up to 4x with better image quality",
+      "3 new desktop GPUs now available",
+      "GeForce RTX 4080 SUPER - 1.4x faster than RTX 3080 Ti, and 2x faster with DLSS; priced at \\$999 GeForce RTX 407O Ti SUPER - 1.6x faster than RTX 3070 Ti, and 2.5x faster with DLSS; priced at \\$799 GeForce RTX 4070 SUPER - Faster than RTX 3090 at fraction of the power, and 1.5x faster with DLSS; priced at \\$599",
+      "Announced new GeForce RTX 4O Series laptops for the best gaming and Al experiences,and new NVIDlA Studio laptops and desktops for the best creative and Al experiences",
+      "GWM (Great Wall Motor), among China's leading new energy vehicle makers, has announced its upcoming EVs will integrate DRiVE Orin for intelligent assisted-driving; first model with the system debuts in 1H 2024",
+      "ZEEKR, the premium EV subsidiary of Geely, has launched the ZEEkR Luxury Sedan, its 4th model powered by DRIVE Orin",
+      "Xiaomi EV, the auto arm of Xiaomi, has announced its first EV, the SU7 sedan, built on a dual DRIVE Orin configuration; SU7 will be launched in 1H 2024"
+    ],
+    "key_metrics_mentioned": [
+      {
+        "metric_name": "total_revenue",
+        "value": 22.1,
+        "unit": "B",
+        "context": "Total revenue up 265% Y/Y to \\$22.10B, well above outlook of \\$20.00B +/- 2%"
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 265.0,
+        "unit": "",
+        "context": "Total revenue up 265% Y/Y to \\$22.10B, well above outlook of \\$20.00B +/- 2%"
+      },
+      {
+        "metric_name": "data_center_revenue",
+        "value": 18.4,
+        "unit": "B",
+        "context": "Data Center up 409% Y/Y to \\$18.40B"
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 409.0,
+        "unit": "",
+        "context": "Data Center up 409% Y/Y to \\$18.40B"
+      },
+      {
+        "metric_name": "gaming_revenue",
+        "value": 2.87,
+        "unit": "B",
+        "context": "Gaming up 56% Y/Y to \\$2.87B"
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 56.0,
+        "unit": "",
+        "context": "Gaming up 56% Y/Y to \\$2.87B"
+      },
+      {
+        "metric_name": "share_repurchases",
+        "value": 2.8,
+        "unit": "b",
+        "context": "Y/Y and Q/Q growth reflect higher revenue Utilized cash of \\$2.8 billion towards shareholder returns,including \\$2.7 billion in share repurchases and \\$99 million in cash dividends Invested \\$282M in "
+      },
+      {
+        "metric_name": "cash_position",
+        "value": 2.8,
+        "unit": "b",
+        "context": "Y/Y and Q/Q growth reflect higher revenue Utilized cash of \\$2.8 billion towards shareholder returns,including \\$2.7 billion in share repurchases and \\$99 million in cash dividends Invested \\$282M in "
+      }
+    ]
+  },
+  "financial": {
+    "revenue": {
+      "total": null,
+      "data_center": {
+        "value": 22100.0,
+        "unit": "$M"
+      },
+      "gaming": {
+        "value": 2870.0,
+        "unit": "$M"
+      },
+      "professional_visualization": null,
+      "automotive": null,
+      "yoy_growth_pct": 265.0,
+      "sequential_growth_pct": null
+    },
+    "profitability": {
+      "gross_margin_gaap_pct": null,
+      "gross_margin_non_gaap_pct": null,
+      "operating_income_gaap": null,
+      "operating_income_non_gaap": null,
+      "operating_margin_pct": null,
+      "net_income_gaap": null,
+      "net_income_non_gaap": null
+    },
+    "per_share": {
+      "eps_gaap_diluted": null,
+      "eps_non_gaap_diluted": null
+    },
+    "cash_flow": {
+      "operating_cash_flow": null,
+      "free_cash_flow": null,
+      "capital_expenditure": {
+        "value": 26000.0,
+        "unit": "$M"
+      },
+      "share_repurchases": {
+        "value": 2700.0,
+        "unit": "$M"
+      },
+      "dividends": {
+        "value": 99.0,
+        "unit": "$M"
+      }
+    },
+    "balance_sheet": {
+      "cash_and_marketable_securities": null,
+      "inventory": null,
+      "accounts_receivable": null,
+      "total_debt": {
+        "value": 9800.0,
+        "unit": "$M"
+      },
+      "net_cash": {
+        "value": 16200.0,
+        "unit": "$M"
+      },
+      "dso_days": null,
+      "dsi_days": null
+    }
+  },
+  "segments": {
+    "data_center": {
+      "revenue": null,
+      "yoy_growth_pct": 409.0,
+      "sequential_growth_pct": null,
+      "compute_revenue": null,
+      "networking_revenue": null,
+      "key_drivers": [
+        "Total revenue up 265% Y/Y to \\$22.10B, well above outlook of \\$20.00B +/- 2%",
+        "Data Center up 409% Y/Y to \\$18.40B",
+        "Gaming up 56% Y/Y to \\$2.87B",
+        "GrowthwasdrivenbybothtrainingandinferenceofgenAlandLMsacrossabroadsetof industries,usecasesandregions Inferencewasestimatedtobe\\~40%ofDataCenterrevenuesinF24;versatility/performanceofourplatformenableshighROlformany use cases GenerativeAlhaskickedoffawholenewinvestmentcletobuildthenextillondollasof ifrastructureofAlgenerationfactories"
+      ],
+      "customer_mix": {}
+    },
+    "gaming": {
+      "revenue": null,
+      "yoy_growth_pct": 56.0,
+      "sequential_growth_pct": null,
+      "key_drivers": [
+        "GeForce RTX 40 SUPER Series GPUs sales off to a great start IntroducednewwaveofRTX40SeriesAlaptops,bringinghigh-performancegamingandAlcapabiliestowiderangeofformfactors NVIDIAfuelingthenext waveofgenerativeAlapplicationscoming toPCs,with1OOM+Al-readyRTXPCsintheinstalled base"
+      ]
+    },
+    "professional_visualization": {
+      "revenue": null,
+      "yoy_growth_pct": null,
+      "sequential_growth_pct": null,
+      "key_drivers": []
+    },
+    "automotive": {
+      "revenue": null,
+      "yoy_growth_pct": null,
+      "sequential_growth_pct": null,
+      "key_drivers": []
+    }
+  },
+  "guidance": {
+    "next_quarter_revenue": null,
+    "next_quarter_revenue_range_pct": null,
+    "gross_margin_gaap_pct": null,
+    "gross_margin_non_gaap_pct": null,
+    "opex_gaap": null,
+    "opex_non_gaap": null,
+    "tax_rate_pct": null,
+    "raw_text": "outlook of \\$20.00B +/- 2%   \nData Center up 409% Y/Y to \\$18.40B   \nGaming up 56% Y/Y to \\$2.87B\n\n"
+  },
+  "qualitative": {
+    "key_announcements": [],
+    "technology_highlights": [
+      "# Record quarter driven by strong Data Center growth",
+      "# Record Data Centerrevenue driven by NVIDIA Hopper GPU computing platformand InfiniBand networking",
+      "·GrowthwasdrivenbybothtrainingandinferenceofgenAlandLMsacrossabroadsetof industries,usecasesandregions Inferencewasestimatedtobe\\~40%ofDataCenterrevenuesinF24;versatility/performanceofourplatformenableshighROlformany use cases GenerativeAlhaskickedoffawholenewinvestmentcletobuildthenextillondollasof ifrastructureofAlgenerationfactories",
+      "Supply of Hopper architecture products is improving; demand",
+      "On track to ship Spectrum-X end-to-end ethernet offering in Q1",
+      "On track to ramp H200, initial shipments in Q2; demand is strong",
+      "Sequential growth driven by a richer mix as RTX Ada architecture GPUs continue to ramp",
+      "Automotive industry an early adopter of NVIDIA Omniverse",
+      "Creative partners and developers -including Brickland,WPP and ZeroLight -are building Omniverse-powered car configurators; Lotus adopting the technology",
+      "Full year fiscal revenues crossed \\$1B mark for the first time NVIDIA DRIVE Orin is the Al car computer of choice for",
+      "Orin's successor, NVIDlA DRIVE Thor, to be available next year Li Auto, Great Wall Motor, ZEEKR,and Xiaomi EV announced new vehicles built on NVIDIA",
+      "NVIDIA and AWS will collaborate to host NVIDIA DGX Cloud on AWS . DGX Cloud on AWS will accelerate training of cutting-edge gen Al and LLMs that can reach beyond 1 trillion parameters AWS will introduce three additional new Amazon EC2 instances, based on the NVIDlA H20O, L4 and L40S GPUs",
+      "NeMo LLM NeMo Retriever BioNeMo Al Enterprise DGX Cloud Omniverse RAPIDS cuQuantum Isaac Sim",
+      "Accelerating this shift is NVIDlA BioNeMo, a generative Al platform that provides services to develop, customize and deploy foundation models for drug discovery",
+      "Recursion is the first hosting partner offering an Al model through BioNeMo cloud APls,available in beta this month",
+      "Amgen will build Al models trained to analyze one of the world's largest human datasets on an NVIDlA DGX SuperPOD,enabling researchers to more efficiently analyze and learn from genome data to rapidly uncover novel health and therapeutics insights",
+      "NVIDIA GPUs in the cloud to run the largest language models . RTX Tensor Cores on PC to run privacy, latency and costsensitive applications",
+      "NVIDIA ACE (Avatar Cloud Engine) to enable developers to add intelligent, dynamic digital avatars to games NVIDIA Al Workbench for streamlined access to popular repositories like Hugging Face, GitHub and NVIDiA NGC TensorRT-LLM for Windows, an open-source library for accelerating LLMs up to 5X on RTX PCs",
+      "# More EV Makers Choose NVIDIA DRIVEfor Automated Driving",
+      "：Li Auto,a pioneer in extended-range EVs, has selected NVIDIA DRIVE Thor to power its next-generation fleets"
+    ],
+    "risks_and_challenges": [],
+    "product_launches": [
+      "GeForce RTX 40 SUPER Series GPUs sales off to a great start IntroducednewwaveofRTX40SeriesAlaptops,bringinghigh-performancegamingandAlcapabiliestowiderangeofformfactors NVIDIAfuelingthenext waveofgenerativeAlapplicationscoming toPCs,with1OOM+Al-readyRTXPCsintheinstalled base",
+      "Orin's successor, NVIDlA DRIVE Thor, to be available next year Li Auto, Great Wall Motor, ZEEKR,and Xiaomi EV announced new vehicles built on NVIDIA",
+      "Announced GeForce RTX 4O SUPER Series GPUs, the latest iteration of our Ada Lovelace architecture",
+      "Announced new GeForce RTX 4O Series laptops for the best gaming and Al experiences,and new NVIDlA Studio laptops and desktops for the best creative and Al experiences",
+      "GWM (Great Wall Motor), among China's leading new energy vehicle makers, has announced its upcoming EVs will integrate DRiVE Orin for intelligent assisted-driving; first model with the system debuts in 1H 2024",
+      "ZEEKR, the premium EV subsidiary of Geely, has launched the ZEEkR Luxury Sedan, its 4th model powered by DRIVE Orin",
+      "Xiaomi EV, the auto arm of Xiaomi, has announced its first EV, the SU7 sedan, built on a dual DRIVE Orin configuration; SU7 will be launched in 1H 2024",
+      "Equinix, the world's digital infrastructure company, announced a fully managed private cloud service that enables enterprises to easily acquire and manage their own NVIDIA DGX Al infrastructure for building and running custom gen Al models"
+    ]
+  },
+  "chart_data": {
+    "total_charts_processed": 0,
+    "categorized_charts": {},
+    "chart_details": {}
+  },
+  "tables_extracted": [],
+  "data_sources": {
+    "sections_found": [
+      "highlights",
+      "_unclassified",
+      "data_center",
+      "gaming",
+      "professional_visualization",
+      "automotive",
+      "cash_flow",
+      "reconciliation"
+    ],
+    "chart_categories": []
   }
 }

@@ -1,13 +1,327 @@
 {
-  "pdf_name": "NVDA_FY24_Q3_Presentation",
-  "source_file": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q3_Presentation/NVDA_FY24_Q3_Presentation.md",
-  "text_content": "# Investor Presentation Q3FY24 ,0 November 27,2023\n\nC Moore's law ends and Al lifts off; accelerated computing being ne ededtotacklethemostimpactfulopportunitiesofourtime;Aldrivingaplatformshiftfromgeneralpurposetoaceleratedcomputingand e\n\nii of our products or technologies when integrated into systems and other factors.\n\ni e e are posted on our website and are available from NVIDIA without charge.\n\nMany of the products and feature should not be interpreted as a commitment, promise,or legal obligation,and the development release,and timing features sdescr our products is subject to change and remains at the sole discretion of NVIDIA.NVIDIA will have no liability for failure to deliver thede\n\ne #\n\n# Content\n\nQ3 FY24 Earnings Summary\n\nKey Announcements This Quarter\n\nNVIDIA Overview\n\nFinancials\n\nReconciliation of Non-GAAP to GAAP Financial Measures\n\n# Q3 FY24 Earnings Summary\n\n# Highlights\n\n# Record quarter driven by strong Data Center growth\n\nTotal revenue up 206% Y/Y to \\$18.12B, well above outlook of \\$16.00B +/- 2%   \nData Center up 279% Y/Y to \\$14.51B   \nGaming up 81% Y/Y to \\$2.86B\n\n# Record Data Center revenue driven by continued ramp of NVIDIA HGX platformand InfiniBand networking\n\nConsumer internet and enterprise companies drove exceptional sequential growth,outpacing total growth Strong demand fromallhyperscale cloud service providers (CSPs),anda broadening set of GPU-specialized CSPs Inference is contributing significantly to NVIDlA Data Center demand as Al is now in ful production\n\n# Gaming growth reflects strong demand for GeForce RTX 40 series GPUs for back-to-school and the holidays\n\nGeForceRTXavailableatpricepointsaslowas\\$299-enteringtheholidays withbest-everline-upforgamersandcreators Gaming has doubled relative to pre-COVID levels even against the backdrop of lackluster PC market performance GenAlemergingasnew“kilerapp\"forhigh-performance PCs一NVIDIARTXis thenatural platformforAl-applicationdevelopers\n\n# Q3FY24 Financial Summary\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q3_Presentation/images/c13776c1c9c644dde975989f19e81e364c154e5655606f11fb66da259385a079.jpg)\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q3_Presentation/images/ba37aafde663157aa33b9e872c88f338da20403e462563b2e34e59a9b38d8f9d.jpg)\nAll dollar figuresareinmillionsother than EPS.Refer toAppendixforreconciliationof Non-GAAPmeasures.\n\n# DataCenter\n\n# Highlights\n\nData Center compute revenue quadrupled from last year, Networking revenue nearly tripled\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q3_Presentation/images/6ec57f8edfeadf14df21db475d72056eb905f2ed626b751fe9f5e4d0dfbb26f8.jpg)  \nRevenue (\\$M)\n\nStrong, broad-based demand for NVIDIA accelerated computing fueled by investment in the buildout of infrastructure for LLMs, recommendation engines, and gen Al applications\n\nNetworking business now exceeds a \\$10 billion annualized revenue run rate\n\nNVIDIA H1OO Tensor Core GPU instances are now generally available in virtually every cloud, and are in high demand\n\nVast majority of revenue driven by NVIDlA Hopper HGX, with a lower contribution from the prior-gen Ampere GPU architecture\n\nNew L40S GPU began to ship; first revenue quarter for GH200\n\nOn track to exit the year at an annualized revenue run rate of \\$1 billion for our recurring software,support,and services offerings\n\n# Gaming\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q3_Presentation/images/e0f3a97391520ab5cd1bc29a607a570ba33325fa03dc53f8dc29181f75a2cad0.jpg)  \nRevenue (\\$M)\n\n# Highlights\n\nStrong demand in the important back-to-school shopping season   \nThe RTX ecosystem continues to grow; there are now over 475   \nRTX enabled games and applications   \nReleased TensorRT-LLM for Windows, which speeds on-device   \nLLM inference by up to 4X   \nGeForce NOW surpassed 1,7OO PC titles including Alan Wake Il,   \nBaldur's Gate 3, Cyberpunk 2O77: Phantom Liberty,and Starfield\n\n# Professional Visualization\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q3_Presentation/images/7167f5c5de37221636d9b2c2b696df6ae4c43047487eadcd6f868f5fe9694f10.jpg)  \nRevenue (\\$M)\n\n# Highlights\n\nAl emerging as a powerful demand driver, including inference for Al imaging in healthcare, edge Al in smart spaces and the public sector   \n. Launched a new line of desktop workstations based on NVIDIA RTX Ada Lovelace generation GPUs and ConnectX SmartNICs Mercedes-Benz is using Omniverse-powered digital twins to plan, design, build and operate its manufacturing and assembly facilities   \n. Foxconn willincorporate Omniverse into its manufacturing process Announced two new Omniverse Cloud services on Microsoft Azure - for virtual factory simulation and autonomous vehicle simulation\n\n#",
-  "tables": [],
-  "charts": [],
   "metadata": {
-    "total_images": 87,
-    "total_charts": 0,
-    "total_tables": 0,
-    "markdown_length": 50026
+    "company": "NVIDIA",
+    "ticker": "NVDA",
+    "pdf_name": "NVDA_FY24_Q3_Presentation",
+    "fiscal_year": 2024,
+    "quarter": "Q3",
+    "period_end": "2023-10-31",
+    "calendar_year": 2023,
+    "report_type": "Investor Presentation",
+    "extraction_timestamp": "2026-05-10T20:39:21.674213",
+    "data_completeness": {
+      "text_sections_found": 10,
+      "charts_processed": 0,
+      "md_tables_found": 0,
+      "highlights_extracted": 65,
+      "metrics_extracted": 8
+    }
+  },
+  "highlights": {
+    "bullet_points": [
+      "Total revenue up 206% Y/Y to \\$18.12B, well above outlook of \\$16.00B +/- 2%",
+      "Data Center up 279% Y/Y to \\$14.51B",
+      "Gaming up 81% Y/Y to \\$2.86B",
+      "# Gaming growth reflects strong demand for GeForce RTX 40 series GPUs for back-to-school and the holidays",
+      "GeForceRTXavailableatpricepointsaslowas\\$299-enteringtheholidays withbest-everline-upforgamersandcreators Gaming has doubled relative to pre-COVID levels even against the backdrop of lackluster PC market performance GenAlemergingasnew“kilerapp\"forhigh-performance PCs一NVIDIARTXis thenatural platformforAl-applicationdevelopers",
+      "Networking business now exceeds a \\$10 billion annualized revenue run rate",
+      "NVIDIA H1OO Tensor Core GPU instances are now generally available in virtually every cloud, and are in high demand",
+      "New L40S GPU began to ship; first revenue quarter for GH200",
+      "On track to exit the year at an annualized revenue run rate of \\$1 billion for our recurring software,support,and services offerings",
+      "LLM inference by up to 4X",
+      "Utilized cash of \\$3.9 billion towards shareholder returns,including \\$3.8 billion in share repurchases and \\$99 million in cash dividends Invested \\$291M in capex (includes principal payments on PP&E) Ended the quarter with \\$18.3B in gross cash and \\$9.8B in debt; \\$8.5B in net cash",
+      "TensorRT-LLM on H100 GPUs provides up to an 8X performance speedup compared to prior generation A100 GPUs running GPT-J 6B without the software",
+      "With TensorRT-LLM for Windows, LLMs and generative Al applications can run up to 4x faster locally on PCs and Workstations powered by NVIDlA GeForce RTX and NVIDIA RTX GPUs",
+      "8X Increase in GPT-J6B Inference Performance",
+      "4.6X Higher Llama2 Inference Performance",
+      "Foxconn Smart EV willbe built on NVIDIA DRIVE Hyperion 9, next-gen platform for autonomous automotive fleets, powered by NVIDlA DRIVE Thor, our future automotive SoC Foxconn Smart Manufacturing robotic systems will be built on the NVIDlA Isaac autonomous mobile robot platform. Foxconn Smart City will incorporate the NVIDlA Metropolis intelligent video analytics platform",
+      "With Infosys, the partnership will bring the NVIDIA Al Enterprise ecosystem of models, tools, runtimes and GPU systems to drive productivity gains with generative Al applications and solutions Infosys plans to set up an NVIDlA Center of Excellence where it wil train and certify 500o0 of its employees on NVIDIA Al technology",
+      "based on a GPT-3 model with 175 billion parameters trained on",
+      "1 billion tokens in just 3.9 minutes",
+      "The GPT-3 benchmark ran on NVIDIA Eos -a new Al supercomputer powered by 10,752 H100 GPUs and NVIDIA Quantum-2 InfiniBand networking",
+      "The 10,752 H100 GPUs far surpassed the scaling in Al training in June, when NVIDlA used 3,584 Hopper GPUs",
+      "The 3x scaling in GPU numbers delivered a 2.8x scaling in performance,a 93% efficiency rate thanks in part to software optimizations",
+      "Six New Performance Records The fastest gets even faster GPT-3 175B (1B Tokens) Stable Diffusion 3.9 Minutes 2.5 Minutes 2.8X Faster New Workload DLRM-dcnv2 BERT-Large MAA 1 Minute 7.2 Seconds 1.6XFaster 1.1X Faster RetinaNet 3D U-Net H 55.2 Seconds 46 Seconds 1.8X Faster 1.07X Faster",
+      "# New NVIDIA HGX H200 Supercharges Hopper",
+      "NVIDIA H200 is the first GPU to offer HBM3e- faster, larger memory to fuel the acceleration of generative Al and large language models,while advancing scientific computing for HPC workloads",
+      "H200 delivers 141GB of memory at 4.8 terabytes per second, nearly double the capacity and 2.4X more bandwidth compared with its predecessor, NVIDlA A100",
+      "Boosts inference speed by up to 2X compared to H100",
+      "GPUs when handling LLMs such as Llama2",
+      "Microsoft announced plans to add the H2oO to Azure next year for larger model inference with no increase in latency",
+      "H200-powered systems from the world's leading server manufacturers and cloud service providers are expected to begin shipping in the second quarter of 2024",
+      "The U.K. government announced it will build one of the world's fastest Al supercomputers with almost 5.5K Grace Hopper Superchips",
+      "German supercomputing center Julich will build its nextgen Al supercomputer, with close to 24K Grace Hopper Superchips and Quantum-2 InfiniBand",
+      "Marks the debut of a quad NVIDlA GH2OO Grace Hopper Superchip node configuration",
+      "Combined Al compute capacity of all the supercomputers built on Grace Hopper across the U.S., EMEA and Japan next year estimated to exceed 2O0 exaflops",
+      "Purpose-built for gen Al, Spectrum-X offers enterprises a new class of Ethernet networking that can achieve 1.6x higher networking performance for Al communication versus traditional Ethernet offerings",
+      "NVIDIA's platform is installed in several hundred million computers, is available in every cloud and from every server maker, powers 76% of the TOP500 supercomputers,and boasts 4.5 million developers.",
+      "If 90% of the runtime can be accelerated by 100X, the application is sped up 9X",
+      ". If 99% of the runtime can be accelerated by 100X, the application is sped up 50X",
+      ". If 80% of the runtime can be accelerated by 500X, or even 1000X, the application is sped up 5X",
+      "NVIDIA is uniquely dedicated to accelerated computing -Working top-to-bottom, refactoring applications and creating new algorithms, and bottom-to-top一inventing new specialized processors, like RT Core and Tensor Core \"It's the end of Moore's Law as we know it. - John Hennessy Oct 23, 2018",
+      "Industrial Digitalization idIAdi It harnesses the power of NvIDIA graphicsand Al technologies and runs on NVIDIA-powered data centers and workstations Autonomous Vehicles NVIDIA DRIVE is a full-stack platform for autonomous vehicles (AV) that & Robotics incuAadimputeschastherinsteipad NVIDIA DGX Cloud is a cloud service that allows enterprises immediate access to the infrastructure and_software needed to train advanced models for generative Aland other groundbreaking applications Enterprise NVIDIA Al_ Enterprise is the operating_system of Al, with enterprise-grade_security， stability manageability and support. It is available on all major CSPs and server OEMs and supports enterprise deployment of Al in production Cloud Service Providers NVIDIA HGX is an Al supercomputing platform purpose-built for Al. It includes 8 NVIDIA GPUs,as well as &Consumer Internet interconnect and networking technologies, delivering order-of-magnitude performance speed-ups for Al H overCPU servers.It isbroadlyavailable fromallmajor server OEMs/ODMs.NvIDIA DGX,anAl server based on the same architecture,along with NVIDIA Al software and support,is also available",
+      "Developers can engage with NVIDIA through CUDA 一 our parallel computing programming model introduced in 2006 一 or at higher layers of the stack, including libraries, pre-trained Al models, SDKs and other development tools",
+      "\\$1 upfront investment in NVIDIA compute and networking can translate to \\$5 in CSP revenue over 4 years",
+      "FY23financialmetricsreflecta\\$2.2BchargeforinventoryandrelatedreservesprimarilyrelatedtoDataCenterandGaming.",
+      "For example, 2 NVIDIA HGX nodes with 16 NVIDIA H100 GPUs that cost \\$400K can replace 960 nodes of CPU servers that cost \\$1OM for the same LLM workload.",
+      "FY23financialmetricsreflecta\\$2.2BchargeforinventoryandrelatedreservesprimarilyrelatedtoDataCenterandGaming. FiscalyearendsinJanuaryRefertoAppendixforreconciliationofon-GAAPmeasures.Grossmarginsareroundedtothenearestpercent",
+      "Share Repurchase \\$10B repurchased in FY23 \\$25.2B Remaining Authorization as of end of Q3",
+      "Dividend \\$398M in FY 2023 Plan to Maintain'",
+      "Data Center 56% of FY23 Revenue",
+      "Gaming 33% of FY23 Revenue",
+      "Professional Visualization 6% of FY23 Revenue",
+      "Automotive 3% of FY23 Revenue",
+      "FY23Revenue \\$15.0B 5-YR CAGR 51%",
+      "FY23 Revenue \\$9.1B 5-YR CAGR 10%",
+      "FY23 Revenue \\$1.5B 5-YR CAGR 11%",
+      "FY23 Revenue \\$0.9B 5-YR CAGR 10%",
+      "#1 in Al training and inference Used by all hyperscale & major cloud computing providers and 40,O00 enterprises Powers 76% of the TOP500 supercomputers",
+      "Strong #1 market position 15 of the top 15 most popular GPUs on Steam Leading performance & innovation 200M+ gamers on GeForce",
+      "95%+ market share in graphics for workstations 45M Designers and Creators Strong software ecosystem with over 100 RTX accelerated and supported applications",
+      "Ray Tracing and generative Al revolutionizing design and content creation Expanding universe of designers and creators Collaborative 3D design / Omniverse Hybrid work environments",
+      "DRIVE Orin SoC ramp began in FY23",
+      "Next-generation DRIVE Thor SoC ramp to begin in FY26",
+      "By FY26,aim to engage manufacturing suppliers comprising at least 67% of NVIDlA's scope 3 category 1 GHG emissions with goal of effecting supplier adoption of science-based targets",
+      "NVIDIA GPUsare typically 20X more energy efficient for certain Al and HPC workloads than traditional CPUs",
+      "Plan to achieve & maintain 1oo% renewable electricity for our operations and data centers by FY25 and annually thereafter"
+    ],
+    "key_metrics_mentioned": [
+      {
+        "metric_name": "total_revenue",
+        "value": 18.12,
+        "unit": "B",
+        "context": "Total revenue up 206% Y/Y to \\$18.12B, well above outlook of \\$16.00B +/- 2%"
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 206.0,
+        "unit": "",
+        "context": "Total revenue up 206% Y/Y to \\$18.12B, well above outlook of \\$16.00B +/- 2%"
+      },
+      {
+        "metric_name": "data_center_revenue",
+        "value": 14.51,
+        "unit": "B",
+        "context": "Data Center up 279% Y/Y to \\$14.51B"
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 279.0,
+        "unit": "",
+        "context": "Data Center up 279% Y/Y to \\$14.51B"
+      },
+      {
+        "metric_name": "gaming_revenue",
+        "value": 2.86,
+        "unit": "B",
+        "context": "Gaming up 81% Y/Y to \\$2.86B"
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 81.0,
+        "unit": "",
+        "context": "Gaming up 81% Y/Y to \\$2.86B"
+      },
+      {
+        "metric_name": "share_repurchases",
+        "value": 3.9,
+        "unit": "b",
+        "context": "Utilized cash of \\$3.9 billion towards shareholder returns,including \\$3.8 billion in share repurchases and \\$99 million in cash dividends Invested \\$291M in capex (includes principal payments on PP&E"
+      },
+      {
+        "metric_name": "cash_position",
+        "value": 3.9,
+        "unit": "b",
+        "context": "Utilized cash of \\$3.9 billion towards shareholder returns,including \\$3.8 billion in share repurchases and \\$99 million in cash dividends Invested \\$291M in capex (includes principal payments on PP&E"
+      }
+    ]
+  },
+  "financial": {
+    "revenue": {
+      "total": null,
+      "data_center": {
+        "value": 18120.0,
+        "unit": "$M"
+      },
+      "gaming": {
+        "value": 2860.0,
+        "unit": "$M"
+      },
+      "professional_visualization": {
+        "value": 15000.0,
+        "unit": "$M"
+      },
+      "automotive": {
+        "value": 15000.0,
+        "unit": "$M"
+      },
+      "yoy_growth_pct": 206.0,
+      "sequential_growth_pct": null
+    },
+    "profitability": {
+      "gross_margin_gaap_pct": null,
+      "gross_margin_non_gaap_pct": null,
+      "operating_income_gaap": null,
+      "operating_income_non_gaap": null,
+      "operating_margin_pct": null,
+      "net_income_gaap": null,
+      "net_income_non_gaap": null
+    },
+    "per_share": {
+      "eps_gaap_diluted": null,
+      "eps_non_gaap_diluted": null
+    },
+    "cash_flow": {
+      "operating_cash_flow": null,
+      "free_cash_flow": {
+        "value": 69000.0,
+        "unit": "$M"
+      },
+      "capital_expenditure": {
+        "value": 18300.0,
+        "unit": "$M"
+      },
+      "share_repurchases": {
+        "value": 3800.0,
+        "unit": "$M"
+      },
+      "dividends": {
+        "value": 99.0,
+        "unit": "$M"
+      }
+    },
+    "balance_sheet": {
+      "cash_and_marketable_securities": null,
+      "inventory": null,
+      "accounts_receivable": null,
+      "total_debt": {
+        "value": 9800.0,
+        "unit": "$M"
+      },
+      "net_cash": {
+        "value": 8500.0,
+        "unit": "$M"
+      },
+      "dso_days": null,
+      "dsi_days": null
+    }
+  },
+  "segments": {
+    "data_center": {
+      "revenue": null,
+      "yoy_growth_pct": 279.0,
+      "sequential_growth_pct": null,
+      "compute_revenue": null,
+      "networking_revenue": null,
+      "key_drivers": [
+        "Total revenue up 206% Y/Y to \\$18.12B, well above outlook of \\$16.00B +/- 2%",
+        "Data Center up 279% Y/Y to \\$14.51B",
+        "Gaming up 81% Y/Y to \\$2.86B",
+        "Consumer internet and enterprise companies drove exceptional sequential growth,outpacing total growth Strong demand fromallhyperscale cloud service providers (CSPs),anda broadening set of GPU-specialized CSPs Inference is contributing significantly to NVIDlA Data Center demand as Al is now in ful production",
+        "Data centers are becoming Al factories: Data as input, intelligence as output",
+        "Large Language Models, based on the Transformer architecture, are one of today's most important advanced Al technologies, involving up to trillions of parameters that learn from text.",
+        "AI Training Computational Requirements",
+        "Fueling Giant-Scale Al Infrastructure NVIDIA compute& networking GPU|DPU|CPU",
+        "Drive significant cost savings and workload scaling",
+        "For running enterprise Al applications \"Al factories\" are a new class of data centers specially built for processing, refining and transforming vast amounts of data into valuable Al models and tokens.",
+        "Unlike traditional data centers built for IT workloads,Al factories are built to deliver automated, professional skills.",
+        "Al factories are not multi-workload or multi-tenant. They run one workload - an Al model - and have just one customer or owner - analogous to a traditional factory.",
+        "Al factories can be built on-prem,in the cloud,or in the data centers of SaaS and Al platform vendors.",
+        "We believe that in the future, every important company will run its own Al factories in order to securely process its valuable proprietary data and turn it into monetizable tokens, encapsulating its knowledge,intelligence,and creativity.",
+        "In addition to the up-front revenue opportunity from data center Systems, NVIDlA can generate recurring revenue from Al factories for their use of NVIDIA Al Enterprise, the operating system for enterprise Al.",
+        "The leading accelerated computing platform"
+      ],
+      "customer_mix": {}
+    },
+    "gaming": {
+      "revenue": null,
+      "yoy_growth_pct": 81.0,
+      "sequential_growth_pct": null,
+      "key_drivers": [
+        "GeForceRTXavailableatpricepointsaslowas\\$299-enteringtheholidays withbest-everline-upforgamersandcreators Gaming has doubled relative to pre-COVID levels even against the backdrop of lackluster PC market performance GenAlemergingasnew“kilerapp\"forhigh-performance PCs一NVIDIARTXis thenatural platformforAl-applicationdevelopers",
+        "GeForce 一 the world's largest gaming platform",
+        "Strong #1 market position 15 of the top 15 most popular GPUs on Steam Leading performance & innovation 200M+ gamers on GeForce"
+      ]
+    },
+    "professional_visualization": {
+      "revenue": null,
+      "yoy_growth_pct": null,
+      "sequential_growth_pct": null,
+      "key_drivers": []
+    },
+    "automotive": {
+      "revenue": null,
+      "yoy_growth_pct": null,
+      "sequential_growth_pct": null,
+      "key_drivers": []
+    }
+  },
+  "guidance": {
+    "next_quarter_revenue": null,
+    "next_quarter_revenue_range_pct": null,
+    "gross_margin_gaap_pct": null,
+    "gross_margin_non_gaap_pct": null,
+    "opex_gaap": null,
+    "opex_non_gaap": null,
+    "tax_rate_pct": null,
+    "raw_text": "![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY24_Q3_Presentation/images/89edc5647a3427951e035c251a76c8bde3cf598413416e6bb35f8a7d572c7f6c.jpg)\nRefer to Appendix for reconciliation of Non-GAAP measures."
+  },
+  "qualitative": {
+    "key_announcements": [],
+    "technology_highlights": [
+      "# Record quarter driven by strong Data Center growth",
+      "# Record Data Center revenue driven by continued ramp of NVIDIA HGX platformand InfiniBand networking",
+      "Vast majority of revenue driven by NVIDlA Hopper HGX, with a lower contribution from the prior-gen Ampere GPU architecture",
+      "New L40S GPU began to ship; first revenue quarter for GH200",
+      "Released TensorRT-LLM for Windows, which speeds on-device",
+      "Al emerging as a powerful demand driver, including inference for Al imaging in healthcare, edge Al in smart spaces and the public sector",
+      ". Launched a new line of desktop workstations based on NVIDIA RTX Ada Lovelace generation GPUs and ConnectX SmartNICs Mercedes-Benz is using Omniverse-powered digital twins to plan, design, build and operate its manufacturing and assembly facilities",
+      ". Foxconn willincorporate Omniverse into its manufacturing process Announced two new Omniverse Cloud services on Microsoft Azure - for virtual factory simulation and autonomous vehicle simulation",
+      "Growth primarily driven by continued growth in self-driving platforms based on NvIDiA DRiVE Orin SoC,and the ramp of Al cockpit solutions with global OEM customers Extended automotive partnership with Foxconn to include NVIDIA DRIVE Thor, next-generation automotive SoC",
+      "Y/Y and Q/Q growth primarily driven by higher revenue partially offset by higher cash tax payments",
+      "# New TensorRT-LLM Software More Than Doubles Inference Performance",
+      "# TensorRT-LLMSupercharges Hopper Performance",
+      "NVIDIA developed TensorRT-LLM, an open-source software library that enables customers to more than double the inference performance of their GPUs",
+      "TensorRT-LLM on H100 GPUs provides up to an 8X performance speedup compared to prior generation A100 GPUs running GPT-J 6B without the software",
+      "With TensorRT-LLM for Windows, LLMs and generative Al applications can run up to 4x faster locally on PCs and Workstations powered by NVIDlA GeForce RTX and NVIDIA RTX GPUs",
+      "TensorRT-LLM for data centers now publicly available; TensorRT-LLM for Windows in beta",
+      "Foxconn Smart EV willbe built on NVIDIA DRIVE Hyperion 9, next-gen platform for autonomous automotive fleets, powered by NVIDlA DRIVE Thor, our future automotive SoC Foxconn Smart Manufacturing robotic systems will be built on the NVIDlA Isaac autonomous mobile robot platform. Foxconn Smart City will incorporate the NVIDlA Metropolis intelligent video analytics platform",
+      "With Infosys, the partnership will bring the NVIDIA Al Enterprise ecosystem of models, tools, runtimes and GPU systems to drive productivity gains with generative Al applications and solutions Infosys plans to set up an NVIDlA Center of Excellence where it wil train and certify 500o0 of its employees on NVIDIA Al technology",
+      "The GPT-3 benchmark ran on NVIDIA Eos -a new Al supercomputer powered by 10,752 H100 GPUs and NVIDIA Quantum-2 InfiniBand networking",
+      "The 10,752 H100 GPUs far surpassed the scaling in Al training in June, when NVIDlA used 3,584 Hopper GPUs"
+    ],
+    "risks_and_challenges": [],
+    "product_launches": [
+      "Released TensorRT-LLM for Windows, which speeds on-device",
+      ". Launched a new line of desktop workstations based on NVIDIA RTX Ada Lovelace generation GPUs and ConnectX SmartNICs Mercedes-Benz is using Omniverse-powered digital twins to plan, design, build and operate its manufacturing and assembly facilities",
+      ". Foxconn willincorporate Omniverse into its manufacturing process Announced two new Omniverse Cloud services on Microsoft Azure - for virtual factory simulation and autonomous vehicle simulation",
+      "NVIDIA announced collaborations with Reliance Industries, Tata Group and Infosys to bring Al technology and skills to India",
+      "Microsoft announced plans to add the H2oO to Azure next year for larger model inference with no increase in latency",
+      "The U.K. government announced it will build one of the world's fastest Al supercomputers with almost 5.5K Grace Hopper Superchips",
+      "Introduced new NVIDIA Al foundry service for the development and tuning of custom generative Al enterprise applications, running on Microsoft Azure",
+      "Developers can engage with NVIDIA through CUDA 一 our parallel computing programming model introduced in 2006 一 or at higher layers of the stack, including libraries, pre-trained Al models, SDKs and other development tools",
+      "Broader and faster product launch cadence to meet a growing and diverse set of Al opportunities"
+    ]
+  },
+  "chart_data": {
+    "total_charts_processed": 0,
+    "categorized_charts": {},
+    "chart_details": {}
+  },
+  "tables_extracted": [],
+  "data_sources": {
+    "sections_found": [
+      "_unclassified",
+      "data_center",
+      "gaming",
+      "financial_summary",
+      "highlights",
+      "professional_visualization",
+      "automotive",
+      "cash_flow",
+      "outlook",
+      "reconciliation"
+    ],
+    "chart_categories": []
   }
 }

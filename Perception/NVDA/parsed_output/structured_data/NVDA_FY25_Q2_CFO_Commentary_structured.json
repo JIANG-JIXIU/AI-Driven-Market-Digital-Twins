@@ -1,13 +1,219 @@
 {
-  "pdf_name": "NVDA_FY25_Q2_CFO_Commentary",
-  "source_file": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q2_CFO_Commentary/NVDA_FY25_Q2_CFO_Commentary.md",
-  "text_content": "# CFO Commentary on Second Quarter Fiscal 2025 Results\n\n# Q2 Fiscal 2025 Summary\n\nGAAP   \n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q2_CFO_Commentary/images/ea2f991a3ff4069d2f693c8b39a087da3e7c8107afdd9f66ebba12c96d80123f.jpg)\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q2_CFO_Commentary/images/3897113cf8cbbbc21668f6b7cd72b3a2b65c1dc32ed0c4595f5c66f969c376f7.jpg)\n\nRevenue by Reportable Segments   \n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q2_CFO_Commentary/images/05f0f41a36b9a2d9353b970643ea0d1a66283ad5956ed8d655277e20cd639b1b.jpg)\n\nNon-GAAP   \nRevenue by Market Platform   \n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q2_CFO_Commentary/images/b597146c9b8912437857daa80ba2e78800234242201292dbbd9bc20e593578bb.jpg)\n\nWe specialize in markets where our computing platforms can provide tremendous acceleration for applications.These platforms incorporate processors,interconnects,software,algorithms, systems and services to deliver unique value. Our platforms address four large markets where our expertise is critical: Data Center, Gaming, Professional Visualization, and Automotive.\n\nOn June 7,2024, we completed a 10-for-1 forward stock split. All share and per share amounts presented have been retroactively adjusted to reflect the stock split.\n\n# Revenue\n\nRevenue was a record \\$30.0 billon,up 122% from a year ago and up 15% sequentially.\n\nData Center revenue was a record, up 154% from a year ago and up 16% sequentially. The strong sequential and year-on-year growth was driven by demand for our Hopper GPU computing platform for training and inferencing of large language models,recommendation engines,and generative Al applications. Sequential growth was driven by consumer internet and enterprise companies. Cloud service providers represented roughly 45% of our Data Center revenue,and more than 5O% stemmed from consumer internet and enterprise companies. Strong year-on-year growth was driven by all customer types from both compute and networking revenue. Customers continue to accelerate their Hopper architecture purchases while gearing up to adopt Blackwell. Data Center compute revenue was \\$22.6 bilion,up 162% from a year ago and up l7% sequentially. Networking revenue was \\$3.7 billion，up 114% from a year ago driven by InfiniBand and Ethernet for Al revenue,which includes Spectrum-X end-to-end ethernet platform. Networking revenue sequentially was up 16% and includes a doubling of Ethernet for Al revenue.\n\nWe shipped customer samples of our Blackwellarchitecture in the second quarter.We executed a change to the Blackwell GPU mask to improve production yield. Blackwell production ramp is scheduled to begin in the fourth quarter and continue into fiscal 2O26. In the fourth quarter, we expect to ship several billon dollars in Blackwel revenue. Hopper demand is strong,and shipments are expected to increase in the second half of fiscal 2025.\n\nGaming revenue was up 16% from a year ago and up 9% sequentialy.These increases reflect higher sales of our GeForce RTX 40 Series GPUs and game console SOCs.We had solid demand in the second quarter for our gaming GPUs as part of the back-to-school season.\n\nProfessional Visualization revenue was up 2O% from_a year ago and up 6%_sequentially. These increases were driven by the continued ramp of RTX GPU workstations based on our Ada architecture.\n\nAutomotive revenue was up 37% from a year ago and up 5% sequentially. These increases were driven by Al Cockpit solutions and self-driving platforms.\n\n# Gross Margin\n\nGAAP and non-GAAP gross margins increased from a year ago on strong Data Center revenue growth primarily driven by our Hopper GPU computing platform. Sequentially，gross margins decreased primarily driven by inventory provisions for low-yielding Blackwell material and a higher mix of new products within Data Center.\n\n# Expenses\n\nGAAP operating expenses were up 48% from a year ago and up 12% sequentialy， and non-GAAP operating expenses were up 52% from a year ago and up 12% sequentially. These increases were largely driven by compensation and benefits,reflecting growth in employees and compensation.\n\n# Other Income & Expense and Income Tax\n\nGAAP other income and expense (Ol&E) includes interest income, interest expense, gains and losses fromnon-affiliated investments and_publicly-held equity securities. Non-GAAP Ol&E_primarily excludes the gains or losses from non-affiliated investments and publicly-held equity securities.\n\nInterest income was \\$444 millon, up from a year ago and sequentially，primarily reflecting higher cash balances.Net realized and unrealized gains from non-affiliated investments and publicly-held equity securities were \\$193 milion, reflecting fair value adjustments.\n\nGAAP effective tax rate was",
-  "tables": [],
-  "charts": [],
   "metadata": {
-    "total_images": 9,
-    "total_charts": 0,
-    "total_tables": 0,
-    "markdown_length": 13982
+    "company": "NVIDIA",
+    "ticker": "NVDA",
+    "pdf_name": "NVDA_FY25_Q2_CFO_Commentary",
+    "fiscal_year": 2025,
+    "quarter": "Q2",
+    "period_end": "2024-07-31",
+    "calendar_year": 2024,
+    "report_type": "CFO Commentary",
+    "extraction_timestamp": "2026-05-10T20:39:22.209276",
+    "data_completeness": {
+      "text_sections_found": 7,
+      "charts_processed": 0,
+      "md_tables_found": 0,
+      "highlights_extracted": 19,
+      "metrics_extracted": 7
+    }
+  },
+  "highlights": {
+    "bullet_points": [
+      "Revenue was a record \\$30.0 billon,up 122% from a year ago and up 15% sequentially.",
+      "Data Center revenue was a record, up 154% from a year ago and up 16% sequentially. The strong sequential and year-on-year growth was driven by demand for our Hopper GPU computing platform for training and inferencing of large language models,recommendation engines,and generative Al applications. Sequential growth was driven by consumer internet and enterprise companies. Cloud service providers represented roughly 45% of our Data Center revenue,and more than 5O% stemmed from consumer internet and enterprise companies. Strong year-on-year growth was driven by all customer types from both compute and networking revenue. Customers continue to accelerate their Hopper architecture purchases while gearing up to adopt Blackwell. Data Center compute revenue was \\$22.6 bilion,up 162% from a year ago and up l7% sequentially. Networking revenue was \\$3.7 billion，up 114% from a year ago driven by InfiniBand and Ethernet for Al revenue,which includes Spectrum-X end-to-end ethernet platform. Networking revenue sequentially was up 16% and includes a doubling of Ethernet for Al revenue.",
+      "We shipped customer samples of our Blackwellarchitecture in the second quarter.We executed a change to the Blackwell GPU mask to improve production yield. Blackwell production ramp is scheduled to begin in the fourth quarter and continue into fiscal 2O26. In the fourth quarter, we expect to ship several billon dollars in Blackwel revenue. Hopper demand is strong,and shipments are expected to increase in the second half of fiscal 2025.",
+      "Gaming revenue was up 16% from a year ago and up 9% sequentialy.These increases reflect higher sales of our GeForce RTX 40 Series GPUs and game console SOCs.We had solid demand in the second quarter for our gaming GPUs as part of the back-to-school season.",
+      "Professional Visualization revenue was up 2O% from_a year ago and up 6%_sequentially. These increases were driven by the continued ramp of RTX GPU workstations based on our Ada architecture.",
+      "Automotive revenue was up 37% from a year ago and up 5% sequentially. These increases were driven by Al Cockpit solutions and self-driving platforms.",
+      "GAAP operating expenses were up 48% from a year ago and up 12% sequentialy， and non-GAAP operating expenses were up 52% from a year ago and up 12% sequentially. These increases were largely driven by compensation and benefits,reflecting growth in employees and compensation.",
+      "Interest income was \\$444 millon, up from a year ago and sequentially，primarily reflecting higher cash balances.Net realized and unrealized gains from non-affiliated investments and publicly-held equity securities were \\$193 milion, reflecting fair value adjustments.",
+      "Cash,cash equivalents and marketable securities were \\$34.8_billion, up from \\$16.0 billion a year ago and \\$31.4 bilion a quarter ago.The increases primarily reflect higher revenue partially offset by higher cash taxes,stock repurchases and repayment of \\$1.25 billion of our notes at maturity.",
+      "Accounts receivable was \\$14.1 bilion with 43 days sales outstanding (DSO). Accounts receivable reflects \\$2.8 billion of customer payments received prior to next quarter's invoice due date.",
+      "Inventory was \\$6.7 billion with 81 days sales of inventory (DSl). Purchase commitments and obligations for inventory and manufacturing capacity were \\$27.8 bilion,including new commitments for Blackwell capacity and components. Prepaid supply agreements were \\$4.7 billion.",
+      "Other non-inventory purchase obligations were \\$12.0 billion, including \\$9.8 billion of multi-year cloud service agreements.We expect cloud service agreements to be used to support our research and development efforts and our DGX Cloud offerings.",
+      "Cash flow from operating activities was \\$14.5 billion,up from \\$6.3 billion a year ago and down from \\$15.3 bilion a quarter ago. The year-on-year increase reflects higher revenue partially offset by higher cash taxes paid.The sequential decrease reflects cash taxes paid partially offset by higher revenue.",
+      "We utiized cash_of_ \\$7.4 billion towards shareholder returns, including \\$7.2 billion in share repurchases and \\$246 milion in cash dividends. Our dividend increased by 150% to one cent per share in the second quarter.",
+      "On August 26, 2024， our Board of Directors approved an additional \\$50.0 billion to our share repurchase authorization, without expiration.",
+      "Revenue is expected to be \\$32.5 billion,plus or minus 2%.",
+      "GAAP and non-GAAP gross margins are expected to be 74.4% and 75.0%,respectively, plus or minus 5O basis points.For the full year, gross margins are expected to be in the mid-70% range.",
+      "GAAP and non-GAAP operating expenses are expected to be approximately \\$4.3 bilion and \\$3.0 billion,respectively. Full-year operating expenses are expected to grow in the mid to upper 40% range. GAAP and non-GAAP other income and expense are expected to be an income of approximately \\$350 milion, excluding gains and losses from non-affiliated investments and publicly-held equity securities.",
+      "Certain statementsin thisCFO Commentary including,but notlimited to,statements as to:our computing platforms providing tremendousaceleration for aplicationsand delivering unique value; markets whereour expertise iscritical; customerscontinuing toaccelerate their Hopperarchitecturepurchases while gearingup toadopt Blackwell:the Blackwell GPU mask change improving production yield; Blackwellproduction rampand revenue timing;expected Blackwellrevenue; Hopperdemand being strong and expected increase in shipments in thesecond half of fiscal 2O25；cloud service agrements being used to supportourresearchanddevelopment effortsandour DGX Cloudoferings;our expected fullyear gross marginsandoperating expenses;andour financialoutlookandexpectedtaxrates forthethirdquarterof fiscal 2025are forward-looking statements thataresubjecttorisksand uncertaintiesthatcould causeresultstobe materilly differentthan expectations.Importantfactorsthatcouldcause actual results todiffer materiallyinclude: gobal economic conditions； our reliance on third parties to manufacture，assemble,package and test our products;the impact of technological development and competition;development of new products and technologies or enhancements to our existing product and technologies; market acceptance ofour products orour partners’products;design,manufacturing or software defects; changes in consumer preferences or demands;changes in industry standardsand interfaces；and unexpected lossof performance of our products or technologies when integrated into systems; as wellas other factors detailedfromtimeto time in the most recent reportsNvIDIA files with theSecurities and Exchange Commissionor SEC， including,butnotlimitedtoitsannualreportonForm10-KandquarterlyreportsonForm10-Q.Copiesofreportsfiledwith the SECare postedon thecompany'swebsite andareavailable from NvIDIA without charge.These forward-looking statementsarenotguaranteesoffutureperformanceandspeakonlyasof thedatehereof,and,exceptasrequiredbylaw, NVIDIAdisclaimsanyobligation to update these forward-looking statements to reflectfuture events or circumstances."
+    ],
+    "key_metrics_mentioned": [
+      {
+        "metric_name": "data_center_revenue",
+        "value": 22.6,
+        "unit": "b",
+        "context": "Data Center revenue was a record, up 154% from a year ago and up 16% sequentially. The strong sequential and year-on-year growth was driven by demand for our Hopper GPU computing platform for training"
+      },
+      {
+        "metric_name": "cash_position",
+        "value": 16.0,
+        "unit": "b",
+        "context": "Cash,cash equivalents and marketable securities were \\$34.8_billion, up from \\$16.0 billion a year ago and \\$31.4 bilion a quarter ago.The increases primarily reflect higher revenue partially offset b"
+      },
+      {
+        "metric_name": "cash_position",
+        "value": 14.5,
+        "unit": "b",
+        "context": "Cash flow from operating activities was \\$14.5 billion,up from \\$6.3 billion a year ago and down from \\$15.3 bilion a quarter ago. The year-on-year increase reflects higher revenue partially offset by"
+      },
+      {
+        "metric_name": "share_repurchases",
+        "value": 7.4,
+        "unit": "b",
+        "context": "We utiized cash_of_ \\$7.4 billion towards shareholder returns, including \\$7.2 billion in share repurchases and \\$246 milion in cash dividends. Our dividend increased by 150% to one cent per share in "
+      },
+      {
+        "metric_name": "cash_position",
+        "value": 7.4,
+        "unit": "b",
+        "context": "We utiized cash_of_ \\$7.4 billion towards shareholder returns, including \\$7.2 billion in share repurchases and \\$246 milion in cash dividends. Our dividend increased by 150% to one cent per share in "
+      },
+      {
+        "metric_name": "share_repurchases",
+        "value": 50.0,
+        "unit": "b",
+        "context": "On August 26, 2024， our Board of Directors approved an additional \\$50.0 billion to our share repurchase authorization, without expiration."
+      },
+      {
+        "metric_name": "gross_margin",
+        "value": 74.4,
+        "unit": "",
+        "context": "GAAP and non-GAAP gross margins are expected to be 74.4% and 75.0%,respectively, plus or minus 5O basis points.For the full year, gross margins are expected to be in the mid-70% range."
+      }
+    ]
+  },
+  "financial": {
+    "revenue": {
+      "total": {
+        "value": 30000.0,
+        "unit": "$M"
+      },
+      "data_center": {
+        "value": 22600.0,
+        "unit": "$M"
+      },
+      "gaming": null,
+      "professional_visualization": null,
+      "automotive": null,
+      "yoy_growth_pct": null,
+      "sequential_growth_pct": 15.0
+    },
+    "profitability": {
+      "gross_margin_gaap_pct": null,
+      "gross_margin_non_gaap_pct": null,
+      "operating_income_gaap": null,
+      "operating_income_non_gaap": null,
+      "operating_margin_pct": null,
+      "net_income_gaap": null,
+      "net_income_non_gaap": null
+    },
+    "per_share": {
+      "eps_gaap_diluted": null,
+      "eps_non_gaap_diluted": null
+    },
+    "cash_flow": {
+      "operating_cash_flow": null,
+      "free_cash_flow": null,
+      "capital_expenditure": null,
+      "share_repurchases": {
+        "value": 7200.0,
+        "unit": "$M"
+      },
+      "dividends": null
+    },
+    "balance_sheet": {
+      "cash_and_marketable_securities": null,
+      "inventory": null,
+      "accounts_receivable": null,
+      "total_debt": null,
+      "net_cash": null,
+      "dso_days": 43,
+      "dsi_days": 81
+    }
+  },
+  "segments": {
+    "data_center": {
+      "revenue": null,
+      "yoy_growth_pct": 154.0,
+      "sequential_growth_pct": 16.0,
+      "compute_revenue": null,
+      "networking_revenue": null,
+      "key_drivers": [],
+      "customer_mix": {}
+    },
+    "gaming": {
+      "revenue": null,
+      "yoy_growth_pct": 16.0,
+      "sequential_growth_pct": 9.0,
+      "key_drivers": []
+    },
+    "professional_visualization": {
+      "revenue": null,
+      "yoy_growth_pct": null,
+      "sequential_growth_pct": null,
+      "key_drivers": []
+    },
+    "automotive": {
+      "revenue": null,
+      "yoy_growth_pct": 37.0,
+      "sequential_growth_pct": null,
+      "key_drivers": []
+    }
+  },
+  "guidance": {
+    "next_quarter_revenue": null,
+    "next_quarter_revenue_range_pct": 2.0,
+    "gross_margin_gaap_pct": 74.4,
+    "gross_margin_non_gaap_pct": 75.0,
+    "opex_gaap": {
+      "value": 4300.0,
+      "unit": "$M"
+    },
+    "opex_non_gaap": {
+      "value": 3000.0,
+      "unit": "$M"
+    },
+    "tax_rate_pct": 17.0,
+    "raw_text": "Outlook for the third quarter of fiscal 2025 is as follows:\n\nRevenue is expected to be \\$32.5 billion,plus or minus 2%.   \nGAAP and non-GAAP gross margins are expected to be 74.4% and 75.0%,respectively, plus or minus 5O basis points.For the full year, gross margins are expected to be in the mid-70% range.   \nGAAP and non-GAAP operating expenses are expected to be approximately \\$4.3 bilion and \\$3.0 billion,respectively. Full-year operating expenses are expected to grow in the mid to upper 40% range. GAAP and non-GAAP other income and expense are expected to be an income of approximately \\$350 milion, excluding gains and losses from non-affiliated investments and publicly-held equity securities.   \nGAAP and non-GAAP tax rates are expected to be 17%, plus or minus 1%, excluding any discrete items.\n\nFor further information, contact:\n\nStewart Stecker Investor Relations NVIDIA Corporation sstecker@nvidia.com\n\nMylene Mangalindan Corporate Communications NVIDIA Corporation mmangalindan@nvid"
+  },
+  "qualitative": {
+    "key_announcements": [],
+    "technology_highlights": [
+      "Data Center revenue was a record, up 154% from a year ago and up 16% sequentially. The strong sequential and year-on-year growth was driven by demand for our Hopper GPU computing platform for training and inferencing of large language models,recommendation engines,and generative Al applications. Sequential growth was driven by consumer internet and enterprise companies. Cloud service providers represented roughly 45% of our Data Center revenue,and more than 5O% stemmed from consumer internet and enterprise companies. Strong year-on-year growth was driven by all customer types from both compute and networking revenue. Customers continue to accelerate their Hopper architecture purchases while gearing up to adopt Blackwell. Data Center compute revenue was \\$22.6 bilion,up 162% from a year ago and up l7% sequentially. Networking revenue was \\$3.7 billion，up 114% from a year ago driven by InfiniBand and Ethernet for Al revenue,which includes Spectrum-X end-to-end ethernet platform. Networking revenue sequentially was up 16% and includes a doubling of Ethernet for Al revenue.",
+      "We shipped customer samples of our Blackwellarchitecture in the second quarter.We executed a change to the Blackwell GPU mask to improve production yield. Blackwell production ramp is scheduled to begin in the fourth quarter and continue into fiscal 2O26. In the fourth quarter, we expect to ship several billon dollars in Blackwel revenue. Hopper demand is strong,and shipments are expected to increase in the second half of fiscal 2025.",
+      "Professional Visualization revenue was up 2O% from_a year ago and up 6%_sequentially. These increases were driven by the continued ramp of RTX GPU workstations based on our Ada architecture.",
+      "Automotive revenue was up 37% from a year ago and up 5% sequentially. These increases were driven by Al Cockpit solutions and self-driving platforms.",
+      "GAAP and non-GAAP gross margins increased from a year ago on strong Data Center revenue growth primarily driven by our Hopper GPU computing platform. Sequentially，gross margins decreased primarily driven by inventory provisions for low-yielding Blackwell material and a higher mix of new products within Data Center.",
+      "GAAP operating expenses were up 48% from a year ago and up 12% sequentialy， and non-GAAP operating expenses were up 52% from a year ago and up 12% sequentially. These increases were largely driven by compensation and benefits,reflecting growth in employees and compensation.",
+      "Inventory was \\$6.7 billion with 81 days sales of inventory (DSl). Purchase commitments and obligations for inventory and manufacturing capacity were \\$27.8 bilion,including new commitments for Blackwell capacity and components. Prepaid supply agreements were \\$4.7 billion.",
+      "Other non-inventory purchase obligations were \\$12.0 billion, including \\$9.8 billion of multi-year cloud service agreements.We expect cloud service agreements to be used to support our research and development efforts and our DGX Cloud offerings.",
+      "Certain statementsin thisCFO Commentary including,but notlimited to,statements as to:our computing platforms providing tremendousaceleration for aplicationsand delivering unique value; markets whereour expertise iscritical; customerscontinuing toaccelerate their Hopperarchitecturepurchases while gearingup toadopt Blackwell:the Blackwell GPU mask change improving production yield; Blackwellproduction rampand revenue timing;expected Blackwellrevenue; Hopperdemand being strong and expected increase in shipments in thesecond half of fiscal 2O25；cloud service agrements being used to supportourresearchanddevelopment effortsandour DGX Cloudoferings;our expected fullyear gross marginsandoperating expenses;andour financialoutlookandexpectedtaxrates forthethirdquarterof fiscal 2025are forward-looking statements thataresubjecttorisksand uncertaintiesthatcould causeresultstobe materilly differentthan expectations.Importantfactorsthatcouldcause actual results todiffer materiallyinclude: gobal economic conditions； our reliance on third parties to manufacture，assemble,package and test our products;the impact of technological development and competition;development of new products and technologies or enhancements to our existing product and technologies; market acceptance ofour products orour partners’products;design,manufacturing or software defects; changes in consumer preferences or demands;changes in industry standardsand interfaces；and unexpected lossof performance of our products or technologies when integrated into systems; as wellas other factors detailedfromtimeto time in the most recent reportsNvIDIA files with theSecurities and Exchange Commissionor SEC， including,butnotlimitedtoitsannualreportonForm10-KandquarterlyreportsonForm10-Q.Copiesofreportsfiledwith the SECare postedon thecompany'swebsite andareavailable from NvIDIA without charge.These forward-looking statementsarenotguaranteesoffutureperformanceandspeakonlyasof thedatehereof,and,exceptasrequiredbylaw, NVIDIAdisclaimsanyobligation to update these forward-looking statements to reflectfuture events or circumstances."
+    ],
+    "risks_and_challenges": [
+      "GAAP effective tax rate was l3.6%,an increase from a year ago reflecting the lower effect of tax benefits from the foreign derived intangible income deduction relative to the increase in pre-tax income. Non-GAAP effective tax rate was 16.6%.",
+      "Inventory was \\$6.7 billion with 81 days sales of inventory (DSl). Purchase commitments and obligations for inventory and manufacturing capacity were \\$27.8 bilion,including new commitments for Blackwell capacity and components. Prepaid supply agreements were \\$4.7 billion.",
+      "Certain statementsin thisCFO Commentary including,but notlimited to,statements as to:our computing platforms providing tremendousaceleration for aplicationsand delivering unique value; markets whereour expertise iscritical; customerscontinuing toaccelerate their Hopperarchitecturepurchases while gearingup toadopt Blackwell:the Blackwell GPU mask change improving production yield; Blackwellproduction rampand revenue timing;expected Blackwellrevenue; Hopperdemand being strong and expected increase in shipments in thesecond half of fiscal 2O25；cloud service agrements being used to supportourresearchanddevelopment effortsandour DGX Cloudoferings;our expected fullyear gross marginsandoperating expenses;andour financialoutlookandexpectedtaxrates forthethirdquarterof fiscal 2025are forward-looking statements thataresubjecttorisksand uncertaintiesthatcould causeresultstobe materilly differentthan expectations.Importantfactorsthatcouldcause actual results todiffer materiallyinclude: gobal economic conditions； our reliance on third parties to manufacture，assemble,package and test our products;the impact of technological development and competition;development of new products and technologies or enhancements to our existing product and technologies; market acceptance ofour products orour partners’products;design,manufacturing or software defects; changes in consumer preferences or demands;changes in industry standardsand interfaces；and unexpected lossof performance of our products or technologies when integrated into systems; as wellas other factors detailedfromtimeto time in the most recent reportsNvIDIA files with theSecurities and Exchange Commissionor SEC， including,butnotlimitedtoitsannualreportonForm10-KandquarterlyreportsonForm10-Q.Copiesofreportsfiledwith the SECare postedon thecompany'swebsite andareavailable from NvIDIA without charge.These forward-looking statementsarenotguaranteesoffutureperformanceandspeakonlyasof thedatehereof,and,exceptasrequiredbylaw, NVIDIAdisclaimsanyobligation to update these forward-looking statements to reflectfuture events or circumstances."
+    ],
+    "product_launches": []
+  },
+  "chart_data": {
+    "total_charts_processed": 0,
+    "categorized_charts": {},
+    "chart_details": {}
+  },
+  "tables_extracted": [],
+  "data_sources": {
+    "sections_found": [
+      "_unclassified",
+      "revenue",
+      "gross_margin",
+      "expenses",
+      "cash_flow",
+      "outlook",
+      "reconciliation"
+    ],
+    "chart_categories": []
   }
 }

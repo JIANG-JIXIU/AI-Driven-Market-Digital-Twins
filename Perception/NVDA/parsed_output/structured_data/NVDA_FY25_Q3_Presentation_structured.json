@@ -1,13 +1,253 @@
 {
-  "pdf_name": "NVDA_FY25_Q3_Presentation",
-  "source_file": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/NVDA_FY25_Q3_Presentation.md",
-  "text_content": "# Investor Presentation Q3FY25 中 November 2024\n\nrelated use cases entertainn ; VolvoCars rolingoutits fullyelectric SUVbuilton NVIDIA OrinandDRIVE OS; Indias leading CSPs building Al factories with i te twinbeforeexpaiiat\n\ni of our products or technologies when integrated into systems and other factors.\n\nare posted on our website and are available from NVIDlA without charge.\n\nMany of the products and features described herein remaii stages intended to be, and should not be interpreted as a commitment, promise, or legal obligation, and the development, release,and timing of any features or functionalities described for our products is subject to change and remains at the sole discretion of NVIDIA. NVIDIA will have no liability for failure to deliver thedel tforth\n\nte et Gt GAAP measures, may be found in the slide titled“Reconciliation of Non-GAAP to GAAP Financial Measures\".\n\n#\n\n# Content\n\nQ3 FY25 Earnings Summary\n\nKey Announcements This Quarter\n\nReconciliationof Non-GAAP to GAAP Financial Measures\n\n# Q3 FY25 Earnings Summary\n\n# Highlights\n\n# Record quarter driven primarily by strong Data Center growth\n\nTotal revenue up 94% Y/Y to \\$35.1B, well above outlook of \\$32.5B +/- 2%   \n· Record Data Center up 112% Y/Y to \\$30.8B Gaming up 15% Y/Y to \\$3.3B\n\n# Data Center revenue driven by exceptional demand for the NVIDIA Hopper platform\n\n·SequentialyAH2Osalesincreaedignificantlytouble-digitbillonsthfstestproductampinurcompansstory   \nBlackwell in full production after successfully executed mask change   \nNVIDIA's Ampere and Hopper infrastructures are fueling inference revenue growth for customers   \nEnterprise Al is in full throttle - industry leaders are using NVIDlA Al to build copilots and agents   \nIndustrial Al and robotics is accelerating, triggered by breakthroughs in Physical Al\n\n# Gaming end demand is strong while channelinventory remains healthy\n\nGreat quarter for Gaming with notebook,console,and desktop revenue allgrowing sequentiallyand yearon year ·EnddemandfueledbytrongbacktoshoolsalesasconsumerschooseGeForceRXGPUsanddevicestopowergamingcreativeandAl applications\n\n# Q3FY25 Financial Summary\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/3c2672661e4141dddc46a5b9edafc04992e62fafe5b9c18af1340d1632bcd83a.jpg)\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/652312307e52c08cb6aced9191e389289e9d25ad4b1deb15840c5013a4baf0c8.jpg)\nAll dollar figuresareinmilionsother than EPS. Refer toAppendix forreconciliationof Non-GAAPmeasures.\n\n# DataCenter\n\n# Highlights\n\nCloud Service Providers were approximately half of our Data Center sales with revenue increasing more than 2x Y/Y\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/f76a5a680988994847026e25f00f6b9d5dd15a44b3fb517bf83f7e49ffeb3872.jpg)  \nRevenue (\\$M)\n\nNVIDIA GPU regional cloud revenue jumped 2x Y/Y with strength in North America, EMEA and Asia Pacific regions\n\nConsumer Internet revenue more than doubled Y/Y as companies scaled their NVIDlA Hopper infrastructure\n\nNVIDIA H20O-powered cloud instances now available from AWS, CoreWeave,Microsoft Azure, withGoogle Cloud,OCl coming soon\n\nNVIDIA is the largest inference platform in the world\n\nSoftware, service, and support revenue is annualizing at \\$1.5B and we expect to exit this year annualizing at over \\$2B\n\nNVIDIA Spectrum-X Ethernet for Al revenue increased over 3x yearon-year, and our pipeline continues to build\n\n# Gaming\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/e478f319644c7372d6d7809186822f933b96ba8e33f5f618473e0290c65babbd.jpg)  \nRevenue (\\$M)\n\n# Highlights\n\nChannel inventory remains healthy and we're gearing up for the holiday season   \n. Began shipping new GeForce RTX Al PCs with up to 321 Al TOPS from ASUS and MSl with Microsoft Copilot+ capabilities anticipated in Q4   \n. Celebrated the 25th anniversary of the GeForce 256, the world's first GPU\n\n# Professional Visualization\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/f4a77c14a269a2a1141a465d5e992c601f5b813197dcccc8a3c646f513a57ba1.jpg)  \nRevenue (\\$M)\n\n# Highlights\n\nNVIDIA RTX workstations continue to be the preferred choice to power professional graphics,design,and engineering related workloads\n\nAl is emerging as a powerful demand driver including for autonomous vehicle simulation, generative Al model prototyping for productivity related use cases,and generative Al content creation in media and entertainment\n\n# Automotive\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q3_Presentation/images/aa518b525b6fce508d91adb1a542c4977e52507556071f5fb5c10e1df319",
-  "tables": [],
-  "charts": [],
   "metadata": {
-    "total_images": 18,
-    "total_charts": 0,
-    "total_tables": 0,
-    "markdown_length": 13563
+    "company": "NVIDIA",
+    "ticker": "NVDA",
+    "pdf_name": "NVDA_FY25_Q3_Presentation",
+    "fiscal_year": 2025,
+    "quarter": "Q3",
+    "period_end": "2024-10-31",
+    "calendar_year": 2024,
+    "report_type": "Investor Presentation",
+    "extraction_timestamp": "2026-05-10T20:39:21.811108",
+    "data_completeness": {
+      "text_sections_found": 9,
+      "charts_processed": 0,
+      "md_tables_found": 0,
+      "highlights_extracted": 19,
+      "metrics_extracted": 8
+    }
+  },
+  "highlights": {
+    "bullet_points": [
+      "Total revenue up 94% Y/Y to \\$35.1B, well above outlook of \\$32.5B +/- 2%",
+      "· Record Data Center up 112% Y/Y to \\$30.8B Gaming up 15% Y/Y to \\$3.3B",
+      "Cloud Service Providers were approximately half of our Data Center sales with revenue increasing more than 2x Y/Y",
+      "NVIDIA GPU regional cloud revenue jumped 2x Y/Y with strength in North America, EMEA and Asia Pacific regions",
+      "Software, service, and support revenue is annualizing at \\$1.5B and we expect to exit this year annualizing at over \\$2B",
+      "NVIDIA Spectrum-X Ethernet for Al revenue increased over 3x yearon-year, and our pipeline continues to build",
+      ". Began shipping new GeForce RTX Al PCs with up to 321 Al TOPS from ASUS and MSl with Microsoft Copilot+ capabilities anticipated in Q4",
+      ". Celebrated the 25th anniversary of the GeForce 256, the world's first GPU",
+      "Strong growth was driven by self-driving ramps of NVIDIA Orin and robust end market demand for NEVs Volvo Cars is rolling out its fully electric EX9O SUV built on NVIDIA Orin and DRIVE OS",
+      "Utilized cash of \\$11.2B towards shareholder returns, including \\$11.0B in share repurchases and \\$245M in cash dividends",
+      "Invested \\$842M in capex (includes principal payments on PP&E) Ended the quarter with \\$38.5B in gross cash and \\$8.5B in debt; \\$30.0B in net cash",
+      "India's leading CSPs including Tata Communications and Yotta Data Services,are building Ai factories with tens of thousands of NVIDIA GPUs. By year end, they will have boosted NVIDlA GPU deployments in the country by nearly 10x",
+      "Volvo Cars is rolling out its fully electric EX9O, built on the NVIDIA DRIVE Orin system-on-a-chip (SoC), capable of more than 250 trillion operations per second (TOPS) Running NVIDlA DriveOS, the system delivers high-performance processing with automotive-grade functional safety",
+      "Softbank is also partnering with NVIDlA to transform the telecommunications network into a distributed Al network with NVIDIA Al Aerial, an Al-RAN platform that can process both 5G-RAN and Al on CUDA",
+      "In the latest MLPerf Training 4.1 industry benchmarks, the NVIDlA Blackwell platform sweep the per-GPU benchmarks and delivered a 2.2x leap in performance over Hopper",
+      "NVIDIA Hopper platform continued to hold at-scale records on all benchmarks, including a submission on the GPT-3 175B benchmark using 11,616 Hopper GPUs connected with NVIDIA NVLink and NVSwitch and NVIDIA Quantum-2 InfiniBand networking",
+      "Blackwell's higher compute throughput and significantly larger and faster memory allowed it to run the GPT-3 175B benchmark on just 64 GPUs vs 256 Hopper GPUs, or a 4x reduction in cost",
+      "With continued full stack optimizations NVIDlA Hopper GPUs have more than tripled scale and performance on the GPT-3 175B benchmark since last year",
+      "5th Generation NVLink and NVLink Switch"
+    ],
+    "key_metrics_mentioned": [
+      {
+        "metric_name": "total_revenue",
+        "value": 35.1,
+        "unit": "B",
+        "context": "Total revenue up 94% Y/Y to \\$35.1B, well above outlook of \\$32.5B +/- 2%"
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 94.0,
+        "unit": "",
+        "context": "Total revenue up 94% Y/Y to \\$35.1B, well above outlook of \\$32.5B +/- 2%"
+      },
+      {
+        "metric_name": "data_center_revenue",
+        "value": 30.8,
+        "unit": "B",
+        "context": "· Record Data Center up 112% Y/Y to \\$30.8B Gaming up 15% Y/Y to \\$3.3B"
+      },
+      {
+        "metric_name": "gaming_revenue",
+        "value": 3.3,
+        "unit": "B",
+        "context": "· Record Data Center up 112% Y/Y to \\$30.8B Gaming up 15% Y/Y to \\$3.3B"
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 112.0,
+        "unit": "",
+        "context": "· Record Data Center up 112% Y/Y to \\$30.8B Gaming up 15% Y/Y to \\$3.3B"
+      },
+      {
+        "metric_name": "share_repurchases",
+        "value": 11.2,
+        "unit": "B",
+        "context": "Utilized cash of \\$11.2B towards shareholder returns, including \\$11.0B in share repurchases and \\$245M in cash dividends"
+      },
+      {
+        "metric_name": "cash_position",
+        "value": 11.2,
+        "unit": "B",
+        "context": "Utilized cash of \\$11.2B towards shareholder returns, including \\$11.0B in share repurchases and \\$245M in cash dividends"
+      },
+      {
+        "metric_name": "cash_position",
+        "value": 8.5,
+        "unit": "B",
+        "context": "Invested \\$842M in capex (includes principal payments on PP&E) Ended the quarter with \\$38.5B in gross cash and \\$8.5B in debt; \\$30.0B in net cash"
+      }
+    ]
+  },
+  "financial": {
+    "revenue": {
+      "total": null,
+      "data_center": {
+        "value": 35100.0,
+        "unit": "$M"
+      },
+      "gaming": {
+        "value": 3300.0,
+        "unit": "$M"
+      },
+      "professional_visualization": null,
+      "automotive": null,
+      "yoy_growth_pct": 94.0,
+      "sequential_growth_pct": null
+    },
+    "profitability": {
+      "gross_margin_gaap_pct": null,
+      "gross_margin_non_gaap_pct": null,
+      "operating_income_gaap": null,
+      "operating_income_non_gaap": null,
+      "operating_margin_pct": null,
+      "net_income_gaap": null,
+      "net_income_non_gaap": null
+    },
+    "per_share": {
+      "eps_gaap_diluted": null,
+      "eps_non_gaap_diluted": null
+    },
+    "cash_flow": {
+      "operating_cash_flow": null,
+      "free_cash_flow": null,
+      "capital_expenditure": {
+        "value": 38500.0,
+        "unit": "$M"
+      },
+      "share_repurchases": {
+        "value": 11000.0,
+        "unit": "$M"
+      },
+      "dividends": {
+        "value": 245.0,
+        "unit": "$M"
+      }
+    },
+    "balance_sheet": {
+      "cash_and_marketable_securities": null,
+      "inventory": null,
+      "accounts_receivable": null,
+      "total_debt": {
+        "value": 8500.0,
+        "unit": "$M"
+      },
+      "net_cash": {
+        "value": 30000.0,
+        "unit": "$M"
+      },
+      "dso_days": null,
+      "dsi_days": null
+    }
+  },
+  "segments": {
+    "data_center": {
+      "revenue": null,
+      "yoy_growth_pct": 112.0,
+      "sequential_growth_pct": null,
+      "compute_revenue": null,
+      "networking_revenue": null,
+      "key_drivers": [
+        "Total revenue up 94% Y/Y to \\$35.1B, well above outlook of \\$32.5B +/- 2%",
+        "Record Data Center up 112% Y/Y to \\$30.8B Gaming up 15% Y/Y to \\$3.3B",
+        "SequentialyAH2Osalesincreaedignificantlytouble-digitbillonsthfstestproductampinurcompansstory",
+        "Blackwell in full production after successfully executed mask change",
+        "NVIDIA's Ampere and Hopper infrastructures are fueling inference revenue growth for customers",
+        "Enterprise Al is in full throttle - industry leaders are using NVIDlA Al to build copilots and agents",
+        "Industrial Al and robotics is accelerating, triggered by breakthroughs in Physical Al"
+      ],
+      "customer_mix": {}
+    },
+    "gaming": {
+      "revenue": null,
+      "yoy_growth_pct": 15.0,
+      "sequential_growth_pct": null,
+      "key_drivers": [
+        "Great quarter for Gaming with notebook,console,and desktop revenue allgrowing sequentiallyand yearon year ·EnddemandfueledbytrongbacktoshoolsalesasconsumerschooseGeForceRXGPUsanddevicestopowergamingcreativeandAl applications"
+      ]
+    },
+    "professional_visualization": {
+      "revenue": null,
+      "yoy_growth_pct": null,
+      "sequential_growth_pct": null,
+      "key_drivers": []
+    },
+    "automotive": {
+      "revenue": null,
+      "yoy_growth_pct": null,
+      "sequential_growth_pct": null,
+      "key_drivers": []
+    }
+  },
+  "guidance": {
+    "next_quarter_revenue": null,
+    "next_quarter_revenue_range_pct": null,
+    "gross_margin_gaap_pct": null,
+    "gross_margin_non_gaap_pct": null,
+    "opex_gaap": null,
+    "opex_non_gaap": null,
+    "tax_rate_pct": null,
+    "raw_text": "outlook of \\$32.5B +/- 2%   \n· Record Data Center up 112% Y/Y to \\$30.8B Gaming up 15% Y/Y to \\$3.3B\n\n"
+  },
+  "qualitative": {
+    "key_announcements": [],
+    "technology_highlights": [
+      "related use cases entertainn ; VolvoCars rolingoutits fullyelectric SUVbuilton NVIDIA OrinandDRIVE OS; Indias leading CSPs building Al factories with i te twinbeforeexpaiiat",
+      "# Record quarter driven primarily by strong Data Center growth",
+      "# Data Center revenue driven by exceptional demand for the NVIDIA Hopper platform",
+      "Blackwell in full production after successfully executed mask change",
+      "NVIDIA's Ampere and Hopper infrastructures are fueling inference revenue growth for customers",
+      "Consumer Internet revenue more than doubled Y/Y as companies scaled their NVIDlA Hopper infrastructure",
+      "NVIDIA Spectrum-X Ethernet for Al revenue increased over 3x yearon-year, and our pipeline continues to build",
+      "Al is emerging as a powerful demand driver including for autonomous vehicle simulation, generative Al model prototyping for productivity related use cases,and generative Al content creation in media and entertainment",
+      "Strong growth was driven by self-driving ramps of NVIDIA Orin and robust end market demand for NEVs Volvo Cars is rolling out its fully electric EX9O SUV built on NVIDIA Orin and DRIVE OS",
+      "Manufacturers and service providers in India including Reliance Industries, TCS,and Tech Mahindra are adopting NVIDIA Omniverse to tap into simulation, digital twins, and generative Al",
+      "Volvo Cars is rolling out its fully electric EX9O, built on the NVIDIA DRIVE Orin system-on-a-chip (SoC), capable of more than 250 trillion operations per second (TOPS) Running NVIDlA DriveOS, the system delivers high-performance processing with automotive-grade functional safety",
+      "# Japan Adopts NVIDIA Technologies to Drive a New Industrial Revolution",
+      "SoftBank is building the nation's most powerful Al supercomputer with NVIDlA DGX Blackwell and Quantum InfiniBand",
+      "Softbank is also partnering with NVIDlA to transform the telecommunications network into a distributed Al network with NVIDIA Al Aerial, an Al-RAN platform that can process both 5G-RAN and Al on CUDA",
+      "Toyota, Yaskawa, Seven &i Holdings,and Rikei are bringing physical Al to industrieswith NViDiA Al and Omniverse",
+      "# Foxconn Uses NVIDIA Omniverse to Speed Bring-up of Blackwell Factories",
+      "To meet demand for Blackwell, Foxconn, the world's largest electronics manufacturer, is using NVIDIA Omniverse, to bring facilities in the U.S., Mexico and Taiwan online faster than ever",
+      "Omniverse enables industrial developers to maximize efficiency through test and optimization in a digital twin before deploying costly change-orders to the physical world",
+      "Foxconn uses NVIDlA Omniverse to virtually integrate their facility and equipment layouts, NVIDlA Isaac Sim for autonomous robot testing and simulation,and NViDlA Metropolis for vision Al",
+      "# NVIDIA Blackwell Delivers Next-Level MLPerf Training Performance"
+    ],
+    "risks_and_challenges": [],
+    "product_launches": [
+      "# NVIDIA Al Aerial Launches to Optimize Wireless Networks, Deliver New Generative Al Experiences on One Platform",
+      "We launched the NVIDIA Al Aerial platform and announced a collaboration with T-Mobile to revolutionize the wireless telecommunications network and industry"
+    ]
+  },
+  "chart_data": {
+    "total_charts_processed": 0,
+    "categorized_charts": {},
+    "chart_details": {}
+  },
+  "tables_extracted": [],
+  "data_sources": {
+    "sections_found": [
+      "_unclassified",
+      "data_center",
+      "gaming",
+      "financial_summary",
+      "highlights",
+      "professional_visualization",
+      "automotive",
+      "cash_flow",
+      "reconciliation"
+    ],
+    "chart_categories": []
   }
 }

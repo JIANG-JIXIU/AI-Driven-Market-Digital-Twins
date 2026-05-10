@@ -1,13 +1,223 @@
 {
-  "pdf_name": "NVDA_FY26_Q3_CFO_Commentary",
-  "source_file": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q3_CFO_Commentary/NVDA_FY26_Q3_CFO_Commentary.md",
-  "text_content": "# CFO Commentary on Third Quarter Fiscal 2O26 Results\n\n# Q3 Fiscal 2026 Summary\n\nGAAP   \n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q3_CFO_Commentary/images/934494f0df63e0e19940826987062f4f24a11029ff8928440776c31c213e24f2.jpg)\n\nNon-GAAP   \n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q3_CFO_Commentary/images/b4db5fba4702c0cc4e6446e1341ed3e8a720d6944e4cdc986c674b8e4ffdd703.jpg)\n\nRevenue by Reportable Segments   \n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q3_CFO_Commentary/images/aab0fe969670c51b0dbad9d25416c2480d4aadef52481e49bdf7cdd4a93e26c1.jpg)\n\nRevenue by Market Platform   \n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q3_CFO_Commentary/images/261c768a83af33b9b8cdcdb8fd68b199870396966aa406873f273e7e5c86d281.jpg)\n\nWe specialize in markets where our computing platforms can provide tremendous acceleration for applications. These platforms incorporate processors,interconnects, software,algorithms,systems, and services to deliver unique value. Our platforms address four large markets where our expertise is critical: Data Center, Gaming, Professional Visualization,and Automotive.\n\n# Revenue\n\nRevenue for the third quarter was a record \\$57.0 billon, up 62% from a year ago and up 22% sequentially.\n\nData Center revenue for the third quarter was a record \\$51.2 bilion, up 66% from a year ago and up 25% sequentially,driven by three platform shifts - accelerated computing, powerful Al models,and agentic applications. Blackwel UItra is now our leading architecture across all customer categories while our prior Blackwellarchitecture saw continued strong demand. H2O sales were insignificant in the third quarter.\n\nData Center compute revenue was a record \\$43.0 billion, up 56% from a year ago and up 27% sequentially. Networking revenue was a record \\$8.2 bilion,up l62% from a year ago from the introduction and continued growth of NVLink compute fabric for GB2O0 and GB3OO systems. Networking revenue was up 13% sequentialy， driven by the growth of XDR InfiniBand products, NVLinkTM，and Ethernet for Al solutions，while shipment timing and supply availability varied compared to the prior quarter.\n\nGaming revenue for the third quarter was up 3O% from a year ago on the continued demand for Blackwell. Gaming revenue was down 1% sequentially as channel inventories have reached more normalized levels heading into the holiday season.\n\nProfessional Visualization revenue for the third quarter was up 56% from a year ago and up 26% sequentially,driven by the launch of our new DGX SparkTM as well as the growth of Blackwell sales.\n\nAutomotive revenue for the third quarter was up 32% from a year ago and up 1% sequentially,driven by continued adoption of our self-driving platforms.\n\n# Gross Margin\n\nGAAP and non-GAAP gross margins for the third quarter decreased from a year ago as our business model transitioned from offering Hopper HGXTM systems to Blackwell full-scale datacenter solutions. As expected,our GAAP and non-GAAP gross margins increased sequentially as Blackwell ramped with an improved mix and cost structure.\n\n# Expenses\n\nGAAP operating expenses for the third quarter were up 36% from a year ago and up 8% sequentially, and non-GAAP operating expenses were up 38% from a year ago and up 11% sequentially. The increases were primarily driven by compute and infrastructure costs， higher compensation and benefits due to compensation increases and employee growth and engineering development costs for new product introductions.\n\n# Other Income & Expense and Income Tax\n\nGAAP other income and expense (Ol&E) includes_ interest income, interest expense，and nonmarketable and publicly-held equity securities gains or losses. Non-GAAP Ol&E excludes nonmarketable and publicly-held equity securities gains or losses.\n\nInterest income for the third quarter was \\$624 milion,up from a year ago and sequentially, reflecting growth in cash,cash equivalents,and debt securities.Net other income for the third quarter was \\$1.4 billion,primarily driven by gains in non-marketable and publicly-held equity securities.\n\nGAAP effective tax rate for the third quarter was 15.9%,an increase from a year ago reflecting a lower percentage of tax benefits from stock-based compensation and U.S.federal research tax credit relative to the increase in income before income tax.Non-GAAP effective tax rate for the third quarter was 17.1%.\n\n# Balance Sheet and Cash Flow\n\nCash,cash equivalents and marketable securities were \\$60.6 billon,up from \\$38.5 billion a year ago and \\$56.8 billion a quarter ago. The increases primarily reflect higher revenue，partially offset by stock repurchases.\n\nAccounts receivable was \\$33.4 bilion with 53 days sales outstanding (DSO), down from 54 days sequentially, driven by timing of ca",
-  "tables": [],
-  "charts": [],
   "metadata": {
-    "total_images": 8,
-    "total_charts": 0,
-    "total_tables": 0,
-    "markdown_length": 12353
+    "company": "NVIDIA",
+    "ticker": "NVDA",
+    "pdf_name": "NVDA_FY26_Q3_CFO_Commentary",
+    "fiscal_year": 2026,
+    "quarter": "Q3",
+    "period_end": "2025-10-31",
+    "calendar_year": 2025,
+    "report_type": "CFO Commentary",
+    "extraction_timestamp": "2026-05-10T20:39:22.339902",
+    "data_completeness": {
+      "text_sections_found": 7,
+      "charts_processed": 0,
+      "md_tables_found": 0,
+      "highlights_extracted": 19,
+      "metrics_extracted": 7
+    }
+  },
+  "highlights": {
+    "bullet_points": [
+      "Revenue for the third quarter was a record \\$57.0 billon, up 62% from a year ago and up 22% sequentially.",
+      "Data Center revenue for the third quarter was a record \\$51.2 bilion, up 66% from a year ago and up 25% sequentially,driven by three platform shifts - accelerated computing, powerful Al models,and agentic applications. Blackwel UItra is now our leading architecture across all customer categories while our prior Blackwellarchitecture saw continued strong demand. H2O sales were insignificant in the third quarter.",
+      "Data Center compute revenue was a record \\$43.0 billion, up 56% from a year ago and up 27% sequentially. Networking revenue was a record \\$8.2 bilion,up l62% from a year ago from the introduction and continued growth of NVLink compute fabric for GB2O0 and GB3OO systems. Networking revenue was up 13% sequentialy， driven by the growth of XDR InfiniBand products, NVLinkTM，and Ethernet for Al solutions，while shipment timing and supply availability varied compared to the prior quarter.",
+      "Gaming revenue for the third quarter was up 3O% from a year ago on the continued demand for Blackwell. Gaming revenue was down 1% sequentially as channel inventories have reached more normalized levels heading into the holiday season.",
+      "Professional Visualization revenue for the third quarter was up 56% from a year ago and up 26% sequentially,driven by the launch of our new DGX SparkTM as well as the growth of Blackwell sales.",
+      "Automotive revenue for the third quarter was up 32% from a year ago and up 1% sequentially,driven by continued adoption of our self-driving platforms.",
+      "GAAP operating expenses for the third quarter were up 36% from a year ago and up 8% sequentially, and non-GAAP operating expenses were up 38% from a year ago and up 11% sequentially. The increases were primarily driven by compute and infrastructure costs， higher compensation and benefits due to compensation increases and employee growth and engineering development costs for new product introductions.",
+      "Interest income for the third quarter was \\$624 milion,up from a year ago and sequentially, reflecting growth in cash,cash equivalents,and debt securities.Net other income for the third quarter was \\$1.4 billion,primarily driven by gains in non-marketable and publicly-held equity securities.",
+      "Cash,cash equivalents and marketable securities were \\$60.6 billon,up from \\$38.5 billion a year ago and \\$56.8 billion a quarter ago. The increases primarily reflect higher revenue，partially offset by stock repurchases.",
+      "Accounts receivable was \\$33.4 bilion with 53 days sales outstanding (DSO), down from 54 days sequentially, driven by timing of cash collections.",
+      "Inventory was \\$19.8 billion,up from \\$15.0 billon sequentilly,and total supply-related commitments were \\$50.3 billion.We are ordering to secure long lead-time components,meet the demand for Blackwell,and support future architecture ramps.",
+      "Multi-year cloud service agreements were \\$26.0 billion, up from \\$12.6 billon sequentialy, to support our research and development efforts and DGXTM Cloud offerings.",
+      "Cash flow from operating activities was \\$23.8 billon,up from \\$17.6 billion a year ago and up from \\$15.4 billion a quarter ago.The year-on-year and sequentialincreases reflect growth in revenue.",
+      "We returned \\$12.7 billion to shareholders in the third quarter through \\$12.5 billion of share repurchases and \\$243 million of cash dividends.",
+      "·Revenue is expected to be \\$65.0 billion, plus or minus 2%. GAAP and non-GAAP gross margins are expected to be 74.8% and 75.0%, respectively, plus or minus 50 basis points. GAAP and non-GAAP operating expenses are expected to be approximately \\$6.7 billon and \\$5.0 billion,respectively.",
+      "Certain statements in this CFO Commentaryincluding,but notlimited tostatements as to: expectations with respect to growth,performanceandbenefitsofourproducts,services,andtechnologies,incuding Blackwel,andrelatedtrendsand drivers;expectations withrespecttosupplyanddemandforourproducts,servicesandtechnologies,including lackwell, andrelated matersincluding inventory,productionanddistribution;expectationswithrespecttoNVIDA'sthirdparty arrangements,including with itscollaboratorsandpartners;expectations withrespecttotechnologydevelopmentsand relatedtrendsanddrivers;our financialandbusinessoutlook forthe fourthquarteroffiscal2O26andbeyond; projected market growth and trends; expectations with respect to Al and related industries;and other statements that are not historicalfactsare forward-looking statementswithin the meaning of Section 27Aof the Securities Actof 1933,as amended,andSection21Eof theSecurities Exchange Actof1934,asamended,whichare subjecttothe“safe harbor” created by those sections based on management's beliefs and assumptionsand on informationcurrentlyavailable to managementandare subject to risksand uncertainties that couldcause results to be materialy diferent than expectations.Important factors thatcould causeactual results to difermateriall include: global economicand political conditions;ourreliance on third parties to manufacture，assemble,package and test our products;the impact of technological developmentand competition;development of new products and technologies or enhancements to our existing product and technologies; market acceptance ofour products orour partners'products;design,manufacturing or softwaredefects;changes inconsumerpreferences ordemands;changes in industrystandardsandinterfaces;unexpected loss of performance ofour productsor technologies when integrated into systems;and changesin aplicable laws and regulations,as wellasotherfactorsdetailedfrom timeto timein themost recent reports NVIDIA fileswith the Securities and ExchangeCommision,orSEC,including,butnotlimited to,itsannual reportonForm10-Kandquarterlyreportson",
+      "Form10-Q.Copies of reports filed with the SECarepostedon thecompanys websiteandare available from NVIDIA without charge.These forward-looking statementsarenot guarantees offuture performance and speak onlyasof the date hereof, and,exceptasrequiredbylaw,NVIDIA disclaimsanyobligation toupdate these forward-looking statements toreflect future events or circumstances.",
+      "@ 2025 NVIDIACorporation.Allights reserved.NVIDIA.the NVDIA logo,DGXCloud,DGX Spark, HGX,Hopperand NVLink aretrademarksand/orregistered trademarks of NVIDIA Corporation in theU.S.and/orother countries.Other company and product names may be trademarks of the respective companies with which theyare asociated.Features，pricing, availability,and specifications are subject to change without notice.",
+      "\\*Tax expense included represents impact from OBBBA (One Big Beautiful Bill Act). \\*\\*ncludes H20charges/(releases),netwhichwere\\$4.5billion,(\\$180millon),and insignficant,forthefirst, second,and third quarter of fiscal 2o26,respectively."
+    ],
+    "key_metrics_mentioned": [
+      {
+        "metric_name": "data_center_revenue",
+        "value": 51.2,
+        "unit": "b",
+        "context": "Data Center revenue for the third quarter was a record \\$51.2 bilion, up 66% from a year ago and up 25% sequentially,driven by three platform shifts - accelerated computing, powerful Al models,and age"
+      },
+      {
+        "metric_name": "data_center_revenue",
+        "value": 43.0,
+        "unit": "b",
+        "context": "Data Center compute revenue was a record \\$43.0 billion, up 56% from a year ago and up 27% sequentially. Networking revenue was a record \\$8.2 bilion,up l62% from a year ago from the introduction and "
+      },
+      {
+        "metric_name": "cash_position",
+        "value": 1.4,
+        "unit": "b",
+        "context": "Interest income for the third quarter was \\$624 milion,up from a year ago and sequentially, reflecting growth in cash,cash equivalents,and debt securities.Net other income for the third quarter was \\$"
+      },
+      {
+        "metric_name": "cash_position",
+        "value": 60.6,
+        "unit": "b",
+        "context": "Cash,cash equivalents and marketable securities were \\$60.6 billon,up from \\$38.5 billion a year ago and \\$56.8 billion a quarter ago. The increases primarily reflect higher revenue，partially offset b"
+      },
+      {
+        "metric_name": "cash_position",
+        "value": 23.8,
+        "unit": "b",
+        "context": "Cash flow from operating activities was \\$23.8 billon,up from \\$17.6 billion a year ago and up from \\$15.4 billion a quarter ago.The year-on-year and sequentialincreases reflect growth in revenue."
+      },
+      {
+        "metric_name": "share_repurchases",
+        "value": 12.7,
+        "unit": "b",
+        "context": "We returned \\$12.7 billion to shareholders in the third quarter through \\$12.5 billion of share repurchases and \\$243 million of cash dividends."
+      },
+      {
+        "metric_name": "gross_margin",
+        "value": 2.0,
+        "unit": "",
+        "context": "·Revenue is expected to be \\$65.0 billion, plus or minus 2%. GAAP and non-GAAP gross margins are expected to be 74.8% and 75.0%, respectively, plus or minus 50 basis points. GAAP and non-GAAP operatin"
+      }
+    ]
+  },
+  "financial": {
+    "revenue": {
+      "total": {
+        "value": 43000.0,
+        "unit": "$M"
+      },
+      "data_center": {
+        "value": 51200.0,
+        "unit": "$M"
+      },
+      "gaming": null,
+      "professional_visualization": null,
+      "automotive": null,
+      "yoy_growth_pct": null,
+      "sequential_growth_pct": 22.0
+    },
+    "profitability": {
+      "gross_margin_gaap_pct": null,
+      "gross_margin_non_gaap_pct": null,
+      "operating_income_gaap": null,
+      "operating_income_non_gaap": null,
+      "operating_margin_pct": null,
+      "net_income_gaap": null,
+      "net_income_non_gaap": null
+    },
+    "per_share": {
+      "eps_gaap_diluted": null,
+      "eps_non_gaap_diluted": null
+    },
+    "cash_flow": {
+      "operating_cash_flow": null,
+      "free_cash_flow": null,
+      "capital_expenditure": null,
+      "share_repurchases": null,
+      "dividends": null
+    },
+    "balance_sheet": {
+      "cash_and_marketable_securities": null,
+      "inventory": null,
+      "accounts_receivable": null,
+      "total_debt": null,
+      "net_cash": null,
+      "dso_days": 53,
+      "dsi_days": null
+    }
+  },
+  "segments": {
+    "data_center": {
+      "revenue": null,
+      "yoy_growth_pct": null,
+      "sequential_growth_pct": null,
+      "compute_revenue": null,
+      "networking_revenue": null,
+      "key_drivers": [],
+      "customer_mix": {}
+    },
+    "gaming": {
+      "revenue": null,
+      "yoy_growth_pct": null,
+      "sequential_growth_pct": null,
+      "key_drivers": []
+    },
+    "professional_visualization": {
+      "revenue": null,
+      "yoy_growth_pct": 56.0,
+      "sequential_growth_pct": null,
+      "key_drivers": []
+    },
+    "automotive": {
+      "revenue": null,
+      "yoy_growth_pct": 32.0,
+      "sequential_growth_pct": null,
+      "key_drivers": []
+    }
+  },
+  "guidance": {
+    "next_quarter_revenue": null,
+    "next_quarter_revenue_range_pct": 2.0,
+    "gross_margin_gaap_pct": 74.8,
+    "gross_margin_non_gaap_pct": 75.0,
+    "opex_gaap": {
+      "value": 6700.0,
+      "unit": "$M"
+    },
+    "opex_non_gaap": {
+      "value": 5000.0,
+      "unit": "$M"
+    },
+    "tax_rate_pct": 17.0,
+    "raw_text": "Outlook for the fourth quarter of fiscal 2026 is as follows:\n\n·Revenue is expected to be \\$65.0 billion, plus or minus 2%. GAAP and non-GAAP gross margins are expected to be 74.8% and 75.0%, respectively, plus or minus 50 basis points. GAAP and non-GAAP operating expenses are expected to be approximately \\$6.7 billon and \\$5.0 billion,respectively.\n\nGAAP and non-GAAP other income and expense are expected to be an income of approximately \\$5Oo milion,excluding gains and losses from non-marketable and publicly-held equity securities.   \nGAAP and non-GAAP tax rates are expected to be 17.0%, plus or minus 1%, excluding any discrete items.\n\nFor further information, contact:\n\nToshiya Hari Investor Relations NVIDIA Corporation toshiyah@nvidia.com\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q3_CFO_Commentary/images/2555e75b41666c116855f56119bc5405f365aa53ce637f9cea30dc01bc4fc7b3.jpg)"
+  },
+  "qualitative": {
+    "key_announcements": [],
+    "technology_highlights": [
+      "Data Center revenue for the third quarter was a record \\$51.2 bilion, up 66% from a year ago and up 25% sequentially,driven by three platform shifts - accelerated computing, powerful Al models,and agentic applications. Blackwel UItra is now our leading architecture across all customer categories while our prior Blackwellarchitecture saw continued strong demand. H2O sales were insignificant in the third quarter.",
+      "Data Center compute revenue was a record \\$43.0 billion, up 56% from a year ago and up 27% sequentially. Networking revenue was a record \\$8.2 bilion,up l62% from a year ago from the introduction and continued growth of NVLink compute fabric for GB2O0 and GB3OO systems. Networking revenue was up 13% sequentialy， driven by the growth of XDR InfiniBand products, NVLinkTM，and Ethernet for Al solutions，while shipment timing and supply availability varied compared to the prior quarter.",
+      "Gaming revenue for the third quarter was up 3O% from a year ago on the continued demand for Blackwell. Gaming revenue was down 1% sequentially as channel inventories have reached more normalized levels heading into the holiday season.",
+      "Professional Visualization revenue for the third quarter was up 56% from a year ago and up 26% sequentially,driven by the launch of our new DGX SparkTM as well as the growth of Blackwell sales.",
+      "Automotive revenue for the third quarter was up 32% from a year ago and up 1% sequentially,driven by continued adoption of our self-driving platforms.",
+      "GAAP and non-GAAP gross margins for the third quarter decreased from a year ago as our business model transitioned from offering Hopper HGXTM systems to Blackwell full-scale datacenter solutions. As expected,our GAAP and non-GAAP gross margins increased sequentially as Blackwell ramped with an improved mix and cost structure.",
+      "GAAP operating expenses for the third quarter were up 36% from a year ago and up 8% sequentially, and non-GAAP operating expenses were up 38% from a year ago and up 11% sequentially. The increases were primarily driven by compute and infrastructure costs， higher compensation and benefits due to compensation increases and employee growth and engineering development costs for new product introductions.",
+      "Interest income for the third quarter was \\$624 milion,up from a year ago and sequentially, reflecting growth in cash,cash equivalents,and debt securities.Net other income for the third quarter was \\$1.4 billion,primarily driven by gains in non-marketable and publicly-held equity securities.",
+      "Accounts receivable was \\$33.4 bilion with 53 days sales outstanding (DSO), down from 54 days sequentially, driven by timing of cash collections.",
+      "Inventory was \\$19.8 billion,up from \\$15.0 billon sequentilly,and total supply-related commitments were \\$50.3 billion.We are ordering to secure long lead-time components,meet the demand for Blackwell,and support future architecture ramps.",
+      "Multi-year cloud service agreements were \\$26.0 billion, up from \\$12.6 billon sequentialy, to support our research and development efforts and DGXTM Cloud offerings.",
+      "Certain statements in this CFO Commentaryincluding,but notlimited tostatements as to: expectations with respect to growth,performanceandbenefitsofourproducts,services,andtechnologies,incuding Blackwel,andrelatedtrendsand drivers;expectations withrespecttosupplyanddemandforourproducts,servicesandtechnologies,including lackwell, andrelated matersincluding inventory,productionanddistribution;expectationswithrespecttoNVIDA'sthirdparty arrangements,including with itscollaboratorsandpartners;expectations withrespecttotechnologydevelopmentsand relatedtrendsanddrivers;our financialandbusinessoutlook forthe fourthquarteroffiscal2O26andbeyond; projected market growth and trends; expectations with respect to Al and related industries;and other statements that are not historicalfactsare forward-looking statementswithin the meaning of Section 27Aof the Securities Actof 1933,as amended,andSection21Eof theSecurities Exchange Actof1934,asamended,whichare subjecttothe“safe harbor” created by those sections based on management's beliefs and assumptionsand on informationcurrentlyavailable to managementandare subject to risksand uncertainties that couldcause results to be materialy diferent than expectations.Important factors thatcould causeactual results to difermateriall include: global economicand political conditions;ourreliance on third parties to manufacture，assemble,package and test our products;the impact of technological developmentand competition;development of new products and technologies or enhancements to our existing product and technologies; market acceptance ofour products orour partners'products;design,manufacturing or softwaredefects;changes inconsumerpreferences ordemands;changes in industrystandardsandinterfaces;unexpected loss of performance ofour productsor technologies when integrated into systems;and changesin aplicable laws and regulations,as wellasotherfactorsdetailedfrom timeto timein themost recent reports NVIDIA fileswith the Securities and ExchangeCommision,orSEC,including,butnotlimited to,itsannual reportonForm10-Kandquarterlyreportson",
+      "@ 2025 NVIDIACorporation.Allights reserved.NVIDIA.the NVDIA logo,DGXCloud,DGX Spark, HGX,Hopperand NVLink aretrademarksand/orregistered trademarks of NVIDIA Corporation in theU.S.and/orother countries.Other company and product names may be trademarks of the respective companies with which theyare asociated.Features，pricing, availability,and specifications are subject to change without notice."
+    ],
+    "risks_and_challenges": [
+      "Data Center compute revenue was a record \\$43.0 billion, up 56% from a year ago and up 27% sequentially. Networking revenue was a record \\$8.2 bilion,up l62% from a year ago from the introduction and continued growth of NVLink compute fabric for GB2O0 and GB3OO systems. Networking revenue was up 13% sequentialy， driven by the growth of XDR InfiniBand products, NVLinkTM，and Ethernet for Al solutions，while shipment timing and supply availability varied compared to the prior quarter.",
+      "GAAP effective tax rate for the third quarter was 15.9%,an increase from a year ago reflecting a lower percentage of tax benefits from stock-based compensation and U.S.federal research tax credit relative to the increase in income before income tax.Non-GAAP effective tax rate for the third quarter was 17.1%.",
+      "Inventory was \\$19.8 billion,up from \\$15.0 billon sequentilly,and total supply-related commitments were \\$50.3 billion.We are ordering to secure long lead-time components,meet the demand for Blackwell,and support future architecture ramps.",
+      "Certain statements in this CFO Commentaryincluding,but notlimited tostatements as to: expectations with respect to growth,performanceandbenefitsofourproducts,services,andtechnologies,incuding Blackwel,andrelatedtrendsand drivers;expectations withrespecttosupplyanddemandforourproducts,servicesandtechnologies,including lackwell, andrelated matersincluding inventory,productionanddistribution;expectationswithrespecttoNVIDA'sthirdparty arrangements,including with itscollaboratorsandpartners;expectations withrespecttotechnologydevelopmentsand relatedtrendsanddrivers;our financialandbusinessoutlook forthe fourthquarteroffiscal2O26andbeyond; projected market growth and trends; expectations with respect to Al and related industries;and other statements that are not historicalfactsare forward-looking statementswithin the meaning of Section 27Aof the Securities Actof 1933,as amended,andSection21Eof theSecurities Exchange Actof1934,asamended,whichare subjecttothe“safe harbor” created by those sections based on management's beliefs and assumptionsand on informationcurrentlyavailable to managementandare subject to risksand uncertainties that couldcause results to be materialy diferent than expectations.Important factors thatcould causeactual results to difermateriall include: global economicand political conditions;ourreliance on third parties to manufacture，assemble,package and test our products;the impact of technological developmentand competition;development of new products and technologies or enhancements to our existing product and technologies; market acceptance ofour products orour partners'products;design,manufacturing or softwaredefects;changes inconsumerpreferences ordemands;changes in industrystandardsandinterfaces;unexpected loss of performance ofour productsor technologies when integrated into systems;and changesin aplicable laws and regulations,as wellasotherfactorsdetailedfrom timeto timein themost recent reports NVIDIA fileswith the Securities and ExchangeCommision,orSEC,including,butnotlimited to,itsannual reportonForm10-Kandquarterlyreportson"
+    ],
+    "product_launches": [
+      "Professional Visualization revenue for the third quarter was up 56% from a year ago and up 26% sequentially,driven by the launch of our new DGX SparkTM as well as the growth of Blackwell sales."
+    ]
+  },
+  "chart_data": {
+    "total_charts_processed": 0,
+    "categorized_charts": {},
+    "chart_details": {}
+  },
+  "tables_extracted": [],
+  "data_sources": {
+    "sections_found": [
+      "_unclassified",
+      "revenue",
+      "gross_margin",
+      "expenses",
+      "cash_flow",
+      "outlook",
+      "reconciliation"
+    ],
+    "chart_categories": []
   }
 }

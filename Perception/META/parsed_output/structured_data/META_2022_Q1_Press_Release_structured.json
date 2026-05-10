@@ -1,13 +1,204 @@
 {
-  "pdf_name": "META_2022_Q1_Press_Release",
-  "source_file": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2022_Q1_Press_Release/META_2022_Q1_Press_Release.md",
-  "text_content": "# Meta Reports First Quarter 2022 Results\n\nMENLO PARK, Calif.,April 27,2022 /PRNewswire/--Meta Platforms,Inc. (Nasdaq: FB)today reported financial results for the quarter ended March 31, 2022.\n\n\"We made progress this quarter across a number of key company priorities and we remain confident in the longterm opportunities and growth that our product roadmap willunlock,\"said Mark Zuckerberg, Meta founder and CEO.\"More people use our services today than ever before,andI'm proud of how our products are serving people around the world.\"\n\nFirst Quarter 2022 Financial Highlights\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2022_Q1_Press_Release/images/54aecc4147898eef59476ef3060d97d0418b1022c3a3285f36f22e1bbc4a7ecb.jpg)\n\n# First Quarter 2022 Operational and Other Financial Highlights\n\n·Family daily active people(DAP)- DAP was 2.87 billion on average for March 2022,an increase of 6% yearover-year.   \n·Family monthly active people (MAP)-MAP was3.64 bilion as of March 31,2022,an increase of6% year-overyear.   \n·Facebook daily active users (DAUs)- DAUs were 1.96 bilion on average for March 2022,an increase of 4% year-over-year.   \n·Facebook monthly active users (MAUs)- MAUs were 2.94 billon as of March 31,2022,an increase of 3% yearover-year.   \n· Adimpressions and price perad -In the first quarter of 2022,ad impressions delivered across our Family of Apps increased by 15% year-over-year and the average price per ad decreased by 8% year-over-year.   \n·Capital expenditures - Capital expenditures,including principal payments on finance leases,were \\$5.55 billion for the first quarter of 2022.   \n· Share repurchases -We repurchased \\$9.39 billon of our ClassA common stock in the first quarter of 2022. As of March 31,2022, we had \\$29.41 bilion available and authorized for repurchases.   \n· Cash and cash equivalents and marketable securities - Cash and cash equivalents and marketable securities were \\$43.89 billion as of March 31,2022.   \n· Headcount - Headcount was 77,805 as of March 31, 2022,an increase of 28% year-over-year.\n\n# CFO Outlook Commentary\n\nWe expect second quarter 2022 total revenue to be in the range of \\$28-30 bilion.This outlook reflects a continuationofthetrends impacting revenue growth in thefirstquarter,including softnessin the back half of the firstquarter that coincided with the war in Ukraine. Our guidance assumes foreign currency willbe approximatelya 3% headwind to year-over-year growth in the second quarter,based on current exchange rates.\n\nInaddition,as notedonprevious cals,wecontinue to monitor developments regardingtheviabilityof transatlantic datatransfers and their potential impact on our European operations,and we are pleased with the progress on a political agreement.\n\nWeexpect 2022total expensestobeinthe rangeof\\$87-92billion,loweredfromour prior outlook of\\$90-95billion.   \nWe expect 2022 expense growth to be driven primarily by the Family of Apps segment,followed by Reality Labs.\n\nWe expect 2022 capital expenditures,including principal payments on finance leases,to bein the range of \\$29-34 billion, unchanged from our prior estimate.\n\nAbsent any changes to U.S.taxlaw, we expect our ful-year 2022 tax rate to be above thefirst quarter rate and in the high teens.\n\n# Webcast and Conference Call Information\n\nMeta will host aconferencecallto discuss the results at 2 p.m.PT/5 p.m.ET today.The live webcast of Meta's earningsconference callcan be accessedat investor.fb.com,along with the earnings press release,financial tables, and slide presentation.Meta uses the investor.fb.com and about.fb.com/news/ websites as wellas Mark Zuckerberg's Facebook Page (facebook.com/zuck) and Instagram account (instagram.com/zuck)as means of disclosing material non-public information and for complying with its disclosure obligations under Regulation FD.\n\nFollowing the call,a replay will be available attesame website.A telephonic replay will beavailable forone week following the conference callat +1 (416) 626-4100 or +1 (800) 558-5253,conference ID 22016731.\n\nTranscripts of conference cals with publishing equity research analysts held today willalso be posted to the investor.fb.com website.\n\n# About Meta\n\nMeta builds technologies that help people connect,find communities,and grow businesses.When Facebook launched in 2004,it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered bilions around the world.Now,Metais moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology.\n\n# Contacts\n\nInvestors:   \nDeborah Crawford   \ninvestor@fb.com /investor.fb.com   \nPress:   \nRyan Moore   \npress@fb.com /about.fb.com/news/\n\n# Forward-Looking Statements\n\nThis pres release contains forward-looking statements regarding our future business plansand expectations. These forward-looking statements are only predictions and may difer materiall fromactual ",
-  "tables": [],
-  "charts": [],
   "metadata": {
-    "total_images": 12,
-    "total_charts": 0,
-    "total_tables": 0,
-    "markdown_length": 13455
+    "company": "Meta Platforms",
+    "ticker": "META",
+    "pdf_name": "META_2022_Q1_Press_Release",
+    "year": 2022,
+    "quarter": "Q1",
+    "period_end": "2022-03-31",
+    "report_type": "Press Release",
+    "extraction_timestamp": "2026-05-10T20:39:28.400247",
+    "data_completeness": {
+      "text_sections_found": 6,
+      "charts_processed": 0,
+      "md_tables_found": 0,
+      "highlights_extracted": 18,
+      "metrics_extracted": 7
+    }
+  },
+  "highlights": {
+    "bullet_points": [
+      "Family daily active people(DAP)- DAP was 2.87 billion on average for March 2022,an increase of 6% yearover-year.",
+      "Family monthly active people (MAP)-MAP was3.64 bilion as of March 31,2022,an increase of6% year-overyear.",
+      "Facebook daily active users (DAUs)- DAUs were 1.96 bilion on average for March 2022,an increase of 4% year-over-year.",
+      "Facebook monthly active users (MAUs)- MAUs were 2.94 billon as of March 31,2022,an increase of 3% yearover-year.",
+      "Adimpressions and price perad -In the first quarter of 2022,ad impressions delivered across our Family of Apps increased by 15% year-over-year and the average price per ad decreased by 8% year-over-year.",
+      "Capital expenditures - Capital expenditures,including principal payments on finance leases,were \\$5.55 billion for the first quarter of 2022.",
+      "Share repurchases -We repurchased \\$9.39 billon of our ClassA common stock in the first quarter of 2022. As of March 31,2022, we had \\$29.41 bilion available and authorized for repurchases.",
+      "Cash and cash equivalents and marketable securities - Cash and cash equivalents and marketable securities were \\$43.89 billion as of March 31,2022.",
+      "Headcount - Headcount was 77,805 as of March 31, 2022,an increase of 28% year-over-year.",
+      "We expect second quarter 2022 total revenue to be in the range of \\$28-30 bilion.This outlook reflects a continuationofthetrends impacting revenue growth in thefirstquarter,including softnessin the back half of the firstquarter that coincided with the war in Ukraine. Our guidance assumes foreign currency willbe approximatelya 3% headwind to year-over-year growth in the second quarter,based on current exchange rates.",
+      "Weexpect 2022total expensestobeinthe rangeof\\$87-92billion,loweredfromour prior outlook of\\$90-95billion.",
+      "We expect 2022 expense growth to be driven primarily by the Family of Apps segment,followed by Reality Labs.",
+      "We expect 2022 capital expenditures,including principal payments on finance leases,to bein the range of \\$29-34 billion, unchanged from our prior estimate.",
+      "Meta will host aconferencecallto discuss the results at 2 p.m.PT/5 p.m.ET today.The live webcast of Meta's earningsconference callcan be accessedat investor.fb.com,along with the earnings press release,financial tables, and slide presentation.Meta uses the investor.fb.com and about.fb.com/news/ websites as wellas Mark Zuckerberg's Facebook Page (facebook.com/zuck) and Instagram account (instagram.com/zuck)as means of disclosing material non-public information and for complying with its disclosure obligations under Regulation FD.",
+      "Meta builds technologies that help people connect,find communities,and grow businesses.When Facebook launched in 2004,it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered bilions around the world.Now,Metais moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology.",
+      "This pres release contains forward-looking statements regarding our future business plansand expectations. These forward-looking statements are only predictions and may difer materiall fromactual results due to a variety offactors including: the impact of macroeconomic conditions on our business and financial results,including as a result of the ongoing COVID-19 pandemic and geopolitical events; our abilityto retain or increase users and engagement levels; our reliance on advertising revenue;our dependency on data signals and mobile operating systems,networks,and standards that we do not control; changes to the content or application of third-party",
+      "policiesthat impact our advertising practices; risks associated with new products and changes to existing products as wellas other new business initiatives,including our metaverse eforts; our emphasis on community growth and engagement and the user experience over short-term financial results; maintaining and enhancing our brand and reputation;our ongoing privacy,safety,security,and content review efforts; competition; risksassociated with government actions that could restrict accessto our products or impair our ability to sell advertising in certain countries;litigation and government inquiries; privacyand regulatory concerns; risks associated with acquisitions; securitybreaches; and our abilityto manage growth and geographicall-dispersed operations.These and other potential risks and uncertainties that could cause actual resultsto difer from theresults predicted are more fully detailed underthecaption \"Risk Factors\"inour Annual Reporton Form 10-Kfiled withthe SECon February3,2022, which is available on our Investor Relations website atinvestor.fb.com and on the SEC website at www.sec.gov. Additionalinformation willalso besetforth inour Quarterly Report on Form10-Qfor the quarter ended March 31, 2022.Inaddition, please note that the date of this press release is April 27,2022,and any forward-looking statements contained herein are based on assumptions that we believe to be reasonable as of this date.We undertake no obligation to update these statements as a result of newinformation or future events.",
+      "Foreign exchange efect on revenue.We translated revenue for the three months ended March 31,2022 using the prior year's monthly exchange rates forour settlement or billing currencies other than the U.S.dollar,which we believe is a useful metric that facilitates comparison to our historical performance."
+    ],
+    "key_metrics_mentioned": [
+      {
+        "metric_name": "dap",
+        "value": 2.87,
+        "unit": "billion",
+        "context": "Family daily active people(DAP)- DAP was 2.87 billion on average for March 2022,an increase of 6% yearover-year."
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 4.0,
+        "unit": "",
+        "context": "Facebook daily active users (DAUs)- DAUs were 1.96 bilion on average for March 2022,an increase of 4% year-over-year."
+      },
+      {
+        "metric_name": "ad_impressions_growth",
+        "value": 15.0,
+        "unit": "",
+        "context": "Adimpressions and price perad -In the first quarter of 2022,ad impressions delivered across our Family of Apps increased by 15% year-over-year and the average price per ad decreased by 8% year-over-ye"
+      },
+      {
+        "metric_name": "capex",
+        "value": 5.55,
+        "unit": "billion",
+        "context": "Capital expenditures - Capital expenditures,including principal payments on finance leases,were \\$5.55 billion for the first quarter of 2022."
+      },
+      {
+        "metric_name": "headcount",
+        "value": 77805.0,
+        "unit": "",
+        "context": "Headcount - Headcount was 77,805 as of March 31, 2022,an increase of 28% year-over-year."
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 28.0,
+        "unit": "",
+        "context": "Headcount - Headcount was 77,805 as of March 31, 2022,an increase of 28% year-over-year."
+      },
+      {
+        "metric_name": "capex",
+        "value": 34.0,
+        "unit": "billion",
+        "context": "We expect 2022 capital expenditures,including principal payments on finance leases,to bein the range of \\$29-34 billion, unchanged from our prior estimate."
+      }
+    ]
+  },
+  "financial": {
+    "revenue": {
+      "total": null,
+      "advertising": null,
+      "other_revenue": null,
+      "yoy_growth_pct": null,
+      "constant_currency_growth_pct": null,
+      "by_geography": {
+        "us_canada": null,
+        "europe": null,
+        "asia_pacific": null,
+        "rest_of_world": null
+      }
+    },
+    "profitability": {
+      "total_costs_and_expenses": null,
+      "cost_of_revenue": null,
+      "research_and_development": null,
+      "marketing_and_sales": null,
+      "general_and_administrative": null,
+      "income_from_operations": null,
+      "operating_margin_pct": null,
+      "net_income": null,
+      "effective_tax_rate_pct": null
+    },
+    "per_share": {
+      "eps_basic": null,
+      "eps_diluted": null
+    },
+    "cash_flow": {
+      "free_cash_flow": null,
+      "capital_expenditures": null,
+      "share_repurchases": null,
+      "dividends": null
+    },
+    "balance_sheet": {
+      "cash_and_marketable_securities": null,
+      "long_term_debt": null
+    }
+  },
+  "segments": {
+    "family_of_apps": {
+      "revenue": null,
+      "ad_revenue": null,
+      "other_revenue": null,
+      "expenses": null,
+      "operating_income": null,
+      "operating_margin_pct": null,
+      "yoy_growth_pct": null
+    },
+    "reality_labs": {
+      "revenue": null,
+      "expenses": null,
+      "operating_loss": null,
+      "yoy_growth_pct": null
+    }
+  },
+  "operational": {
+    "users": {
+      "family_dap_billions": 2.87,
+      "dap_yoy_growth_pct": null,
+      "threads_monthly_actives_millions": null
+    },
+    "advertising": {
+      "ad_impressions_yoy_pct": 15.0,
+      "average_price_per_ad_yoy_pct": null,
+      "top_vertical_driver": null
+    },
+    "headcount": 77805,
+    "headcount_yoy_growth_pct": 28.0
+  },
+  "guidance": {
+    "revenue_range": null,
+    "total_expenses_range": null,
+    "capex_range": null,
+    "tax_rate": null,
+    "reality_labs_commentary": null,
+    "raw_text": "We expect second quarter 2022 total revenue to be in the range of \\$28-30 bilion.This outlook reflects a continuationofthetrends impacting revenue growth in thefirstquarter,including softnessin the back half of the firstquarter that coincided with the war in Ukraine. Our guidance assumes foreign currency willbe approximatelya 3% headwind to year-over-year growth in the second quarter,based on current exchange rates.\n\nInaddition,as notedonprevious cals,wecontinue to monitor developments regardingtheviabilityof transatlantic datatransfers and their potential impact on our European operations,and we are pleased with the progress on a political agreement.\n\nWeexpect 2022total expensestobeinthe rangeof\\$87-92billion,loweredfromour prior outlook of\\$90-95billion.   \nWe expect 2022 expense growth to be driven primarily by the Family of Apps segment,followed by Reality Labs.\n\nWe expect 2022 capital expenditures,including principal payments on finance leases,to bein the range of \\$29-34 billion, unchanged from our prior estimate.\n\nAbsent any changes to U.S.taxlaw, we expect our ful-year 2022 tax rate to be above thefirst quarter rate and in the high teens.\nWe expect second quarter 2022 total revenue to be in the range of \\$28-30 bilion.\nWe expect 2022 expense growth to be driven primarily by the Family of Apps segment,followed by Reality Labs.\nWe expect 2022 capital expenditures,including principal payments on finance leases,to bein the range of \\$29-34 billion, unchanged from our prior estimate.\nwe expect our ful-year 2022 tax rate to be above thefirst quarter rate and in the high teens.\n"
+  },
+  "qualitative": {
+    "ceo_highlights": [],
+    "ai_initiatives": [],
+    "product_updates": [
+      "·Facebook daily active users (DAUs)- DAUs were 1.96 bilion on average for March 2022,an increase of 4% year-over-year.",
+      "·Facebook monthly active users (MAUs)- MAUs were 2.94 billon as of March 31,2022,an increase of 3% yearover-year.",
+      "Meta will host aconferencecallto discuss the results at 2 p.m.PT/5 p.m.ET today.The live webcast of Meta's earningsconference callcan be accessedat investor.fb.com,along with the earnings press release,financial tables, and slide presentation.Meta uses the investor.fb.com and about.fb.com/news/ websites as wellas Mark Zuckerberg's Facebook Page (facebook.com/zuck) and Instagram account (instagram.com/zuck)as means of disclosing material non-public information and for complying with its disclosure obligations under Regulation FD.",
+      "Meta builds technologies that help people connect,find communities,and grow businesses.When Facebook launched in 2004,it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered bilions around the world.Now,Metais moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology.",
+      "We report our financial results forour two reportable segments: Family of Apps (FoA)and Reality Labs (RL). FoA includes Facebook,Instagram,Messenger,WhatsApp,and other services.RL includes augmented and virtual reality related consumer hardware, software,and content."
+    ],
+    "risks_and_challenges": [
+      "· Adimpressions and price perad -In the first quarter of 2022,ad impressions delivered across our Family of Apps increased by 15% year-over-year and the average price per ad decreased by 8% year-over-year.",
+      "We expect second quarter 2022 total revenue to be in the range of \\$28-30 bilion.This outlook reflects a continuationofthetrends impacting revenue growth in thefirstquarter,including softnessin the back half of the firstquarter that coincided with the war in Ukraine. Our guidance assumes foreign currency willbe approximatelya 3% headwind to year-over-year growth in the second quarter,based on current exchange rates.",
+      "policiesthat impact our advertising practices; risks associated with new products and changes to existing products as wellas other new business initiatives,including our metaverse eforts; our emphasis on community growth and engagement and the user experience over short-term financial results; maintaining and enhancing our brand and reputation;our ongoing privacy,safety,security,and content review efforts; competition; risksassociated with government actions that could restrict accessto our products or impair our ability to sell advertising in certain countries;litigation and government inquiries; privacyand regulatory concerns; risks associated with acquisitions; securitybreaches; and our abilityto manage growth and geographicall-dispersed operations.These and other potential risks and uncertainties that could cause actual resultsto difer from theresults predicted are more fully detailed underthecaption \"Risk Factors\"inour Annual Reporton Form 10-Kfiled withthe SECon February3,2022, which is available on our Investor Relations website atinvestor.fb.com and on the SEC website at www.sec.gov. Additionalinformation willalso besetforth inour Quarterly Report on Form10-Qfor the quarter ended March 31, 2022.Inaddition, please note that the date of this press release is April 27,2022,and any forward-looking statements contained herein are based on assumptions that we believe to be reasonable as of this date.We undertake no obligation to update these statements as a result of newinformation or future events.",
+      "Net cash used in financing activities Effect of exchange rate changes on cash,cash equivalents,and restricted cash Net increase (decrease) in cash,cash equivalents,and restricted cash Cash,cash equivalents,and restricted cash at beginning of the period Cash,cash equivalents,and restricted cash at end of the perioc",
+      "Reconciliation of cash,cash equivalents,and restricted cash to the condensed consolidated balance sheets",
+      "Restricted cash,included in prepaid expenses and other current assets",
+      "Restricted cash,included in other assets",
+      "Total cash,cash equivalents,and restricted cash",
+      "The following table presents our segment information of revenue and income(loss)from operations.For comparative purposes,amounts in the prior period have been recast:",
+      "Income (loss) from operations:"
+    ]
+  },
+  "chart_data": {
+    "total_charts_processed": 0,
+    "categorized_charts": {},
+    "chart_details": {}
+  },
+  "tables_extracted": [],
+  "data_sources": {
+    "sections_found": [
+      "highlights",
+      "guidance",
+      "_unclassified",
+      "about",
+      "reconciliation",
+      "segment_results"
+    ],
+    "chart_categories": []
   }
 }

@@ -1,13 +1,264 @@
 {
-  "pdf_name": "NVDA_FY25_Q4_Presentation",
-  "source_file": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q4_Presentation/NVDA_FY25_Q4_Presentation.md",
-  "text_content": "# Investor Presentation Q4 FY25 ,0 March 2025\n\nlooking statements.\n\ni e tes\n\nfuture velsof activity chieve vents and circumstances reflected forward-looking statements Except as required by law, NvIDlA disclaims any obligation to ei SEC are posted on NVIDIA's website and are available from NVIDlA without charge\n\nMany of the products and featu not be interpreted as a commitment,promise,or legal obligation,and the dev ease,and timi descr products is subject to change an nains at the sole discretion of NVIDIA. NVIDlA will have no liability for failure\n\nt G GAAP measures, may be found in the slide titled “Reconciliation of Non-GAAP to GAAP Financial Measures\"\n\n#\n\n# Content\n\nQ4 FY25 Earnings Summary\n\nKey Announcements This Quarter\n\nReconciliationof Non-GAAP to GAAP Financial Measures\n\n# Q4 FY25 Earnings Summary\n\n# Highlights\n\n# Record quarter driven primarily by strong Data Center growth\n\nTotal revenue up 78% Y/Y to \\$39.3B, above outlook of \\$37.5B +/- 2%   \n· Record Data Center up 93% Y/Y to \\$35.6B   \nGaming down 11% Y/Y to \\$2.5B\n\n# Data Center revenue driven by Blackwell ramp and H2oo growth\n\n·Delivered \\$11B of Blackwell revenue; fastest product ramp in company's history Blackwellproductioninfullgearacrossmultipleconfigurations;increasingsuppyquicklytomeet expandingcustomeradoption Customers racing toscale NVIDIAinfrastructure to train next gencuting-edge models,unlock next levelof Alcapabilities   \nPost training and model customization fueling demand for NVIDIA infrastructure and software Inference demand is accelerating, driven by test-time scaling and new reasoning models\n\n# Gaming end demand remained strong; shipments impacted by supply constraints\n\nExpect strong q/q growth in Q1 as supply increases Launched new GeForce RTX 5O Series Desktop and Laptop GPUs\n\n# Q4 FY25 Financial Summary\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q4_Presentation/images/46cb68ec8a809b7c0d6028aa476ce2ce2126d39a09af42112c45aa2e837ad9aa.jpg)  \nAll dollarfiguresareinmillionsotherthan EPS.RefertoAppendixforreconciliationof Non-GAAPmeasures.\n\n# DataCenter\n\n# Highlights\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q4_Presentation/images/9632ffdb8539bc817692e4195d86f84fab83a96d04fe24f081a6e8a5b9758664.jpg)  \nRevenue (\\$M)\n\nData center compute revenue jumped 18% q/q and over 2x y/y   \nLarge CSPs represented about half of Data Center revenue with   \nsales up nearly 2x y/y Azure, GCP, AWS,and OCl some of the first to stand up Blackwell GB200   \nBlackwell has great demand for inference. Many early GB200   \ndeployments are earmarked for inference,a first for a new   \narchitecture   \nRegional clouds hosting NVIDlA GPUs increased as a percentage of   \nData Center revenue reflecting continued Al Factory buildouts   \nConsumer internet grew 3x y/y driven by an expanding set of   \ngenerative Al and deep learning use cases   \nEnterprise increased nearly 2x y/y on accelerating demand for model   \nfine-tuning, RAG and agentic Al workflows,and data processing   \nSpectrum-X and NVLink switch revenue increased and represents a   \nmajor new growth vector\n\n# Gaming\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q4_Presentation/images/17102252708c97b67c526d13fd9f4dbc82c3ba6fb1eb79eddc418bcc2760e06a.jpg)  \nRevenue (\\$M)\n\n# Highlights\n\nEnd demand remained strong throughout the holiday however shipments were impacted by supply constraints\n\nExpect strong q/q growth in Q1 as supply increases\n\nNew GeForce RTX 50 Series Desktop and Laptop GPUs are here Feature up to 3,400 Al TOPS Deliver up to 2x performance leap and new Al-driven rendering\n\nNew DLSS 4 boosts frame rates up to 8x\n\nAl-driven frame generation turns one rendered frame into three Industry's first real-time application of transformer models - 2x more parameters,4x the compute\n\nAnnounced a wave of GeForce Blackwell laptop GPUs - new Max-Q technology extends battery life by up to 40%\n\n# Professional Visualization\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q4_Presentation/images/0bd40dccf2c3bdae72c63e98defcb3b045849c31ce2a1859a7a279fc6110710a.jpg)  \nRevenue (\\$M)\n\n# Highlights\n\nKey industry verticals driving demand include automotive and healthcare\n\nNVIDIA technologies and gen Al are reshaping design, engineering and simulation workloads, and being leveraged in leading software platforms from Ansys, Cadence,and Siemens, fueling demand for NVIDIA RTX workstations\n\n# Automotive\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q4_Presentation/images/36b85954775b53f183aabb75aa700883173ec729d62558f26c52f090e7229ee9.jpg)  \nRevenue (\\$M)\n\n# Highlights\n\nRecord Auto revenue - strong growth driven by continued ramp in autonomous vehicles including cars and robotaxis Toyota will bu",
-  "tables": [],
-  "charts": [],
   "metadata": {
-    "total_images": 17,
-    "total_charts": 0,
-    "total_tables": 0,
-    "markdown_length": 15808
+    "company": "NVIDIA",
+    "ticker": "NVDA",
+    "pdf_name": "NVDA_FY25_Q4_Presentation",
+    "fiscal_year": 2025,
+    "quarter": "Q4",
+    "period_end": "2025-01-31",
+    "calendar_year": 2024,
+    "report_type": "Investor Presentation",
+    "extraction_timestamp": "2026-05-10T20:39:21.822334",
+    "data_completeness": {
+      "text_sections_found": 8,
+      "charts_processed": 0,
+      "md_tables_found": 0,
+      "highlights_extracted": 31,
+      "metrics_extracted": 7
+    }
+  },
+  "highlights": {
+    "bullet_points": [
+      "Total revenue up 78% Y/Y to \\$39.3B, above outlook of \\$37.5B +/- 2%",
+      "· Record Data Center up 93% Y/Y to \\$35.6B",
+      "Gaming down 11% Y/Y to \\$2.5B",
+      "# Data Center revenue driven by Blackwell ramp and H2oo growth",
+      "·Delivered \\$11B of Blackwell revenue; fastest product ramp in company's history Blackwellproductioninfullgearacrossmultipleconfigurations;increasingsuppyquicklytomeet expandingcustomeradoption Customers racing toscale NVIDIAinfrastructure to train next gencuting-edge models,unlock next levelof Alcapabilities",
+      "Expect strong q/q growth in Q1 as supply increases Launched new GeForce RTX 5O Series Desktop and Laptop GPUs",
+      "Data center compute revenue jumped 18% q/q and over 2x y/y",
+      "sales up nearly 2x y/y Azure, GCP, AWS,and OCl some of the first to stand up Blackwell GB200",
+      "Blackwell has great demand for inference. Many early GB200",
+      "Consumer internet grew 3x y/y driven by an expanding set of",
+      "Expect strong q/q growth in Q1 as supply increases",
+      "New GeForce RTX 50 Series Desktop and Laptop GPUs are here Feature up to 3,400 Al TOPS Deliver up to 2x performance leap and new Al-driven rendering",
+      "New DLSS 4 boosts frame rates up to 8x",
+      "Al-driven frame generation turns one rendered frame into three Industry's first real-time application of transformer models - 2x more parameters,4x the compute",
+      "Announced a wave of GeForce Blackwell laptop GPUs - new Max-Q technology extends battery life by up to 40%",
+      "Utilized cash of \\$8.1B towards shareholder returns,including \\$7.8B in share repurchases and \\$245M in cash dividends",
+      "Invested \\$1.1B in capex (includes principal payments on PP&E)",
+      "# NVIDIA Blackwell GeForce RTX 50 Series Opens New World of Al Computer Graphics",
+      "Announced new GeForce RTX 50 Series Desktop and Laptop GPUs for gamers,creators and developers",
+      "Powered by NVIDlA Blackwell architecture, 5th gen Tensor Cores and",
+      "Features up to 3,400 Al TOPS",
+      "Delivers up to 2x performance leap",
+      "New DLSS 4 boosts frame rates up to 8x",
+      "Announced new GeForce Blackwell laptops New NVIDlA Max-Q technology extends battery life by up to 40% Available starting in March",
+      "92 billion transistors with 3,352 Al TOPS 2x faster than RTX 4090 with DLSS 4 Available starting on Jan. 30 at \\$1,999",
+      "RTX 50 Series GPUs - first consumer GPUs to support FP4 precision",
+      "Boosts Al inference performance by 2x Enables gen Al models to run locally in a smaller memory footprint",
+      "A single system is capable of running up to 2OOB parameter LLMs,",
+      "can be linked to run up to 405B parameter models",
+      "GB10 Superchip",
+      "NVIDIA Al and CUDA-accelerated data processing pipeline -enables developers to process,curate and label 2oM hours of videos in 14 days instead of 3.4 years using a CPU-only pipeline"
+    ],
+    "key_metrics_mentioned": [
+      {
+        "metric_name": "total_revenue",
+        "value": 39.3,
+        "unit": "B",
+        "context": "Total revenue up 78% Y/Y to \\$39.3B, above outlook of \\$37.5B +/- 2%"
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 78.0,
+        "unit": "",
+        "context": "Total revenue up 78% Y/Y to \\$39.3B, above outlook of \\$37.5B +/- 2%"
+      },
+      {
+        "metric_name": "data_center_revenue",
+        "value": 35.6,
+        "unit": "B",
+        "context": "· Record Data Center up 93% Y/Y to \\$35.6B"
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 93.0,
+        "unit": "",
+        "context": "· Record Data Center up 93% Y/Y to \\$35.6B"
+      },
+      {
+        "metric_name": "gaming_revenue",
+        "value": 2.5,
+        "unit": "B",
+        "context": "Gaming down 11% Y/Y to \\$2.5B"
+      },
+      {
+        "metric_name": "share_repurchases",
+        "value": 8.1,
+        "unit": "B",
+        "context": "Utilized cash of \\$8.1B towards shareholder returns,including \\$7.8B in share repurchases and \\$245M in cash dividends"
+      },
+      {
+        "metric_name": "cash_position",
+        "value": 8.1,
+        "unit": "B",
+        "context": "Utilized cash of \\$8.1B towards shareholder returns,including \\$7.8B in share repurchases and \\$245M in cash dividends"
+      }
+    ]
+  },
+  "financial": {
+    "revenue": {
+      "total": null,
+      "data_center": {
+        "value": 39300.0,
+        "unit": "$M"
+      },
+      "gaming": {
+        "value": 2500.0,
+        "unit": "$M"
+      },
+      "professional_visualization": null,
+      "automotive": null,
+      "yoy_growth_pct": 78.0,
+      "sequential_growth_pct": null
+    },
+    "profitability": {
+      "gross_margin_gaap_pct": null,
+      "gross_margin_non_gaap_pct": null,
+      "operating_income_gaap": null,
+      "operating_income_non_gaap": null,
+      "operating_margin_pct": null,
+      "net_income_gaap": null,
+      "net_income_non_gaap": null
+    },
+    "per_share": {
+      "eps_gaap_diluted": null,
+      "eps_non_gaap_diluted": null
+    },
+    "cash_flow": {
+      "operating_cash_flow": null,
+      "free_cash_flow": null,
+      "capital_expenditure": {
+        "value": 43200.0,
+        "unit": "$M"
+      },
+      "share_repurchases": {
+        "value": 7800.0,
+        "unit": "$M"
+      },
+      "dividends": {
+        "value": 245.0,
+        "unit": "$M"
+      }
+    },
+    "balance_sheet": {
+      "cash_and_marketable_securities": null,
+      "inventory": null,
+      "accounts_receivable": null,
+      "total_debt": {
+        "value": 8500.0,
+        "unit": "$M"
+      },
+      "net_cash": {
+        "value": 34700.0,
+        "unit": "$M"
+      },
+      "dso_days": null,
+      "dsi_days": null
+    }
+  },
+  "segments": {
+    "data_center": {
+      "revenue": null,
+      "yoy_growth_pct": 93.0,
+      "sequential_growth_pct": null,
+      "compute_revenue": null,
+      "networking_revenue": null,
+      "key_drivers": [
+        "Total revenue up 78% Y/Y to \\$39.3B, above outlook of \\$37.5B +/- 2%",
+        "Record Data Center up 93% Y/Y to \\$35.6B",
+        "Gaming down 11% Y/Y to \\$2.5B",
+        "Delivered \\$11B of Blackwell revenue; fastest product ramp in company's history Blackwellproductioninfullgearacrossmultipleconfigurations;increasingsuppyquicklytomeet expandingcustomeradoption Customers racing toscale NVIDIAinfrastructure to train next gencuting-edge models,unlock next levelof Alcapabilities",
+        "Post training and model customization fueling demand for NVIDIA infrastructure and software Inference demand is accelerating, driven by test-time scaling and new reasoning models"
+      ],
+      "customer_mix": {}
+    },
+    "gaming": {
+      "revenue": null,
+      "yoy_growth_pct": null,
+      "sequential_growth_pct": null,
+      "key_drivers": [
+        "Expect strong q/q growth in Q1 as supply increases Launched new GeForce RTX 5O Series Desktop and Laptop GPUs"
+      ]
+    },
+    "professional_visualization": {
+      "revenue": null,
+      "yoy_growth_pct": null,
+      "sequential_growth_pct": null,
+      "key_drivers": []
+    },
+    "automotive": {
+      "revenue": null,
+      "yoy_growth_pct": null,
+      "sequential_growth_pct": null,
+      "key_drivers": []
+    }
+  },
+  "guidance": {
+    "next_quarter_revenue": null,
+    "next_quarter_revenue_range_pct": null,
+    "gross_margin_gaap_pct": null,
+    "gross_margin_non_gaap_pct": null,
+    "opex_gaap": null,
+    "opex_non_gaap": null,
+    "tax_rate_pct": null,
+    "raw_text": "outlook of \\$37.5B +/- 2%   \n· Record Data Center up 93% Y/Y to \\$35.6B   \nGaming down 11% Y/Y to \\$2.5B\n\n"
+  },
+  "qualitative": {
+    "key_announcements": [],
+    "technology_highlights": [
+      "# Record quarter driven primarily by strong Data Center growth",
+      "# Data Center revenue driven by Blackwell ramp and H2oo growth",
+      "·Delivered \\$11B of Blackwell revenue; fastest product ramp in company's history Blackwellproductioninfullgearacrossmultipleconfigurations;increasingsuppyquicklytomeet expandingcustomeradoption Customers racing toscale NVIDIAinfrastructure to train next gencuting-edge models,unlock next levelof Alcapabilities",
+      "Post training and model customization fueling demand for NVIDIA infrastructure and software Inference demand is accelerating, driven by test-time scaling and new reasoning models",
+      "sales up nearly 2x y/y Azure, GCP, AWS,and OCl some of the first to stand up Blackwell GB200",
+      "Blackwell has great demand for inference. Many early GB200",
+      "Consumer internet grew 3x y/y driven by an expanding set of",
+      "Spectrum-X and NVLink switch revenue increased and represents a",
+      "New GeForce RTX 50 Series Desktop and Laptop GPUs are here Feature up to 3,400 Al TOPS Deliver up to 2x performance leap and new Al-driven rendering",
+      "Al-driven frame generation turns one rendered frame into three Industry's first real-time application of transformer models - 2x more parameters,4x the compute",
+      "Announced a wave of GeForce Blackwell laptop GPUs - new Max-Q technology extends battery life by up to 40%",
+      "Record Auto revenue - strong growth driven by continued ramp in autonomous vehicles including cars and robotaxis Toyota will build its next-generation vehicles on NVIDlA Orin Aurora and Continental will deploy driverless trucks at scale powered by NVIDIA DRIVE Thor Hyundai Motor Group adopting NVIDIA technologies to accelerate AV and robotics development",
+      "Q/Q decline driven by higher accounts receivable balance due to shipment linearity and increased inventory to support Blackwell ramp",
+      "# NVIDIA Blackwell GeForce RTX 50 Series Opens New World of Al Computer Graphics",
+      "Powered by NVIDlA Blackwell architecture, 5th gen Tensor Cores and",
+      "Announced new GeForce Blackwell laptops New NVIDlA Max-Q technology extends battery life by up to 40% Available starting in March",
+      "# NVIDIA Project DIGITS Puts Grace Blackwell on Every Desk and at Every Al Developer's Fingertips",
+      "NVIDIA Project DIGITS is a personal Al supercomputer that provides millions of Al researchers, data scientists and students with access to the power of the NVIDlA Grace Blackwell platform",
+      "Runs the NVIDIA stack, features the new NVIDIA GB10 Grace",
+      "NVIDIA Al and CUDA-accelerated data processing pipeline -enables developers to process,curate and label 2oM hours of videos in 14 days instead of 3.4 years using a CPU-only pipeline"
+    ],
+    "risks_and_challenges": [
+      "Expect strong q/q growth in Q1 as supply increases Launched new GeForce RTX 5O Series Desktop and Laptop GPUs",
+      "Expect strong q/q growth in Q1 as supply increases"
+    ],
+    "product_launches": [
+      "Expect strong q/q growth in Q1 as supply increases Launched new GeForce RTX 5O Series Desktop and Laptop GPUs",
+      "Announced a wave of GeForce Blackwell laptop GPUs - new Max-Q technology extends battery life by up to 40%",
+      "Announced new GeForce RTX 50 Series Desktop and Laptop GPUs for gamers,creators and developers",
+      "Announced new GeForce Blackwell laptops New NVIDlA Max-Q technology extends battery life by up to 40% Available starting in March",
+      "# NVIDIA Launches Cosmos World Foundation Model Platform to Accelerate Physical Al and Robotics Development",
+      "Announced generative Al models and blueprints that expand NVIDIA Omniverse integration further into physical Al apps such as robotics, autonomous vehicles (AV) and vision Al",
+      "Announced long-term strategic partnerships with Aurora and Continental to deploy driverless trucks at scale, powered by NVIDIA DRIVE"
+    ]
+  },
+  "chart_data": {
+    "total_charts_processed": 0,
+    "categorized_charts": {},
+    "chart_details": {}
+  },
+  "tables_extracted": [],
+  "data_sources": {
+    "sections_found": [
+      "highlights",
+      "_unclassified",
+      "data_center",
+      "gaming",
+      "professional_visualization",
+      "automotive",
+      "cash_flow",
+      "reconciliation"
+    ],
+    "chart_categories": []
   }
 }

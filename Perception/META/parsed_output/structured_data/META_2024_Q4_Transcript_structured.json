@@ -1,13 +1,274 @@
 {
-  "pdf_name": "META_2024_Q4_Transcript",
-  "source_file": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2024_Q4_Transcript/META_2024_Q4_Transcript.md",
-  "text_content": "# Meta Platforms, Inc.(META) Fourth Quarter 2024 Results Conference Call January 29th,2025\n\nKenneth Dorell, Director, Investor Relations\n\nThank you. Good afternoon and welcome to Meta Platforms fourth quarter and full year 2024 earnings conference call.Joining me today to discuss our results are Mark Zuckerberg,CEO and Susan Li, CFO.\n\nBefore we get started,Iwould like to take this opportunity to remind you that our remarks today will include forward-looking statements. Actual results may differ materially from those contemplated by these forward-looking statements.\n\nFactors that could cause these results to differ materially are set forth in today's earnings press release,and in our quarterly report on form 10-Q filed with the SEC. Any forward-looking statements that we make on this callare based on assumptions as of today and we undertake no obligation to update these statements as a result of new information or future events.\n\nDuring this callwe will present both GAAP and certain non-GAAP financial measures. A reconciliation of GAAP to non-GAAP measures is included in today's earnings press release.The earnings press release and an accompanying investor presentation are available on our website at investor.atmeta.com.\n\nAnd now,I'd like to turn the call over to Mark.\n\n# Mark Zuckerberg, CEO\n\nThanks Ken and thanks everyone for joining today.\n\nWe ended 2O24 on a strong note with now more than 3.3 bilion people using at least one of our apps each day.This is going to be a really big year.Iknow it always feels like every year is a big year,but more than usualit feelslike the trajectory for most of our long-term initiatives is going to be a lot clearer by the end of this year.So I keep telling our teams that this is going to be intense, because we have about 48 weeks to get on the trajectory that we want to be on.\n\nIn Al,lexpect this is going to be the year whena highly intelligent and personalized Al assistant reaches more than 1 bilion people,and lexpect Meta Al to be that leading Al assistant. Meta Al is already used by more people than any other assistant,and once a service reaches that kind of scale itusually develops a durable long-term advantage.We have a really exciting roadmap for this year with a unique vision focused on personalization.We believe that people don't allwant to use the same Al -- people want their Al to be personalized to their context, their interests,their personality,their culture,and how they think about the world.Idon't think that there's just going to be one big Al that everyone uses that does the same thing.People are going to get to choose how their Al works and what it lookslike for them.Icontinue to think that this is going to be one of the most transformative products that we've made.We have some fun surprises that Ithink people are going to like this year.\n\nIthink this will very wellbe the year when Llama and open source become the most advanced and widely used Al models as well.Llama 4 is making great progress in training.Llama 4 mini is done with pre-training and our reasoning models and larger model are looking good too. Our goal with Llama 3 was to make open source competitive with closed models,and our goalfor Llama 4 is to lead.Llama 4 will be natively multimodal -- it's an omni-model -- and it willhave agentic capabilities,so it's going to be novel and it's going to unlock a lot of new use cases.I'm looking forward to sharing more of our plan for the year on that over the next couple of months.\n\nlalso expect that 2O25 will be the year when it becomes possible to build an Al engineering agent that has coding and problem-solving abilities of around a good mid-level engineer.This is going to be a profound milestone and potentially one of the most important innovations in history,as well as over time,potentially a very large market.Whichever company builds this first Ithink is going to have a meaningful advantage in deploying it to advance their Al research and shape the field.So that's another reason why Ithink that this year is going to set the course for the future.\n\nOur Ray-Ban Meta Al glasses are a real hit,and this willbe the year when we understand the trajectory for Al glasses as a category. Many breakout products in the history of consumer electronics have sold 5-1O milion units in their third generation.This will be a defining year that determines if we're on a path towards many hundreds of millions and eventually billons of Al glasses -- and glasses being the next computing platform like we've been talking about for some time -- or if this is just going to be a longer grind.But it's great overall to see people recognizing that these glasses are the perfect form factor for Al-- as wellas just great,stylish glasses.\n\nThese are all big investments -- especially the hundreds of billions of dollars that we willinvest in Alinfrastructure over the long term.lannounced last week that we expect to bring online almost 1GW of capacity this year,and we're building a 2GW an",
-  "tables": [],
-  "charts": [],
   "metadata": {
-    "total_images": 0,
-    "total_charts": 0,
-    "total_tables": 0,
-    "markdown_length": 53452
+    "company": "Meta Platforms",
+    "ticker": "META",
+    "pdf_name": "META_2024_Q4_Transcript",
+    "year": 2024,
+    "quarter": "Q4",
+    "period_end": "2024-12-31",
+    "report_type": "Earnings Transcript",
+    "extraction_timestamp": "2026-05-10T20:39:27.309313",
+    "data_completeness": {
+      "text_sections_found": 4,
+      "charts_processed": 0,
+      "md_tables_found": 0,
+      "highlights_extracted": 50,
+      "metrics_extracted": 7
+    }
+  },
+  "highlights": {
+    "bullet_points": [
+      "Ithink this will very wellbe the year when Llama and open source become the most advanced and widely used Al models as well.Llama 4 is making great progress in training.Llama 4 mini is done with pre-training and our reasoning models and larger model are looking good too. Our goal with Llama 3 was to make open source competitive with closed models,and our goalfor Llama 4 is to lead.Llama 4 will be natively multimodal -- it's an omni-model -- and it willhave agentic capabilities,so it's going to be novel and it's going to unlock a lot of new use cases.I'm looking forward to sharing more of our plan for the year on that over the next couple of months.",
+      "Our Ray-Ban Meta Al glasses are a real hit,and this willbe the year when we understand the trajectory for Al glasses as a category. Many breakout products in the history of consumer electronics have sold 5-1O milion units in their third generation.This will be a defining year that determines if we're on a path towards many hundreds of millions and eventually billons of Al glasses -- and glasses being the next computing platform like we've been talking about for some time -- or if this is just going to be a longer grind.But it's great overall to see people recognizing that these glasses are the perfect form factor for Al-- as wellas just great,stylish glasses.",
+      "These are all big investments -- especially the hundreds of billions of dollars that we willinvest in Alinfrastructure over the long term.lannounced last week that we expect to bring online almost 1GW of capacity this year,and we're building a 2GW and potentially bigger Al datacenter that is so big that it'llcover a significant part of Manhattan if it were placed there.",
+      "There are a number of other important product trends related to our family of apps that Ithink we're going to know more about this year as well. We're going to learn what's going to happen with TikTok,and regardless of that lexpect Reels on Instagram and Facebook to continue growing.lexpect Threads to continue on its trajectory to become the leading discussion platform and eventually reach 1billion people over the next several years.Threads now has more than 320 million monthly actives and has been adding more than 1 milion sign-ups per day.lexpect WhatsApp to continue gaining share and making progress towards becoming the leading messaging platform in the US like it is in a lot of the rest of the world.WhatsApp now has more than 10O millon monthly actives in the US.Facebook is used by more than 3 billion monthly actives and we're focused on growing its culturalinfluence.l'm excited this year to get back to some OG Facebook.",
+      "Q4 total revenue was \\$48.4 bilion, up 21% on both a reported and constant currency basis.",
+      "Q4 total expenses were \\$25.0 billion, up 5% compared to last year. Before I cover the specific cost lines,I would note that our fourth quarter expense growth rate reflects a 13 percentage point favorable impact from legal accrual reductions in Q4 and lower year-over-year restructuring costs.",
+      "Cost of revenue increased 15%,driven mostly by higher infrastructure costs.",
+      "We ended the year with over 74,OO0 employees,up 10% year-over-year, with growth primarily driven by hiring in priority areas of monetization,infrastructure,generative Al, Reality Labs,as well as regulation and compliance.",
+      "Fourth quarter operating income was \\$23.4 bilion,representing a 48% operating margin.",
+      "Net income was \\$20.8 billion or \\$8.02 per share.",
+      "Capital expenditures,including principal payments on finance leases,were \\$14.8 bilion,driven by investments in servers,data centers and network infrastructure.",
+      "Free cash flow was \\$13.2 bilion.We paid \\$1.3 billon in dividends to shareholders,ending the year with \\$77.8 billion in cash and marketable securities and \\$28.8 billion in debt.",
+      "Our community across the Family of Apps continues to grow,and we estimate more than 3.3 billion people used at least one of our Family of Apps on a daily basis in December.",
+      "Q4 Total Family of Apps revenue was \\$47.3 billion, up 21% year over year.",
+      "Q4 Family of Apps ad revenue was \\$46.8 bilion,up 21% on both a reported and constant currency basis.",
+      "On a user geography basis,ad revenue growth was strongest in Rest of World at 27%,followed by Asia-Pacific and Europe at 23% and 22%,respectively. North America grew 18%.",
+      "In Q4,the total number of ad impressions served across our services increased 6% and the average price per ad increased 14%.Impression growth was mainly driven by Asia-Pacific. Pricing growth benefited from increased advertiser demand,in part driven by improved ad performance. This was partially offset by impression growth,particularly from lower-monetizing regions and surfaces.",
+      "Family of Apps other revenue was \\$519 million,up 55%, driven primarily by business messaging revenue growth from our WhatsApp Business Platform.",
+      "We continue to direct the majority of our investments toward the development and operation of our Family of Apps.In Q4,Family of Apps expenses were \\$19.0 billion,representing 76% of our overall expenses.Family of Apps expenses were up 5%,primarily due to growth in infrastructure costs and employee compensation,which were partially offset by lower legal-related expenses.",
+      "Family of Apps operating income was \\$28.3 billion,representing a 6O% operating margin. Within our Reality Labs segment, Q4 revenue was \\$1.1 billion, driven by hardware sales and up 1% year-over-year.",
+      "Reality Labs expenses were \\$6.O billion,up 6% year-over-year driven primarily by higher infrastructure costs and employee compensation,partially offset by lower restructuring costs.",
+      "Reality Labs operating loss was \\$5.O billion.",
+      "On the first,daily actives continue to grow across Facebook,Instagram and WhatsApp year-overyear, both globally and in the United States.In Q4, global video time grew at double digit",
+      "percentages year-over-year on Instagram,and we're seeing particular strength in the US on Facebook,where video time spent was also up double digit rates year-over-year. We see continued opportunities to drive video growth in 2025 through ongoing optimizations to our ranking systems.We're also making several product bets that are focused on setting up our platforms for longer-term success.",
+      "Creators are one of our central focuses. On Instagram,we continue to prioritize original posts in recommendations to help smaller creators get discovered. We also want to ensure creators have a place to experiment with their content, so we introduced a new feature in Q4 that alows creators to first share a Reel with people who don't follow them.This allows them to test content and see what performs best before deciding to share it with their follwers,and also helps introduce them to entirely new audiences. Creative tools is another area we're investing in.In the coming weeks, we'll launch anew standalone app called Edits that provides a fullsuite of creative tools to make it easier for creators to make great Reels on their phone.",
+      "Another focus is making it easier for people to connect over content. Reels are already reshared over 4.5 billion times a day,and we've been introducing more features that bring together the social and entertainment aspects of Instagram.In the US, we recently launched a new destination in Reels that consists of content your friends have left a note on orliked. We're seeing very positive early results and will look to expand this globally in the coming months.",
+      "On Threads, we made tremendous progress in 2O24 and our focus this year is establishing Threads as the place people come to keep up with what they care about. We're making a number of updates to our recommendation systems to prioritize more recent posts,surface content from top creators,and ensure people see more of the content from accounts they follow.We will also continue improving custom feeds so people can build personalized feeds on topics they're interested in.",
+      "Finally,Meta Al usage continues to scale, with more than 7OO million monthly actives.We're now introducing updates that will enable Meta Al to deliver more personalized and relevant responses by remembering certain details from people's prior queries and considering what they engage with on Facebook and Instagram to develop better intuition for their interests and preferences.",
+      "Longer term,we also seeimpresson growth opportunities on unmonetized surfaces like Threads, which we are beginning to test ads on this quarter.We expect the introduction of ads on Threads will be gradual and don't anticipate it being a meaningful driver of overallimpression or revenue growth in 2025.",
+      "In the second half of 2O24,we introduced an innovative new machine learning system in partnership with Nvidia,called Andromeda.This more efficient system enabled a 10,OoOx increase in the complexity of models we use for ads retrieval, which is the part of the ranking process where we narrow down a pool of tens of milions of ads to the few thousand we consider showing someone.The increase in model complexityis enabling us to run far more sophisticated prediction models to better personalize which ads we show someone.This has driven an 8% increase in the quality of ads that people see on objectives we've tested. Andromeda's ability to efficiently process larger volumes of ads also positions us wellfor the future as advertisers use our generative Al tools to create and test more ads.",
+      "Adoption of Advantage+ shopping campaigns continues to scale, with revenue surpassng a \\$20 billion annual run-rate and growing 7O% year-over-year in Q4. Given the strong performance and interest we're seeing in Advantage+ Shopping and our other end-to-end solutions, we're testing a new streamlined campaign creation flow so advertisers no longer need to choose between running a manual or Advantage+ Sales or App campaign.In tis new setup,allcampaigns optimizing for sales,app or lead objectives will have Advantage+ turned on from the beginning.This wil alow more advertisers to take advantage of the performance Advantage+ offers while still having the ability to further customize aspects of their campaigns when they need to.We plan to expand to more advertisers in the coming months before fully rolling it out later in the year.",
+      "Advantage+ creative is another area where we're seeing momentum.More than 4 million advertisers are now using at least one of our generative Alad creative tools,up from one million six months ago.There has been significant early adoption of our first video generation tool that we rolled out in October,Image Animation, with hundreds of thousands of advertisers already using it monthly.",
+      "In the fourth quarter, nearly 9O% of our year-over-year headcount growth was within the R&D function.The remaining growth was primarily in cost of revenue as we added infrastructure headcount to support our data center operations.",
+      "In 2025,we expect headcount growth willcontinue to be primarily driven by technical roles across our priority initiatives within infrastructure,monetization,Reality Labs,generative Al,as wellas regulation and compliance.We anticipate headcount growth in our business functions willremain relatively limited.",
+      "We expect first quarter 2O25 total revenue to be in the range of \\$39.5-41.8 bilion.This reflects 8- 15% year-over-year growth,or 11-18% growth on a constant currency basis as our guidance assumes foreign currency is an approximately 3% headwind to year-over-year total revenue growth,based on current exchange rates.This also reflects the effect of lapping leap day in the first quarter of 2024.While we are not providing a full year 2O25 revenue outlook, we expect the investments we're making in our core business this year will give us an opportunity to continue delivering strong revenue growth throughout 2025.",
+      "Turning now to the expense outlook. We expect full year 2025 total expenses to be in the range of \\$114-119 billion.",
+      "We expect the single largest driver of expense growth in 2O25 to be infrastructure costs,driven by higher operating expenses and depreciation.We expect employee compensation to be the second-largest factor as we add technical talent in the priority areas that Ireferenced earlier.",
+      "Turning now to the capex outlook.We anticipate our fullyear 2O25 capital expenditures willbe in the range of \\$60-65 billion.We expect capex growth in 2O25 willbe driven by increased investment to support both our generative Al efforts and our core business.The majority of our capex in 2O25 will continue to be directed toward our core business.",
+      "Thanks for taking my questions. Mark,l appreciate all the excitement about this year and all the innovation to come.I know there's a lot of announcements over the course of the year, but l wonder if you could just share a few sort of highlevel examples of your vision on new potential use cases and offerings that could drive utility for your users and value for your advertisers as you sort of think about Llama 4 and Meta Al changing throughout 2025?",
+      "I want to keep some surprises and fun for the stuff that we're going to release this year.l gave a bit of detail on what we're planning to do with Llama 4 that I'm sure technical people will enjoy because we haven't talked about that before.",
+      "But l'm going to refrain from adding a whole lot more on what we're launching this year. But it's the different things that Italked about.It's Meta Al.I do expect Llama 4 to be a very exciting set of releases.It's not just one thing. Just like with Llama 3,there were kind of a few different models at different dates,l think we'l see that with Llama 4 too. And then the Al engineer piece,I'm really excited about it.",
+      "And then, Susan,just as we think about the \\$6O billion to \\$65 billion CapEx this year, does the composition change much from last year when you talked about servers as the largest part followed by data centers and networking equipment? And how should we think about that mix between like training and inference just following up on Yann's post this week? Thanks.",
+      "I'm happy to add a little more color about our 2025 CapEx plans to your second question.",
+      "So we certainly expect that 2025 CapEx is going to grow across all three of those components you described.Servers willbe the biggest growth driver, that remains the largest portion of our overall CapEx budget.",
+      "On the networking side,we expect networking spend to grow in ‘25 as we build higher-capacity networks to accommodate the growth in non-Al and core Alrelated traffic along with our large Gen Al training clusters.",
+      "We're also investing in fiber to handle future cross-region training traffic.And then in terms of the breakdown for core versus Gen Al use cases,we're expecting total infrastructure spend within each of Gen Al, non-Al and core Al to increase in ‘25 with the majority of our CapEx directed to our core business with some caveat that that is -- that's not easy to measure perfectly as the data centers we're building can support Al or non-Al workloads and the GPUbased servers we procure for gen Al can be repurposed for core Al use cases and so on and so forth.",
+      "So any insights on the OG Facebook? And then back to Meta Al, given the adoption we're seeing on the 6oO-plus MAUs,just how has the user experience evolved to? What are people doing with Meta Al? Thank you.",
+      "But maybe you could just talk a little bit more near term,‘25,the CapEx budget you laid out or the CapEx forecast. Could you talk a little bit about the",
+      "Sure.I'm happy to take both of those.So on your first question on just where do we see constraints in our ability to execute against our CapEx plans, obviously we are staying on top of supply availability. That is certainly one of the factors that will influence our CapEx spend in 2O25,but we don't really have any updates to share on supply availability right now.",
+      "So it's a good segue after infrastructure,employee compensation is the next largest driver of expense growth in 2O25.And here, growth in employee comp and headcount more broadly is primarily driven by those areas that I mentioned,infrastructure monetization, generative Al, Reality Labs,and regulation and compliance."
+    ],
+    "key_metrics_mentioned": [
+      {
+        "metric_name": "operating_margin",
+        "value": 48.0,
+        "unit": "",
+        "context": "Fourth quarter operating income was \\$23.4 bilion,representing a 48% operating margin."
+      },
+      {
+        "metric_name": "eps",
+        "value": 8.02,
+        "unit": "",
+        "context": "Net income was \\$20.8 billion or \\$8.02 per share."
+      },
+      {
+        "metric_name": "capex",
+        "value": 14.8,
+        "unit": "b",
+        "context": "Capital expenditures,including principal payments on finance leases,were \\$14.8 bilion,driven by investments in servers,data centers and network infrastructure."
+      },
+      {
+        "metric_name": "ad_revenue",
+        "value": 46.8,
+        "unit": "b",
+        "context": "Q4 Family of Apps ad revenue was \\$46.8 bilion,up 21% on both a reported and constant currency basis."
+      },
+      {
+        "metric_name": "ad_impressions_growth",
+        "value": 6.0,
+        "unit": "",
+        "context": "In Q4,the total number of ad impressions served across our services increased 6% and the average price per ad increased 14%.Impression growth was mainly driven by Asia-Pacific. Pricing growth benefite"
+      },
+      {
+        "metric_name": "price_per_ad_growth",
+        "value": 14.0,
+        "unit": "",
+        "context": "In Q4,the total number of ad impressions served across our services increased 6% and the average price per ad increased 14%.Impression growth was mainly driven by Asia-Pacific. Pricing growth benefite"
+      },
+      {
+        "metric_name": "capex",
+        "value": 65.0,
+        "unit": "billion",
+        "context": "Turning now to the capex outlook.We anticipate our fullyear 2O25 capital expenditures willbe in the range of \\$60-65 billion.We expect capex growth in 2O25 willbe driven by increased investment to sup"
+      }
+    ]
+  },
+  "financial": {
+    "revenue": {
+      "total": null,
+      "advertising": null,
+      "other_revenue": null,
+      "yoy_growth_pct": null,
+      "constant_currency_growth_pct": null,
+      "by_geography": {
+        "us_canada": null,
+        "europe": null,
+        "asia_pacific": null,
+        "rest_of_world": null
+      }
+    },
+    "profitability": {
+      "total_costs_and_expenses": null,
+      "cost_of_revenue": null,
+      "research_and_development": null,
+      "marketing_and_sales": null,
+      "general_and_administrative": null,
+      "income_from_operations": null,
+      "operating_margin_pct": 48.0,
+      "net_income": null,
+      "effective_tax_rate_pct": 12.0
+    },
+    "per_share": {
+      "eps_basic": null,
+      "eps_diluted": 8.02
+    },
+    "cash_flow": {
+      "free_cash_flow": null,
+      "capital_expenditures": null,
+      "share_repurchases": null,
+      "dividends": null
+    },
+    "balance_sheet": {
+      "cash_and_marketable_securities": null,
+      "long_term_debt": null
+    }
+  },
+  "segments": {
+    "family_of_apps": {
+      "revenue": null,
+      "ad_revenue": null,
+      "other_revenue": null,
+      "expenses": null,
+      "operating_income": null,
+      "operating_margin_pct": null,
+      "yoy_growth_pct": null
+    },
+    "reality_labs": {
+      "revenue": null,
+      "expenses": null,
+      "operating_loss": null,
+      "yoy_growth_pct": null
+    }
+  },
+  "operational": {
+    "users": {
+      "family_dap_billions": 1.0,
+      "dap_yoy_growth_pct": null,
+      "threads_monthly_actives_millions": 320.0
+    },
+    "advertising": {
+      "ad_impressions_yoy_pct": 6.0,
+      "average_price_per_ad_yoy_pct": 14.0,
+      "top_vertical_driver": "online commerce vertical was the largest contributor"
+    },
+    "headcount": null,
+    "headcount_yoy_growth_pct": null
+  },
+  "guidance": {
+    "revenue_range": null,
+    "total_expenses_range": null,
+    "capex_range": null,
+    "tax_rate": null,
+    "reality_labs_commentary": "Reality Labs,generative Al,as wellas regulation and compliance.",
+    "raw_text": "we expect to bring online almost 1GW of capacity this year,and we're building a 2GW and potentially bigger Al datacenter that is so big that it'llcover a significant part of Manhattan if it were placed there.\nWe expect the introduction of ads on Threads will be gradual and don't anticipate it being a meaningful driver of overallimpression or revenue growth in 2025.\nwe expect compute willbe central to many of the opportunities we're pursuing as we advance the capabilities of Llama,drive increased usage of generative Al products and features across our platform,and fuel core ads and organic engagement initiatives.\nWe expect to further ramp adoption of MTIA for these use cases throughout\n\n2025 before extending our custom silicon efforts to training workloads for ranking and recommendations next year.\nwe expect headcount growth willcontinue to be primarily driven by technical roles across our priority initiatives within infrastructure,monetization,Reality Labs,generative Al,as wellas regulation and compliance.\nwe expect that the continuous advancements in Llama's coding capabilities willprovide even greater leverage to our engineers,and we are focused on expanding its capabilities to not only assist our engineers in writing and reviewing our code,but also to begin generating code changes to automate tool updates and improve the quality of our code base.\nwe expect our strong financial position willenable us to support these investments while continuing to return capital to shareholders through share repurchases and dividends.\nWe expect first quarter 2O25 total revenue to be in the range of \\$39.\nwe expect the investments we're making in our core business this year will give us an opportunity to continue delivering strong revenue growth throughout 2025.\nWe expect full year 2025 total expenses to be in the range of \\$114-119 billion.\nWe expect the single largest driver of expense growth in 2O25 to be infrastructure costs,driven by higher operating expenses and depreciation"
+  },
+  "qualitative": {
+    "ceo_highlights": [
+      "We ended 2O24 on a strong note with now more than 3.3 bilion people using at least one of our apps each day.This is going to be a really big year.Iknow it always feels like every year is a big year,but more than usualit feelslike the trajectory for most of our long-term initiatives is going to be a lot clearer by the end of this year.So I keep telling our teams that this is going to be intense, because we have about 48 weeks to get on the trajectory that we want to be on.",
+      "In Al,lexpect this is going to be the year whena highly intelligent and personalized Al assistant reaches more than 1 bilion people,and lexpect Meta Al to be that leading Al assistant. Meta Al is already used by more people than any other assistant,and once a service reaches that kind of scale itusually develops a durable long-term advantage.We have a really exciting roadmap for this year with a unique vision focused on personalization.We believe that people don't allwant to use the same Al -- people want their Al to be personalized to their context, their interests,their personality,their culture,and how they think about the world.Idon't think that there's just going to be one big Al that everyone uses that does the same thing.People are going to get to choose how their Al works and what it lookslike for them.Icontinue to think that this is going to be one of the most transformative products that we've made.We have some fun surprises that Ithink people are going to like this year.",
+      "Ithink this will very wellbe the year when Llama and open source become the most advanced and widely used Al models as well.Llama 4 is making great progress in training.Llama 4 mini is done with pre-training and our reasoning models and larger model are looking good too. Our goal with Llama 3 was to make open source competitive with closed models,and our goalfor Llama 4 is to lead.Llama 4 will be natively multimodal -- it's an omni-model -- and it willhave agentic capabilities,so it's going to be novel and it's going to unlock a lot of new use cases.I'm looking forward to sharing more of our plan for the year on that over the next couple of months.",
+      "lalso expect that 2O25 will be the year when it becomes possible to build an Al engineering agent that has coding and problem-solving abilities of around a good mid-level engineer.This is going to be a profound milestone and potentially one of the most important innovations in history,as well as over time,potentially a very large market.Whichever company builds this first Ithink is going to have a meaningful advantage in deploying it to advance their Al research and shape the field.So that's another reason why Ithink that this year is going to set the course for the future.",
+      "Our Ray-Ban Meta Al glasses are a real hit,and this willbe the year when we understand the trajectory for Al glasses as a category. Many breakout products in the history of consumer electronics have sold 5-1O milion units in their third generation.This will be a defining year that determines if we're on a path towards many hundreds of millions and eventually billons of Al glasses -- and glasses being the next computing platform like we've been talking about for some time -- or if this is just going to be a longer grind.But it's great overall to see people recognizing that these glasses are the perfect form factor for Al-- as wellas just great,stylish glasses.",
+      "These are all big investments -- especially the hundreds of billions of dollars that we willinvest in Alinfrastructure over the long term.lannounced last week that we expect to bring online almost 1GW of capacity this year,and we're building a 2GW and potentially bigger Al datacenter that is so big that it'llcover a significant part of Manhattan if it were placed there.",
+      "There are a number of other important product trends related to our family of apps that Ithink we're going to know more about this year as well. We're going to learn what's going to happen with TikTok,and regardless of that lexpect Reels on Instagram and Facebook to continue growing.lexpect Threads to continue on its trajectory to become the leading discussion platform and eventually reach 1billion people over the next several years.Threads now has more than 320 million monthly actives and has been adding more than 1 milion sign-ups per day.lexpect WhatsApp to continue gaining share and making progress towards becoming the leading messaging platform in the US like it is in a lot of the rest of the world.WhatsApp now has more than 10O millon monthly actives in the US.Facebook is used by more than 3 billion monthly actives and we're focused on growing its culturalinfluence.l'm excited this year to get back to some OG Facebook."
+    ],
+    "ai_initiatives": [
+      "Ithink this will very wellbe the year when Llama and open source become the most advanced and widely used Al models as well.Llama 4 is making great progress in training.Llama 4 mini is done with pre-training and our reasoning models and larger model are looking good too. Our goal with Llama 3 was to make open source competitive with closed models,and our goalfor Llama 4 is to lead.Llama 4 will be natively multimodal -- it's an omni-model -- and it willhave agentic capabilities,so it's going to be novel and it's going to unlock a lot of new use cases.I'm looking forward to sharing more of our plan for the year on that over the next couple of months.",
+      "percentages year-over-year on Instagram,and we're seeing particular strength in the US on Facebook,where video time spent was also up double digit rates year-over-year. We see continued opportunities to drive video growth in 2025 through ongoing optimizations to our ranking systems.We're also making several product bets that are focused on setting up our platforms for longer-term success.",
+      "Creators are one of our central focuses. On Instagram,we continue to prioritize original posts in recommendations to help smaller creators get discovered. We also want to ensure creators have a place to experiment with their content, so we introduced a new feature in Q4 that alows creators to first share a Reel with people who don't follow them.This allows them to test content and see what performs best before deciding to share it with their follwers,and also helps introduce them to entirely new audiences. Creative tools is another area we're investing in.In the coming weeks, we'll launch anew standalone app called Edits that provides a fullsuite of creative tools to make it easier for creators to make great Reels on their phone.",
+      "On Threads, we made tremendous progress in 2O24 and our focus this year is establishing Threads as the place people come to keep up with what they care about. We're making a number of updates to our recommendation systems to prioritize more recent posts,surface content from top creators,and ensure people see more of the content from accounts they follow.We will also continue improving custom feeds so people can build personalized feeds on topics they're interested in.",
+      "The ongoing enhancements to our ads ranking systems are an important driver of this work.",
+      "In the second half of 2O24,we introduced an innovative new machine learning system in partnership with Nvidia,called Andromeda.This more efficient system enabled a 10,OoOx increase in the complexity of models we use for ads retrieval, which is the part of the ranking process where we narrow down a pool of tens of milions of ads to the few thousand we consider showing someone.The increase in model complexityis enabling us to run far more sophisticated prediction models to better personalize which ads we show someone.This has driven an 8% increase in the quality of ads that people see on objectives we've tested. Andromeda's ability to efficiently process larger volumes of ads also positions us wellfor the future as advertisers use our generative Al tools to create and test more ads.",
+      "On the first, we expect compute willbe central to many of the opportunities we're pursuing as we advance the capabilities of Llama,drive increased usage of generative Al products and features across our platform,and fuel core ads and organic engagement initiatives.",
+      "Finally,we're pursuing cost efficiencies by deploying our custom MTIA silicon in areas where we can achieve a lower cost of compute by optimizing the chip to our unique workloads.In 2024 we started deploying MTIA to our ranking and recommendation inference workloads for ads and organic content.We expect to further ramp adoption of MTIA for these use cases throughout",
+      "2025 before extending our custom silicon efforts to training workloads for ranking and recommendations next year.",
+      "To achieve our ambitions in these areas, we will need to continue executing at a rapid pace.We're supporting this by building tools to help our engineering base be more productive.As part of our efficiency focus over the past two years, we've made significant improvements in our internal processes and developer tools and introduced new tools like our Al-powered coding assistant, which is helping our engineers write code more quickly.Looking forward, we expect that the continuous advancements in Llama's coding capabilities willprovide even greater leverage to our engineers,and we are focused on expanding its capabilities to not only assist our engineers in writing and reviewing our code,but also to begin generating code changes to automate tool updates and improve the quality of our code base.",
+      "Thanks for taking my questions. Mark,l appreciate all the excitement about this year and all the innovation to come.I know there's a lot of announcements over the course of the year, but l wonder if you could just share a few sort of highlevel examples of your vision on new potential use cases and offerings that could drive utility for your users and value for your advertisers as you sort of think about Llama 4 and Meta Al changing throughout 2025?",
+      "And then the second one on custom silicon, maybe a question for either of you. Just any learnings on the difference between your custom silicon and thirdparty chips in your ranking models and results? And how should we think about the main gating factors as to how quickly you'd be able to move a higher percentage of your engagement to your custom silicon?",
+      "I want to keep some surprises and fun for the stuff that we're going to release this year.l gave a bit of detail on what we're planning to do with Llama 4 that I'm sure technical people will enjoy because we haven't talked about that before.",
+      "But l'm going to refrain from adding a whole lot more on what we're launching this year. But it's the different things that Italked about.It's Meta Al.I do expect Llama 4 to be a very exciting set of releases.It's not just one thing. Just like with Llama 3,there were kind of a few different models at different dates,l think we'l see that with Llama 4 too. And then the Al engineer piece,I'm really excited about it.",
+      "Right now the in-house MTlA program is focused on supporting our core ranking and recommendation inference workloads.We started adopting MTIA in the first half of 2O24 for core ranking and recommendations inference.",
+      "We'll continue ramping adoption for those workloads over the course of 2025 as we use it for both incremental capacity and to replace some GPU-based servers when they reach the end of their useful lives.Next year, we're hoping to expand MTIA to support some of our core Al training workloads and over time some of our Gen Al use cases.",
+      "Ithink what we see here is as Llama becomes more used,it's more likely,for example,that silicon providers and others -- other APls and developer platforms willoptimize their work more for that and basically drive down the costs of using it and drive improvements that we can,in some cases,use too.",
+      "There will,I think, be pretty clear monetization opportunities here over time including paid recommendations and including a premium offering,but that's really not where we are focused in terms of the development of Meta Al today.",
+      "Douglas Anmuth: Thanks for taking the questions.One for Mark,one for Susan. Mark, just following up on open source as DeepSeek and other models potentially leverage Llama or others to train faster and cheaper, how does this impact Meta in your view? And what could it mean for the trajectory of investment required over a multiyear period?",
+      "And then, Susan,just as we think about the \\$6O billion to \\$65 billion CapEx this year, does the composition change much from last year when you talked about servers as the largest part followed by data centers and networking equipment? And how should we think about that mix between like training and inference just following up on Yann's post this week? Thanks."
+    ],
+    "product_updates": [
+      "Our Ray-Ban Meta Al glasses are a real hit,and this willbe the year when we understand the trajectory for Al glasses as a category. Many breakout products in the history of consumer electronics have sold 5-1O milion units in their third generation.This will be a defining year that determines if we're on a path towards many hundreds of millions and eventually billons of Al glasses -- and glasses being the next computing platform like we've been talking about for some time -- or if this is just going to be a longer grind.But it's great overall to see people recognizing that these glasses are the perfect form factor for Al-- as wellas just great,stylish glasses.",
+      "There are a number of other important product trends related to our family of apps that Ithink we're going to know more about this year as well. We're going to learn what's going to happen with TikTok,and regardless of that lexpect Reels on Instagram and Facebook to continue growing.lexpect Threads to continue on its trajectory to become the leading discussion platform and eventually reach 1billion people over the next several years.Threads now has more than 320 million monthly actives and has been adding more than 1 milion sign-ups per day.lexpect WhatsApp to continue gaining share and making progress towards becoming the leading messaging platform in the US like it is in a lot of the rest of the world.WhatsApp now has more than 10O millon monthly actives in the US.Facebook is used by more than 3 billion monthly actives and we're focused on growing its culturalinfluence.l'm excited this year to get back to some OG Facebook.",
+      "This is also going to be a pivotal year for the metaverse.The number of people using Quest and Horizon has been steadily growing -- and this is the year when a number of the long-term investments that we've been working on that will make the metaverse more visualy stunning and inspiring will really start to land.So Ithink we're going to know a lot more about Horizon's trajectory by the end of this year.",
+      "Family of Apps other revenue was \\$519 million,up 55%, driven primarily by business messaging revenue growth from our WhatsApp Business Platform.",
+      "On the first,daily actives continue to grow across Facebook,Instagram and WhatsApp year-overyear, both globally and in the United States.In Q4, global video time grew at double digit",
+      "percentages year-over-year on Instagram,and we're seeing particular strength in the US on Facebook,where video time spent was also up double digit rates year-over-year. We see continued opportunities to drive video growth in 2025 through ongoing optimizations to our ranking systems.We're also making several product bets that are focused on setting up our platforms for longer-term success.",
+      "Creators are one of our central focuses. On Instagram,we continue to prioritize original posts in recommendations to help smaller creators get discovered. We also want to ensure creators have a place to experiment with their content, so we introduced a new feature in Q4 that alows creators to first share a Reel with people who don't follow them.This allows them to test content and see what performs best before deciding to share it with their follwers,and also helps introduce them to entirely new audiences. Creative tools is another area we're investing in.In the coming weeks, we'll launch anew standalone app called Edits that provides a fullsuite of creative tools to make it easier for creators to make great Reels on their phone.",
+      "Another focus is making it easier for people to connect over content. Reels are already reshared over 4.5 billion times a day,and we've been introducing more features that bring together the social and entertainment aspects of Instagram.In the US, we recently launched a new destination in Reels that consists of content your friends have left a note on orliked. We're seeing very positive early results and will look to expand this globally in the coming months.",
+      "On Threads, we made tremendous progress in 2O24 and our focus this year is establishing Threads as the place people come to keep up with what they care about. We're making a number of updates to our recommendation systems to prioritize more recent posts,surface content from top creators,and ensure people see more of the content from accounts they follow.We will also continue improving custom feeds so people can build personalized feeds on topics they're interested in.",
+      "Finally,Meta Al usage continues to scale, with more than 7OO million monthly actives.We're now introducing updates that will enable Meta Al to deliver more personalized and relevant responses by remembering certain details from people's prior queries and considering what they engage with on Facebook and Instagram to develop better intuition for their interests and preferences.",
+      "Longer term,we also seeimpresson growth opportunities on unmonetized surfaces like Threads, which we are beginning to test ads on this quarter.We expect the introduction of ads on Threads will be gradual and don't anticipate it being a meaningful driver of overallimpression or revenue growth in 2025.",
+      "With that, Krista, let's open up the callfor questions.",
+      "Thank you. We will now open the lines for a question and answer session. To ask a question,please press star one on your touchtone phone.To withdraw your question, again press star one. Please limit yourself to one question. Please pick up your handset before asking your question to ensure clarity. If you are streaming today's call, please mute your computer speakers. And our first question comes from the line of Brian Nowak with Morgan Stanley. Please go ahead.",
+      "Thanks for taking my questions. Mark,l appreciate all the excitement about this year and all the innovation to come.I know there's a lot of announcements over the course of the year, but l wonder if you could just share a few sort of highlevel examples of your vision on new potential use cases and offerings that could drive utility for your users and value for your advertisers as you sort of think about Llama 4 and Meta Al changing throughout 2025?",
+      "And then the second one on custom silicon, maybe a question for either of you. Just any learnings on the difference between your custom silicon and thirdparty chips in your ranking models and results? And how should we think about the main gating factors as to how quickly you'd be able to move a higher percentage of your engagement to your custom silicon?",
+      "Brian,l'm happy to take your second question about custom silicon.So first of all, we expect that we are continuing to purchase third-party silicon from leading providers in the industry.",
+      "Your next question comes from the line of Eric Sheridan with Goldman Sachs.",
+      "Thank you so much for taking the question. Maybe lcan go back to your comments on open source.Can you help us understand how your views continue to evolve with respect to the competitive dynamic around your approach with open source versus others in the industry? And how your approach to open source could possibly bend the cost curve and improve return on capital for Al over the medium to long term? Thanks so much.",
+      "Your next question comes from the line of Mark Shmulik with Bernstein. Please go ahead.",
+      "Thank you for taking my questions.Mark,appreciate we may get an answer this year. But looking out,as you kind of track the progress of smart glasses, Orion and so forth,do you view that as a better form factor to get the most out of the Meta Al assistant you highlighted in your opening remarks? Or is it more complementary to kind of the in-app experience in the way you've seen people use it today?"
+    ],
+    "risks_and_challenges": [
+      "Q4 total expenses were \\$25.0 billion, up 5% compared to last year. Before I cover the specific cost lines,I would note that our fourth quarter expense growth rate reflects a 13 percentage point favorable impact from legal accrual reductions in Q4 and lower year-over-year restructuring costs.",
+      "G&A decreased 67% driven mostly by lower legal-related expenses due to a \\$1.55B reduction in legal accruals related to certain legal proceedings.",
+      "We continue to direct the majority of our investments toward the development and operation of our Family of Apps.In Q4,Family of Apps expenses were \\$19.0 billion,representing 76% of our overall expenses.Family of Apps expenses were up 5%,primarily due to growth in infrastructure costs and employee compensation,which were partially offset by lower legal-related expenses.",
+      "Reality Labs operating loss was \\$5.O billion.",
+      "We expect first quarter 2O25 total revenue to be in the range of \\$39.5-41.8 bilion.This reflects 8- 15% year-over-year growth,or 11-18% growth on a constant currency basis as our guidance assumes foreign currency is an approximately 3% headwind to year-over-year total revenue growth,based on current exchange rates.This also reflects the effect of lapping leap day in the first quarter of 2024.While we are not providing a full year 2O25 revenue outlook, we expect the investments we're making in our core business this year will give us an opportunity to continue delivering strong revenue growth throughout 2025.",
+      "In addition, we continue to monitor an active regulatory landscape,including legal and regulatory headwinds in the EU and the US that could significantly impact our business and our financial results."
+    ]
+  },
+  "chart_data": {
+    "total_charts_processed": 0,
+    "categorized_charts": {},
+    "chart_details": {}
+  },
+  "tables_extracted": [],
+  "data_sources": {
+    "sections_found": [
+      "highlights",
+      "ceo_remarks",
+      "cfo_remarks",
+      "_unclassified"
+    ],
+    "chart_categories": []
   }
 }

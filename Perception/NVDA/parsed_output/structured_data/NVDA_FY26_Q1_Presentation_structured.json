@@ -1,13 +1,279 @@
 {
-  "pdf_name": "NVDA_FY26_Q1_Presentation",
-  "source_file": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q1_Presentation/NVDA_FY26_Q1_Presentation.md",
-  "text_content": "# Investor Presentation Q1FY26 June 2025\n\nC s sti\n\nr i e requiredbylw,NviDAdisclaimsanyobligationtoupdatetheseforward-lokingstatementstoreflectfutureeventsorircumstances.\n\nMany of the products and featur bed not be interpreted as a commitment, promise, or legal obligation, and the developr and described for our products is subject to change an rer hains at the sole discretion of NVIDIA. NVIDIA will have liabilityfor failu the nctior for\n\nt GAAP measures, maybe found in the slide titled “Reconciliation of Non-GAAP to GAAP Financial Measures\"\n\n#\n\n# Content\n\nQ1 FY26 Earnings Summary\n\nKey Announcements This Quarter\n\nReconciliationof Non-GAAP to GAAP Financial Measures\n\n# Q1 FY26 Earnings Summary\n\n# Highlights\n\n# Strong quarter exceeding our outlook in a challenging operating environment\n\nTotal revenue up 69% Y/Y to \\$44.1B, above outlook of \\$43.0B +/- 2%   \n· Data Center up 73% Y/Y to \\$39.1B   \nGaming up 42% Y/Y to \\$3.8B\n\n# Data Center revenue driven by the continued Blackwell ramp-fastest in our company's history\n\n·Seeingasharpjumpininference demand; Microsoft,Google,OpenAlallseeingastep-function leapin token generation Alfactorydeploymentsacelerating;narlyOONIA-poweredAlfactoriesinflightthisquarterup2yy;veragenumberofGPUs powering each factory also doubling in the same period HavelineofsighttoAlfactoryprojectsrequiring tensof gigawattsofNVIDIAAlinfrastructureinthenot-too-distant future\n\n# Record Gaming revenue due to Blackwelladoption by gamers, creatives,and Al enthusiasts\n\nAgainstrobustdemandbackdrop,wegreatlyimprovedoursupplyandavailabilityinQlandexpecttocontinuetheseeffortsinQ2 Brought Blackwellarchitecture to mainstream gaming with the launch of GeForce RTX 5O60 and 5060 Ti\n\n# Q1FY26 Financial Summary\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q1_Presentation/images/7e45d40284e97bcf4d27c14625e188d93a9670e47d11c7b828495b85fb0cdb6e.jpg)  \nAll dollar figures arein millions other than EPS.Refer to Appendix forreconcilitionof Non-GAAP measures. \\*Q1 FY26 includeda \\$4.5 billon charge associated with H20 excess inventory and purchase obligations\n\n# DataCenter\n\n# Highlights\n\nRecognized \\$4.6B in H20 revenue; also recognized a \\$4.5 billion charge- write down of inventory and purchase obligations, less than anticipated; unable to ship \\$2.5B in H20 due to export controls\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q1_Presentation/images/19919d6815bde2bfd6aedc5e382a42c62c0b110bab7bad0dac63f343d199a9d6.jpg)  \nRevenue (\\$M)\n\nBlackwell nearly 70% of DC compute revenue in Q1; Hopper transition nearly complete\n\nMajor hyperscalers deploying nearly 1,000 NVL72 racks or 72,000   \nBlackwell GPUs per week; on track to further ramp output in Q2\n\nSampling of GB3OO systems began earlier in May at major CSPs; expect production shipments to commence later in Q2\n\nNetworking grew 64% q/q\n\nNVLink a new growth vector; Q1 shipments exceeded a billion dollars Strong q/q & y/y Spectrum-X growth; now annualizing over \\$8B revenue Spectrum-Xadoption widespread: CoreWeave, Microsoft Azure, Oracle Cloud, and xAl; this quarter we added Google Cloud and Meta\n\n# Gaming\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q1_Presentation/images/05654a7d0f7e6a76aa506033ee73d73cfee039352e756847f576ef69baf60dc9.jpg)  \nRevenue (\\$M)\n\n# Highlights\n\nStrong adoption by gamers, creatives,and Al enthusiasts have made Blackwell our fastest ramp ever   \n. Against robust demand, we greatly improved our supply and availability in Q1 and expect to continue these efforts in Q2   \n. With a 1OoM user installed base, GeForce represents the largest footprint for PC developers   \n. Added to Al PC laptop offerings, including models capable of running Microsoft's Copilot+ In console gaming, the recently unveiled Nintendo Switch 2 leverages NVIDlA's neural rendering and Al technologies - including next gen custom RTX GPUs with DLSS technology\n\n# Professional Visualization\n\n# Highlights\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q1_Presentation/images/49285fc2135ef40d65ecf359ddf96ff17e9bf18a8d9abf0edebf873cfe68087d.jpg)  \nRevenue (\\$M)\n\nTariff-related uncertainty temporarily impacted Q1 shipments. End demand for our Al workstations is strong,and we expect sequential revenue growth to resume in Q2\n\nNew DGX Spark will be available in calendar Q3 and DGX Station later this year\n\nDeepened Omniverse's integration and adoption into some of the world's leading software platforms including Databricks, SAP, and Schneider Electric\n\nOmniverse seeing great traction with tech manufacturing leaders including TSMC, Quanta, Foxconn and Pegatron\n\n# Automotive\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY26_Q1_Presentation/images/163538e6430cfacc1067550bbcf8",
-  "tables": [],
-  "charts": [],
   "metadata": {
-    "total_images": 23,
-    "total_charts": 0,
-    "total_tables": 0,
-    "markdown_length": 22848
+    "company": "NVIDIA",
+    "ticker": "NVDA",
+    "pdf_name": "NVDA_FY26_Q1_Presentation",
+    "fiscal_year": 2026,
+    "quarter": "Q1",
+    "period_end": "2025-04-30",
+    "calendar_year": 2025,
+    "report_type": "Investor Presentation",
+    "extraction_timestamp": "2026-05-10T20:39:21.886218",
+    "data_completeness": {
+      "text_sections_found": 9,
+      "charts_processed": 0,
+      "md_tables_found": 0,
+      "highlights_extracted": 38,
+      "metrics_extracted": 8
+    }
+  },
+  "highlights": {
+    "bullet_points": [
+      "Total revenue up 69% Y/Y to \\$44.1B, above outlook of \\$43.0B +/- 2%",
+      "· Data Center up 73% Y/Y to \\$39.1B",
+      "Gaming up 42% Y/Y to \\$3.8B",
+      "·Seeingasharpjumpininference demand; Microsoft,Google,OpenAlallseeingastep-function leapin token generation Alfactorydeploymentsacelerating;narlyOONIA-poweredAlfactoriesinflightthisquarterup2yy;veragenumberofGPUs powering each factory also doubling in the same period HavelineofsighttoAlfactoryprojectsrequiring tensof gigawattsofNVIDIAAlinfrastructureinthenot-too-distant future",
+      "Againstrobustdemandbackdrop,wegreatlyimprovedoursupplyandavailabilityinQlandexpecttocontinuetheseeffortsinQ2 Brought Blackwellarchitecture to mainstream gaming with the launch of GeForce RTX 5O60 and 5060 Ti",
+      "All dollar figures arein millions other than EPS.Refer to Appendix forreconcilitionof Non-GAAP measures. \\*Q1 FY26 includeda \\$4.5 billon charge associated with H20 excess inventory and purchase obligations",
+      "Recognized \\$4.6B in H20 revenue; also recognized a \\$4.5 billion charge- write down of inventory and purchase obligations, less than anticipated; unable to ship \\$2.5B in H20 due to export controls",
+      "Blackwell nearly 70% of DC compute revenue in Q1; Hopper transition nearly complete",
+      "Blackwell GPUs per week; on track to further ramp output in Q2",
+      "Networking grew 64% q/q",
+      "NVLink a new growth vector; Q1 shipments exceeded a billion dollars Strong q/q & y/y Spectrum-X growth; now annualizing over \\$8B revenue Spectrum-Xadoption widespread: CoreWeave, Microsoft Azure, Oracle Cloud, and xAl; this quarter we added Google Cloud and Meta",
+      ". Against robust demand, we greatly improved our supply and availability in Q1 and expect to continue these efforts in Q2",
+      ". Added to Al PC laptop offerings, including models capable of running Microsoft's Copilot+ In console gaming, the recently unveiled Nintendo Switch 2 leverages NVIDlA's neural rendering and Al technologies - including next gen custom RTX GPUs with DLSS technology",
+      "Tariff-related uncertainty temporarily impacted Q1 shipments. End demand for our Al workstations is strong,and we expect sequential revenue growth to resume in Q2",
+      "New DGX Spark will be available in calendar Q3 and DGX Station later this year",
+      "Utilized cash of \\$14.3B towards shareholder returns,including \\$14.1B in share repurchases and \\$244M in cash dividends",
+      "Invested \\$1.3B in capex (includes principal payments on PP&E)",
+      "NVIDIA GB300 NVL72; a rack-scale system delivering 1.5x more Al performance vs. NVIDiA GB2OO,and increases Blackwel's revenue opportunity by 5Ox for Al factories compared to Hopper. It connects 72 Blackwell UItra GPUs + 36 Grace CPUs to act as a single GPU",
+      "NVIDIA HGX B300 NVL16 -baseboard features 11x faster inference on large language models, 7x more compute and 4x more memory compared to Hopper",
+      "NVIDIA Quantum-X Photonics InfiniBand switches are expected to be available later in 2O25, with NVIDlA Spectrum-X Photonics Ethernet switches coming in 2026",
+      "It scales reasoning Al to deliver massive throughput gains - including 30x on DeepSeek R1 - faster response times,and lower model serving costs",
+      "New open Llama Nemotron reasoning models accelerate agentic Al development for complex tasks. Post training by NVIDlA boosts model accuracy by up to 2O% compared with the base model and optimizes inference speed by 5x compared with other leading open reasoning models",
+      "New NVIDIA AI Data Platform poweredby NVIDIA Blackwell GPUs, NVIDIA BlueField DPUs, NVIDIA Spectrum-X networking,and NVIDIA Dynamo enables enterprise agentic workflows. Al Data Platform storage infrastructure with NVIDlA Al-Q Blueprint and NeMo accelerate data extraction and retrieval by up to 15x",
+      "We announced the NVIDIA RTX Pro Blackwell series - new desktop, laptop,and server GPUs, including the NVIDIA RTX PRO 6OOO Blackwell Server Edition",
+      "They redefine professional workflows with Al inference,ray tracing,and neural rendering for Al,technical, creative,engineering,and design professionals NVIDIA RTX PRO BlackwellGPUs feature up to 2x RT Core performance, 4,000 Al TOPS, FP4 precision and DLSS 4 multi-frame generation",
+      "RTX PRO 6000 servers power NVIDIA Al and Omniverse applications for enterprises,and with a new NVIDIA Enterprise Al Factory validated design,are driving a shift in data centers from CPU-based systems to GPU-accelerated infrastructure",
+      "These servers are geared with new CX8 Switch-SuperNIC,providing the",
+      "NVIDIA announced significant advancements in humanoid robot development, including the updated NVIDlA Isaac GROOT N1.5 foundation model for humanoid reasoning, the NVIDlA Isaac GR00TDreams blueprint for synthetic motion data generation,and Blackwell systems to accelerate humanoid development",
+      "Equipped with the NVIDIA GB10 Grace BlackwellSuperchip, the DGX Spark delivers up to 1 petaflop of Al compute. DGX Station features the NVIDlA GB3OO Grace Blackwell UItra Desktop Superchip and NVIDIA ConnectX-8 SuperNiC, offering up to 20 petaflops of Al performance",
+      "NVLink Fusion equips cloud providers with an easy path to scale out hybrid architecture Al factories to millions of NViDiA GPUs and custom ASlCs, unified with NVIDlA's NVLink rack-scale systems and NVIDIA networking platform featuring ConnectX-8 SuperNICs, Spectrum-X Ethernet and Quantum-X8oO InfiniBand switches,with co-packaged optics available soon",
+      "The Foxconn Al factory will feature NVIDlA Blackwell UItra systems, including the NVIDlA GB30O NVL72 rack-scale solution with NVIDIA NVLink, Quantum InfiniBand and Spectrum-X Ethernet networking",
+      "GB200 NVL72 system delivered up to 3Ox higher throughput on the Llama 3.1 405B benchmark vs. NVIDlA H2O0 NVL8. Only NVIDiA and its partners submitted results on this benchmark . NVIDIA DGX B2O0 system performance with eight Blackwell GPUs jumped 3x vs. eight H20O GPUs on the more challenging version of the Llama 2 70B benchmark",
+      "On the Llama 2 70B benchmark, H100 GPU throughput has increased by",
+      "1.5x vs.a year ago. The H2O0 GPU with larger and faster GPU memory，",
+      "GB200 NVL72 Increases Token Throughput by 30x New Llama 3.1 405B benchmark record",
+      "72 Blackwell GPUs 36 Grace CPUs 13.4TB HBM3e|576 GB/s 130 TB/s NVLink",
+      "■H200 NVL8GB200 NVL72",
+      "MLPerf Inference v5.0, Closed, Data Center. Results retrieved from www.mlcommons.org on April 2, 2025. Results retrieved from the foloving entries: 5.0-5.0-0058, 5.0-0o60.The MLPerf name and logo are registered and unregistered trademarks of MLCommons Association in the United States and other countries.Allrights reserved. Unauthorize use strictly prohibited. See www.mlcommons.org for more information"
+    ],
+    "key_metrics_mentioned": [
+      {
+        "metric_name": "total_revenue",
+        "value": 44.1,
+        "unit": "B",
+        "context": "Total revenue up 69% Y/Y to \\$44.1B, above outlook of \\$43.0B +/- 2%"
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 69.0,
+        "unit": "",
+        "context": "Total revenue up 69% Y/Y to \\$44.1B, above outlook of \\$43.0B +/- 2%"
+      },
+      {
+        "metric_name": "data_center_revenue",
+        "value": 39.1,
+        "unit": "B",
+        "context": "· Data Center up 73% Y/Y to \\$39.1B"
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 73.0,
+        "unit": "",
+        "context": "· Data Center up 73% Y/Y to \\$39.1B"
+      },
+      {
+        "metric_name": "gaming_revenue",
+        "value": 3.8,
+        "unit": "B",
+        "context": "Gaming up 42% Y/Y to \\$3.8B"
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 42.0,
+        "unit": "",
+        "context": "Gaming up 42% Y/Y to \\$3.8B"
+      },
+      {
+        "metric_name": "share_repurchases",
+        "value": 14.3,
+        "unit": "B",
+        "context": "Utilized cash of \\$14.3B towards shareholder returns,including \\$14.1B in share repurchases and \\$244M in cash dividends"
+      },
+      {
+        "metric_name": "cash_position",
+        "value": 14.3,
+        "unit": "B",
+        "context": "Utilized cash of \\$14.3B towards shareholder returns,including \\$14.1B in share repurchases and \\$244M in cash dividends"
+      }
+    ]
+  },
+  "financial": {
+    "revenue": {
+      "total": null,
+      "data_center": {
+        "value": 39100.0,
+        "unit": "$M"
+      },
+      "gaming": {
+        "value": 3800.0,
+        "unit": "$M"
+      },
+      "professional_visualization": null,
+      "automotive": null,
+      "yoy_growth_pct": 69.0,
+      "sequential_growth_pct": null
+    },
+    "profitability": {
+      "gross_margin_gaap_pct": null,
+      "gross_margin_non_gaap_pct": null,
+      "operating_income_gaap": null,
+      "operating_income_non_gaap": null,
+      "operating_margin_pct": null,
+      "net_income_gaap": null,
+      "net_income_non_gaap": null
+    },
+    "per_share": {
+      "eps_gaap_diluted": null,
+      "eps_non_gaap_diluted": null
+    },
+    "cash_flow": {
+      "operating_cash_flow": null,
+      "free_cash_flow": null,
+      "capital_expenditure": {
+        "value": 53700.0,
+        "unit": "$M"
+      },
+      "share_repurchases": {
+        "value": 14100.0,
+        "unit": "$M"
+      },
+      "dividends": {
+        "value": 244.0,
+        "unit": "$M"
+      }
+    },
+    "balance_sheet": {
+      "cash_and_marketable_securities": null,
+      "inventory": null,
+      "accounts_receivable": null,
+      "total_debt": {
+        "value": 8500.0,
+        "unit": "$M"
+      },
+      "net_cash": {
+        "value": 42500.0,
+        "unit": "$M"
+      },
+      "dso_days": null,
+      "dsi_days": null
+    }
+  },
+  "segments": {
+    "data_center": {
+      "revenue": null,
+      "yoy_growth_pct": 73.0,
+      "sequential_growth_pct": null,
+      "compute_revenue": null,
+      "networking_revenue": null,
+      "key_drivers": [
+        "Seeingasharpjumpininference demand; Microsoft,Google,OpenAlallseeingastep-function leapin token generation Alfactorydeploymentsacelerating;narlyOONIA-poweredAlfactoriesinflightthisquarterup2yy;veragenumberofGPUs powering each factory also doubling in the same period HavelineofsighttoAlfactoryprojectsrequiring tensof gigawattsofNVIDIAAlinfrastructureinthenot-too-distant future"
+      ],
+      "customer_mix": {}
+    },
+    "gaming": {
+      "revenue": null,
+      "yoy_growth_pct": 42.0,
+      "sequential_growth_pct": null,
+      "key_drivers": [
+        "Againstrobustdemandbackdrop,wegreatlyimprovedoursupplyandavailabilityinQlandexpecttocontinuetheseeffortsinQ2 Brought Blackwellarchitecture to mainstream gaming with the launch of GeForce RTX 5O60 and 5060 Ti"
+      ]
+    },
+    "professional_visualization": {
+      "revenue": null,
+      "yoy_growth_pct": null,
+      "sequential_growth_pct": null,
+      "key_drivers": []
+    },
+    "automotive": {
+      "revenue": null,
+      "yoy_growth_pct": null,
+      "sequential_growth_pct": null,
+      "key_drivers": []
+    }
+  },
+  "guidance": {
+    "next_quarter_revenue": null,
+    "next_quarter_revenue_range_pct": null,
+    "gross_margin_gaap_pct": null,
+    "gross_margin_non_gaap_pct": null,
+    "opex_gaap": null,
+    "opex_non_gaap": null,
+    "tax_rate_pct": null,
+    "raw_text": "Total revenue up 69% Y/Y to \\$44.1B, above outlook of \\$43.0B +/- 2%   \n· Data Center up 73% Y/Y to \\$39.1B   \nGaming up 42% Y/Y to \\$3.8B"
+  },
+  "qualitative": {
+    "key_announcements": [],
+    "technology_highlights": [
+      "# Data Center revenue driven by the continued Blackwell ramp-fastest in our company's history",
+      "# Record Gaming revenue due to Blackwelladoption by gamers, creatives,and Al enthusiasts",
+      "Againstrobustdemandbackdrop,wegreatlyimprovedoursupplyandavailabilityinQlandexpecttocontinuetheseeffortsinQ2 Brought Blackwellarchitecture to mainstream gaming with the launch of GeForce RTX 5O60 and 5060 Ti",
+      "Blackwell nearly 70% of DC compute revenue in Q1; Hopper transition nearly complete",
+      "Blackwell GPUs per week; on track to further ramp output in Q2",
+      "NVLink a new growth vector; Q1 shipments exceeded a billion dollars Strong q/q & y/y Spectrum-X growth; now annualizing over \\$8B revenue Spectrum-Xadoption widespread: CoreWeave, Microsoft Azure, Oracle Cloud, and xAl; this quarter we added Google Cloud and Meta",
+      "Strong adoption by gamers, creatives,and Al enthusiasts have made Blackwell our fastest ramp ever",
+      "New DGX Spark will be available in calendar Q3 and DGX Station later this year",
+      "Deepened Omniverse's integration and adoption into some of the world's leading software platforms including Databricks, SAP, and Schneider Electric",
+      "Omniverse seeing great traction with tech manufacturing leaders including TSMC, Quanta, Foxconn and Pegatron",
+      "Year-on-year growth was driven by the ramp in self-driving across a number of customers and robust end demand for NEVs",
+      "Q/Q increase was driven by higher revenue, timing of cash collections,and lower cash taxes",
+      "# NVIDIA Blackwell Ultra Engineered for the Era of Al Reasoning",
+      "Built on the Blackwell architecture, Blackwell UItra boosts training and test-time inference scaling for agentic and physical Al",
+      "NVIDIA GB300 NVL72; a rack-scale system delivering 1.5x more Al performance vs. NVIDiA GB2OO,and increases Blackwel's revenue opportunity by 5Ox for Al factories compared to Hopper. It connects 72 Blackwell UItra GPUs + 36 Grace CPUs to act as a single GPU",
+      "NVIDIA HGX B300 NVL16 -baseboard features 11x faster inference on large language models, 7x more compute and 4x more memory compared to Hopper",
+      "AWS,Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure and GPU cloud providers including CoreWeave, will be among the first to offer Blackwell Ultra instances.",
+      "# NVIDIA's Spectrum-X and Quantum-X Silicon Photonics Switches Scale Al Factories to Millions of GPUs",
+      "NVIDIA Spectrum-X Photonics switches configurations include:",
+      "NVIDIA Quantum-X Photonics InfiniBand switches are expected to be available later in 2O25, with NVIDlA Spectrum-X Photonics Ethernet switches coming in 2026"
+    ],
+    "risks_and_challenges": [
+      "Againstrobustdemandbackdrop,wegreatlyimprovedoursupplyandavailabilityinQlandexpecttocontinuetheseeffortsinQ2 Brought Blackwellarchitecture to mainstream gaming with the launch of GeForce RTX 5O60 and 5060 Ti",
+      "Recognized \\$4.6B in H20 revenue; also recognized a \\$4.5 billion charge- write down of inventory and purchase obligations, less than anticipated; unable to ship \\$2.5B in H20 due to export controls",
+      ". Against robust demand, we greatly improved our supply and availability in Q1 and expect to continue these efforts in Q2",
+      "Tariff-related uncertainty temporarily impacted Q1 shipments. End demand for our Al workstations is strong,and we expect sequential revenue growth to resume in Q2",
+      "It scales reasoning Al to deliver massive throughput gains - including 30x on DeepSeek R1 - faster response times,and lower model serving costs"
+    ],
+    "product_launches": [
+      "Againstrobustdemandbackdrop,wegreatlyimprovedoursupplyandavailabilityinQlandexpecttocontinuetheseeffortsinQ2 Brought Blackwellarchitecture to mainstream gaming with the launch of GeForce RTX 5O60 and 5060 Ti",
+      ". Added to Al PC laptop offerings, including models capable of running Microsoft's Copilot+ In console gaming, the recently unveiled Nintendo Switch 2 leverages NVIDlA's neural rendering and Al technologies - including next gen custom RTX GPUs with DLSS technology",
+      "We announced the NVIDIA RTX Pro Blackwell series - new desktop, laptop,and server GPUs, including the NVIDIA RTX PRO 6OOO Blackwell Server Edition",
+      "We launched NVIDIA Cosmos World Foundation Models (WFMs) including Cosmos Reason, Transfer, and Predict models and accompanying physical Al data tools, designed to revolutionize how Al understands and interacts with the physical world",
+      "NVIDIA announced significant advancements in humanoid robot development, including the updated NVIDlA Isaac GROOT N1.5 foundation model for humanoid reasoning, the NVIDlA Isaac GR00TDreams blueprint for synthetic motion data generation,and Blackwell systems to accelerate humanoid development",
+      "# Global Computer Makers Join NVIDIA to Launch Al-First DGX Personal Computing Systems",
+      "We unveiled NVIDlA NVLink Fusion - new NVLink chiplet silicon that lets industries build semi-custom Al infrastructure connected to NVIDIA's vast Al infrastructure ecosystem through NVLink, the world's most advanced and widely adopted computing fabric",
+      "NVIDIA and Foxconn Hon Hai Technology Group announced they are deepening their partnership and working with the Taiwan government to build an Al factory supercomputer that will deliver state-of-the-art NVIDIA infrastructure",
+      "Three years after launch, NVIDlA Hopper Al factory value continues increasing:"
+    ]
+  },
+  "chart_data": {
+    "total_charts_processed": 0,
+    "categorized_charts": {},
+    "chart_details": {}
+  },
+  "tables_extracted": [],
+  "data_sources": {
+    "sections_found": [
+      "_unclassified",
+      "outlook",
+      "data_center",
+      "gaming",
+      "financial_summary",
+      "highlights",
+      "automotive",
+      "cash_flow",
+      "reconciliation"
+    ],
+    "chart_categories": []
   }
 }

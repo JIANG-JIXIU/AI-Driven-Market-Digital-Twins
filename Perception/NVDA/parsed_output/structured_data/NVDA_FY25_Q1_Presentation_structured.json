@@ -1,13 +1,290 @@
 {
-  "pdf_name": "NVDA_FY25_Q1_Presentation",
-  "source_file": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q1_Presentation/NVDA_FY25_Q1_Presentation.md",
-  "text_content": "# Investor Presentation Q1FY25 May 28, 2024\n\nditi i of our products or technologies when integrated into systems and other factors.\n\ni i future results i are posted on our website and are available from NVIDlA without charge\n\nMany of the products and features described herein remain i ious stagesand be offered ona wher statements ithinare intended t be, and should not be interpreted as i NVIDIA.NviDlA will haveno liability for failure todeliver ordelay in the del ver y ofany the products, featu nction\n\nfinancialmeasurestotemostcompaableGAAPmeasuresaefoundintheldetitledRecoclitioofN-AAPtGAAPFanciaeasures #\n\n# Content\n\nQ1FY25Earnings Summary\n\nKey Announcements This Quarter\n\nReconciliationof Non-GAAP to GAAP Financial Measures\n\n# Q1 FY25 Earnings Summary\n\n# Highlights\n\n# Record quarter driven by strong Data Center growth\n\nTotal revenue up 262% Y/Y to \\$26.0B, well above outlook of \\$24.0B +/- 2%   \n· Data Center up 427% Y/Y to \\$22.6B Gaming up 18% Y/Y to \\$2.6B\n\n# Record Data Center revenue driven by continued strong demand for the NVIDIA Hopper GPUcomputing platform\n\n·Growthdrivenbyallustomertypes,ledbyEnterpriseandConsumerInternet;largeCSPsrepresentedmid-40%ofDataCentereveue BeyondCSPs,generativeAlhasexpandedtoconsumerinternet,enterprise,sovereignAlutomotive,andhealthcarecustomers Workedwith00+customersbuildingAlfactoriesanginginsizefromhundredstosofthousandsofGPUssomereachingthusand Sovereign Al revenue opportunity can approach high single digit \\$billons this year,from nothing last year\n\n# Gaming end demand and channel inventory remain healthy across the product range\n\nStrong market reception for GeForce RTX 40 SUPER GPUs   \nWith over 100M instaledbase,GeForceRTXGPUs oferunmatched performanceforrunnnggenerativeAlapplicationson PCs   \nGame developers are embracing NVIDIA ACE to create life-like avatars\n\nAnnounced a 10-for-1 stock split and 150% dividend increase\n\n# Q1FY25 Financial Summary\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q1_Presentation/images/2856af10c972dd090934c85d2435e36bd43f1ee07a4c32ba63ece4c6718cf2e0.jpg)\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q1_Presentation/images/ad2b5db50c6b7789eb7833825723c848edc64b545dd2081f31f34a72fb0f96f2.jpg)\nAll dollar figuresareinmillionsother than EPS.Refer toAppendix forreconciliationof Non-GAAPmeasures.\n\n# DataCenter\n\n# Highlights\n\nCompute revenue was \\$19.4B,up more than 5X Y/Y and 29% Q/Q driven by the NVIDiA Hopper GPU computing platform for training and inferencing LLMs, recommendation engines, and generative Al\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q1_Presentation/images/e8714e75523c31ee124ace6d4fab524e64b1af6586a3c705af8909fa10c5e93a.jpg)  \nRevenue (\\$M)\n\nNetworking revenue was \\$3.2B, up more than 3X Y/Y on strong InfiniBand growth,and down 5% Q/Q due to the timing of supply\n\nSupply for H100 continued to improve; stillconstrained on H200\n\nBlackwell in full production and we are working to bring up our system and cloud partners for global availability later this year\n\nDemand for H200& Blackwell is well ahead of supply; expect demand may exceed supply well into next year\n\nExpect Auto to be largest vertical within Data Center this year, driving a multi-billon revenue opportunity across on-prem & cloud\n\nStarted shipping Spectrum-X Ethernet solution optimized for Al; expect it to be a multi-billion-dollar product line within a year\n\n# Gaming\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q1_Presentation/images/f427816ececbba1d85571c39dae0e927a83858a805752eb72fd8a6d0860cedbb.jpg)  \nRevenue (\\$M)\n\n# Highlights\n\nY/Y growth reflects higher demand; Q/Q decrease reflects seasonally lower GPU sales for laptops, consistent with outlook\n\nEnd demand and channel inventory remain healthy across the product range\n\nGeForce RTX 40 SUPER GPUs market reception is strong\n\nWith over 10oM installed base, GeForce RTX GPUs are perfect for gamers,creators,and Al enthusiasts,and offer unmatched performance for running generative Al applications on PCs\n\nNVIDIA and Microsoft announced Al performance optimizations for Windows to help run LLMs up to 3x faster on NVIDlA GeForce RTX AI PCs\n\nTop game developers including NetEase Games, Tencent,and Ubisoft are embracing NVIDlA ACE to create lifelike avatars to transform interactions between gamers and non-playable characters\n\n# Professional Visualization\n\n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/NVDA/parsed_output/mineru_results/NVDA_FY25_Q1_Presentation/images/bafd986b187c5b91385a45196236176bb776fbb4fd9284e2a9d1ff6ca3781724.jpg)  \nRevenue (\\$M)\n\n# Highlights\n\nY/Y increase primarily reflects higher sell-in to partners following the normalization of channel inventory levels\n\nQ/Q decrease primarily due to desktop workstation GPUs\n\nGenerat",
-  "tables": [],
-  "charts": [],
   "metadata": {
-    "total_images": 25,
-    "total_charts": 0,
-    "total_tables": 0,
-    "markdown_length": 18808
+    "company": "NVIDIA",
+    "ticker": "NVDA",
+    "pdf_name": "NVDA_FY25_Q1_Presentation",
+    "fiscal_year": 2025,
+    "quarter": "Q1",
+    "period_end": "2024-04-30",
+    "calendar_year": 2024,
+    "report_type": "Investor Presentation",
+    "extraction_timestamp": "2026-05-10T20:39:21.751869",
+    "data_completeness": {
+      "text_sections_found": 8,
+      "charts_processed": 0,
+      "md_tables_found": 0,
+      "highlights_extracted": 43,
+      "metrics_extracted": 7
+    }
+  },
+  "highlights": {
+    "bullet_points": [
+      "Total revenue up 262% Y/Y to \\$26.0B, well above outlook of \\$24.0B +/- 2%",
+      "· Data Center up 427% Y/Y to \\$22.6B Gaming up 18% Y/Y to \\$2.6B",
+      "·Growthdrivenbyallustomertypes,ledbyEnterpriseandConsumerInternet;largeCSPsrepresentedmid-40%ofDataCentereveue BeyondCSPs,generativeAlhasexpandedtoconsumerinternet,enterprise,sovereignAlutomotive,andhealthcarecustomers Workedwith00+customersbuildingAlfactoriesanginginsizefromhundredstosofthousandsofGPUssomereachingthusand Sovereign Al revenue opportunity can approach high single digit \\$billons this year,from nothing last year",
+      "Strong market reception for GeForce RTX 40 SUPER GPUs",
+      "With over 100M instaledbase,GeForceRTXGPUs oferunmatched performanceforrunnnggenerativeAlapplicationson PCs",
+      "Announced a 10-for-1 stock split and 150% dividend increase",
+      "Compute revenue was \\$19.4B,up more than 5X Y/Y and 29% Q/Q driven by the NVIDiA Hopper GPU computing platform for training and inferencing LLMs, recommendation engines, and generative Al",
+      "Networking revenue was \\$3.2B, up more than 3X Y/Y on strong InfiniBand growth,and down 5% Q/Q due to the timing of supply",
+      "Supply for H100 continued to improve; stillconstrained on H200",
+      "Demand for H200& Blackwell is well ahead of supply; expect demand may exceed supply well into next year",
+      "GeForce RTX 40 SUPER GPUs market reception is strong",
+      "With over 10oM installed base, GeForce RTX GPUs are perfect for gamers,creators,and Al enthusiasts,and offer unmatched performance for running generative Al applications on PCs",
+      "NVIDIA and Microsoft announced Al performance optimizations for Windows to help run LLMs up to 3x faster on NVIDlA GeForce RTX AI PCs",
+      "Omniverse-powered digital twins enabled Wistron, one of our manufacturing partners, to reduce end-to-end production cycle times by 50% and defect rates by 40%",
+      "Y/Y increase driven primarily by self-driving platforms Q/Q growth driven by the ramp of Al cockpit solutions with global OEM customers and strength in seif-driving platforms Supported Xiaomi in the successful launch of its first electric vehicle - the SU7 sedan built on NVIDIA DRIVE Orin Announced a number of new design wins on NVIDlA DRIVE Thor with several leading EV makers including BYD, XPENG, GAC's AlON Hyper, and Nuro DRIVE Thor slated for production vehicles starting next year",
+      "Y/Y increase reflects higher revenue Q/Q increase reflects higher revenue and lower cash taxes Utilized cash of \\$7.8B towards shareholder returns,including \\$7.7B in share repurchases and \\$98M in cash dividends",
+      ". Invested \\$409M in capex (includes principal payments on PP&E)",
+      "NVIDIA Blackwell enables real-time generative Al on trillionparameter large language models at up to 25x lower TCO and energy consumption than its predecessor",
+      "Blackwelldelivers up to 4x faster training and 3Ox faster inference than the H100",
+      "The unit of compute for the biggest LLMs is the GB200 NVL72- a multi-node, liquid-cooled, rack-scale system combining 36 GB200 Superchips to act as a single GPU",
+      "Each GB200 connects two NVIDIA B200 GPUs to a Grace CPU",
+      "The NVIDIA B200 GPU is the world's most powerful chip",
+      "Composed of two reticle limit dies connected by a 10 TB/s link into a single, unified GPU with 208 billion transistors",
+      "It powers the NVIDIA HGX B20O,a server platform with eight B200 GPUs interconnected with NVLink, for x86 systems",
+      "Blackwell products will be available starting later in 2024",
+      "NVIDIA Quantum-X800 InfiniBand and NVIDIA Spectrum-X800 Ethernet are the world's first networking platforms capable of end-to-end 800Gb/s throughput",
+      "For the highest Al performance, GB2o0-powered systems can be connected with NVIDIA Quantum-X80O InfiniBand or Spectrum-X800 Ethernet switches",
+      "HGX B200 supports networking speeds up to 400Gb/s through the NVIDIA Quantum-2 InfiniBand and Spectrum-X Ethernet networking platforms",
+      "NVIDIA Quantum-X800 InfiniBand",
+      "NVIDIA Spectrum-X800 Ethernet",
+      "EDA and CAE-leading EDA and CAE applications and solvers will be accelerated by NViDIA, delivering speedups of over 1OX, with adoption by Ansys, Cadence and Synopsys",
+      "DRIVE Thor isa centralized in-vehicle computing platform based on Blackwell. It delivers feature-rich cockpit capabilities plus safe & secure highly automated and autonomous driving BYD, GAC AlON, XPENG, Plus, Nuro, Waabi, WeRide are adopting DRIVE Thor, joining Li Auto& ZEEKR DRIVE Thor slated for production vehicles as early as 2025",
+      "Announced Jetson Thor robotics computer based on Blackwell Unveiled significant upgrades to the NVIDIA Isaac robotics platform to support leading humanoid robot companies including 1X Technologies, Agility Robotics, Apptronik, Boston Dynamics, Figure Al, Fourier Intelligence, Sanctuary Al, Unitree Robotics, XPENG Robotics",
+      "# NVIDIA H20O Tensor Core GPUs and NVIDIA TensorRT-LLM Set MLPerf LLM Inference Records",
+      "NVIDIA was the only company to submit results on every Workload in the latest round and every round since MLPerf's inference benchmarks began in October 2020",
+      "NVIDIA TensorRT-LLM一our software that speeds and simplifies the complex job of inference on large language models-boosted the performance of NVIDIA Hopper on GPT-J LLM nearly 3x over their results just six months ago",
+      "NVIDIA H2OO GPUs, in their MLPerf debut, set a record on the Llama 2 70B benchmark",
+      "Upto 45%Faster Llama270B Inferencein MLPerf",
+      "In the latest ranking of the world's most energy-efficient supercomputers -the Green500 - NVIDIA-powered systems swept the top 3 spots,and took 7 of the top 10",
+      "The top three systems were allpowered by the NVIDIA GH2OO Grace Hopper Superchip,offering over 1,OOOx more energy efficiency on mixed precision and Al tasks than previous generations",
+      "NVIDIA's upcoming Blackwell platform offers the computational power of the Titan supercomputer launched 10 years ago 一a \\$100M system the size of a tennis court - yet efficient enough to be powered by a wall socket just like a typical home appliance",
+      "Al Grace Hopper Coming Online 2024",
+      "80% attach rate of Grace to Hopper"
+    ],
+    "key_metrics_mentioned": [
+      {
+        "metric_name": "total_revenue",
+        "value": 26.0,
+        "unit": "B",
+        "context": "Total revenue up 262% Y/Y to \\$26.0B, well above outlook of \\$24.0B +/- 2%"
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 262.0,
+        "unit": "",
+        "context": "Total revenue up 262% Y/Y to \\$26.0B, well above outlook of \\$24.0B +/- 2%"
+      },
+      {
+        "metric_name": "data_center_revenue",
+        "value": 22.6,
+        "unit": "B",
+        "context": "· Data Center up 427% Y/Y to \\$22.6B Gaming up 18% Y/Y to \\$2.6B"
+      },
+      {
+        "metric_name": "gaming_revenue",
+        "value": 2.6,
+        "unit": "B",
+        "context": "· Data Center up 427% Y/Y to \\$22.6B Gaming up 18% Y/Y to \\$2.6B"
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 427.0,
+        "unit": "",
+        "context": "· Data Center up 427% Y/Y to \\$22.6B Gaming up 18% Y/Y to \\$2.6B"
+      },
+      {
+        "metric_name": "share_repurchases",
+        "value": 7.8,
+        "unit": "B",
+        "context": "Y/Y increase reflects higher revenue Q/Q increase reflects higher revenue and lower cash taxes Utilized cash of \\$7.8B towards shareholder returns,including \\$7.7B in share repurchases and \\$98M in ca"
+      },
+      {
+        "metric_name": "cash_position",
+        "value": 7.8,
+        "unit": "B",
+        "context": "Y/Y increase reflects higher revenue Q/Q increase reflects higher revenue and lower cash taxes Utilized cash of \\$7.8B towards shareholder returns,including \\$7.7B in share repurchases and \\$98M in ca"
+      }
+    ]
+  },
+  "financial": {
+    "revenue": {
+      "total": {
+        "value": 19400.0,
+        "unit": "$M"
+      },
+      "data_center": {
+        "value": 26000.0,
+        "unit": "$M"
+      },
+      "gaming": {
+        "value": 2600.0,
+        "unit": "$M"
+      },
+      "professional_visualization": null,
+      "automotive": null,
+      "yoy_growth_pct": 262.0,
+      "sequential_growth_pct": null
+    },
+    "profitability": {
+      "gross_margin_gaap_pct": null,
+      "gross_margin_non_gaap_pct": null,
+      "operating_income_gaap": null,
+      "operating_income_non_gaap": null,
+      "operating_margin_pct": null,
+      "net_income_gaap": null,
+      "net_income_non_gaap": null
+    },
+    "per_share": {
+      "eps_gaap_diluted": null,
+      "eps_non_gaap_diluted": null
+    },
+    "cash_flow": {
+      "operating_cash_flow": null,
+      "free_cash_flow": null,
+      "capital_expenditure": null,
+      "share_repurchases": {
+        "value": 7700.0,
+        "unit": "$M"
+      },
+      "dividends": {
+        "value": 98.0,
+        "unit": "$M"
+      }
+    },
+    "balance_sheet": {
+      "cash_and_marketable_securities": null,
+      "inventory": null,
+      "accounts_receivable": null,
+      "total_debt": {
+        "value": 9800.0,
+        "unit": "$M"
+      },
+      "net_cash": {
+        "value": 21600.0,
+        "unit": "$M"
+      },
+      "dso_days": null,
+      "dsi_days": null
+    }
+  },
+  "segments": {
+    "data_center": {
+      "revenue": null,
+      "yoy_growth_pct": 427.0,
+      "sequential_growth_pct": null,
+      "compute_revenue": null,
+      "networking_revenue": null,
+      "key_drivers": [
+        "Total revenue up 262% Y/Y to \\$26.0B, well above outlook of \\$24.0B +/- 2%",
+        "Data Center up 427% Y/Y to \\$22.6B Gaming up 18% Y/Y to \\$2.6B",
+        "Growthdrivenbyallustomertypes,ledbyEnterpriseandConsumerInternet;largeCSPsrepresentedmid-40%ofDataCentereveue BeyondCSPs,generativeAlhasexpandedtoconsumerinternet,enterprise,sovereignAlutomotive,andhealthcarecustomers Workedwith00+customersbuildingAlfactoriesanginginsizefromhundredstosofthousandsofGPUssomereachingthusand Sovereign Al revenue opportunity can approach high single digit \\$billons this year,from nothing last year",
+        "NVIDIA Blackwell enables real-time generative Al on trillionparameter large language models at up to 25x lower TCO and energy consumption than its predecessor",
+        "Blackwelldelivers up to 4x faster training and 3Ox faster inference than the H100",
+        "The unit of compute for the biggest LLMs is the GB200 NVL72- a multi-node, liquid-cooled, rack-scale system combining 36 GB200 Superchips to act as a single GPU",
+        "Each GB200 connects two NVIDIA B200 GPUs to a Grace CPU",
+        "The NVIDIA B200 GPU is the world's most powerful chip",
+        "Composed of two reticle limit dies connected by a 10 TB/s link into a single, unified GPU with 208 billion transistors",
+        "It powers the NVIDIA HGX B20O,a server platform with eight B200 GPUs interconnected with NVLink, for x86 systems",
+        "Amazon,Google,Meta, Microsoft, OpenAl, Oracle, Tesla and xAl are among the many organizations expected to adopt Blackwell",
+        "Blackwell products will be available starting later in 2024"
+      ],
+      "customer_mix": {}
+    },
+    "gaming": {
+      "revenue": null,
+      "yoy_growth_pct": 18.0,
+      "sequential_growth_pct": null,
+      "key_drivers": [
+        "Strong market reception for GeForce RTX 40 SUPER GPUs",
+        "With over 100M instaledbase,GeForceRTXGPUs oferunmatched performanceforrunnnggenerativeAlapplicationson PCs",
+        "Game developers are embracing NVIDIA ACE to create life-like avatars",
+        "Announced a 10-for-1 stock split and 150% dividend increase"
+      ]
+    },
+    "professional_visualization": {
+      "revenue": null,
+      "yoy_growth_pct": null,
+      "sequential_growth_pct": null,
+      "key_drivers": []
+    },
+    "automotive": {
+      "revenue": null,
+      "yoy_growth_pct": null,
+      "sequential_growth_pct": null,
+      "key_drivers": []
+    }
+  },
+  "guidance": {
+    "next_quarter_revenue": null,
+    "next_quarter_revenue_range_pct": null,
+    "gross_margin_gaap_pct": null,
+    "gross_margin_non_gaap_pct": null,
+    "opex_gaap": null,
+    "opex_non_gaap": null,
+    "tax_rate_pct": null,
+    "raw_text": "outlook of \\$24.0B +/- 2%   \n· Data Center up 427% Y/Y to \\$22.6B Gaming up 18% Y/Y to \\$2.6B\n\n"
+  },
+  "qualitative": {
+    "key_announcements": [],
+    "technology_highlights": [
+      "# Record quarter driven by strong Data Center growth",
+      "# Record Data Center revenue driven by continued strong demand for the NVIDIA Hopper GPUcomputing platform",
+      "·Growthdrivenbyallustomertypes,ledbyEnterpriseandConsumerInternet;largeCSPsrepresentedmid-40%ofDataCentereveue BeyondCSPs,generativeAlhasexpandedtoconsumerinternet,enterprise,sovereignAlutomotive,andhealthcarecustomers Workedwith00+customersbuildingAlfactoriesanginginsizefromhundredstosofthousandsofGPUssomereachingthusand Sovereign Al revenue opportunity can approach high single digit \\$billons this year,from nothing last year",
+      "Compute revenue was \\$19.4B,up more than 5X Y/Y and 29% Q/Q driven by the NVIDiA Hopper GPU computing platform for training and inferencing LLMs, recommendation engines, and generative Al",
+      "Supply for H100 continued to improve; stillconstrained on H200",
+      "Blackwell in full production and we are working to bring up our system and cloud partners for global availability later this year",
+      "Demand for H200& Blackwell is well ahead of supply; expect demand may exceed supply well into next year",
+      "Started shipping Spectrum-X Ethernet solution optimized for Al; expect it to be a multi-billion-dollar product line within a year",
+      "Generative Al and Omniverse industrial digitalization will drive the next wave of professional visualization growth",
+      "Omniverse-powered digital twins enabled Wistron, one of our manufacturing partners, to reduce end-to-end production cycle times by 50% and defect rates by 40%",
+      "BYD, the world's largest electric vehicle maker, is adopting Omniverse for virtual factory planning and retail configurators",
+      "Y/Y increase driven primarily by self-driving platforms Q/Q growth driven by the ramp of Al cockpit solutions with global OEM customers and strength in seif-driving platforms Supported Xiaomi in the successful launch of its first electric vehicle - the SU7 sedan built on NVIDIA DRIVE Orin Announced a number of new design wins on NVIDlA DRIVE Thor with several leading EV makers including BYD, XPENG, GAC's AlON Hyper, and Nuro DRIVE Thor slated for production vehicles starting next year",
+      "# NVIDIA Blackwell and Wave of Data Center Scale Platforms Power the Trillion-Parameter Al Era",
+      "NVIDIA Blackwell enables real-time generative Al on trillionparameter large language models at up to 25x lower TCO and energy consumption than its predecessor",
+      "Blackwelldelivers up to 4x faster training and 3Ox faster inference than the H100",
+      "The unit of compute for the biggest LLMs is the GB200 NVL72- a multi-node, liquid-cooled, rack-scale system combining 36 GB200 Superchips to act as a single GPU",
+      "Each GB200 connects two NVIDIA B200 GPUs to a Grace CPU",
+      "The NVIDIA B200 GPU is the world's most powerful chip",
+      "It powers the NVIDIA HGX B20O,a server platform with eight B200 GPUs interconnected with NVLink, for x86 systems",
+      "Amazon,Google,Meta, Microsoft, OpenAl, Oracle, Tesla and xAl are among the many organizations expected to adopt Blackwell"
+    ],
+    "risks_and_challenges": [
+      "Networking revenue was \\$3.2B, up more than 3X Y/Y on strong InfiniBand growth,and down 5% Q/Q due to the timing of supply",
+      "Supply for H100 continued to improve; stillconstrained on H200",
+      "Demand for H200& Blackwell is well ahead of supply; expect demand may exceed supply well into next year",
+      "Y/Y increase reflects higher revenue Q/Q increase reflects higher revenue and lower cash taxes Utilized cash of \\$7.8B towards shareholder returns,including \\$7.7B in share repurchases and \\$98M in cash dividends",
+      "NVIDIA Blackwell enables real-time generative Al on trillionparameter large language models at up to 25x lower TCO and energy consumption than its predecessor"
+    ],
+    "product_launches": [
+      "Announced a 10-for-1 stock split and 150% dividend increase",
+      "NVIDIA and Microsoft announced Al performance optimizations for Windows to help run LLMs up to 3x faster on NVIDlA GeForce RTX AI PCs",
+      "Y/Y increase driven primarily by self-driving platforms Q/Q growth driven by the ramp of Al cockpit solutions with global OEM customers and strength in seif-driving platforms Supported Xiaomi in the successful launch of its first electric vehicle - the SU7 sedan built on NVIDIA DRIVE Orin Announced a number of new design wins on NVIDlA DRIVE Thor with several leading EV makers including BYD, XPENG, GAC's AlON Hyper, and Nuro DRIVE Thor slated for production vehicles starting next year",
+      "Announced the acceleration of major workloads and expanding adoption of NVIDiA Ai & accelerated computing across large industries",
+      "Industrial digitalization-Unveiled new Omniverse Cloud APls for digital twin & simulation application development,adopted by Ansys, Cadence, Dassault Systemes, Siemens; available on Microsoft Azure later this year",
+      "Announced Project GRooT, a general-purpose foundation model enabling robots to understand natural language and emulate movements by observing human actions",
+      "Announced Jetson Thor robotics computer based on Blackwell Unveiled significant upgrades to the NVIDIA Isaac robotics platform to support leading humanoid robot companies including 1X Technologies, Agility Robotics, Apptronik, Boston Dynamics, Figure Al, Fourier Intelligence, Sanctuary Al, Unitree Robotics, XPENG Robotics",
+      "NVIDIA's upcoming Blackwell platform offers the computational power of the Titan supercomputer launched 10 years ago 一a \\$100M system the size of a tennis court - yet efficient enough to be powered by a wall socket just like a typical home appliance"
+    ]
+  },
+  "chart_data": {
+    "total_charts_processed": 0,
+    "categorized_charts": {},
+    "chart_details": {}
+  },
+  "tables_extracted": [],
+  "data_sources": {
+    "sections_found": [
+      "_unclassified",
+      "data_center",
+      "gaming",
+      "financial_summary",
+      "highlights",
+      "professional_visualization",
+      "cash_flow",
+      "reconciliation"
+    ],
+    "chart_categories": []
   }
 }

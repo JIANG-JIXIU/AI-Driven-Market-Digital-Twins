@@ -1,13 +1,207 @@
 {
-  "pdf_name": "META_2025_Q4_Press_Release",
-  "source_file": "/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q4_Press_Release/META_2025_Q4_Press_Release.md",
-  "text_content": "FACEBOOK\n\n# Meta Reports Fourth Quarter and Full Year 2025 Results\n\nMENLO PARK,Calif.,Jan.28,2026 /PRNewswire/--Meta Platforms,Inc.(Nasdaq: META)todayreported financial results for the quarter and fullyear ended December 31,2025.\n\n\"We had strong business performance in 2025,\"said Mark Zuckerberg,Meta founder and CEO.\"'m looking forward to advancing personal superintelligence for people around the world in 2026.\"\n\nFourth Quarter and Full Year 2025 Financial Highlights   \n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q4_Press_Release/images/afa17fc4daacfa640ab9c1c8f7a8ad64cf901a8e1a76c2632c5fa5727c245f37.jpg)\n\nThree Months Ended December 31,   \n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q4_Press_Release/images/7649c35b0ad106420731713ed872b3568afa75331531d3171ca747a700c40728.jpg)\n\nTwelve Months Ended December 31,   \n![](/hpc2hdd/home/wyu899/AI-Driven-Market-Digital-Twins/Perception/META/parsed_output/mineru_results/META_2025_Q4_Press_Release/images/67bc3992709520294ea057604c24ffd9b777041698d21dd4fe5579a40aa240bc.jpg)\n\n# =ourth Quarter and FullYear 2025 Operational and Other Financial Highlights\n\n· Family daily active people (DAP)-DAP was 3.58 billion on average for December 2025,an increase of 7% yearover-year.   \n· Ad impressions -Ad impressions delivered across our Family of Apps increased by 18% and 12% year-overyear for the fourth quarter and full year 2025,respectively.   \n· Average price perad-Average price per ad increased by 6% and 9% year-over-year for the fourth quarter and full year 2025, respectively.   \n·Revenue- Revenue was \\$59.89 billionand \\$200.97 billion,representing increases of 24% and 22% year-overyear for the fourth quarter and fullyear 2025,respectively. Revenue on a constant currency basis would have increased 23% and 22% year-over-year for the fourth quarter and full year 2025,respectively.   \n· Costs and expenses - Total costs and expenses were \\$35.15 billion and \\$117.69 billion, representing increases of 40% and 24% year-over-year for the fourth quarter and full year 2025,respectively.   \n·Capital expenditures- Capital expenditures,including principal payments on finance leases,were \\$22.14 billion and \\$72.22 bilion for the fourth quarter and full year 2025,respectively.   \n· Capital return program - Share repurchases of our Class Acommon stock were nil and \\$26.26 billon,and total dividend and dividend equivalent payments were \\$1.34 billion and \\$5.32 billon forthe fourth quarter and full year 2025, respectively.   \n· Cash,cash equivalents,and marketable securities - Cash,cash equivalents,and marketable securities were \\$81.59 billion as of December 31,2025.   \n· Cash flow- Cash flow from operating activities was \\$36.21 billionand \\$115.80 billion,and free cash flow was \\$14.08 billion and \\$43.59 billion for the fourth quarter and full year 2025, respectively.(1)   \n· Long-term debt - Long-term debt was \\$58.74 billion as of December 31,2025.   \n· Headcount - Headcount was 78,865 as of December 31, 2025,an increase of 6% year-over-year.\n\n# CFO Outlook Commentary\n\nWe expect first quarter 2026 total revenue to be in the range of \\$53.5-56.5 bilion.Our guidance assumes foreign currencyis anapproximately4% tailwindto year-over-year total revenue growth,based on current exchange rates.\n\nWe expect fullyear 2026 total expenses to be in the range of \\$162-169 billion.\n\n·The majority of expense growth willbe driven by infrastructure costs,which includes third-party cloud spend, higher depreciation, and higher infrastructure operating expenses.   \n·The second-largest contributor to total expense growth is employee compensation,driven byinvestments in technical talent.This includes 2026 hires to support our priority areas,particularlyAl,as well asafullyear of expenses from 2025 hires.   \n· At a segment level, we expect expense growth to be driven bythe Family of Apps,with RealityLabs operating losses remaining similar to 2025 levels.\n\nWe anticipate 2026 capital expenditures,including principal payments on finance leases,to be in the range of \\$115- 135 billion, with year-over-year growth driven by increased investment to supportour Meta Superintellgence Labs efforts and core business.\n\nDespite the meaningfulstep upin infrastructure investment,in 2026 we expectto deliver operating income that is above 2025 operating income.\n\nAbsent any changes to our tax landscape,we expect our fullyear 2026 tax rate to be 13-16%.\n\nFinally,we recently aligned with the European Commission on further changes to our Less Personalized Ads offering, which we willbegin roling out this quarter. However,we continue to monitor legal and regulatory headwinds inthe EUandthe U.S.that could significantlyimpact our businessand financial results.For example,we continue to see scrutiny on youth-related issues and have a numberof trials scheduledforthis year in the U.S, which may ultimately",
-  "tables": [],
-  "charts": [],
   "metadata": {
-    "total_images": 10,
-    "total_charts": 0,
-    "total_tables": 0,
-    "markdown_length": 16392
+    "company": "Meta Platforms",
+    "ticker": "META",
+    "pdf_name": "META_2025_Q4_Press_Release",
+    "year": 2025,
+    "quarter": "Q4",
+    "period_end": "2025-12-31",
+    "report_type": "Press Release",
+    "extraction_timestamp": "2026-05-10T20:39:29.324704",
+    "data_completeness": {
+      "text_sections_found": 6,
+      "charts_processed": 0,
+      "md_tables_found": 0,
+      "highlights_extracted": 21,
+      "metrics_extracted": 7
+    }
+  },
+  "highlights": {
+    "bullet_points": [
+      "Family daily active people (DAP)-DAP was 3.58 billion on average for December 2025,an increase of 7% yearover-year.",
+      "Ad impressions -Ad impressions delivered across our Family of Apps increased by 18% and 12% year-overyear for the fourth quarter and full year 2025,respectively.",
+      "Average price perad-Average price per ad increased by 6% and 9% year-over-year for the fourth quarter and full year 2025, respectively.",
+      "Revenue- Revenue was \\$59.89 billionand \\$200.97 billion,representing increases of 24% and 22% year-overyear for the fourth quarter and fullyear 2025,respectively. Revenue on a constant currency basis would have increased 23% and 22% year-over-year for the fourth quarter and full year 2025,respectively.",
+      "Costs and expenses - Total costs and expenses were \\$35.15 billion and \\$117.69 billion, representing increases of 40% and 24% year-over-year for the fourth quarter and full year 2025,respectively.",
+      "Capital expenditures- Capital expenditures,including principal payments on finance leases,were \\$22.14 billion and \\$72.22 bilion for the fourth quarter and full year 2025,respectively.",
+      "Capital return program - Share repurchases of our Class Acommon stock were nil and \\$26.26 billon,and total dividend and dividend equivalent payments were \\$1.34 billion and \\$5.32 billon forthe fourth quarter and full year 2025, respectively.",
+      "Cash,cash equivalents,and marketable securities - Cash,cash equivalents,and marketable securities were \\$81.59 billion as of December 31,2025.",
+      "Cash flow- Cash flow from operating activities was \\$36.21 billionand \\$115.80 billion,and free cash flow was \\$14.08 billion and \\$43.59 billion for the fourth quarter and full year 2025, respectively.(1)",
+      "Long-term debt - Long-term debt was \\$58.74 billion as of December 31,2025.",
+      "Headcount - Headcount was 78,865 as of December 31, 2025,an increase of 6% year-over-year.",
+      "We expect first quarter 2026 total revenue to be in the range of \\$53.5-56.5 bilion.Our guidance assumes foreign currencyis anapproximately4% tailwindto year-over-year total revenue growth,based on current exchange rates.",
+      "We expect fullyear 2026 total expenses to be in the range of \\$162-169 billion.",
+      "The second-largest contributor to total expense growth is employee compensation,driven byinvestments in technical talent.This includes 2026 hires to support our priority areas,particularlyAl,as well asafullyear of expenses from 2025 hires.",
+      "At a segment level, we expect expense growth to be driven bythe Family of Apps,with RealityLabs operating losses remaining similar to 2025 levels.",
+      "We anticipate 2026 capital expenditures,including principal payments on finance leases,to be in the range of \\$115- 135 billion, with year-over-year growth driven by increased investment to supportour Meta Superintellgence Labs efforts and core business.",
+      "Despite the meaningfulstep upin infrastructure investment,in 2026 we expectto deliver operating income that is above 2025 operating income.",
+      "Meta is building the future of human connection,powered by artificial intelligence and immersive technologies When Facebook launched in 2004,it changed the way people connect. Appslike Messenger,Instagram,and WhatsApp further empowered billions around the world. Now,Meta is moving beyond 2D screens toward experiences that foster deeper connections and unlock new possibilities.",
+      "This press release contains forward-looking statements regarding our future business plans and expectations. These forward-looking statements are only predictions and may difer materiall from actual results due to a variety offactors including: the impact of macroeconomic conditions on our business and financial results,including as a result of geopolitical events; our ability to retain or increase users and engagement levels; our reliance on advertising revenue;our dependency on data signalsand mobile operating systems,networks,and standards that we do not control; changes to the content or application of third-party policies that impact our advertising practices; risks associated with new products and changes to existing products as wellas other new business initiatives,including our artificialinteligence initiatives and Reality Labs effrts; our emphasis on community growth and engagementandthe user experience overshort-term financial results; maintaining and enhancing our brand and reputation; our ongoing privacy,safety,security,and content and advertising review and enforcement efforts; competition; risks associated with government actions that could restrict accessto our products or impair our ability toselladvertising in certain countries;litigationand government inquiries; privacy,legislative,and regulatory concerns or developments; risks associated with acquisitions; security breaches; our abilityto manage our scale and geographically-dispersed operations; and market conditions or other factors affecting capital return to stockholders.These and other potential risks and uncertainties that could cause actual results to difer from the results predicted are more fuly detailed under the caption \"Risk Factors\" inour Quarterly Report on Form 10-Q filed withthe SEConOctober30,2025,which is available onour Investor Relations websiteat investor.atmeta.com and onthe SEC website at www.sec.gov.Additional information willalso be set forth in our Annual Report on Form 10-Kfor the year ended December31,2025.Inaddition,please note thatthe date of this press release is January 28,2026,and any forward-looking statements contained herein are based on assumptions that webelieve to be reasonable as ofthis date.We undertake no obligation to update these statements as a result of new information or future events.",
+      "Foreign exchange effect on 2025 revenue using 2024 rates",
+      "Foreign exchange effect on 2025 advertising revenue using 2024"
+    ],
+    "key_metrics_mentioned": [
+      {
+        "metric_name": "dap",
+        "value": 3.58,
+        "unit": "billion",
+        "context": "Family daily active people (DAP)-DAP was 3.58 billion on average for December 2025,an increase of 7% yearover-year."
+      },
+      {
+        "metric_name": "ad_impressions_growth",
+        "value": 18.0,
+        "unit": "",
+        "context": "Ad impressions -Ad impressions delivered across our Family of Apps increased by 18% and 12% year-overyear for the fourth quarter and full year 2025,respectively."
+      },
+      {
+        "metric_name": "price_per_ad_growth",
+        "value": 6.0,
+        "unit": "",
+        "context": "Average price perad-Average price per ad increased by 6% and 9% year-over-year for the fourth quarter and full year 2025, respectively."
+      },
+      {
+        "metric_name": "capex",
+        "value": 22.14,
+        "unit": "billion",
+        "context": "Capital expenditures- Capital expenditures,including principal payments on finance leases,were \\$22.14 billion and \\$72.22 bilion for the fourth quarter and full year 2025,respectively."
+      },
+      {
+        "metric_name": "headcount",
+        "value": 78865.0,
+        "unit": "",
+        "context": "Headcount - Headcount was 78,865 as of December 31, 2025,an increase of 6% year-over-year."
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 6.0,
+        "unit": "",
+        "context": "Headcount - Headcount was 78,865 as of December 31, 2025,an increase of 6% year-over-year."
+      },
+      {
+        "metric_name": "capex",
+        "value": 135.0,
+        "unit": "billion",
+        "context": "We anticipate 2026 capital expenditures,including principal payments on finance leases,to be in the range of \\$115- 135 billion, with year-over-year growth driven by increased investment to supportour"
+      }
+    ]
+  },
+  "financial": {
+    "revenue": {
+      "total": null,
+      "advertising": null,
+      "other_revenue": null,
+      "yoy_growth_pct": null,
+      "constant_currency_growth_pct": 23.0,
+      "by_geography": {
+        "us_canada": null,
+        "europe": null,
+        "asia_pacific": null,
+        "rest_of_world": null
+      }
+    },
+    "profitability": {
+      "total_costs_and_expenses": null,
+      "cost_of_revenue": null,
+      "research_and_development": null,
+      "marketing_and_sales": null,
+      "general_and_administrative": null,
+      "income_from_operations": null,
+      "operating_margin_pct": null,
+      "net_income": null,
+      "effective_tax_rate_pct": null
+    },
+    "per_share": {
+      "eps_basic": null,
+      "eps_diluted": null
+    },
+    "cash_flow": {
+      "free_cash_flow": null,
+      "capital_expenditures": null,
+      "share_repurchases": null,
+      "dividends": null
+    },
+    "balance_sheet": {
+      "cash_and_marketable_securities": null,
+      "long_term_debt": null
+    }
+  },
+  "segments": {
+    "family_of_apps": {
+      "revenue": null,
+      "ad_revenue": null,
+      "other_revenue": null,
+      "expenses": null,
+      "operating_income": null,
+      "operating_margin_pct": null,
+      "yoy_growth_pct": null
+    },
+    "reality_labs": {
+      "revenue": null,
+      "expenses": null,
+      "operating_loss": null,
+      "yoy_growth_pct": null
+    }
+  },
+  "operational": {
+    "users": {
+      "family_dap_billions": 3.58,
+      "dap_yoy_growth_pct": null,
+      "threads_monthly_actives_millions": null
+    },
+    "advertising": {
+      "ad_impressions_yoy_pct": 18.0,
+      "average_price_per_ad_yoy_pct": 6.0,
+      "top_vertical_driver": null
+    },
+    "headcount": 78865,
+    "headcount_yoy_growth_pct": 6.0
+  },
+  "guidance": {
+    "revenue_range": null,
+    "total_expenses_range": null,
+    "capex_range": null,
+    "tax_rate": null,
+    "reality_labs_commentary": null,
+    "raw_text": "We expect first quarter 2026 total revenue to be in the range of \\$53.5-56.5 bilion.Our guidance assumes foreign currencyis anapproximately4% tailwindto year-over-year total revenue growth,based on current exchange rates.\n\nWe expect fullyear 2026 total expenses to be in the range of \\$162-169 billion.\n\n·The majority of expense growth willbe driven by infrastructure costs,which includes third-party cloud spend, higher depreciation, and higher infrastructure operating expenses.   \n·The second-largest contributor to total expense growth is employee compensation,driven byinvestments in technical talent.This includes 2026 hires to support our priority areas,particularlyAl,as well asafullyear of expenses from 2025 hires.   \n· At a segment level, we expect expense growth to be driven bythe Family of Apps,with RealityLabs operating losses remaining similar to 2025 levels.\n\nWe anticipate 2026 capital expenditures,including principal payments on finance leases,to be in the range of \\$115- 135 billion, with year-over-year growth driven by increased investment to supportour Meta Superintellgence Labs efforts and core business.\n\nDespite the meaningfulstep upin infrastructure investment,in 2026 we expectto deliver operating income that is above 2025 operating income.\n\nAbsent any changes to our tax landscape,we expect our fullyear 2026 tax rate to be 13-16%.\n\nFinally,we recently aligned with the European Commission on further changes to our Less Personalized Ads offering, which we willbegin roling out this quarter. However,we continue to monitor legal and regulatory headwinds inthe EUandthe U.S.that could significantlyimpact our businessand financial results.For example,we continue to see scrutiny on youth-related issues and have a numberof trials scheduledforthis year in the U.S, which may ultimately result in a material loss.\n\nMeta willhostaconferencecalltodiscussitsresultsat1:30p.m.PT/4:30p.m.ETtoday.Thelive webcastof the cal can be accessed at the Meta Investor Relations websi"
+  },
+  "qualitative": {
+    "ceo_highlights": [],
+    "ai_initiatives": [],
+    "product_updates": [
+      "Meta uses the investor.atmeta.com and meta.com/news websites as wellas Mark Zuckerberg's Facebook profile (facebook.com/zuck),Instagram account (instagram.com/zuck)and Threads profile (threads.net/zuck)as means of disclosing material non-public information and for complying with its disclosure obligations under Regulation FD.",
+      "Meta is building the future of human connection,powered by artificial intelligence and immersive technologies When Facebook launched in 2004,it changed the way people connect. Appslike Messenger,Instagram,and WhatsApp further empowered billions around the world. Now,Meta is moving beyond 2D screens toward experiences that foster deeper connections and unlock new possibilities.",
+      "Wereportour financial results forour two reportable segments: Family of Apps (FoA)and Reality Labs(RL).FoA includes Facebook,Instagram, Messenger, WhatsApp,and other services.RLincludes our virtual and augmented reality related consumer hardware,software,and content."
+    ],
+    "risks_and_challenges": [
+      "· At a segment level, we expect expense growth to be driven bythe Family of Apps,with RealityLabs operating losses remaining similar to 2025 levels.",
+      "Finally,we recently aligned with the European Commission on further changes to our Less Personalized Ads offering, which we willbegin roling out this quarter. However,we continue to monitor legal and regulatory headwinds inthe EUandthe U.S.that could significantlyimpact our businessand financial results.For example,we continue to see scrutiny on youth-related issues and have a numberof trials scheduledforthis year in the U.S, which may ultimately result in a material loss.",
+      "This press release contains forward-looking statements regarding our future business plans and expectations. These forward-looking statements are only predictions and may difer materiall from actual results due to a variety offactors including: the impact of macroeconomic conditions on our business and financial results,including as a result of geopolitical events; our ability to retain or increase users and engagement levels; our reliance on advertising revenue;our dependency on data signalsand mobile operating systems,networks,and standards that we do not control; changes to the content or application of third-party policies that impact our advertising practices; risks associated with new products and changes to existing products as wellas other new business initiatives,including our artificialinteligence initiatives and Reality Labs effrts; our emphasis on community growth and engagementandthe user experience overshort-term financial results; maintaining and enhancing our brand and reputation; our ongoing privacy,safety,security,and content and advertising review and enforcement efforts; competition; risks associated with government actions that could restrict accessto our products or impair our ability toselladvertising in certain countries;litigationand government inquiries; privacy,legislative,and regulatory concerns or developments; risks associated with acquisitions; security breaches; our abilityto manage our scale and geographically-dispersed operations; and market conditions or other factors affecting capital return to stockholders.These and other potential risks and uncertainties that could cause actual results to difer from the results predicted are more fuly detailed under the caption \"Risk Factors\" inour Quarterly Report on Form 10-Q filed withthe SEConOctober30,2025,which is available onour Investor Relations websiteat investor.atmeta.com and onthe SEC website at www.sec.gov.Additional information willalso be set forth in our Annual Report on Form 10-Kfor the year ended December31,2025.Inaddition,please note thatthe date of this press release is January 28,2026,and any forward-looking statements contained herein are based on assumptions that webelieve to be reasonable as ofthis date.We undertake no obligation to update these statements as a result of new information or future events.",
+      "Accumulated other comprehensive income (loss)",
+      "Cash,cash equivalents,and restricted cash equivalents at beginning of the period",
+      "Cash,cash equivalents,and restricted cash equivalents at end of the period",
+      "Reconciliation of cash, cash equivalents,and restricted cash equivalents to the condensed consolidated balance sheets",
+      "Restricted cash equivalents,included in prepaid expenses and other",
+      "Restricted cash equivalents,included in other assets",
+      "Total cash,cash equivalents,and restricted cash equivalents",
+      "The following table sets forth our segment information of revenue and income (loss)from operations:",
+      "Income (loss) from operations: Family of Apps"
+    ]
+  },
+  "chart_data": {
+    "total_charts_processed": 0,
+    "categorized_charts": {},
+    "chart_details": {}
+  },
+  "tables_extracted": [],
+  "data_sources": {
+    "sections_found": [
+      "highlights",
+      "guidance",
+      "about",
+      "_unclassified",
+      "reconciliation",
+      "segment_results"
+    ],
+    "chart_categories": []
   }
 }
