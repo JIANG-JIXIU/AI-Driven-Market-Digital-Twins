@@ -8,10 +8,10 @@
     "period_end": "2025-07-31",
     "calendar_year": 2025,
     "report_type": "Investor Presentation",
-    "extraction_timestamp": "2026-05-10T20:39:21.901319",
+    "extraction_timestamp": "2026-05-10T17:55:00.853960",
     "data_completeness": {
       "text_sections_found": 7,
-      "charts_processed": 0,
+      "charts_processed": 12,
       "md_tables_found": 0,
       "highlights_extracted": 23,
       "metrics_extracted": 8
@@ -225,9 +225,2810 @@
     ]
   },
   "chart_data": {
-    "total_charts_processed": 0,
-    "categorized_charts": {},
-    "chart_details": {}
+    "total_charts_processed": 12,
+    "categorized_charts": {
+      "net_income": 2,
+      "eps": 2,
+      "reconciliation": 6,
+      "revenue": 7,
+      "gross_margin": 3,
+      "operating_income": 2,
+      "uncategorized": 1
+    },
+    "chart_details": {
+      "net_income": [
+        {
+          "image_name": "0921865dfd54fcdb43837790dc8c6755812eaba5d81d74a4ba5928cb5504887a.jpg",
+          "categories": [
+            "net_income",
+            "eps",
+            "reconciliation"
+          ],
+          "description": "This image is a financial table that breaks down various financial metrics for a company's Q2 Fiscal Year 2026 (FY26). The table provides both GAAP (Generally Accepted Accounting Principles) and Non-GAAP (Generally Accepted Accounting Principles excluding certain adjustments) figures, allowing for a comparison between the two accounting methods.\n\n### 1. Type of Chart/Visualization:\nThe visualization is a tabular format, presenting a structured layout of financial data across different categories and metrics.\n\n### 2. Metrics/Data Shown:\nThe table includes the following key metrics:\n- Gross Margin: Both including and excluding H2O related releases.\n- Operating Income\n- Net Income\n- Shares used in diluted per share calculation\n- Diluted EPS (Earnings Per Share)\n\nAdditionally, there are subcategories under \"Non-GAAP\" which break down the gross margin into:\n- Acquisition-Related and Other Costs\n- Stock-Based Compensation\n- H2O related releases\n- Other\n\nThere's also a column labeled \"Tax Impact of Adjustments\" which adjusts the GAAP figures to reflect the tax impact of these non-GAAP adjustments.\n\n### 3. Key Trends, Peaks, and Notable Data Points:\n- **Gross Margin:** \n  - The gross margin is shown as 72.7% when including H2O related releases and 72.3% when excluding them.\n  - This suggests that the H2O related releases have a slightly negative impact on the gross margin.\n  \n- **Operating Income:** \n  - The operating income is $30,165 million when including all adjustments and $28,440 million when excluding the H2O related releases.\n  - The difference of $1,725 million highlights the significant impact of these releases on the operating income.\n\n- **Net Income:** \n  - The net income is $25,783 million when including all adjustments and $26,422 million when excluding the H2O related releases.\n  - The difference of $639 million indicates the impact of the H2O related releases on the net income.\n\n- **Diluted EPS:** \n  - The diluted EPS is $1.05 when including all adjustments and $1.08 when excluding the H2O related releases.\n  - The difference of $0.03 suggests a minor impact on the diluted EPS from excluding the H2O related releases.\n\n### 4. Time Period Covered:\nThe time period covered is Q2 FY26, specifically the second quarter of fiscal year 2026.\n\n### 5. Year-Over-Year Changes or Growth Rates:\nThe table does not provide year-over-year data or growth rates. It only compares the current quarter's performance with the adjusted and unadjusted figures. To determine year-over-year changes, additional data from previous years would be required.\n\n### Summary:\nThis table provides a detailed breakdown of financial metrics for a company's Q2 FY26, comparing GAAP and Non-GAAP figures. The H2O related releases significantly impact the gross margin, operating income, net income, and diluted EPS, highlighting their importance in understanding the company's financial health.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "Gross margin ($ in million)": {
+                "FY26": {
+                  "value": 33.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 960.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": -49.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -58.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 33.0,
+                  "unit": ""
+                },
+                "GAAP": {
+                  "value": 853.0,
+                  "unit": ""
+                }
+              },
+              "72.7%": {
+                "FY26": {
+                  "value": -0.1,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": -0.2,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": 72.4,
+                  "unit": "%"
+                }
+              },
+              "Gross margin excluding H20 related releases ($ in million)": {
+                "FY26": {
+                  "value": 33.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 780.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": -49.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -58.0,
+                  "unit": ""
+                },
+                "H20 related releases": {
+                  "value": 180.0,
+                  "unit": ""
+                },
+                "Other (C)": {
+                  "value": 33.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 853.0,
+                  "unit": ""
+                }
+              },
+              "72.3%": {
+                "FY26": {
+                  "value": -0.1,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": -0.2,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": 0.4,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": 72.4,
+                  "unit": "%"
+                }
+              },
+              "Operating income ($ in million)": {
+                "FY26": {
+                  "value": 30.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 165.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": -86.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -1.0,
+                  "unit": ""
+                },
+                "H20 related releases": {
+                  "value": 624.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 28.0,
+                  "unit": ""
+                },
+                "GAAP": {
+                  "value": 440.0,
+                  "unit": ""
+                }
+              },
+              "Net income ($ in million)": {
+                "FY26": {
+                  "value": 25.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 783.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": -86.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -1.0,
+                  "unit": ""
+                },
+                "H20 related releases": {
+                  "value": 624.0,
+                  "unit": ""
+                },
+                "Other (C)": {
+                  "value": 2.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 231.0,
+                  "unit": ""
+                },
+                "GAAP": {
+                  "value": 118.0,
+                  "unit": ""
+                }
+              },
+              "Shares used in diluted per share calculation (millions)": {
+                "FY26": {
+                  "value": 24.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 532.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 24.0,
+                  "unit": ""
+                },
+                "GAAP": {
+                  "value": 532.0,
+                  "unit": ""
+                }
+              },
+              "Diluted EPS": {
+                "FY26": {
+                  "value": 1.05,
+                  "unit": ""
+                },
+                "Other (C)": {
+                  "value": 0.09,
+                  "unit": ""
+                },
+                "GAAP": {
+                  "value": 1.08,
+                  "unit": ""
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q2",
+                "FY26",
+                "Non-GAAP",
+                "Aquisition-Related and Other Costs (A)",
+                "Stock-Based Compensation (B)",
+                "H20 related releases",
+                "Other (C)",
+                "Tax Impact of Adjustments",
+                "GAAP"
+              ],
+              "rows": [
+                [
+                  "Gross margin ($ in million)",
+                  "33",
+                  "960",
+                  "-49",
+                  "-58",
+                  "-",
+                  "-",
+                  "33",
+                  "853"
+                ],
+                [
+                  "72.7%",
+                  "-0.1",
+                  "-0.2",
+                  "-",
+                  "72.4%"
+                ],
+                [
+                  "Gross margin excluding H20 related releases ($ in million)",
+                  "33",
+                  "780",
+                  "-49",
+                  "-58",
+                  "180",
+                  "33",
+                  "853"
+                ],
+                [
+                  "72.3%",
+                  "-0.1",
+                  "-0.2",
+                  "0.4",
+                  "72.4%"
+                ],
+                [
+                  "Operating income ($ in million)",
+                  "30",
+                  "165",
+                  "-86",
+                  "-1",
+                  "624",
+                  "-",
+                  "28",
+                  "440"
+                ],
+                [
+                  "Net income ($ in million)",
+                  "25",
+                  "783",
+                  "-86",
+                  "-1",
+                  "624",
+                  "2",
+                  "231",
+                  "118",
+                  "26",
+                  "422"
+                ],
+                [
+                  "Shares used in diluted per share calculation (millions)",
+                  "24",
+                  "532",
+                  "-",
+                  "-",
+                  "-",
+                  "-",
+                  "24",
+                  "532"
+                ],
+                [
+                  "Diluted EPS",
+                  "$1.05",
+                  "-",
+                  "-",
+                  "-",
+                  "-",
+                  "0.09",
+                  "-",
+                  "$1.08"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "5d48f4629d47ca663f66f638096d57d8563a796ccfaeacf852d685035e08e813.jpg",
+          "categories": [
+            "net_income",
+            "eps",
+            "reconciliation"
+          ],
+          "description": "This image presents a financial performance comparison table for two accounting methods: GAAP (Generally Accepted Accounting Principles) and Non-GAAP. The table covers the second quarter of Fiscal Year 2026 (Q2 FY26) and provides year-over-year (Y/Y) and quarter-over-quarter (Q/Q) comparisons.\n\n### Chart Type:\nThe visualization is a tabular format, specifically a comparative financial statement table, which organizes data into categories and subcategories to facilitate analysis.\n\n### Metrics/Data Shown:\nThe table includes the following key financial metrics:\n\n- **Revenue**: Total income generated.\n- **Gross Margin (GM)**: Percentage of revenue remaining after deducting cost of goods sold.\n- **Gross Margin excluding H2O related charges/releases, net**: Adjusted gross margin, excluding specific charges or releases.\n- **Operating Income**: Profit from operations before interest and taxes.\n- **Net Income**: Total profit after all expenses, including taxes.\n- **Diluted EPS (Earnings Per Share)**: Net income divided by the weighted average number of shares outstanding, adjusted for dilution.\n- **Cash Flow from Ops**: Cash generated from operating activities.\n\n### Key Trends, Peaks, and Notable Data Points:\n- **Revenue**: Both GAAP and Non-GAAP show a 56% increase year-over-year and a 6% increase quarter-over-quarter.\n- **Gross Margin**: GAAP shows a slight decrease in gross margin percentage, while Non-GAAP shows a more significant decrease but both exhibit an improvement in points compared to the previous quarter.\n- **Operating Income**: GAAP shows a 53% increase year-over-year and a 31% increase quarter-over-quarter, while Non-GAAP shows a 51% increase year-over-year and a 30% increase quarter-over-quarter.\n- **Net Income**: GAAP shows a 59% increase year-over-year and a 41% increase quarter-over-quarter, while Non-GAAP shows a 52% increase year-over-year and a 30% increase quarter-over-quarter.\n- **Diluted EPS**: GAAP shows a 61% increase year-over-year and a 42% increase quarter-over-quarter, while Non-GAAP shows a 54% increase year-over-year and a 30% increase quarter-over-quarter.\n- **Cash Flow from Ops**: Both GAAP and Non-GAAP show a 6% increase year-over-year but a 44% decrease quarter-over-quarter.\n\n### Time Period Covered:\nThe time period covered is Q2 FY26, with year-over-year and quarter-over-quarter comparisons provided.\n\n### Year-over-Year Changes/Growth Rates:\n- Revenue: +56%\n- Gross Margin: Decrease in percentage points for both GAAP and Non-GAAP.\n- Operating Income: +53% (GAAP), +51% (Non-GAAP)\n- Net Income: +59% (GAAP), +52% (Non-GAAP)\n- Diluted EPS: +61% (GAAP), +54% (Non-GAAP)\n- Cash Flow from Ops: +6% (GAAP), +6% (Non-GAAP)\n\n### Summary:\nThe table highlights robust growth across various financial metrics for both GAAP and Non-GAAP measures, with year-over-year increases being particularly strong. However, there is a noticeable decline in cash flow from operations in both accounting methods when comparing quarters.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "Revenue": {
+                "Q/Y": {
+                  "value": 6.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 46.0,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 56.0,
+                  "unit": "%"
+                }
+              },
+              "Gross Margin(GM)": {
+                "Q/Y": {
+                  "value": 72.7,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": -3.0,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 11.9,
+                  "unit": ""
+                }
+              },
+              "GM excluding H20 related charges/releases": {
+                "Q2 FY26": {
+                  "value": 72.3,
+                  "unit": "%"
+                },
+                "Q/Y": {
+                  "value": 1.0,
+                  "unit": ""
+                }
+              },
+              "Operating Income": {
+                "Q/Y": {
+                  "value": 31.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 30.0,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 53.0,
+                  "unit": "%"
+                }
+              },
+              "Net Income": {
+                "Q/Y": {
+                  "value": 41.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 25.0,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 59.0,
+                  "unit": "%"
+                }
+              },
+              "Diluted EPS": {
+                "Q/Y": {
+                  "value": 1.05,
+                  "unit": ""
+                },
+                "Q/Q": {
+                  "value": 54.0,
+                  "unit": "%"
+                },
+                "Q2 FY26": {
+                  "value": 42.0,
+                  "unit": "%"
+                }
+              },
+              "Cash Flow from Ops": {
+                "Q/Y": {
+                  "value": -44.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 15.0,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 6.0,
+                  "unit": "%"
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q2 FY26",
+                "Q/Y",
+                "Q/Q",
+                "Q2 FY26",
+                "Q/Y",
+                "Q/Q"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "$46",
+                  "743",
+                  "+56%",
+                  "+6%",
+                  "$46",
+                  "743",
+                  "+56%",
+                  "+6%"
+                ],
+                [
+                  "Gross Margin(GM)",
+                  "72.4%",
+                  "-2.7 pts",
+                  "+11.9 pts",
+                  "72.7%",
+                  "-3.0 pts",
+                  "+11.7 pts"
+                ],
+                [
+                  "GM excluding H20 related charges/releases",
+                  "net",
+                  "",
+                  "72.3%",
+                  "+1.0 pt",
+                  ""
+                ],
+                [
+                  "Operating Income",
+                  "$28",
+                  "440",
+                  "+53%",
+                  "+31%",
+                  "$30",
+                  "165",
+                  "+51%",
+                  "+30%"
+                ],
+                [
+                  "Net Income",
+                  "$26",
+                  "422",
+                  "+59%",
+                  "+41%",
+                  "$25",
+                  "783",
+                  "+52%",
+                  "+30%"
+                ],
+                [
+                  "Diluted EPS",
+                  "$1.08",
+                  "+61%",
+                  "+42%",
+                  "$1.05",
+                  "+54%",
+                  "+30%"
+                ],
+                [
+                  "Cash Flow from Ops",
+                  "$15",
+                  "365",
+                  "+6%",
+                  "-44%",
+                  "$15",
+                  "365",
+                  "+6%",
+                  "-44%"
+                ]
+              ]
+            }
+          }
+        }
+      ],
+      "eps": [
+        {
+          "image_name": "0921865dfd54fcdb43837790dc8c6755812eaba5d81d74a4ba5928cb5504887a.jpg",
+          "categories": [
+            "net_income",
+            "eps",
+            "reconciliation"
+          ],
+          "description": "This image is a financial table that breaks down various financial metrics for a company's Q2 Fiscal Year 2026 (FY26). The table provides both GAAP (Generally Accepted Accounting Principles) and Non-GAAP (Generally Accepted Accounting Principles excluding certain adjustments) figures, allowing for a comparison between the two accounting methods.\n\n### 1. Type of Chart/Visualization:\nThe visualization is a tabular format, presenting a structured layout of financial data across different categories and metrics.\n\n### 2. Metrics/Data Shown:\nThe table includes the following key metrics:\n- Gross Margin: Both including and excluding H2O related releases.\n- Operating Income\n- Net Income\n- Shares used in diluted per share calculation\n- Diluted EPS (Earnings Per Share)\n\nAdditionally, there are subcategories under \"Non-GAAP\" which break down the gross margin into:\n- Acquisition-Related and Other Costs\n- Stock-Based Compensation\n- H2O related releases\n- Other\n\nThere's also a column labeled \"Tax Impact of Adjustments\" which adjusts the GAAP figures to reflect the tax impact of these non-GAAP adjustments.\n\n### 3. Key Trends, Peaks, and Notable Data Points:\n- **Gross Margin:** \n  - The gross margin is shown as 72.7% when including H2O related releases and 72.3% when excluding them.\n  - This suggests that the H2O related releases have a slightly negative impact on the gross margin.\n  \n- **Operating Income:** \n  - The operating income is $30,165 million when including all adjustments and $28,440 million when excluding the H2O related releases.\n  - The difference of $1,725 million highlights the significant impact of these releases on the operating income.\n\n- **Net Income:** \n  - The net income is $25,783 million when including all adjustments and $26,422 million when excluding the H2O related releases.\n  - The difference of $639 million indicates the impact of the H2O related releases on the net income.\n\n- **Diluted EPS:** \n  - The diluted EPS is $1.05 when including all adjustments and $1.08 when excluding the H2O related releases.\n  - The difference of $0.03 suggests a minor impact on the diluted EPS from excluding the H2O related releases.\n\n### 4. Time Period Covered:\nThe time period covered is Q2 FY26, specifically the second quarter of fiscal year 2026.\n\n### 5. Year-Over-Year Changes or Growth Rates:\nThe table does not provide year-over-year data or growth rates. It only compares the current quarter's performance with the adjusted and unadjusted figures. To determine year-over-year changes, additional data from previous years would be required.\n\n### Summary:\nThis table provides a detailed breakdown of financial metrics for a company's Q2 FY26, comparing GAAP and Non-GAAP figures. The H2O related releases significantly impact the gross margin, operating income, net income, and diluted EPS, highlighting their importance in understanding the company's financial health.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "Gross margin ($ in million)": {
+                "FY26": {
+                  "value": 33.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 960.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": -49.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -58.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 33.0,
+                  "unit": ""
+                },
+                "GAAP": {
+                  "value": 853.0,
+                  "unit": ""
+                }
+              },
+              "72.7%": {
+                "FY26": {
+                  "value": -0.1,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": -0.2,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": 72.4,
+                  "unit": "%"
+                }
+              },
+              "Gross margin excluding H20 related releases ($ in million)": {
+                "FY26": {
+                  "value": 33.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 780.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": -49.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -58.0,
+                  "unit": ""
+                },
+                "H20 related releases": {
+                  "value": 180.0,
+                  "unit": ""
+                },
+                "Other (C)": {
+                  "value": 33.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 853.0,
+                  "unit": ""
+                }
+              },
+              "72.3%": {
+                "FY26": {
+                  "value": -0.1,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": -0.2,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": 0.4,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": 72.4,
+                  "unit": "%"
+                }
+              },
+              "Operating income ($ in million)": {
+                "FY26": {
+                  "value": 30.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 165.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": -86.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -1.0,
+                  "unit": ""
+                },
+                "H20 related releases": {
+                  "value": 624.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 28.0,
+                  "unit": ""
+                },
+                "GAAP": {
+                  "value": 440.0,
+                  "unit": ""
+                }
+              },
+              "Net income ($ in million)": {
+                "FY26": {
+                  "value": 25.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 783.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": -86.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -1.0,
+                  "unit": ""
+                },
+                "H20 related releases": {
+                  "value": 624.0,
+                  "unit": ""
+                },
+                "Other (C)": {
+                  "value": 2.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 231.0,
+                  "unit": ""
+                },
+                "GAAP": {
+                  "value": 118.0,
+                  "unit": ""
+                }
+              },
+              "Shares used in diluted per share calculation (millions)": {
+                "FY26": {
+                  "value": 24.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 532.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 24.0,
+                  "unit": ""
+                },
+                "GAAP": {
+                  "value": 532.0,
+                  "unit": ""
+                }
+              },
+              "Diluted EPS": {
+                "FY26": {
+                  "value": 1.05,
+                  "unit": ""
+                },
+                "Other (C)": {
+                  "value": 0.09,
+                  "unit": ""
+                },
+                "GAAP": {
+                  "value": 1.08,
+                  "unit": ""
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q2",
+                "FY26",
+                "Non-GAAP",
+                "Aquisition-Related and Other Costs (A)",
+                "Stock-Based Compensation (B)",
+                "H20 related releases",
+                "Other (C)",
+                "Tax Impact of Adjustments",
+                "GAAP"
+              ],
+              "rows": [
+                [
+                  "Gross margin ($ in million)",
+                  "33",
+                  "960",
+                  "-49",
+                  "-58",
+                  "-",
+                  "-",
+                  "33",
+                  "853"
+                ],
+                [
+                  "72.7%",
+                  "-0.1",
+                  "-0.2",
+                  "-",
+                  "72.4%"
+                ],
+                [
+                  "Gross margin excluding H20 related releases ($ in million)",
+                  "33",
+                  "780",
+                  "-49",
+                  "-58",
+                  "180",
+                  "33",
+                  "853"
+                ],
+                [
+                  "72.3%",
+                  "-0.1",
+                  "-0.2",
+                  "0.4",
+                  "72.4%"
+                ],
+                [
+                  "Operating income ($ in million)",
+                  "30",
+                  "165",
+                  "-86",
+                  "-1",
+                  "624",
+                  "-",
+                  "28",
+                  "440"
+                ],
+                [
+                  "Net income ($ in million)",
+                  "25",
+                  "783",
+                  "-86",
+                  "-1",
+                  "624",
+                  "2",
+                  "231",
+                  "118",
+                  "26",
+                  "422"
+                ],
+                [
+                  "Shares used in diluted per share calculation (millions)",
+                  "24",
+                  "532",
+                  "-",
+                  "-",
+                  "-",
+                  "-",
+                  "24",
+                  "532"
+                ],
+                [
+                  "Diluted EPS",
+                  "$1.05",
+                  "-",
+                  "-",
+                  "-",
+                  "-",
+                  "0.09",
+                  "-",
+                  "$1.08"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "5d48f4629d47ca663f66f638096d57d8563a796ccfaeacf852d685035e08e813.jpg",
+          "categories": [
+            "net_income",
+            "eps",
+            "reconciliation"
+          ],
+          "description": "This image presents a financial performance comparison table for two accounting methods: GAAP (Generally Accepted Accounting Principles) and Non-GAAP. The table covers the second quarter of Fiscal Year 2026 (Q2 FY26) and provides year-over-year (Y/Y) and quarter-over-quarter (Q/Q) comparisons.\n\n### Chart Type:\nThe visualization is a tabular format, specifically a comparative financial statement table, which organizes data into categories and subcategories to facilitate analysis.\n\n### Metrics/Data Shown:\nThe table includes the following key financial metrics:\n\n- **Revenue**: Total income generated.\n- **Gross Margin (GM)**: Percentage of revenue remaining after deducting cost of goods sold.\n- **Gross Margin excluding H2O related charges/releases, net**: Adjusted gross margin, excluding specific charges or releases.\n- **Operating Income**: Profit from operations before interest and taxes.\n- **Net Income**: Total profit after all expenses, including taxes.\n- **Diluted EPS (Earnings Per Share)**: Net income divided by the weighted average number of shares outstanding, adjusted for dilution.\n- **Cash Flow from Ops**: Cash generated from operating activities.\n\n### Key Trends, Peaks, and Notable Data Points:\n- **Revenue**: Both GAAP and Non-GAAP show a 56% increase year-over-year and a 6% increase quarter-over-quarter.\n- **Gross Margin**: GAAP shows a slight decrease in gross margin percentage, while Non-GAAP shows a more significant decrease but both exhibit an improvement in points compared to the previous quarter.\n- **Operating Income**: GAAP shows a 53% increase year-over-year and a 31% increase quarter-over-quarter, while Non-GAAP shows a 51% increase year-over-year and a 30% increase quarter-over-quarter.\n- **Net Income**: GAAP shows a 59% increase year-over-year and a 41% increase quarter-over-quarter, while Non-GAAP shows a 52% increase year-over-year and a 30% increase quarter-over-quarter.\n- **Diluted EPS**: GAAP shows a 61% increase year-over-year and a 42% increase quarter-over-quarter, while Non-GAAP shows a 54% increase year-over-year and a 30% increase quarter-over-quarter.\n- **Cash Flow from Ops**: Both GAAP and Non-GAAP show a 6% increase year-over-year but a 44% decrease quarter-over-quarter.\n\n### Time Period Covered:\nThe time period covered is Q2 FY26, with year-over-year and quarter-over-quarter comparisons provided.\n\n### Year-over-Year Changes/Growth Rates:\n- Revenue: +56%\n- Gross Margin: Decrease in percentage points for both GAAP and Non-GAAP.\n- Operating Income: +53% (GAAP), +51% (Non-GAAP)\n- Net Income: +59% (GAAP), +52% (Non-GAAP)\n- Diluted EPS: +61% (GAAP), +54% (Non-GAAP)\n- Cash Flow from Ops: +6% (GAAP), +6% (Non-GAAP)\n\n### Summary:\nThe table highlights robust growth across various financial metrics for both GAAP and Non-GAAP measures, with year-over-year increases being particularly strong. However, there is a noticeable decline in cash flow from operations in both accounting methods when comparing quarters.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "Revenue": {
+                "Q/Y": {
+                  "value": 6.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 46.0,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 56.0,
+                  "unit": "%"
+                }
+              },
+              "Gross Margin(GM)": {
+                "Q/Y": {
+                  "value": 72.7,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": -3.0,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 11.9,
+                  "unit": ""
+                }
+              },
+              "GM excluding H20 related charges/releases": {
+                "Q2 FY26": {
+                  "value": 72.3,
+                  "unit": "%"
+                },
+                "Q/Y": {
+                  "value": 1.0,
+                  "unit": ""
+                }
+              },
+              "Operating Income": {
+                "Q/Y": {
+                  "value": 31.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 30.0,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 53.0,
+                  "unit": "%"
+                }
+              },
+              "Net Income": {
+                "Q/Y": {
+                  "value": 41.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 25.0,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 59.0,
+                  "unit": "%"
+                }
+              },
+              "Diluted EPS": {
+                "Q/Y": {
+                  "value": 1.05,
+                  "unit": ""
+                },
+                "Q/Q": {
+                  "value": 54.0,
+                  "unit": "%"
+                },
+                "Q2 FY26": {
+                  "value": 42.0,
+                  "unit": "%"
+                }
+              },
+              "Cash Flow from Ops": {
+                "Q/Y": {
+                  "value": -44.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 15.0,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 6.0,
+                  "unit": "%"
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q2 FY26",
+                "Q/Y",
+                "Q/Q",
+                "Q2 FY26",
+                "Q/Y",
+                "Q/Q"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "$46",
+                  "743",
+                  "+56%",
+                  "+6%",
+                  "$46",
+                  "743",
+                  "+56%",
+                  "+6%"
+                ],
+                [
+                  "Gross Margin(GM)",
+                  "72.4%",
+                  "-2.7 pts",
+                  "+11.9 pts",
+                  "72.7%",
+                  "-3.0 pts",
+                  "+11.7 pts"
+                ],
+                [
+                  "GM excluding H20 related charges/releases",
+                  "net",
+                  "",
+                  "72.3%",
+                  "+1.0 pt",
+                  ""
+                ],
+                [
+                  "Operating Income",
+                  "$28",
+                  "440",
+                  "+53%",
+                  "+31%",
+                  "$30",
+                  "165",
+                  "+51%",
+                  "+30%"
+                ],
+                [
+                  "Net Income",
+                  "$26",
+                  "422",
+                  "+59%",
+                  "+41%",
+                  "$25",
+                  "783",
+                  "+52%",
+                  "+30%"
+                ],
+                [
+                  "Diluted EPS",
+                  "$1.08",
+                  "+61%",
+                  "+42%",
+                  "$1.05",
+                  "+54%",
+                  "+30%"
+                ],
+                [
+                  "Cash Flow from Ops",
+                  "$15",
+                  "365",
+                  "+6%",
+                  "-44%",
+                  "$15",
+                  "365",
+                  "+6%",
+                  "-44%"
+                ]
+              ]
+            }
+          }
+        }
+      ],
+      "reconciliation": [
+        {
+          "image_name": "0921865dfd54fcdb43837790dc8c6755812eaba5d81d74a4ba5928cb5504887a.jpg",
+          "categories": [
+            "net_income",
+            "eps",
+            "reconciliation"
+          ],
+          "description": "This image is a financial table that breaks down various financial metrics for a company's Q2 Fiscal Year 2026 (FY26). The table provides both GAAP (Generally Accepted Accounting Principles) and Non-GAAP (Generally Accepted Accounting Principles excluding certain adjustments) figures, allowing for a comparison between the two accounting methods.\n\n### 1. Type of Chart/Visualization:\nThe visualization is a tabular format, presenting a structured layout of financial data across different categories and metrics.\n\n### 2. Metrics/Data Shown:\nThe table includes the following key metrics:\n- Gross Margin: Both including and excluding H2O related releases.\n- Operating Income\n- Net Income\n- Shares used in diluted per share calculation\n- Diluted EPS (Earnings Per Share)\n\nAdditionally, there are subcategories under \"Non-GAAP\" which break down the gross margin into:\n- Acquisition-Related and Other Costs\n- Stock-Based Compensation\n- H2O related releases\n- Other\n\nThere's also a column labeled \"Tax Impact of Adjustments\" which adjusts the GAAP figures to reflect the tax impact of these non-GAAP adjustments.\n\n### 3. Key Trends, Peaks, and Notable Data Points:\n- **Gross Margin:** \n  - The gross margin is shown as 72.7% when including H2O related releases and 72.3% when excluding them.\n  - This suggests that the H2O related releases have a slightly negative impact on the gross margin.\n  \n- **Operating Income:** \n  - The operating income is $30,165 million when including all adjustments and $28,440 million when excluding the H2O related releases.\n  - The difference of $1,725 million highlights the significant impact of these releases on the operating income.\n\n- **Net Income:** \n  - The net income is $25,783 million when including all adjustments and $26,422 million when excluding the H2O related releases.\n  - The difference of $639 million indicates the impact of the H2O related releases on the net income.\n\n- **Diluted EPS:** \n  - The diluted EPS is $1.05 when including all adjustments and $1.08 when excluding the H2O related releases.\n  - The difference of $0.03 suggests a minor impact on the diluted EPS from excluding the H2O related releases.\n\n### 4. Time Period Covered:\nThe time period covered is Q2 FY26, specifically the second quarter of fiscal year 2026.\n\n### 5. Year-Over-Year Changes or Growth Rates:\nThe table does not provide year-over-year data or growth rates. It only compares the current quarter's performance with the adjusted and unadjusted figures. To determine year-over-year changes, additional data from previous years would be required.\n\n### Summary:\nThis table provides a detailed breakdown of financial metrics for a company's Q2 FY26, comparing GAAP and Non-GAAP figures. The H2O related releases significantly impact the gross margin, operating income, net income, and diluted EPS, highlighting their importance in understanding the company's financial health.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "Gross margin ($ in million)": {
+                "FY26": {
+                  "value": 33.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 960.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": -49.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -58.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 33.0,
+                  "unit": ""
+                },
+                "GAAP": {
+                  "value": 853.0,
+                  "unit": ""
+                }
+              },
+              "72.7%": {
+                "FY26": {
+                  "value": -0.1,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": -0.2,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": 72.4,
+                  "unit": "%"
+                }
+              },
+              "Gross margin excluding H20 related releases ($ in million)": {
+                "FY26": {
+                  "value": 33.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 780.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": -49.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -58.0,
+                  "unit": ""
+                },
+                "H20 related releases": {
+                  "value": 180.0,
+                  "unit": ""
+                },
+                "Other (C)": {
+                  "value": 33.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 853.0,
+                  "unit": ""
+                }
+              },
+              "72.3%": {
+                "FY26": {
+                  "value": -0.1,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": -0.2,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": 0.4,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": 72.4,
+                  "unit": "%"
+                }
+              },
+              "Operating income ($ in million)": {
+                "FY26": {
+                  "value": 30.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 165.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": -86.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -1.0,
+                  "unit": ""
+                },
+                "H20 related releases": {
+                  "value": 624.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 28.0,
+                  "unit": ""
+                },
+                "GAAP": {
+                  "value": 440.0,
+                  "unit": ""
+                }
+              },
+              "Net income ($ in million)": {
+                "FY26": {
+                  "value": 25.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 783.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": -86.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -1.0,
+                  "unit": ""
+                },
+                "H20 related releases": {
+                  "value": 624.0,
+                  "unit": ""
+                },
+                "Other (C)": {
+                  "value": 2.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 231.0,
+                  "unit": ""
+                },
+                "GAAP": {
+                  "value": 118.0,
+                  "unit": ""
+                }
+              },
+              "Shares used in diluted per share calculation (millions)": {
+                "FY26": {
+                  "value": 24.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 532.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 24.0,
+                  "unit": ""
+                },
+                "GAAP": {
+                  "value": 532.0,
+                  "unit": ""
+                }
+              },
+              "Diluted EPS": {
+                "FY26": {
+                  "value": 1.05,
+                  "unit": ""
+                },
+                "Other (C)": {
+                  "value": 0.09,
+                  "unit": ""
+                },
+                "GAAP": {
+                  "value": 1.08,
+                  "unit": ""
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q2",
+                "FY26",
+                "Non-GAAP",
+                "Aquisition-Related and Other Costs (A)",
+                "Stock-Based Compensation (B)",
+                "H20 related releases",
+                "Other (C)",
+                "Tax Impact of Adjustments",
+                "GAAP"
+              ],
+              "rows": [
+                [
+                  "Gross margin ($ in million)",
+                  "33",
+                  "960",
+                  "-49",
+                  "-58",
+                  "-",
+                  "-",
+                  "33",
+                  "853"
+                ],
+                [
+                  "72.7%",
+                  "-0.1",
+                  "-0.2",
+                  "-",
+                  "72.4%"
+                ],
+                [
+                  "Gross margin excluding H20 related releases ($ in million)",
+                  "33",
+                  "780",
+                  "-49",
+                  "-58",
+                  "180",
+                  "33",
+                  "853"
+                ],
+                [
+                  "72.3%",
+                  "-0.1",
+                  "-0.2",
+                  "0.4",
+                  "72.4%"
+                ],
+                [
+                  "Operating income ($ in million)",
+                  "30",
+                  "165",
+                  "-86",
+                  "-1",
+                  "624",
+                  "-",
+                  "28",
+                  "440"
+                ],
+                [
+                  "Net income ($ in million)",
+                  "25",
+                  "783",
+                  "-86",
+                  "-1",
+                  "624",
+                  "2",
+                  "231",
+                  "118",
+                  "26",
+                  "422"
+                ],
+                [
+                  "Shares used in diluted per share calculation (millions)",
+                  "24",
+                  "532",
+                  "-",
+                  "-",
+                  "-",
+                  "-",
+                  "24",
+                  "532"
+                ],
+                [
+                  "Diluted EPS",
+                  "$1.05",
+                  "-",
+                  "-",
+                  "-",
+                  "-",
+                  "0.09",
+                  "-",
+                  "$1.08"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "872ddd299ae89888b3c70b63ff95d74943eb31ebb9a1e5ea9c1867cebabd3837.jpg",
+          "categories": [
+            "revenue",
+            "reconciliation"
+          ],
+          "description": "This is a bar and line combination chart that displays financial data over time, specifically revenue and non-GAAP gross margin (GM) percentages.\n\n### 1. Type of Chart/Visualization:\n- **Bars**: Represent the revenue in millions of dollars for each quarter.\n- **Line**: Represents the non-GAAP gross margin percentage for each quarter.\n\n### 2. Metrics/Data Shown:\n- **Revenue ($M)**: The total revenue in millions of dollars for each quarter.\n- **Non-GAAP GM (%)**: The gross margin percentage calculated using non-GAAP accounting standards for each quarter.\n\n### 3. Key Trends, Peaks, and Notable Data Points:\n- **Q2 FY25**: Revenue was $30,040 million with a non-GAAP GM of 75.7%.\n- **Q3 FY25**: Revenue increased to $35,082 million, showing a 75.0% non-GAAP GM.\n- **Q4 FY25**: Revenue peaked at $39,331 million with a non-GAAP GM of 73.5%.\n- **Q1 FY26**: Revenue declined to $44,062 million but saw a significant drop in non-GAAP GM to 61.0%.\n- **Q2 FY26**: Revenue further increased to $46,743 million, with a non-GAAP GM recovering slightly to 72.7%.\n\n### 4. Time Period Covered:\nThe chart covers the fiscal quarters from Q2 FY25 to Q2 FY26.\n\n### 5. Year-over-Year Changes or Growth Rates:\n- **Q2 FY25 to Q3 FY25**: Revenue increased by approximately 16.9%.\n- **Q3 FY25 to Q4 FY25**: Revenue increased by about 11.7%.\n- **Q4 FY25 to Q1 FY26**: Revenue decreased by roughly 10.9%, while non-GAAP GM dropped significantly.\n- **Q1 FY26 to Q2 FY26**: Revenue increased by about 5.3%, and non-GAAP GM improved by 11.7 percentage points.\n\nThe chart highlights a general upward trend in revenue, though there were fluctuations in the non-GAAP gross margin percentages, particularly in Q1 FY26 where there was a notable decline.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "Revenue($M)": {
+                "Q3 FY25": {
+                  "value": 30040.0,
+                  "unit": ""
+                },
+                "Q4 FY25": {
+                  "value": 35082.0,
+                  "unit": ""
+                },
+                "Q1 FY26": {
+                  "value": 39331.0,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 44062.0,
+                  "unit": ""
+                }
+              },
+              "Non-GAAP GM%": {
+                "Q3 FY25": {
+                  "value": 75.7,
+                  "unit": ""
+                },
+                "Q4 FY25": {
+                  "value": 75.0,
+                  "unit": ""
+                },
+                "Q1 FY26": {
+                  "value": 73.5,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 61.0,
+                  "unit": ""
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q2 FY25",
+                "Q3 FY25",
+                "Q4 FY25",
+                "Q1 FY26",
+                "Q2 FY26"
+              ],
+              "rows": [
+                [
+                  "Revenue($M)",
+                  "30040",
+                  "35082",
+                  "39331",
+                  "44062",
+                  "46743"
+                ],
+                [
+                  "Non-GAAP GM%",
+                  "75.7",
+                  "75.0",
+                  "73.5",
+                  "61.0",
+                  "72.7"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "87dd23eeb8a3d79ee8020113b95e50718e9fd84cd5e9a167888ce9141e182a09.jpg",
+          "categories": [
+            "gross_margin",
+            "reconciliation"
+          ],
+          "description": "This image is a financial table that provides a forecasted view of gross margin percentages for different quarters across two fiscal years (Q2 FY 2025 to Q1 FY 2026). The table includes three main categories of data:\n\n1. **Gross Margin**: This is the primary metric shown, presented both as Non-GAAP (Generally Accepted Accounting Principles) and GAAP.\n2. **Acquisition-Related and Other Costs (A)**: This column shows the impact of acquisition-related expenses and other costs on the gross margin.\n3. **Stock-Based Compensation (B)**: This column indicates the effect of stock-based compensation on the gross margin.\n\n### Key Trends, Peaks, and Notable Data Points:\n- **Q2 FY 2025**: Gross margin is at its highest at 75.7% under Non-GAAP, followed closely by GAAP at 75.1%. Acquisition-related and other costs are negative (0.4), and stock-based compensation is also negative (0.2).\n- **Q3 FY 2025**: Gross margin decreases slightly to 75.0% under Non-GAAP and 74.6% under GAAP. The acquisition-related and other costs decrease to -0.3, while stock-based compensation decreases to -0.1.\n- **Q4 FY 2025**: Gross margin further decreases to 73.5% under Non-GAAP and 73.0% under GAAP. The acquisition-related and other costs remain at -0.3, and stock-based compensation remains at -0.2.\n- **Q1 FY 2026**: Gross margin drops significantly to 61.0% under Non-GAAP and 60.5% under GAAP. The acquisition-related and other costs are still at -0.3, but stock-based compensation increases slightly to -0.2.\n\n### Time Period Covered:\nThe time period covered is from Q2 FY 2025 to Q1 FY 2026, with forecasts for each quarter.\n\n### Year-over-Year Changes or Growth Rates:\nThere is a noticeable decline in gross margin percentage over the period:\n- From Q2 FY 2025 to Q1 FY 2026, the Non-GAAP gross margin decreases from 75.7% to 61.0%, a drop of approximately 14.7 percentage points.\n- Similarly, the GAAP gross margin decreases from 75.1% to 60.5%, a drop of about 14.6 percentage points.\n\n### Conclusion:\nThe table projects a significant decline in gross margins over the specified period, primarily due to the combination of acquisition-related and other costs and stock-based compensation. The Non-GAAP figures consistently show higher gross margins compared to GAAP, indicating the impact of non-recurring items on the reported numbers.",
+          "parsed_metrics": {
+            "time_series": [
+              {
+                "period": "Q2 FY 2025",
+                "Gross Margin": {
+                  "value": 75.7,
+                  "unit": "%"
+                },
+                "Non-GAAP": {
+                  "value": 75.1,
+                  "unit": "%"
+                },
+                "Acquisition-Related and Other Costs (A)": {
+                  "value": -0.4,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -0.2,
+                  "unit": ""
+                }
+              },
+              {
+                "period": "Q3 FY 2025",
+                "Gross Margin": {
+                  "value": 75.0,
+                  "unit": "%"
+                },
+                "Non-GAAP": {
+                  "value": 74.6,
+                  "unit": "%"
+                },
+                "Acquisition-Related and Other Costs (A)": {
+                  "value": -0.3,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -0.1,
+                  "unit": ""
+                }
+              },
+              {
+                "period": "Q4 FY 2025",
+                "Gross Margin": {
+                  "value": 73.5,
+                  "unit": "%"
+                },
+                "Non-GAAP": {
+                  "value": 73.0,
+                  "unit": "%"
+                },
+                "Acquisition-Related and Other Costs (A)": {
+                  "value": -0.3,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -0.2,
+                  "unit": ""
+                }
+              },
+              {
+                "period": "Q1 FY 2026",
+                "Gross Margin": {
+                  "value": 61.0,
+                  "unit": "%"
+                },
+                "Non-GAAP": {
+                  "value": 60.5,
+                  "unit": "%"
+                },
+                "Acquisition-Related and Other Costs (A)": {
+                  "value": -0.3,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -0.2,
+                  "unit": ""
+                }
+              }
+            ],
+            "latest_values": {
+              "period": "Q1 FY 2026",
+              "Gross Margin": {
+                "value": 61.0,
+                "unit": "%"
+              },
+              "Non-GAAP": {
+                "value": 60.5,
+                "unit": "%"
+              },
+              "Acquisition-Related and Other Costs (A)": {
+                "value": -0.3,
+                "unit": ""
+              },
+              "Stock-Based Compensation (B)": {
+                "value": -0.2,
+                "unit": ""
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Time Period",
+                "Gross Margin",
+                "Non-GAAP",
+                "Acquisition-Related and Other Costs (A)",
+                "Stock-Based Compensation (B)",
+                "GAAP"
+              ],
+              "rows": [
+                [
+                  "Q2 FY 2025",
+                  "75.7%",
+                  "75.1%",
+                  "-0.4",
+                  "-0.2",
+                  ""
+                ],
+                [
+                  "Q3 FY 2025",
+                  "75.0%",
+                  "74.6%",
+                  "-0.3",
+                  "-0.1",
+                  ""
+                ],
+                [
+                  "Q4 FY 2025",
+                  "73.5%",
+                  "73.0%",
+                  "-0.3",
+                  "-0.2",
+                  ""
+                ],
+                [
+                  "Q1 FY 2026",
+                  "61.0%",
+                  "60.5%",
+                  "-0.3",
+                  "-0.2",
+                  ""
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "2e206b39dc30a055de4cb7668b40722277b5047c45f1b8b19ad09531338708a7.jpg",
+          "categories": [
+            "revenue",
+            "gross_margin",
+            "operating_income",
+            "reconciliation"
+          ],
+          "description": "This image is a financial table that provides an overview of a company's financial projections for the fiscal year, likely covering Q3 to full-year 2026. It includes key financial metrics such as revenue, gross margins, operating expenses, other income and expense, and tax rate. Here’s a detailed breakdown:\n\n### Type of Chart/Visualization:\n- **Table**: This is not a chart but a structured table format used to present financial data clearly.\n\n### Metrics/Data Shown:\n1. **Revenue**:\n   - Projected at $54.0 billion, plus or minus 2%.\n   - Notes that shipments to China are not assumed, and if geopolitical issues recede, could ship $2 to $5 billion dollars in H2O revenue in Q3.\n\n2. **Gross Margins**:\n   - GAAP: 73.3%\n   - Non-GAAP: 73.5%, plus or minus 50 basis points.\n   - The company expects to exit the year with non-GAAP gross margins in the mid-70% range.\n\n3. **Operating Expense**:\n   - GAAP: Approximately $5.9 billion.\n   - Non-GAAP: Approximately $4.2 billion.\n   - The company expects full-year fiscal 2026 operating expense growth to be in the high-30% range.\n\n4. **Other Income & Expense**:\n   - Income of approximately $500 million for both GAAP and non-GAAP.\n   - Excludes gains and losses from non-marketable and publicly-held equity securities.\n\n5. **Tax Rate**:\n   - GAAP and non-GAAP: 16.5%, plus or minus 1%, excluding discrete items.\n\n### Key Trends, Peaks, and Notable Data Points:\n- **Revenue Growth**: The projected revenue suggests a significant increase, with a potential range of $2 to $5 billion dollars in additional revenue if geopolitical issues improve.\n- **Gross Margin Stability**: Gross margins are expected to remain stable around 73%, with a slight variation for non-GAAP figures.\n- **Operating Expense Growth**: Operating expenses are projected to grow significantly, indicating a substantial increase in costs.\n- **Other Income/Expense**: A notable income of $500 million is forecasted, which could impact overall profitability positively.\n- **Tax Rate**: The tax rate remains relatively consistent at 16.5%, with minor fluctuations expected.\n\n### Time Period Covered:\n- The table covers Q3 to the full fiscal year 2026.\n\n### Year-Over-Year Changes or Growth Rates:\n- Revenue growth is the most prominent change, with a projected increase of $2 to $5 billion dollars due to geopolitical conditions.\n- Operating expenses show a significant year-over-year increase, reflecting higher costs.\n- No specific year-over-year growth rates are provided, but the increase in operating expenses indicates a substantial rise compared to previous years.\n\n### Additional Notes:\n- The table includes assumptions about geopolitical issues affecting revenue.\n- It also excludes certain non-recurring items when calculating the tax rate and other income/expenses.",
+          "parsed_metrics": {
+            "time_series": [
+              {
+                "period": "Q3",
+                "Revenue ($B)": {
+                  "value": 54.0,
+                  "unit": ""
+                },
+                "Gross Margins (%)": {
+                  "value": 73.3,
+                  "unit": ""
+                },
+                "Operating Expense ($B)": {
+                  "value": 5.9,
+                  "unit": ""
+                },
+                "Other Income & Expense ($M)": {
+                  "value": 500.0,
+                  "unit": ""
+                },
+                "Tax Rate (%)": {
+                  "value": 16.5,
+                  "unit": ""
+                }
+              },
+              {
+                "period": "Q4",
+                "Revenue ($B)": {
+                  "value": 54.0,
+                  "unit": ""
+                },
+                "Gross Margins (%)": {
+                  "value": 73.5,
+                  "unit": ""
+                },
+                "Operating Expense ($B)": {
+                  "value": 4.2,
+                  "unit": ""
+                },
+                "Other Income & Expense ($M)": {
+                  "value": 500.0,
+                  "unit": ""
+                },
+                "Tax Rate (%)": {
+                  "value": 16.5,
+                  "unit": ""
+                }
+              }
+            ],
+            "latest_values": {
+              "period": "Q4",
+              "Revenue ($B)": {
+                "value": 54.0,
+                "unit": ""
+              },
+              "Gross Margins (%)": {
+                "value": 73.5,
+                "unit": ""
+              },
+              "Operating Expense ($B)": {
+                "value": 4.2,
+                "unit": ""
+              },
+              "Other Income & Expense ($M)": {
+                "value": 500.0,
+                "unit": ""
+              },
+              "Tax Rate (%)": {
+                "value": 16.5,
+                "unit": ""
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Time Period",
+                "Revenue ($B)",
+                "Gross Margins (%)",
+                "Operating Expense ($B)",
+                "Other Income & Expense ($M)",
+                "Tax Rate (%)"
+              ],
+              "rows": [
+                [
+                  "Q3",
+                  "54.0",
+                  "73.3",
+                  "5.9",
+                  "500",
+                  "16.5"
+                ],
+                [
+                  "Q4",
+                  "54.0",
+                  "73.5",
+                  "4.2",
+                  "500",
+                  "16.5"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "5d48f4629d47ca663f66f638096d57d8563a796ccfaeacf852d685035e08e813.jpg",
+          "categories": [
+            "net_income",
+            "eps",
+            "reconciliation"
+          ],
+          "description": "This image presents a financial performance comparison table for two accounting methods: GAAP (Generally Accepted Accounting Principles) and Non-GAAP. The table covers the second quarter of Fiscal Year 2026 (Q2 FY26) and provides year-over-year (Y/Y) and quarter-over-quarter (Q/Q) comparisons.\n\n### Chart Type:\nThe visualization is a tabular format, specifically a comparative financial statement table, which organizes data into categories and subcategories to facilitate analysis.\n\n### Metrics/Data Shown:\nThe table includes the following key financial metrics:\n\n- **Revenue**: Total income generated.\n- **Gross Margin (GM)**: Percentage of revenue remaining after deducting cost of goods sold.\n- **Gross Margin excluding H2O related charges/releases, net**: Adjusted gross margin, excluding specific charges or releases.\n- **Operating Income**: Profit from operations before interest and taxes.\n- **Net Income**: Total profit after all expenses, including taxes.\n- **Diluted EPS (Earnings Per Share)**: Net income divided by the weighted average number of shares outstanding, adjusted for dilution.\n- **Cash Flow from Ops**: Cash generated from operating activities.\n\n### Key Trends, Peaks, and Notable Data Points:\n- **Revenue**: Both GAAP and Non-GAAP show a 56% increase year-over-year and a 6% increase quarter-over-quarter.\n- **Gross Margin**: GAAP shows a slight decrease in gross margin percentage, while Non-GAAP shows a more significant decrease but both exhibit an improvement in points compared to the previous quarter.\n- **Operating Income**: GAAP shows a 53% increase year-over-year and a 31% increase quarter-over-quarter, while Non-GAAP shows a 51% increase year-over-year and a 30% increase quarter-over-quarter.\n- **Net Income**: GAAP shows a 59% increase year-over-year and a 41% increase quarter-over-quarter, while Non-GAAP shows a 52% increase year-over-year and a 30% increase quarter-over-quarter.\n- **Diluted EPS**: GAAP shows a 61% increase year-over-year and a 42% increase quarter-over-quarter, while Non-GAAP shows a 54% increase year-over-year and a 30% increase quarter-over-quarter.\n- **Cash Flow from Ops**: Both GAAP and Non-GAAP show a 6% increase year-over-year but a 44% decrease quarter-over-quarter.\n\n### Time Period Covered:\nThe time period covered is Q2 FY26, with year-over-year and quarter-over-quarter comparisons provided.\n\n### Year-over-Year Changes/Growth Rates:\n- Revenue: +56%\n- Gross Margin: Decrease in percentage points for both GAAP and Non-GAAP.\n- Operating Income: +53% (GAAP), +51% (Non-GAAP)\n- Net Income: +59% (GAAP), +52% (Non-GAAP)\n- Diluted EPS: +61% (GAAP), +54% (Non-GAAP)\n- Cash Flow from Ops: +6% (GAAP), +6% (Non-GAAP)\n\n### Summary:\nThe table highlights robust growth across various financial metrics for both GAAP and Non-GAAP measures, with year-over-year increases being particularly strong. However, there is a noticeable decline in cash flow from operations in both accounting methods when comparing quarters.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "Revenue": {
+                "Q/Y": {
+                  "value": 6.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 46.0,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 56.0,
+                  "unit": "%"
+                }
+              },
+              "Gross Margin(GM)": {
+                "Q/Y": {
+                  "value": 72.7,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": -3.0,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 11.9,
+                  "unit": ""
+                }
+              },
+              "GM excluding H20 related charges/releases": {
+                "Q2 FY26": {
+                  "value": 72.3,
+                  "unit": "%"
+                },
+                "Q/Y": {
+                  "value": 1.0,
+                  "unit": ""
+                }
+              },
+              "Operating Income": {
+                "Q/Y": {
+                  "value": 31.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 30.0,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 53.0,
+                  "unit": "%"
+                }
+              },
+              "Net Income": {
+                "Q/Y": {
+                  "value": 41.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 25.0,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 59.0,
+                  "unit": "%"
+                }
+              },
+              "Diluted EPS": {
+                "Q/Y": {
+                  "value": 1.05,
+                  "unit": ""
+                },
+                "Q/Q": {
+                  "value": 54.0,
+                  "unit": "%"
+                },
+                "Q2 FY26": {
+                  "value": 42.0,
+                  "unit": "%"
+                }
+              },
+              "Cash Flow from Ops": {
+                "Q/Y": {
+                  "value": -44.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 15.0,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 6.0,
+                  "unit": "%"
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q2 FY26",
+                "Q/Y",
+                "Q/Q",
+                "Q2 FY26",
+                "Q/Y",
+                "Q/Q"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "$46",
+                  "743",
+                  "+56%",
+                  "+6%",
+                  "$46",
+                  "743",
+                  "+56%",
+                  "+6%"
+                ],
+                [
+                  "Gross Margin(GM)",
+                  "72.4%",
+                  "-2.7 pts",
+                  "+11.9 pts",
+                  "72.7%",
+                  "-3.0 pts",
+                  "+11.7 pts"
+                ],
+                [
+                  "GM excluding H20 related charges/releases",
+                  "net",
+                  "",
+                  "72.3%",
+                  "+1.0 pt",
+                  ""
+                ],
+                [
+                  "Operating Income",
+                  "$28",
+                  "440",
+                  "+53%",
+                  "+31%",
+                  "$30",
+                  "165",
+                  "+51%",
+                  "+30%"
+                ],
+                [
+                  "Net Income",
+                  "$26",
+                  "422",
+                  "+59%",
+                  "+41%",
+                  "$25",
+                  "783",
+                  "+52%",
+                  "+30%"
+                ],
+                [
+                  "Diluted EPS",
+                  "$1.08",
+                  "+61%",
+                  "+42%",
+                  "$1.05",
+                  "+54%",
+                  "+30%"
+                ],
+                [
+                  "Cash Flow from Ops",
+                  "$15",
+                  "365",
+                  "+6%",
+                  "-44%",
+                  "$15",
+                  "365",
+                  "+6%",
+                  "-44%"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "82b4d48da96187a25bf036c36d39989fca678777425f8d6eaf42bf7e7734522d.jpg",
+          "categories": [
+            "gross_margin",
+            "operating_income",
+            "reconciliation"
+          ],
+          "description": "This image is a table that provides a financial outlook for Q3 FY26 (Fiscal Year 2026). It breaks down various financial metrics into non-GAAP (Generally Accepted Accounting Principles) and GAAP (Generally Accepted Accounting Principles) formats.\n\n### Type of Visualization:\nThe visualization is a tabular format, listing different financial metrics alongside their corresponding values.\n\n### Metrics/Data Shown:\n1. **Non-GAAP gross margin**: 73.5%\n2. **Impact of stock-based compensation expense, acquisition-related costs, and other costs**: 0.2%\n3. **GAAP gross margin**: 73.3%\n4. **Non-GAAP operating expenses**: $4,200 million\n5. **Stock-based compensation expense, acquisition-related costs, and other costs**: $(1,700) million\n6. **GAAP operating expenses**: $5,900 million\n\n### Key Trends, Peaks, and Notable Data Points:\n- The non-GAAP gross margin is slightly higher at 73.5% compared to the GAAP gross margin at 73.3%, indicating minimal impact from the adjustments.\n- Non-GAAP operating expenses are $4,200 million, while GAAP operating expenses are $5,900 million, showing the impact of additional costs like stock-based compensation and acquisition-related expenses.\n- The negative value for \"Stock-based compensation expense, acquisition-related costs, and other costs\" indicates a reduction of $1,700 million when moving from non-GAAP to GAAP.\n\n### Time Period Covered:\nThe time period covered is Q3 FY26, which refers to the third quarter of Fiscal Year 2026.\n\n### Year-over-Year Changes or Growth Rates:\nThe table does not provide year-over-year comparisons or growth rates. It only shows the forecasted values for Q3 FY26. To determine any growth or changes, historical data from previous years would be required.\n\n### Summary:\nThe table outlines the projected financial performance for Q3 FY26, focusing on gross margins and operating expenses under both non-GAAP and GAAP accounting standards. The slight difference between the two gross margins suggests minimal impact from the adjustments, while the operating expenses show a significant increase due to the inclusion of additional costs.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {},
+            "raw_data": {
+              "headers": [
+                "Q3 FY26 Outlook",
+                "Non-GAAP gross margin",
+                "73.5%",
+                "Impact of stock-based compensation expense",
+                "acquisition-related costs",
+                "and other costs",
+                "0.2%",
+                "GAAP gross margin",
+                "73.3%",
+                "Non-GAAP operating expenses",
+                "$4",
+                "200",
+                "Stock-based compensation expense",
+                "acquisition-related costs",
+                "and other costs",
+                "(1",
+                "700)",
+                "GAAP operating expenses",
+                "$5",
+                "900"
+              ],
+              "rows": []
+            }
+          }
+        }
+      ],
+      "revenue": [
+        {
+          "image_name": "872ddd299ae89888b3c70b63ff95d74943eb31ebb9a1e5ea9c1867cebabd3837.jpg",
+          "categories": [
+            "revenue",
+            "reconciliation"
+          ],
+          "description": "This is a bar and line combination chart that displays financial data over time, specifically revenue and non-GAAP gross margin (GM) percentages.\n\n### 1. Type of Chart/Visualization:\n- **Bars**: Represent the revenue in millions of dollars for each quarter.\n- **Line**: Represents the non-GAAP gross margin percentage for each quarter.\n\n### 2. Metrics/Data Shown:\n- **Revenue ($M)**: The total revenue in millions of dollars for each quarter.\n- **Non-GAAP GM (%)**: The gross margin percentage calculated using non-GAAP accounting standards for each quarter.\n\n### 3. Key Trends, Peaks, and Notable Data Points:\n- **Q2 FY25**: Revenue was $30,040 million with a non-GAAP GM of 75.7%.\n- **Q3 FY25**: Revenue increased to $35,082 million, showing a 75.0% non-GAAP GM.\n- **Q4 FY25**: Revenue peaked at $39,331 million with a non-GAAP GM of 73.5%.\n- **Q1 FY26**: Revenue declined to $44,062 million but saw a significant drop in non-GAAP GM to 61.0%.\n- **Q2 FY26**: Revenue further increased to $46,743 million, with a non-GAAP GM recovering slightly to 72.7%.\n\n### 4. Time Period Covered:\nThe chart covers the fiscal quarters from Q2 FY25 to Q2 FY26.\n\n### 5. Year-over-Year Changes or Growth Rates:\n- **Q2 FY25 to Q3 FY25**: Revenue increased by approximately 16.9%.\n- **Q3 FY25 to Q4 FY25**: Revenue increased by about 11.7%.\n- **Q4 FY25 to Q1 FY26**: Revenue decreased by roughly 10.9%, while non-GAAP GM dropped significantly.\n- **Q1 FY26 to Q2 FY26**: Revenue increased by about 5.3%, and non-GAAP GM improved by 11.7 percentage points.\n\nThe chart highlights a general upward trend in revenue, though there were fluctuations in the non-GAAP gross margin percentages, particularly in Q1 FY26 where there was a notable decline.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "Revenue($M)": {
+                "Q3 FY25": {
+                  "value": 30040.0,
+                  "unit": ""
+                },
+                "Q4 FY25": {
+                  "value": 35082.0,
+                  "unit": ""
+                },
+                "Q1 FY26": {
+                  "value": 39331.0,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 44062.0,
+                  "unit": ""
+                }
+              },
+              "Non-GAAP GM%": {
+                "Q3 FY25": {
+                  "value": 75.7,
+                  "unit": ""
+                },
+                "Q4 FY25": {
+                  "value": 75.0,
+                  "unit": ""
+                },
+                "Q1 FY26": {
+                  "value": 73.5,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 61.0,
+                  "unit": ""
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q2 FY25",
+                "Q3 FY25",
+                "Q4 FY25",
+                "Q1 FY26",
+                "Q2 FY26"
+              ],
+              "rows": [
+                [
+                  "Revenue($M)",
+                  "30040",
+                  "35082",
+                  "39331",
+                  "44062",
+                  "46743"
+                ],
+                [
+                  "Non-GAAP GM%",
+                  "75.7",
+                  "75.0",
+                  "73.5",
+                  "61.0",
+                  "72.7"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "5a4b0de30a39761e269c407375ecdf59069d92d3740c36e5461d8495b4df4d27.jpg",
+          "categories": [
+            "revenue"
+          ],
+          "description": "This is a horizontal bar chart that visualizes the quarterly financial performance over fiscal years FY25 and FY26.\n\n### 1. Type of Chart/Visualization:\nThe chart is a horizontal bar chart, which effectively compares the values across different quarters (Q2 FY25 to Q2 FY26).\n\n### 2. Metrics/Data Shown:\nThe chart displays quarterly revenue figures in dollars for each quarter from Q2 FY25 to Q2 FY26. The specific metric shown is likely \"Revenue\" as it's measured in dollars.\n\n### 3. Key Trends, Peaks, and Notable Data Points:\n- **Q2 FY25:** Revenue is $2,880.\n- **Q3 FY25:** Revenue increases to $3,279.\n- **Q4 FY25:** There's a significant dip to $2,544.\n- **Q1 FY26:** Revenue rises again to $3,763.\n- **Q2 FY26:** The highest value is reached at $4,287.\n\n### 4. Time Period Covered:\nThe time period covered by the chart spans two fiscal years: FY25 and FY26. Specifically, it includes the second quarter of both years (Q2 FY25 and Q2 FY26).\n\n### 5. Year-Over-Year Changes or Growth Rates:\n- **Q2 FY25 to Q2 FY26:** The revenue increased from $2,880 to $4,287, representing a year-over-year (Y/Y) growth rate of 49%.\n- **Q2 FY25 to Q1 FY26:** The revenue also increased from $2,880 to $3,763, showing a quarter-over-quarter (Q/Q) growth rate of 14%.\n\nThe chart highlights a general upward trend in revenue from Q2 FY25 to Q2 FY26, with a notable increase in the second quarter of the fiscal year 2026.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "$2": {
+                "Q3 FY25": {
+                  "value": 880.0,
+                  "unit": ""
+                },
+                "Q4 FY25": {
+                  "value": 3.0,
+                  "unit": ""
+                },
+                "Q1 FY26": {
+                  "value": 279.0,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 2.0,
+                  "unit": ""
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q2 FY25",
+                "Q3 FY25",
+                "Q4 FY25",
+                "Q1 FY26",
+                "Q2 FY26"
+              ],
+              "rows": [
+                [
+                  "$2",
+                  "880",
+                  "$3",
+                  "279",
+                  "$2",
+                  "544",
+                  "$3",
+                  "763",
+                  "$4",
+                  "287"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "23d954b614804665a06327334a4c8080b05dba4bb4407b5e298bc33acb144f3b.jpg",
+          "categories": [
+            "revenue"
+          ],
+          "description": "This is a vertical bar chart that visualizes financial data over time, specifically showing quarterly revenue or some other financial metric for the fiscal years 2025 and 2026.\n\n### Description of the Chart:\n\n1. **Type of Chart**: The chart is a horizontal bar chart with a black background and white text. Each bar represents a quarter's financial data.\n\n2. **Metrics/Data**:\n   - The bars represent financial figures, likely revenue, as indicated by the dollar amounts on top of each bar.\n   - The labels at the bottom of each bar indicate the specific quarter and fiscal year (e.g., Q2 FY25).\n\n3. **Key Trends, Peaks, and Notable Data Points**:\n   - The highest value is $27,414, which is shown for Q1 FY26.\n   - The lowest value is $14,489, which is shown for Q2 FY25.\n   - There is a noticeable increase from Q2 FY25 to Q1 FY26, with a year-over-year (Y/Y) growth rate of 6%.\n   - The quarter-over-quarter (Q/Q) growth rate for Q1 FY26 compared to Q4 FY25 is 44%.\n\n4. **Time Period Covered**:\n   - The chart covers the fiscal years 2025 and 2026, with quarters from Q2 FY25 to Q2 FY26.\n\n5. **Year-Over-Year Changes or Growth Rates**:\n   - The year-over-year growth rate is explicitly marked as 6% between Q2 FY25 and Q1 FY26.\n   - The quarter-over-quarter growth rate is marked as 44% between Q4 FY25 and Q1 FY26.\n\nThe chart effectively illustrates the trend of increasing financial performance from Q2 FY25 through Q1 FY26, with significant growth in the first quarter of the fiscal year 2026.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "$14": {
+                "Q3 FY25": {
+                  "value": 489.0,
+                  "unit": ""
+                },
+                "Q4 FY25": {
+                  "value": 17.0,
+                  "unit": ""
+                },
+                "Q1 FY26": {
+                  "value": 629.0,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 16.0,
+                  "unit": ""
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q2 FY25",
+                "Q3 FY25",
+                "Q4 FY25",
+                "Q1 FY26",
+                "Q2 FY26"
+              ],
+              "rows": [
+                [
+                  "$14",
+                  "489",
+                  "$17",
+                  "629",
+                  "$16",
+                  "628",
+                  "$27",
+                  "414",
+                  "$15",
+                  "365"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "2e206b39dc30a055de4cb7668b40722277b5047c45f1b8b19ad09531338708a7.jpg",
+          "categories": [
+            "revenue",
+            "gross_margin",
+            "operating_income",
+            "reconciliation"
+          ],
+          "description": "This image is a financial table that provides an overview of a company's financial projections for the fiscal year, likely covering Q3 to full-year 2026. It includes key financial metrics such as revenue, gross margins, operating expenses, other income and expense, and tax rate. Here’s a detailed breakdown:\n\n### Type of Chart/Visualization:\n- **Table**: This is not a chart but a structured table format used to present financial data clearly.\n\n### Metrics/Data Shown:\n1. **Revenue**:\n   - Projected at $54.0 billion, plus or minus 2%.\n   - Notes that shipments to China are not assumed, and if geopolitical issues recede, could ship $2 to $5 billion dollars in H2O revenue in Q3.\n\n2. **Gross Margins**:\n   - GAAP: 73.3%\n   - Non-GAAP: 73.5%, plus or minus 50 basis points.\n   - The company expects to exit the year with non-GAAP gross margins in the mid-70% range.\n\n3. **Operating Expense**:\n   - GAAP: Approximately $5.9 billion.\n   - Non-GAAP: Approximately $4.2 billion.\n   - The company expects full-year fiscal 2026 operating expense growth to be in the high-30% range.\n\n4. **Other Income & Expense**:\n   - Income of approximately $500 million for both GAAP and non-GAAP.\n   - Excludes gains and losses from non-marketable and publicly-held equity securities.\n\n5. **Tax Rate**:\n   - GAAP and non-GAAP: 16.5%, plus or minus 1%, excluding discrete items.\n\n### Key Trends, Peaks, and Notable Data Points:\n- **Revenue Growth**: The projected revenue suggests a significant increase, with a potential range of $2 to $5 billion dollars in additional revenue if geopolitical issues improve.\n- **Gross Margin Stability**: Gross margins are expected to remain stable around 73%, with a slight variation for non-GAAP figures.\n- **Operating Expense Growth**: Operating expenses are projected to grow significantly, indicating a substantial increase in costs.\n- **Other Income/Expense**: A notable income of $500 million is forecasted, which could impact overall profitability positively.\n- **Tax Rate**: The tax rate remains relatively consistent at 16.5%, with minor fluctuations expected.\n\n### Time Period Covered:\n- The table covers Q3 to the full fiscal year 2026.\n\n### Year-Over-Year Changes or Growth Rates:\n- Revenue growth is the most prominent change, with a projected increase of $2 to $5 billion dollars due to geopolitical conditions.\n- Operating expenses show a significant year-over-year increase, reflecting higher costs.\n- No specific year-over-year growth rates are provided, but the increase in operating expenses indicates a substantial rise compared to previous years.\n\n### Additional Notes:\n- The table includes assumptions about geopolitical issues affecting revenue.\n- It also excludes certain non-recurring items when calculating the tax rate and other income/expenses.",
+          "parsed_metrics": {
+            "time_series": [
+              {
+                "period": "Q3",
+                "Revenue ($B)": {
+                  "value": 54.0,
+                  "unit": ""
+                },
+                "Gross Margins (%)": {
+                  "value": 73.3,
+                  "unit": ""
+                },
+                "Operating Expense ($B)": {
+                  "value": 5.9,
+                  "unit": ""
+                },
+                "Other Income & Expense ($M)": {
+                  "value": 500.0,
+                  "unit": ""
+                },
+                "Tax Rate (%)": {
+                  "value": 16.5,
+                  "unit": ""
+                }
+              },
+              {
+                "period": "Q4",
+                "Revenue ($B)": {
+                  "value": 54.0,
+                  "unit": ""
+                },
+                "Gross Margins (%)": {
+                  "value": 73.5,
+                  "unit": ""
+                },
+                "Operating Expense ($B)": {
+                  "value": 4.2,
+                  "unit": ""
+                },
+                "Other Income & Expense ($M)": {
+                  "value": 500.0,
+                  "unit": ""
+                },
+                "Tax Rate (%)": {
+                  "value": 16.5,
+                  "unit": ""
+                }
+              }
+            ],
+            "latest_values": {
+              "period": "Q4",
+              "Revenue ($B)": {
+                "value": 54.0,
+                "unit": ""
+              },
+              "Gross Margins (%)": {
+                "value": 73.5,
+                "unit": ""
+              },
+              "Operating Expense ($B)": {
+                "value": 4.2,
+                "unit": ""
+              },
+              "Other Income & Expense ($M)": {
+                "value": 500.0,
+                "unit": ""
+              },
+              "Tax Rate (%)": {
+                "value": 16.5,
+                "unit": ""
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Time Period",
+                "Revenue ($B)",
+                "Gross Margins (%)",
+                "Operating Expense ($B)",
+                "Other Income & Expense ($M)",
+                "Tax Rate (%)"
+              ],
+              "rows": [
+                [
+                  "Q3",
+                  "54.0",
+                  "73.3",
+                  "5.9",
+                  "500",
+                  "16.5"
+                ],
+                [
+                  "Q4",
+                  "54.0",
+                  "73.5",
+                  "4.2",
+                  "500",
+                  "16.5"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "0f4071cd650de502bb7bcf90c42ddbce3d7a53402308e48c60a6545065197b26.jpg",
+          "categories": [
+            "revenue"
+          ],
+          "description": "This is a vertical bar chart that visually represents quarterly financial data over two fiscal years (FY25 and FY26). Here's a detailed breakdown:\n\n1. **Type of Chart/Visualization**: The chart is a vertical bar chart, which is used to compare values across different categories (in this case, quarters within fiscal years).\n\n2. **Metrics/Data Shown**: The chart displays financial figures, specifically revenue or some other monetary metric, for each quarter. The values are labeled on top of the bars.\n\n3. **Key Trends, Peaks, and Notable Data Points**:\n   - Q2 FY25 has the lowest value at $26,272.\n   - Q3 FY25 shows an increase to $30,771.\n   - Q4 FY25 further increases to $35,580.\n   - Q1 FY26 reaches $39,112.\n   - Q2 FY26, highlighted in green, shows the highest value at $41,096, indicating significant growth from the previous quarter.\n   - There is a noticeable upward trend throughout the chart, with each subsequent quarter showing higher values than the previous one.\n\n4. **Time Period Covered**: The data covers the fiscal years FY25 and FY26, specifically the second quarter of each year (Q2 FY25 and Q2 FY26), as well as the first quarter of FY26 (Q1 FY26).\n\n5. **Year-Over-Year Changes or Growth Rates**:\n   - The chart indicates a 56% year-over-year (Y/Y) growth rate between Q2 FY25 and Q2 FY26.\n   - Additionally, there is a 5% quarter-to-quarter (Q/Q) growth rate between Q1 FY26 and Q2 FY26.\n   - These percentages are noted next to the green bar representing Q2 FY26, suggesting a strong performance in the second quarter of FY26 compared to both the same quarter in the previous year and the preceding quarter.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "$26": {
+                "Q3 FY25": {
+                  "value": 272.0,
+                  "unit": ""
+                },
+                "Q4 FY25": {
+                  "value": 30.0,
+                  "unit": ""
+                },
+                "Q1 FY26": {
+                  "value": 771.0,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 35.0,
+                  "unit": ""
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q2 FY25",
+                "Q3 FY25",
+                "Q4 FY25",
+                "Q1 FY26",
+                "Q2 FY26"
+              ],
+              "rows": [
+                [
+                  "$26",
+                  "272",
+                  "$30",
+                  "771",
+                  "$35",
+                  "580",
+                  "$39",
+                  "112",
+                  "$41",
+                  "096"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "0dc94e13e205982d132791faf4ed1182b2e00d029c020ac7b342fd41c9b336bd.jpg",
+          "categories": [
+            "revenue"
+          ],
+          "description": "This is a bar chart that visualizes financial data over time, specifically quarterly performance for fiscal years 2025 and 2026.\n\n### 1. Type of Chart/Visualization\nThe chart is a horizontal bar chart with distinct bars representing different quarters (Q2 FY25 to Q2 FY26). Each bar corresponds to a specific quarter's financial metric, likely revenue or another key performance indicator (KPI).\n\n### 2. Metrics/Data Shown\nThe chart displays financial values for each quarter, denoted by the dollar amounts ($346, $449, $570, $567, and $586) at the top of each bar. These values represent the financial metric being tracked, which could be revenue, profit, or another relevant figure.\n\n### 3. Key Trends, Peaks, and Notable Data Points\n- **Q2 FY25**: The lowest value at $346.\n- **Q3 FY25**: A moderate increase to $449.\n- **Q4 FY25**: A significant jump to $570, marking the highest value in the chart.\n- **Q1 FY26**: A slight decrease to $567.\n- **Q2 FY26**: The highest value at $586, showing a 69% year-over-year (Y/Y) growth from Q2 FY25 and a 3% quarter-over-quarter (Q/Q) growth from Q1 FY26.\n\n### 4. Time Period Covered\nThe chart covers the fiscal year 2025 and the first half of fiscal year 2026, specifically the quarters Q2 FY25 through Q2 FY26.\n\n### 5. Year-Over-Year Changes or Growth Rates\n- **Q2 FY25 to Q2 FY26**: A 69% year-over-year growth rate, as indicated by the green arrow and text on the right side of the chart.\n- **Q1 FY26 to Q2 FY26**: A 3% quarter-over-quarter growth rate, also noted in the chart.\n\nThis visualization effectively highlights the growth trajectory of the financial metric over the specified period, with a particular emphasis on the substantial increase in Q2 FY26 compared to the previous year.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "$346": {
+                "Q3 FY25": {
+                  "value": 449.0,
+                  "unit": ""
+                },
+                "Q4 FY25": {
+                  "value": 570.0,
+                  "unit": ""
+                },
+                "Q1 FY26": {
+                  "value": 567.0,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 586.0,
+                  "unit": ""
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q2 FY25",
+                "Q3 FY25",
+                "Q4 FY25",
+                "Q1 FY26",
+                "Q2 FY26"
+              ],
+              "rows": [
+                [
+                  "$346",
+                  "$449",
+                  "$570",
+                  "$567",
+                  "$586"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "224e877e857b14402bd13f21a4011130ddb57eab73c3f8caa4ce1eb0410e6e77.jpg",
+          "categories": [
+            "revenue"
+          ],
+          "description": "This is a bar chart that visualizes financial data over time, specifically quarterly figures for fiscal years 2025 and 2026.\n\n### 1. Type of Chart/Visualization\nThe chart is a horizontal bar chart with a black background. Each bar represents the value of a specific metric for each quarter.\n\n### 2. Metrics/Data Shown\nThe chart displays financial values (likely revenue or another monetary metric) for each quarter. The values are labeled directly on top of each bar.\n\n### 3. Key Trends, Peaks, and Notable Data Points\n- **Q2 FY25**: $454\n- **Q3 FY25**: $486\n- **Q4 FY25**: $511\n- **Q1 FY26**: $509\n- **Q2 FY26**: $601\n\nThe most notable trend is the consistent increase from Q2 FY25 to Q4 FY25, followed by a slight dip in Q1 FY26 before a significant jump in Q2 FY26.\n\n### 4. Time Period Covered\nThe chart covers the fiscal quarters from Q2 FY25 to Q2 FY26, spanning two fiscal years.\n\n### 5. Year-Over-Year Changes or Growth Rates\nThe chart indicates a year-over-year growth rate of 32% and a quarter-over-quarter growth rate of 18%. These percentages are shown at the far right of the chart, next to the green bar representing Q2 FY26. This suggests that the value for Q2 FY26 is significantly higher than the previous year's corresponding quarter, with an additional growth within the same quarter compared to the previous quarter.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "$454": {
+                "Q3 FY25": {
+                  "value": 486.0,
+                  "unit": ""
+                },
+                "Q4 FY25": {
+                  "value": 511.0,
+                  "unit": ""
+                },
+                "Q1 FY26": {
+                  "value": 509.0,
+                  "unit": ""
+                },
+                "Q2 FY26": {
+                  "value": 601.0,
+                  "unit": ""
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q2 FY25",
+                "Q3 FY25",
+                "Q4 FY25",
+                "Q1 FY26",
+                "Q2 FY26"
+              ],
+              "rows": [
+                [
+                  "$454",
+                  "$486",
+                  "$511",
+                  "$509",
+                  "$601"
+                ]
+              ]
+            }
+          }
+        }
+      ],
+      "gross_margin": [
+        {
+          "image_name": "87dd23eeb8a3d79ee8020113b95e50718e9fd84cd5e9a167888ce9141e182a09.jpg",
+          "categories": [
+            "gross_margin",
+            "reconciliation"
+          ],
+          "description": "This image is a financial table that provides a forecasted view of gross margin percentages for different quarters across two fiscal years (Q2 FY 2025 to Q1 FY 2026). The table includes three main categories of data:\n\n1. **Gross Margin**: This is the primary metric shown, presented both as Non-GAAP (Generally Accepted Accounting Principles) and GAAP.\n2. **Acquisition-Related and Other Costs (A)**: This column shows the impact of acquisition-related expenses and other costs on the gross margin.\n3. **Stock-Based Compensation (B)**: This column indicates the effect of stock-based compensation on the gross margin.\n\n### Key Trends, Peaks, and Notable Data Points:\n- **Q2 FY 2025**: Gross margin is at its highest at 75.7% under Non-GAAP, followed closely by GAAP at 75.1%. Acquisition-related and other costs are negative (0.4), and stock-based compensation is also negative (0.2).\n- **Q3 FY 2025**: Gross margin decreases slightly to 75.0% under Non-GAAP and 74.6% under GAAP. The acquisition-related and other costs decrease to -0.3, while stock-based compensation decreases to -0.1.\n- **Q4 FY 2025**: Gross margin further decreases to 73.5% under Non-GAAP and 73.0% under GAAP. The acquisition-related and other costs remain at -0.3, and stock-based compensation remains at -0.2.\n- **Q1 FY 2026**: Gross margin drops significantly to 61.0% under Non-GAAP and 60.5% under GAAP. The acquisition-related and other costs are still at -0.3, but stock-based compensation increases slightly to -0.2.\n\n### Time Period Covered:\nThe time period covered is from Q2 FY 2025 to Q1 FY 2026, with forecasts for each quarter.\n\n### Year-over-Year Changes or Growth Rates:\nThere is a noticeable decline in gross margin percentage over the period:\n- From Q2 FY 2025 to Q1 FY 2026, the Non-GAAP gross margin decreases from 75.7% to 61.0%, a drop of approximately 14.7 percentage points.\n- Similarly, the GAAP gross margin decreases from 75.1% to 60.5%, a drop of about 14.6 percentage points.\n\n### Conclusion:\nThe table projects a significant decline in gross margins over the specified period, primarily due to the combination of acquisition-related and other costs and stock-based compensation. The Non-GAAP figures consistently show higher gross margins compared to GAAP, indicating the impact of non-recurring items on the reported numbers.",
+          "parsed_metrics": {
+            "time_series": [
+              {
+                "period": "Q2 FY 2025",
+                "Gross Margin": {
+                  "value": 75.7,
+                  "unit": "%"
+                },
+                "Non-GAAP": {
+                  "value": 75.1,
+                  "unit": "%"
+                },
+                "Acquisition-Related and Other Costs (A)": {
+                  "value": -0.4,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -0.2,
+                  "unit": ""
+                }
+              },
+              {
+                "period": "Q3 FY 2025",
+                "Gross Margin": {
+                  "value": 75.0,
+                  "unit": "%"
+                },
+                "Non-GAAP": {
+                  "value": 74.6,
+                  "unit": "%"
+                },
+                "Acquisition-Related and Other Costs (A)": {
+                  "value": -0.3,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -0.1,
+                  "unit": ""
+                }
+              },
+              {
+                "period": "Q4 FY 2025",
+                "Gross Margin": {
+                  "value": 73.5,
+                  "unit": "%"
+                },
+                "Non-GAAP": {
+                  "value": 73.0,
+                  "unit": "%"
+                },
+                "Acquisition-Related and Other Costs (A)": {
+                  "value": -0.3,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -0.2,
+                  "unit": ""
+                }
+              },
+              {
+                "period": "Q1 FY 2026",
+                "Gross Margin": {
+                  "value": 61.0,
+                  "unit": "%"
+                },
+                "Non-GAAP": {
+                  "value": 60.5,
+                  "unit": "%"
+                },
+                "Acquisition-Related and Other Costs (A)": {
+                  "value": -0.3,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -0.2,
+                  "unit": ""
+                }
+              }
+            ],
+            "latest_values": {
+              "period": "Q1 FY 2026",
+              "Gross Margin": {
+                "value": 61.0,
+                "unit": "%"
+              },
+              "Non-GAAP": {
+                "value": 60.5,
+                "unit": "%"
+              },
+              "Acquisition-Related and Other Costs (A)": {
+                "value": -0.3,
+                "unit": ""
+              },
+              "Stock-Based Compensation (B)": {
+                "value": -0.2,
+                "unit": ""
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Time Period",
+                "Gross Margin",
+                "Non-GAAP",
+                "Acquisition-Related and Other Costs (A)",
+                "Stock-Based Compensation (B)",
+                "GAAP"
+              ],
+              "rows": [
+                [
+                  "Q2 FY 2025",
+                  "75.7%",
+                  "75.1%",
+                  "-0.4",
+                  "-0.2",
+                  ""
+                ],
+                [
+                  "Q3 FY 2025",
+                  "75.0%",
+                  "74.6%",
+                  "-0.3",
+                  "-0.1",
+                  ""
+                ],
+                [
+                  "Q4 FY 2025",
+                  "73.5%",
+                  "73.0%",
+                  "-0.3",
+                  "-0.2",
+                  ""
+                ],
+                [
+                  "Q1 FY 2026",
+                  "61.0%",
+                  "60.5%",
+                  "-0.3",
+                  "-0.2",
+                  ""
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "2e206b39dc30a055de4cb7668b40722277b5047c45f1b8b19ad09531338708a7.jpg",
+          "categories": [
+            "revenue",
+            "gross_margin",
+            "operating_income",
+            "reconciliation"
+          ],
+          "description": "This image is a financial table that provides an overview of a company's financial projections for the fiscal year, likely covering Q3 to full-year 2026. It includes key financial metrics such as revenue, gross margins, operating expenses, other income and expense, and tax rate. Here’s a detailed breakdown:\n\n### Type of Chart/Visualization:\n- **Table**: This is not a chart but a structured table format used to present financial data clearly.\n\n### Metrics/Data Shown:\n1. **Revenue**:\n   - Projected at $54.0 billion, plus or minus 2%.\n   - Notes that shipments to China are not assumed, and if geopolitical issues recede, could ship $2 to $5 billion dollars in H2O revenue in Q3.\n\n2. **Gross Margins**:\n   - GAAP: 73.3%\n   - Non-GAAP: 73.5%, plus or minus 50 basis points.\n   - The company expects to exit the year with non-GAAP gross margins in the mid-70% range.\n\n3. **Operating Expense**:\n   - GAAP: Approximately $5.9 billion.\n   - Non-GAAP: Approximately $4.2 billion.\n   - The company expects full-year fiscal 2026 operating expense growth to be in the high-30% range.\n\n4. **Other Income & Expense**:\n   - Income of approximately $500 million for both GAAP and non-GAAP.\n   - Excludes gains and losses from non-marketable and publicly-held equity securities.\n\n5. **Tax Rate**:\n   - GAAP and non-GAAP: 16.5%, plus or minus 1%, excluding discrete items.\n\n### Key Trends, Peaks, and Notable Data Points:\n- **Revenue Growth**: The projected revenue suggests a significant increase, with a potential range of $2 to $5 billion dollars in additional revenue if geopolitical issues improve.\n- **Gross Margin Stability**: Gross margins are expected to remain stable around 73%, with a slight variation for non-GAAP figures.\n- **Operating Expense Growth**: Operating expenses are projected to grow significantly, indicating a substantial increase in costs.\n- **Other Income/Expense**: A notable income of $500 million is forecasted, which could impact overall profitability positively.\n- **Tax Rate**: The tax rate remains relatively consistent at 16.5%, with minor fluctuations expected.\n\n### Time Period Covered:\n- The table covers Q3 to the full fiscal year 2026.\n\n### Year-Over-Year Changes or Growth Rates:\n- Revenue growth is the most prominent change, with a projected increase of $2 to $5 billion dollars due to geopolitical conditions.\n- Operating expenses show a significant year-over-year increase, reflecting higher costs.\n- No specific year-over-year growth rates are provided, but the increase in operating expenses indicates a substantial rise compared to previous years.\n\n### Additional Notes:\n- The table includes assumptions about geopolitical issues affecting revenue.\n- It also excludes certain non-recurring items when calculating the tax rate and other income/expenses.",
+          "parsed_metrics": {
+            "time_series": [
+              {
+                "period": "Q3",
+                "Revenue ($B)": {
+                  "value": 54.0,
+                  "unit": ""
+                },
+                "Gross Margins (%)": {
+                  "value": 73.3,
+                  "unit": ""
+                },
+                "Operating Expense ($B)": {
+                  "value": 5.9,
+                  "unit": ""
+                },
+                "Other Income & Expense ($M)": {
+                  "value": 500.0,
+                  "unit": ""
+                },
+                "Tax Rate (%)": {
+                  "value": 16.5,
+                  "unit": ""
+                }
+              },
+              {
+                "period": "Q4",
+                "Revenue ($B)": {
+                  "value": 54.0,
+                  "unit": ""
+                },
+                "Gross Margins (%)": {
+                  "value": 73.5,
+                  "unit": ""
+                },
+                "Operating Expense ($B)": {
+                  "value": 4.2,
+                  "unit": ""
+                },
+                "Other Income & Expense ($M)": {
+                  "value": 500.0,
+                  "unit": ""
+                },
+                "Tax Rate (%)": {
+                  "value": 16.5,
+                  "unit": ""
+                }
+              }
+            ],
+            "latest_values": {
+              "period": "Q4",
+              "Revenue ($B)": {
+                "value": 54.0,
+                "unit": ""
+              },
+              "Gross Margins (%)": {
+                "value": 73.5,
+                "unit": ""
+              },
+              "Operating Expense ($B)": {
+                "value": 4.2,
+                "unit": ""
+              },
+              "Other Income & Expense ($M)": {
+                "value": 500.0,
+                "unit": ""
+              },
+              "Tax Rate (%)": {
+                "value": 16.5,
+                "unit": ""
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Time Period",
+                "Revenue ($B)",
+                "Gross Margins (%)",
+                "Operating Expense ($B)",
+                "Other Income & Expense ($M)",
+                "Tax Rate (%)"
+              ],
+              "rows": [
+                [
+                  "Q3",
+                  "54.0",
+                  "73.3",
+                  "5.9",
+                  "500",
+                  "16.5"
+                ],
+                [
+                  "Q4",
+                  "54.0",
+                  "73.5",
+                  "4.2",
+                  "500",
+                  "16.5"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "82b4d48da96187a25bf036c36d39989fca678777425f8d6eaf42bf7e7734522d.jpg",
+          "categories": [
+            "gross_margin",
+            "operating_income",
+            "reconciliation"
+          ],
+          "description": "This image is a table that provides a financial outlook for Q3 FY26 (Fiscal Year 2026). It breaks down various financial metrics into non-GAAP (Generally Accepted Accounting Principles) and GAAP (Generally Accepted Accounting Principles) formats.\n\n### Type of Visualization:\nThe visualization is a tabular format, listing different financial metrics alongside their corresponding values.\n\n### Metrics/Data Shown:\n1. **Non-GAAP gross margin**: 73.5%\n2. **Impact of stock-based compensation expense, acquisition-related costs, and other costs**: 0.2%\n3. **GAAP gross margin**: 73.3%\n4. **Non-GAAP operating expenses**: $4,200 million\n5. **Stock-based compensation expense, acquisition-related costs, and other costs**: $(1,700) million\n6. **GAAP operating expenses**: $5,900 million\n\n### Key Trends, Peaks, and Notable Data Points:\n- The non-GAAP gross margin is slightly higher at 73.5% compared to the GAAP gross margin at 73.3%, indicating minimal impact from the adjustments.\n- Non-GAAP operating expenses are $4,200 million, while GAAP operating expenses are $5,900 million, showing the impact of additional costs like stock-based compensation and acquisition-related expenses.\n- The negative value for \"Stock-based compensation expense, acquisition-related costs, and other costs\" indicates a reduction of $1,700 million when moving from non-GAAP to GAAP.\n\n### Time Period Covered:\nThe time period covered is Q3 FY26, which refers to the third quarter of Fiscal Year 2026.\n\n### Year-over-Year Changes or Growth Rates:\nThe table does not provide year-over-year comparisons or growth rates. It only shows the forecasted values for Q3 FY26. To determine any growth or changes, historical data from previous years would be required.\n\n### Summary:\nThe table outlines the projected financial performance for Q3 FY26, focusing on gross margins and operating expenses under both non-GAAP and GAAP accounting standards. The slight difference between the two gross margins suggests minimal impact from the adjustments, while the operating expenses show a significant increase due to the inclusion of additional costs.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {},
+            "raw_data": {
+              "headers": [
+                "Q3 FY26 Outlook",
+                "Non-GAAP gross margin",
+                "73.5%",
+                "Impact of stock-based compensation expense",
+                "acquisition-related costs",
+                "and other costs",
+                "0.2%",
+                "GAAP gross margin",
+                "73.3%",
+                "Non-GAAP operating expenses",
+                "$4",
+                "200",
+                "Stock-based compensation expense",
+                "acquisition-related costs",
+                "and other costs",
+                "(1",
+                "700)",
+                "GAAP operating expenses",
+                "$5",
+                "900"
+              ],
+              "rows": []
+            }
+          }
+        }
+      ],
+      "operating_income": [
+        {
+          "image_name": "2e206b39dc30a055de4cb7668b40722277b5047c45f1b8b19ad09531338708a7.jpg",
+          "categories": [
+            "revenue",
+            "gross_margin",
+            "operating_income",
+            "reconciliation"
+          ],
+          "description": "This image is a financial table that provides an overview of a company's financial projections for the fiscal year, likely covering Q3 to full-year 2026. It includes key financial metrics such as revenue, gross margins, operating expenses, other income and expense, and tax rate. Here’s a detailed breakdown:\n\n### Type of Chart/Visualization:\n- **Table**: This is not a chart but a structured table format used to present financial data clearly.\n\n### Metrics/Data Shown:\n1. **Revenue**:\n   - Projected at $54.0 billion, plus or minus 2%.\n   - Notes that shipments to China are not assumed, and if geopolitical issues recede, could ship $2 to $5 billion dollars in H2O revenue in Q3.\n\n2. **Gross Margins**:\n   - GAAP: 73.3%\n   - Non-GAAP: 73.5%, plus or minus 50 basis points.\n   - The company expects to exit the year with non-GAAP gross margins in the mid-70% range.\n\n3. **Operating Expense**:\n   - GAAP: Approximately $5.9 billion.\n   - Non-GAAP: Approximately $4.2 billion.\n   - The company expects full-year fiscal 2026 operating expense growth to be in the high-30% range.\n\n4. **Other Income & Expense**:\n   - Income of approximately $500 million for both GAAP and non-GAAP.\n   - Excludes gains and losses from non-marketable and publicly-held equity securities.\n\n5. **Tax Rate**:\n   - GAAP and non-GAAP: 16.5%, plus or minus 1%, excluding discrete items.\n\n### Key Trends, Peaks, and Notable Data Points:\n- **Revenue Growth**: The projected revenue suggests a significant increase, with a potential range of $2 to $5 billion dollars in additional revenue if geopolitical issues improve.\n- **Gross Margin Stability**: Gross margins are expected to remain stable around 73%, with a slight variation for non-GAAP figures.\n- **Operating Expense Growth**: Operating expenses are projected to grow significantly, indicating a substantial increase in costs.\n- **Other Income/Expense**: A notable income of $500 million is forecasted, which could impact overall profitability positively.\n- **Tax Rate**: The tax rate remains relatively consistent at 16.5%, with minor fluctuations expected.\n\n### Time Period Covered:\n- The table covers Q3 to the full fiscal year 2026.\n\n### Year-Over-Year Changes or Growth Rates:\n- Revenue growth is the most prominent change, with a projected increase of $2 to $5 billion dollars due to geopolitical conditions.\n- Operating expenses show a significant year-over-year increase, reflecting higher costs.\n- No specific year-over-year growth rates are provided, but the increase in operating expenses indicates a substantial rise compared to previous years.\n\n### Additional Notes:\n- The table includes assumptions about geopolitical issues affecting revenue.\n- It also excludes certain non-recurring items when calculating the tax rate and other income/expenses.",
+          "parsed_metrics": {
+            "time_series": [
+              {
+                "period": "Q3",
+                "Revenue ($B)": {
+                  "value": 54.0,
+                  "unit": ""
+                },
+                "Gross Margins (%)": {
+                  "value": 73.3,
+                  "unit": ""
+                },
+                "Operating Expense ($B)": {
+                  "value": 5.9,
+                  "unit": ""
+                },
+                "Other Income & Expense ($M)": {
+                  "value": 500.0,
+                  "unit": ""
+                },
+                "Tax Rate (%)": {
+                  "value": 16.5,
+                  "unit": ""
+                }
+              },
+              {
+                "period": "Q4",
+                "Revenue ($B)": {
+                  "value": 54.0,
+                  "unit": ""
+                },
+                "Gross Margins (%)": {
+                  "value": 73.5,
+                  "unit": ""
+                },
+                "Operating Expense ($B)": {
+                  "value": 4.2,
+                  "unit": ""
+                },
+                "Other Income & Expense ($M)": {
+                  "value": 500.0,
+                  "unit": ""
+                },
+                "Tax Rate (%)": {
+                  "value": 16.5,
+                  "unit": ""
+                }
+              }
+            ],
+            "latest_values": {
+              "period": "Q4",
+              "Revenue ($B)": {
+                "value": 54.0,
+                "unit": ""
+              },
+              "Gross Margins (%)": {
+                "value": 73.5,
+                "unit": ""
+              },
+              "Operating Expense ($B)": {
+                "value": 4.2,
+                "unit": ""
+              },
+              "Other Income & Expense ($M)": {
+                "value": 500.0,
+                "unit": ""
+              },
+              "Tax Rate (%)": {
+                "value": 16.5,
+                "unit": ""
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Time Period",
+                "Revenue ($B)",
+                "Gross Margins (%)",
+                "Operating Expense ($B)",
+                "Other Income & Expense ($M)",
+                "Tax Rate (%)"
+              ],
+              "rows": [
+                [
+                  "Q3",
+                  "54.0",
+                  "73.3",
+                  "5.9",
+                  "500",
+                  "16.5"
+                ],
+                [
+                  "Q4",
+                  "54.0",
+                  "73.5",
+                  "4.2",
+                  "500",
+                  "16.5"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "82b4d48da96187a25bf036c36d39989fca678777425f8d6eaf42bf7e7734522d.jpg",
+          "categories": [
+            "gross_margin",
+            "operating_income",
+            "reconciliation"
+          ],
+          "description": "This image is a table that provides a financial outlook for Q3 FY26 (Fiscal Year 2026). It breaks down various financial metrics into non-GAAP (Generally Accepted Accounting Principles) and GAAP (Generally Accepted Accounting Principles) formats.\n\n### Type of Visualization:\nThe visualization is a tabular format, listing different financial metrics alongside their corresponding values.\n\n### Metrics/Data Shown:\n1. **Non-GAAP gross margin**: 73.5%\n2. **Impact of stock-based compensation expense, acquisition-related costs, and other costs**: 0.2%\n3. **GAAP gross margin**: 73.3%\n4. **Non-GAAP operating expenses**: $4,200 million\n5. **Stock-based compensation expense, acquisition-related costs, and other costs**: $(1,700) million\n6. **GAAP operating expenses**: $5,900 million\n\n### Key Trends, Peaks, and Notable Data Points:\n- The non-GAAP gross margin is slightly higher at 73.5% compared to the GAAP gross margin at 73.3%, indicating minimal impact from the adjustments.\n- Non-GAAP operating expenses are $4,200 million, while GAAP operating expenses are $5,900 million, showing the impact of additional costs like stock-based compensation and acquisition-related expenses.\n- The negative value for \"Stock-based compensation expense, acquisition-related costs, and other costs\" indicates a reduction of $1,700 million when moving from non-GAAP to GAAP.\n\n### Time Period Covered:\nThe time period covered is Q3 FY26, which refers to the third quarter of Fiscal Year 2026.\n\n### Year-over-Year Changes or Growth Rates:\nThe table does not provide year-over-year comparisons or growth rates. It only shows the forecasted values for Q3 FY26. To determine any growth or changes, historical data from previous years would be required.\n\n### Summary:\nThe table outlines the projected financial performance for Q3 FY26, focusing on gross margins and operating expenses under both non-GAAP and GAAP accounting standards. The slight difference between the two gross margins suggests minimal impact from the adjustments, while the operating expenses show a significant increase due to the inclusion of additional costs.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {},
+            "raw_data": {
+              "headers": [
+                "Q3 FY26 Outlook",
+                "Non-GAAP gross margin",
+                "73.5%",
+                "Impact of stock-based compensation expense",
+                "acquisition-related costs",
+                "and other costs",
+                "0.2%",
+                "GAAP gross margin",
+                "73.3%",
+                "Non-GAAP operating expenses",
+                "$4",
+                "200",
+                "Stock-based compensation expense",
+                "acquisition-related costs",
+                "and other costs",
+                "(1",
+                "700)",
+                "GAAP operating expenses",
+                "$5",
+                "900"
+              ],
+              "rows": []
+            }
+          }
+        }
+      ],
+      "uncategorized": [
+        {
+          "image_name": "c3d8a37092669973692605c45054780e03f3ba4a9838223ebaaf6d9361a58004.jpg",
+          "categories": [
+            "uncategorized"
+          ],
+          "description": "This image depicts a bar chart that visualizes the projected growth in GPU Die size over three years: 2024, 2025, and 2026.\n\n### Description:\n\n1. **Type of Chart/Visualization**:\n   - The chart is a horizontal bar chart with a gradient fill. It uses a single color (green) for all bars but differentiates them by height to represent varying values.\n\n2. **Metrics/Data Shown**:\n   - The chart measures the \"GPU Die\" size, which likely refers to the size of the integrated circuit die used in graphics processing units.\n   - The vertical axis represents the size of the GPU Die, with a label indicating a \"3X+\" increase, suggesting an exponential growth pattern rather than a linear one.\n\n3. **Key Trends, Peaks, and Notable Data Points**:\n   - There is a clear upward trend in GPU Die size from 2024 to 2026.\n   - The bars for each year are progressively taller, indicating increasing GPU Die sizes over time.\n   - The \"3X+\" label above the bars suggests a significant increase in GPU Die size, though the exact numerical value is not provided.\n\n4. **Time Period Covered**:\n   - The chart covers the period from 2024 to 2026, showing a three-year projection.\n\n5. **Year-over-Year Changes or Growth Rates**:\n   - While specific numerical values are not provided, the chart indicates a substantial increase in GPU Die size each year.\n   - The \"3X+\" label implies that the GPU Die size will triple or more compared to the previous year's size, reflecting a high growth rate.\n\n### Interpretation:\nThe chart projects an exponential increase in GPU Die size over the next three years, with the largest projected increase occurring between 2024 and 2025. This could be indicative of advancements in semiconductor technology or increased demand for higher-performance computing capabilities.",
+          "parsed_metrics": {
+            "time_series": [
+              {
+                "period": "2024",
+                "GPU Die": {
+                  "value": 1.0,
+                  "unit": ""
+                }
+              },
+              {
+                "period": "2025",
+                "GPU Die": {
+                  "value": 3.0,
+                  "unit": ""
+                }
+              },
+              {
+                "period": "2026",
+                "GPU Die": {
+                  "value": 9.0,
+                  "unit": ""
+                }
+              }
+            ],
+            "latest_values": {
+              "period": "2026",
+              "GPU Die": {
+                "value": 9.0,
+                "unit": ""
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Time Period",
+                "GPU Die"
+              ],
+              "rows": [
+                [
+                  "2024",
+                  "1"
+                ],
+                [
+                  "2025",
+                  "3"
+                ],
+                [
+                  "2026",
+                  "9"
+                ]
+              ]
+            }
+          }
+        }
+      ]
+    }
   },
   "tables_extracted": [],
   "data_sources": {
@@ -240,6 +3041,14 @@
       "cash_flow",
       "reconciliation"
     ],
-    "chart_categories": []
+    "chart_categories": [
+      "net_income",
+      "eps",
+      "reconciliation",
+      "revenue",
+      "gross_margin",
+      "operating_income",
+      "uncategorized"
+    ]
   }
 }

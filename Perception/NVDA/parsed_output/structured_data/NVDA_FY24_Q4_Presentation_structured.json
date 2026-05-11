@@ -8,10 +8,10 @@
     "period_end": "2024-01-31",
     "calendar_year": 2023,
     "report_type": "Investor Presentation",
-    "extraction_timestamp": "2026-05-10T20:39:21.704926",
+    "extraction_timestamp": "2026-05-10T17:55:00.567577",
     "data_completeness": {
       "text_sections_found": 8,
-      "charts_processed": 0,
+      "charts_processed": 11,
       "md_tables_found": 0,
       "highlights_extracted": 26,
       "metrics_extracted": 8
@@ -241,9 +241,2379 @@
     ]
   },
   "chart_data": {
-    "total_charts_processed": 0,
-    "categorized_charts": {},
-    "chart_details": {}
+    "total_charts_processed": 11,
+    "categorized_charts": {
+      "net_income": 2,
+      "eps": 2,
+      "reconciliation": 6,
+      "revenue": 7,
+      "gross_margin": 3,
+      "operating_income": 2
+    },
+    "chart_details": {
+      "net_income": [
+        {
+          "image_name": "463ea0dbe211c88067cb82e75831f14b61df0540d710d701d36f799e232763cb.jpg",
+          "categories": [
+            "net_income",
+            "eps",
+            "reconciliation"
+          ],
+          "description": "This is a financial table that compares various financial metrics between non-GAAP (Generally Accepted Accounting Principles) and GAAP for the fourth quarter of fiscal year 2024 (Q4 FY24). The table includes the following data:\n\n### Type of Chart/Visualization:\n- This is a tabular format, not a chart or graph.\n\n### Metrics/Data Shown:\n- **Gross Margin**: Measured in millions and as a percentage.\n- **Operating Income**: Measured in millions.\n- **Net Income**: Measured in millions.\n- **Shares Used in Diluted Per Share Calculation**: Measured in millions.\n- **Diluted EPS (Earnings Per Share)**: Measured in dollars.\n\n### Key Trends, Peaks, and Notable Data Points:\n- **Gross Margin**:\n  - Non-GAAP: $16,959 million, 76.7%\n  - GAAP: $16,791 million, 76.0%\n  - There is a slight difference in both the amount and percentage, with the non-GAAP margin being slightly higher.\n  \n- **Operating Income**:\n  - Non-GAAP: $14,749 million\n  - GAAP: $13,615 million\n  - The non-GAAP operating income is significantly higher than the GAAP figure, indicating the impact of certain adjustments.\n\n- **Net Income**:\n  - Non-GAAP: $12,839 million\n  - GAAP: $12,285 million\n  - Similar to operating income, the non-GAAP net income is higher due to the adjustments.\n\n- **Shares Used in Diluted Per Share Calculation**:\n  - Both non-GAAP and GAAP show the same number of shares used, 2,490 million.\n\n- **Diluted EPS**:\n  - Non-GAAP: $5.16\n  - GAAP: $4.93\n  - The non-GAAP diluted EPS is also higher, reflecting the impact of the adjustments.\n\n### Time Period Covered:\n- The data covers the fourth quarter of fiscal year 2024 (Q4 FY24).\n\n### Year-Over-Year Changes or Growth Rates:\n- The table does not provide year-over-year comparisons or growth rates. It only shows data for Q4 FY24 and does not include historical data for comparison.\n\n### Additional Notes:\n- The table includes several line items labeled as \"Acquisition-Related and Other Costs,\" \"Stock-Based Compensation,\" \"IP-Related Costs,\" and \"Other.\" These represent adjustments made under non-GAAP accounting, which are not included in the GAAP figures.\n- The \"Tax Impact of Adjustments\" column shows the effect of these adjustments on the final GAAP numbers, indicating how they impact the reported values.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "Gross margin ($ in million)": {
+                "FY24": {
+                  "value": 16.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 959.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": -119.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -45.0,
+                  "unit": ""
+                },
+                "IP-Related Costs": {
+                  "value": -4.0,
+                  "unit": ""
+                },
+                "Other (C)": {
+                  "value": 16.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 791.0,
+                  "unit": ""
+                }
+              },
+              "Operating income ($ in million)": {
+                "FY24": {
+                  "value": 14.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 749.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": -137.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -993.0,
+                  "unit": ""
+                },
+                "IP-Related Costs": {
+                  "value": -4.0,
+                  "unit": ""
+                },
+                "Other (C)": {
+                  "value": 13.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 615.0,
+                  "unit": ""
+                }
+              },
+              "Net income ($ in million)": {
+                "FY24": {
+                  "value": 12.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 839.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": -137.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -993.0,
+                  "unit": ""
+                },
+                "IP-Related Costs": {
+                  "value": -4.0,
+                  "unit": ""
+                },
+                "Other (C)": {
+                  "value": 259.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 321.0,
+                  "unit": ""
+                },
+                "GAAP": {
+                  "value": 12.0,
+                  "unit": ""
+                }
+              },
+              "Shares used in diluted per share calculation (millions)": {
+                "FY24": {
+                  "value": 2.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 490.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": 2.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": 490.0,
+                  "unit": ""
+                }
+              },
+              "Diluted EPS": {
+                "FY24": {
+                  "value": 5.16,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 4.93,
+                  "unit": ""
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q4",
+                "FY24",
+                "Non-GAAP",
+                "Aquisition-Related and Other Costs (A)",
+                "Stock-Based Compensation (B)",
+                "IP-Related Costs",
+                "Other (C)",
+                "Tax Impact of Adjustments",
+                "GAAP"
+              ],
+              "rows": [
+                [
+                  "Gross margin ($ in million)",
+                  "16",
+                  "959",
+                  "(119)",
+                  "(45)",
+                  "(4)",
+                  "16",
+                  "791"
+                ],
+                [
+                  "Operating income ($ in million)",
+                  "14",
+                  "749",
+                  "(137)",
+                  "(993)",
+                  "(4)",
+                  "13",
+                  "615"
+                ],
+                [
+                  "Net income ($ in million)",
+                  "12",
+                  "839",
+                  "(137)",
+                  "(993)",
+                  "(4)",
+                  "259",
+                  "321",
+                  "12",
+                  "285"
+                ],
+                [
+                  "Shares used in diluted per share calculation (millions)",
+                  "2",
+                  "490",
+                  "2",
+                  "490"
+                ],
+                [
+                  "Diluted EPS",
+                  "$5.16",
+                  "4.93"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "0788259aefd6ae41461613c2f7d658a72255aff32f2b4c2f9a530cf6c0fc713e.jpg",
+          "categories": [
+            "net_income",
+            "eps",
+            "reconciliation"
+          ],
+          "description": "This is a financial performance table that compares GAAP (Generally Accepted Accounting Principles) and Non-GAAP financial metrics for Q4 Fiscal Year 2024. The table provides a side-by-side comparison of various financial indicators, including revenue, gross margin, operating income, net income, diluted earnings per share (EPS), and cash flow from operations.\n\n### Metrics/Data Shown:\n1. **Revenue**: Total sales revenue.\n2. **Gross Margin**: The percentage of revenue remaining after deducting the cost of goods sold.\n3. **Operating Income**: Profit earned from core business operations before interest and taxes.\n4. **Net Income**: Total profit after all expenses, including taxes.\n5. **Diluted EPS**: Earnings per share adjusted to account for the potential dilution of ownership interests.\n6. **Cash Flow from Operations**: Cash generated by the company's normal business activities.\n\n### Key Trends, Peaks, and Notable Data Points:\n- **Revenue**: Both GAAP and Non-GAAP show $22,103 million in revenue for Q4 FY24, with a year-over-year (Y/Y) growth rate of +265% and quarter-over-quarter (Q/Q) growth of +22%.\n- **Gross Margin**: GAAP shows a gross margin of 76.0%, increasing by 12.7 percentage points Y/Y and 2.0 percentage points Q/Q. Non-GAAP shows a gross margin of 76.7%, increasing by 10.6 percentage points Y/Y and 1.7 percentage points Q/Q.\n- **Operating Income**: GAAP shows an operating income of $13,615 million, with a Y/Y increase of +983% and a Q/Q increase of +31%. Non-GAAP shows an operating income of $14,749 million, with a Y/Y increase of +563% and a Q/Q increase of +28%.\n- **Net Income**: GAAP shows a net income of $12,285 million, with a Y/Y increase of +769% and a Q/Q increase of +33%. Non-GAAP shows a net income of $12,839 million, with a Y/Y increase of +491% and a Q/Q increase of +28%.\n- **Diluted EPS**: GAAP shows a diluted EPS of $4.93, with a Y/Y increase of +765% and a Q/Q increase of +33%. Non-GAAP shows a diluted EPS of $5.16, with a Y/Y increase of +486% and a Q/Q increase of +28%.\n- **Cash Flow from Operations**: GAAP shows a cash flow from operations of $11,499 million, with a Y/Y increase of +411% and a Q/Q increase of +57%. Non-GAAP shows a cash flow from operations of $11,499 million, with a Y/Y increase of +411% and a Q/Q increase of +57%.\n\n### Time Period Covered:\nThe data covers Q4 Fiscal Year 2024, with year-over-year (Y/Y) comparisons and quarter-over-quarter (Q/Q) comparisons provided.\n\n### Year-over-Year Changes or Growth Rates:\nAll financial metrics show significant year-over-year growth, with the most notable being the operating income and net income, which have seen substantial increases of +983% and +769% respectively for GAAP, and +563% and +491% respectively for Non-GAAP.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "Revenue": {
+                "Y/Y": {
+                  "value": 22.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 22.0,
+                  "unit": ""
+                },
+                "Q4 FY24": {
+                  "value": 265.0,
+                  "unit": "%"
+                }
+              },
+              "Gross Margin": {
+                "Y/Y": {
+                  "value": 76.7,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 10.6,
+                  "unit": ""
+                },
+                "Q4 FY24": {
+                  "value": 2.0,
+                  "unit": ""
+                }
+              },
+              "Operating Income": {
+                "Y/Y": {
+                  "value": 31.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 14.0,
+                  "unit": ""
+                },
+                "Q4 FY24": {
+                  "value": 983.0,
+                  "unit": "%"
+                }
+              },
+              "Net Income": {
+                "Y/Y": {
+                  "value": 33.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 12.0,
+                  "unit": ""
+                },
+                "Q4 FY24": {
+                  "value": 769.0,
+                  "unit": "%"
+                }
+              },
+              "Diluted EPS": {
+                "Y/Y": {
+                  "value": 5.16,
+                  "unit": ""
+                },
+                "Q/Q": {
+                  "value": 486.0,
+                  "unit": "%"
+                },
+                "Q4 FY24": {
+                  "value": 33.0,
+                  "unit": "%"
+                }
+              },
+              "Cash Flow from Ops": {
+                "Y/Y": {
+                  "value": 57.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 11.0,
+                  "unit": ""
+                },
+                "Q4 FY24": {
+                  "value": 411.0,
+                  "unit": "%"
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q4 FY24",
+                "Y/Y",
+                "Q/Q",
+                "Q4 FY24",
+                "Y/Y",
+                "Q/Q"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "$22",
+                  "103",
+                  "+265%",
+                  "+22%",
+                  "$22",
+                  "103",
+                  "+265%",
+                  "+22%"
+                ],
+                [
+                  "Gross Margin",
+                  "76.0%",
+                  "+12.7 pts",
+                  "+2.0 pts",
+                  "76.7%",
+                  "+10.6 pts",
+                  "+1.7 pts"
+                ],
+                [
+                  "Operating Income",
+                  "$13",
+                  "615",
+                  "+983%",
+                  "+31%",
+                  "$14",
+                  "749",
+                  "+563%",
+                  "+28%"
+                ],
+                [
+                  "Net Income",
+                  "$12",
+                  "285",
+                  "+769%",
+                  "+33%",
+                  "$12",
+                  "839",
+                  "+491%",
+                  "+28%"
+                ],
+                [
+                  "Diluted EPS",
+                  "$4.93",
+                  "+765%",
+                  "+33%",
+                  "$5.16",
+                  "+486%",
+                  "+28%"
+                ],
+                [
+                  "Cash Flow from Ops",
+                  "$11",
+                  "499",
+                  "+411%",
+                  "+57%",
+                  "$11",
+                  "499",
+                  "+411%",
+                  "+57%"
+                ]
+              ]
+            }
+          }
+        }
+      ],
+      "eps": [
+        {
+          "image_name": "463ea0dbe211c88067cb82e75831f14b61df0540d710d701d36f799e232763cb.jpg",
+          "categories": [
+            "net_income",
+            "eps",
+            "reconciliation"
+          ],
+          "description": "This is a financial table that compares various financial metrics between non-GAAP (Generally Accepted Accounting Principles) and GAAP for the fourth quarter of fiscal year 2024 (Q4 FY24). The table includes the following data:\n\n### Type of Chart/Visualization:\n- This is a tabular format, not a chart or graph.\n\n### Metrics/Data Shown:\n- **Gross Margin**: Measured in millions and as a percentage.\n- **Operating Income**: Measured in millions.\n- **Net Income**: Measured in millions.\n- **Shares Used in Diluted Per Share Calculation**: Measured in millions.\n- **Diluted EPS (Earnings Per Share)**: Measured in dollars.\n\n### Key Trends, Peaks, and Notable Data Points:\n- **Gross Margin**:\n  - Non-GAAP: $16,959 million, 76.7%\n  - GAAP: $16,791 million, 76.0%\n  - There is a slight difference in both the amount and percentage, with the non-GAAP margin being slightly higher.\n  \n- **Operating Income**:\n  - Non-GAAP: $14,749 million\n  - GAAP: $13,615 million\n  - The non-GAAP operating income is significantly higher than the GAAP figure, indicating the impact of certain adjustments.\n\n- **Net Income**:\n  - Non-GAAP: $12,839 million\n  - GAAP: $12,285 million\n  - Similar to operating income, the non-GAAP net income is higher due to the adjustments.\n\n- **Shares Used in Diluted Per Share Calculation**:\n  - Both non-GAAP and GAAP show the same number of shares used, 2,490 million.\n\n- **Diluted EPS**:\n  - Non-GAAP: $5.16\n  - GAAP: $4.93\n  - The non-GAAP diluted EPS is also higher, reflecting the impact of the adjustments.\n\n### Time Period Covered:\n- The data covers the fourth quarter of fiscal year 2024 (Q4 FY24).\n\n### Year-Over-Year Changes or Growth Rates:\n- The table does not provide year-over-year comparisons or growth rates. It only shows data for Q4 FY24 and does not include historical data for comparison.\n\n### Additional Notes:\n- The table includes several line items labeled as \"Acquisition-Related and Other Costs,\" \"Stock-Based Compensation,\" \"IP-Related Costs,\" and \"Other.\" These represent adjustments made under non-GAAP accounting, which are not included in the GAAP figures.\n- The \"Tax Impact of Adjustments\" column shows the effect of these adjustments on the final GAAP numbers, indicating how they impact the reported values.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "Gross margin ($ in million)": {
+                "FY24": {
+                  "value": 16.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 959.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": -119.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -45.0,
+                  "unit": ""
+                },
+                "IP-Related Costs": {
+                  "value": -4.0,
+                  "unit": ""
+                },
+                "Other (C)": {
+                  "value": 16.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 791.0,
+                  "unit": ""
+                }
+              },
+              "Operating income ($ in million)": {
+                "FY24": {
+                  "value": 14.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 749.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": -137.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -993.0,
+                  "unit": ""
+                },
+                "IP-Related Costs": {
+                  "value": -4.0,
+                  "unit": ""
+                },
+                "Other (C)": {
+                  "value": 13.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 615.0,
+                  "unit": ""
+                }
+              },
+              "Net income ($ in million)": {
+                "FY24": {
+                  "value": 12.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 839.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": -137.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -993.0,
+                  "unit": ""
+                },
+                "IP-Related Costs": {
+                  "value": -4.0,
+                  "unit": ""
+                },
+                "Other (C)": {
+                  "value": 259.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 321.0,
+                  "unit": ""
+                },
+                "GAAP": {
+                  "value": 12.0,
+                  "unit": ""
+                }
+              },
+              "Shares used in diluted per share calculation (millions)": {
+                "FY24": {
+                  "value": 2.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 490.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": 2.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": 490.0,
+                  "unit": ""
+                }
+              },
+              "Diluted EPS": {
+                "FY24": {
+                  "value": 5.16,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 4.93,
+                  "unit": ""
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q4",
+                "FY24",
+                "Non-GAAP",
+                "Aquisition-Related and Other Costs (A)",
+                "Stock-Based Compensation (B)",
+                "IP-Related Costs",
+                "Other (C)",
+                "Tax Impact of Adjustments",
+                "GAAP"
+              ],
+              "rows": [
+                [
+                  "Gross margin ($ in million)",
+                  "16",
+                  "959",
+                  "(119)",
+                  "(45)",
+                  "(4)",
+                  "16",
+                  "791"
+                ],
+                [
+                  "Operating income ($ in million)",
+                  "14",
+                  "749",
+                  "(137)",
+                  "(993)",
+                  "(4)",
+                  "13",
+                  "615"
+                ],
+                [
+                  "Net income ($ in million)",
+                  "12",
+                  "839",
+                  "(137)",
+                  "(993)",
+                  "(4)",
+                  "259",
+                  "321",
+                  "12",
+                  "285"
+                ],
+                [
+                  "Shares used in diluted per share calculation (millions)",
+                  "2",
+                  "490",
+                  "2",
+                  "490"
+                ],
+                [
+                  "Diluted EPS",
+                  "$5.16",
+                  "4.93"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "0788259aefd6ae41461613c2f7d658a72255aff32f2b4c2f9a530cf6c0fc713e.jpg",
+          "categories": [
+            "net_income",
+            "eps",
+            "reconciliation"
+          ],
+          "description": "This is a financial performance table that compares GAAP (Generally Accepted Accounting Principles) and Non-GAAP financial metrics for Q4 Fiscal Year 2024. The table provides a side-by-side comparison of various financial indicators, including revenue, gross margin, operating income, net income, diluted earnings per share (EPS), and cash flow from operations.\n\n### Metrics/Data Shown:\n1. **Revenue**: Total sales revenue.\n2. **Gross Margin**: The percentage of revenue remaining after deducting the cost of goods sold.\n3. **Operating Income**: Profit earned from core business operations before interest and taxes.\n4. **Net Income**: Total profit after all expenses, including taxes.\n5. **Diluted EPS**: Earnings per share adjusted to account for the potential dilution of ownership interests.\n6. **Cash Flow from Operations**: Cash generated by the company's normal business activities.\n\n### Key Trends, Peaks, and Notable Data Points:\n- **Revenue**: Both GAAP and Non-GAAP show $22,103 million in revenue for Q4 FY24, with a year-over-year (Y/Y) growth rate of +265% and quarter-over-quarter (Q/Q) growth of +22%.\n- **Gross Margin**: GAAP shows a gross margin of 76.0%, increasing by 12.7 percentage points Y/Y and 2.0 percentage points Q/Q. Non-GAAP shows a gross margin of 76.7%, increasing by 10.6 percentage points Y/Y and 1.7 percentage points Q/Q.\n- **Operating Income**: GAAP shows an operating income of $13,615 million, with a Y/Y increase of +983% and a Q/Q increase of +31%. Non-GAAP shows an operating income of $14,749 million, with a Y/Y increase of +563% and a Q/Q increase of +28%.\n- **Net Income**: GAAP shows a net income of $12,285 million, with a Y/Y increase of +769% and a Q/Q increase of +33%. Non-GAAP shows a net income of $12,839 million, with a Y/Y increase of +491% and a Q/Q increase of +28%.\n- **Diluted EPS**: GAAP shows a diluted EPS of $4.93, with a Y/Y increase of +765% and a Q/Q increase of +33%. Non-GAAP shows a diluted EPS of $5.16, with a Y/Y increase of +486% and a Q/Q increase of +28%.\n- **Cash Flow from Operations**: GAAP shows a cash flow from operations of $11,499 million, with a Y/Y increase of +411% and a Q/Q increase of +57%. Non-GAAP shows a cash flow from operations of $11,499 million, with a Y/Y increase of +411% and a Q/Q increase of +57%.\n\n### Time Period Covered:\nThe data covers Q4 Fiscal Year 2024, with year-over-year (Y/Y) comparisons and quarter-over-quarter (Q/Q) comparisons provided.\n\n### Year-over-Year Changes or Growth Rates:\nAll financial metrics show significant year-over-year growth, with the most notable being the operating income and net income, which have seen substantial increases of +983% and +769% respectively for GAAP, and +563% and +491% respectively for Non-GAAP.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "Revenue": {
+                "Y/Y": {
+                  "value": 22.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 22.0,
+                  "unit": ""
+                },
+                "Q4 FY24": {
+                  "value": 265.0,
+                  "unit": "%"
+                }
+              },
+              "Gross Margin": {
+                "Y/Y": {
+                  "value": 76.7,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 10.6,
+                  "unit": ""
+                },
+                "Q4 FY24": {
+                  "value": 2.0,
+                  "unit": ""
+                }
+              },
+              "Operating Income": {
+                "Y/Y": {
+                  "value": 31.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 14.0,
+                  "unit": ""
+                },
+                "Q4 FY24": {
+                  "value": 983.0,
+                  "unit": "%"
+                }
+              },
+              "Net Income": {
+                "Y/Y": {
+                  "value": 33.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 12.0,
+                  "unit": ""
+                },
+                "Q4 FY24": {
+                  "value": 769.0,
+                  "unit": "%"
+                }
+              },
+              "Diluted EPS": {
+                "Y/Y": {
+                  "value": 5.16,
+                  "unit": ""
+                },
+                "Q/Q": {
+                  "value": 486.0,
+                  "unit": "%"
+                },
+                "Q4 FY24": {
+                  "value": 33.0,
+                  "unit": "%"
+                }
+              },
+              "Cash Flow from Ops": {
+                "Y/Y": {
+                  "value": 57.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 11.0,
+                  "unit": ""
+                },
+                "Q4 FY24": {
+                  "value": 411.0,
+                  "unit": "%"
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q4 FY24",
+                "Y/Y",
+                "Q/Q",
+                "Q4 FY24",
+                "Y/Y",
+                "Q/Q"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "$22",
+                  "103",
+                  "+265%",
+                  "+22%",
+                  "$22",
+                  "103",
+                  "+265%",
+                  "+22%"
+                ],
+                [
+                  "Gross Margin",
+                  "76.0%",
+                  "+12.7 pts",
+                  "+2.0 pts",
+                  "76.7%",
+                  "+10.6 pts",
+                  "+1.7 pts"
+                ],
+                [
+                  "Operating Income",
+                  "$13",
+                  "615",
+                  "+983%",
+                  "+31%",
+                  "$14",
+                  "749",
+                  "+563%",
+                  "+28%"
+                ],
+                [
+                  "Net Income",
+                  "$12",
+                  "285",
+                  "+769%",
+                  "+33%",
+                  "$12",
+                  "839",
+                  "+491%",
+                  "+28%"
+                ],
+                [
+                  "Diluted EPS",
+                  "$4.93",
+                  "+765%",
+                  "+33%",
+                  "$5.16",
+                  "+486%",
+                  "+28%"
+                ],
+                [
+                  "Cash Flow from Ops",
+                  "$11",
+                  "499",
+                  "+411%",
+                  "+57%",
+                  "$11",
+                  "499",
+                  "+411%",
+                  "+57%"
+                ]
+              ]
+            }
+          }
+        }
+      ],
+      "reconciliation": [
+        {
+          "image_name": "463ea0dbe211c88067cb82e75831f14b61df0540d710d701d36f799e232763cb.jpg",
+          "categories": [
+            "net_income",
+            "eps",
+            "reconciliation"
+          ],
+          "description": "This is a financial table that compares various financial metrics between non-GAAP (Generally Accepted Accounting Principles) and GAAP for the fourth quarter of fiscal year 2024 (Q4 FY24). The table includes the following data:\n\n### Type of Chart/Visualization:\n- This is a tabular format, not a chart or graph.\n\n### Metrics/Data Shown:\n- **Gross Margin**: Measured in millions and as a percentage.\n- **Operating Income**: Measured in millions.\n- **Net Income**: Measured in millions.\n- **Shares Used in Diluted Per Share Calculation**: Measured in millions.\n- **Diluted EPS (Earnings Per Share)**: Measured in dollars.\n\n### Key Trends, Peaks, and Notable Data Points:\n- **Gross Margin**:\n  - Non-GAAP: $16,959 million, 76.7%\n  - GAAP: $16,791 million, 76.0%\n  - There is a slight difference in both the amount and percentage, with the non-GAAP margin being slightly higher.\n  \n- **Operating Income**:\n  - Non-GAAP: $14,749 million\n  - GAAP: $13,615 million\n  - The non-GAAP operating income is significantly higher than the GAAP figure, indicating the impact of certain adjustments.\n\n- **Net Income**:\n  - Non-GAAP: $12,839 million\n  - GAAP: $12,285 million\n  - Similar to operating income, the non-GAAP net income is higher due to the adjustments.\n\n- **Shares Used in Diluted Per Share Calculation**:\n  - Both non-GAAP and GAAP show the same number of shares used, 2,490 million.\n\n- **Diluted EPS**:\n  - Non-GAAP: $5.16\n  - GAAP: $4.93\n  - The non-GAAP diluted EPS is also higher, reflecting the impact of the adjustments.\n\n### Time Period Covered:\n- The data covers the fourth quarter of fiscal year 2024 (Q4 FY24).\n\n### Year-Over-Year Changes or Growth Rates:\n- The table does not provide year-over-year comparisons or growth rates. It only shows data for Q4 FY24 and does not include historical data for comparison.\n\n### Additional Notes:\n- The table includes several line items labeled as \"Acquisition-Related and Other Costs,\" \"Stock-Based Compensation,\" \"IP-Related Costs,\" and \"Other.\" These represent adjustments made under non-GAAP accounting, which are not included in the GAAP figures.\n- The \"Tax Impact of Adjustments\" column shows the effect of these adjustments on the final GAAP numbers, indicating how they impact the reported values.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "Gross margin ($ in million)": {
+                "FY24": {
+                  "value": 16.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 959.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": -119.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -45.0,
+                  "unit": ""
+                },
+                "IP-Related Costs": {
+                  "value": -4.0,
+                  "unit": ""
+                },
+                "Other (C)": {
+                  "value": 16.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 791.0,
+                  "unit": ""
+                }
+              },
+              "Operating income ($ in million)": {
+                "FY24": {
+                  "value": 14.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 749.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": -137.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -993.0,
+                  "unit": ""
+                },
+                "IP-Related Costs": {
+                  "value": -4.0,
+                  "unit": ""
+                },
+                "Other (C)": {
+                  "value": 13.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 615.0,
+                  "unit": ""
+                }
+              },
+              "Net income ($ in million)": {
+                "FY24": {
+                  "value": 12.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 839.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": -137.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -993.0,
+                  "unit": ""
+                },
+                "IP-Related Costs": {
+                  "value": -4.0,
+                  "unit": ""
+                },
+                "Other (C)": {
+                  "value": 259.0,
+                  "unit": ""
+                },
+                "Tax Impact of Adjustments": {
+                  "value": 321.0,
+                  "unit": ""
+                },
+                "GAAP": {
+                  "value": 12.0,
+                  "unit": ""
+                }
+              },
+              "Shares used in diluted per share calculation (millions)": {
+                "FY24": {
+                  "value": 2.0,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 490.0,
+                  "unit": ""
+                },
+                "Aquisition-Related and Other Costs (A)": {
+                  "value": 2.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": 490.0,
+                  "unit": ""
+                }
+              },
+              "Diluted EPS": {
+                "FY24": {
+                  "value": 5.16,
+                  "unit": ""
+                },
+                "Non-GAAP": {
+                  "value": 4.93,
+                  "unit": ""
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q4",
+                "FY24",
+                "Non-GAAP",
+                "Aquisition-Related and Other Costs (A)",
+                "Stock-Based Compensation (B)",
+                "IP-Related Costs",
+                "Other (C)",
+                "Tax Impact of Adjustments",
+                "GAAP"
+              ],
+              "rows": [
+                [
+                  "Gross margin ($ in million)",
+                  "16",
+                  "959",
+                  "(119)",
+                  "(45)",
+                  "(4)",
+                  "16",
+                  "791"
+                ],
+                [
+                  "Operating income ($ in million)",
+                  "14",
+                  "749",
+                  "(137)",
+                  "(993)",
+                  "(4)",
+                  "13",
+                  "615"
+                ],
+                [
+                  "Net income ($ in million)",
+                  "12",
+                  "839",
+                  "(137)",
+                  "(993)",
+                  "(4)",
+                  "259",
+                  "321",
+                  "12",
+                  "285"
+                ],
+                [
+                  "Shares used in diluted per share calculation (millions)",
+                  "2",
+                  "490",
+                  "2",
+                  "490"
+                ],
+                [
+                  "Diluted EPS",
+                  "$5.16",
+                  "4.93"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "0788259aefd6ae41461613c2f7d658a72255aff32f2b4c2f9a530cf6c0fc713e.jpg",
+          "categories": [
+            "net_income",
+            "eps",
+            "reconciliation"
+          ],
+          "description": "This is a financial performance table that compares GAAP (Generally Accepted Accounting Principles) and Non-GAAP financial metrics for Q4 Fiscal Year 2024. The table provides a side-by-side comparison of various financial indicators, including revenue, gross margin, operating income, net income, diluted earnings per share (EPS), and cash flow from operations.\n\n### Metrics/Data Shown:\n1. **Revenue**: Total sales revenue.\n2. **Gross Margin**: The percentage of revenue remaining after deducting the cost of goods sold.\n3. **Operating Income**: Profit earned from core business operations before interest and taxes.\n4. **Net Income**: Total profit after all expenses, including taxes.\n5. **Diluted EPS**: Earnings per share adjusted to account for the potential dilution of ownership interests.\n6. **Cash Flow from Operations**: Cash generated by the company's normal business activities.\n\n### Key Trends, Peaks, and Notable Data Points:\n- **Revenue**: Both GAAP and Non-GAAP show $22,103 million in revenue for Q4 FY24, with a year-over-year (Y/Y) growth rate of +265% and quarter-over-quarter (Q/Q) growth of +22%.\n- **Gross Margin**: GAAP shows a gross margin of 76.0%, increasing by 12.7 percentage points Y/Y and 2.0 percentage points Q/Q. Non-GAAP shows a gross margin of 76.7%, increasing by 10.6 percentage points Y/Y and 1.7 percentage points Q/Q.\n- **Operating Income**: GAAP shows an operating income of $13,615 million, with a Y/Y increase of +983% and a Q/Q increase of +31%. Non-GAAP shows an operating income of $14,749 million, with a Y/Y increase of +563% and a Q/Q increase of +28%.\n- **Net Income**: GAAP shows a net income of $12,285 million, with a Y/Y increase of +769% and a Q/Q increase of +33%. Non-GAAP shows a net income of $12,839 million, with a Y/Y increase of +491% and a Q/Q increase of +28%.\n- **Diluted EPS**: GAAP shows a diluted EPS of $4.93, with a Y/Y increase of +765% and a Q/Q increase of +33%. Non-GAAP shows a diluted EPS of $5.16, with a Y/Y increase of +486% and a Q/Q increase of +28%.\n- **Cash Flow from Operations**: GAAP shows a cash flow from operations of $11,499 million, with a Y/Y increase of +411% and a Q/Q increase of +57%. Non-GAAP shows a cash flow from operations of $11,499 million, with a Y/Y increase of +411% and a Q/Q increase of +57%.\n\n### Time Period Covered:\nThe data covers Q4 Fiscal Year 2024, with year-over-year (Y/Y) comparisons and quarter-over-quarter (Q/Q) comparisons provided.\n\n### Year-over-Year Changes or Growth Rates:\nAll financial metrics show significant year-over-year growth, with the most notable being the operating income and net income, which have seen substantial increases of +983% and +769% respectively for GAAP, and +563% and +491% respectively for Non-GAAP.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "Revenue": {
+                "Y/Y": {
+                  "value": 22.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 22.0,
+                  "unit": ""
+                },
+                "Q4 FY24": {
+                  "value": 265.0,
+                  "unit": "%"
+                }
+              },
+              "Gross Margin": {
+                "Y/Y": {
+                  "value": 76.7,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 10.6,
+                  "unit": ""
+                },
+                "Q4 FY24": {
+                  "value": 2.0,
+                  "unit": ""
+                }
+              },
+              "Operating Income": {
+                "Y/Y": {
+                  "value": 31.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 14.0,
+                  "unit": ""
+                },
+                "Q4 FY24": {
+                  "value": 983.0,
+                  "unit": "%"
+                }
+              },
+              "Net Income": {
+                "Y/Y": {
+                  "value": 33.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 12.0,
+                  "unit": ""
+                },
+                "Q4 FY24": {
+                  "value": 769.0,
+                  "unit": "%"
+                }
+              },
+              "Diluted EPS": {
+                "Y/Y": {
+                  "value": 5.16,
+                  "unit": ""
+                },
+                "Q/Q": {
+                  "value": 486.0,
+                  "unit": "%"
+                },
+                "Q4 FY24": {
+                  "value": 33.0,
+                  "unit": "%"
+                }
+              },
+              "Cash Flow from Ops": {
+                "Y/Y": {
+                  "value": 57.0,
+                  "unit": "%"
+                },
+                "Q/Q": {
+                  "value": 11.0,
+                  "unit": ""
+                },
+                "Q4 FY24": {
+                  "value": 411.0,
+                  "unit": "%"
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q4 FY24",
+                "Y/Y",
+                "Q/Q",
+                "Q4 FY24",
+                "Y/Y",
+                "Q/Q"
+              ],
+              "rows": [
+                [
+                  "Revenue",
+                  "$22",
+                  "103",
+                  "+265%",
+                  "+22%",
+                  "$22",
+                  "103",
+                  "+265%",
+                  "+22%"
+                ],
+                [
+                  "Gross Margin",
+                  "76.0%",
+                  "+12.7 pts",
+                  "+2.0 pts",
+                  "76.7%",
+                  "+10.6 pts",
+                  "+1.7 pts"
+                ],
+                [
+                  "Operating Income",
+                  "$13",
+                  "615",
+                  "+983%",
+                  "+31%",
+                  "$14",
+                  "749",
+                  "+563%",
+                  "+28%"
+                ],
+                [
+                  "Net Income",
+                  "$12",
+                  "285",
+                  "+769%",
+                  "+33%",
+                  "$12",
+                  "839",
+                  "+491%",
+                  "+28%"
+                ],
+                [
+                  "Diluted EPS",
+                  "$4.93",
+                  "+765%",
+                  "+33%",
+                  "$5.16",
+                  "+486%",
+                  "+28%"
+                ],
+                [
+                  "Cash Flow from Ops",
+                  "$11",
+                  "499",
+                  "+411%",
+                  "+57%",
+                  "$11",
+                  "499",
+                  "+411%",
+                  "+57%"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "7aec8a2828185e2c471eaa1210beb73baaccb671474303d9a22d8101df258476.jpg",
+          "categories": [
+            "gross_margin",
+            "operating_income",
+            "reconciliation"
+          ],
+          "description": "This image is a table that provides a financial outlook for the first quarter of fiscal year 2025 (Q1 FY25). Here's a detailed breakdown:\n\n### Type of Chart/Visualization:\nThe visualization is a tabular format, presenting financial metrics in a structured way.\n\n### Metrics/Data Shown:\nThe table includes the following financial metrics:\n- **Non-GAAP gross margin**: A percentage indicating the profitability before certain non-recurring items.\n- **Impact of stock-based compensation expense, acquisition-related costs, and other costs**: A negative impact on the gross margin.\n- **GAAP gross margin**: The gross margin under Generally Accepted Accounting Principles (GAAP), which includes all costs.\n- **Non-GAAP operating expenses**: Total operating expenses excluding certain non-recurring items.\n- **Impact of stock-based compensation expense, acquisition-related costs, and other costs**: Impact on operating expenses.\n- **GAAP operating expenses**: Total operating expenses under GAAP.\n\n### Key Trends, Peaks, and Notable Data Points:\n- **Non-GAAP gross margin**: 77.0%, indicating a high level of profitability before certain adjustments.\n- **Impact of stock-based compensation expense, acquisition-related costs, and other costs**: This is a negative factor, reducing the gross margin by 0.7%.\n- **GAAP gross margin**: 76.3%, slightly lower than the non-GAAP gross margin due to the aforementioned adjustments.\n- **Non-GAAP operating expenses**: $2,500 million.\n- **Impact of stock-based compensation expense, acquisition-related costs, and other costs**: $980 million, which is a significant cost component.\n- **GAAP operating expenses**: $3,480 million, reflecting the total operational costs under GAAP.\n\n### Time Period Covered:\nThe time period covered is Q1 of fiscal year 2025 (FY25).\n\n### Year-Over-Year Changes or Growth Rates:\nThe table does not provide year-over-year comparisons or growth rates. It only presents the forecasted values for Q1 FY25.\n\n### Additional Notes:\nThe table uses two types of gross margins: Non-GAAP and GAAP, and two types of operating expenses: Non-GAAP and GAAP. The Non-GAAP figures exclude certain costs like stock-based compensation and acquisition-related expenses, providing a cleaner view of the business performance.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {},
+            "raw_data": {
+              "headers": [
+                "Q1 FY25 Outlook",
+                "Non-GAAP gross margin",
+                "77.0%",
+                "Impact of stock-based compensation expense",
+                "acquisition-related costs",
+                "and other costs",
+                "(0.7%)",
+                "GAAP gross margin",
+                "76.3%",
+                "Non-GAAP operating expenses",
+                "$2",
+                "500",
+                "Impact of stock-based compensation expense",
+                "acquisition-related costs",
+                "and other costs",
+                "980",
+                "GAAP operating expenses",
+                "$3",
+                "480"
+              ],
+              "rows": []
+            }
+          }
+        },
+        {
+          "image_name": "ce7673d5fde1215b4fe3d14363b8f544b654619705de1fc25007f0c42bda141e.jpg",
+          "categories": [
+            "revenue",
+            "gross_margin",
+            "operating_income",
+            "reconciliation"
+          ],
+          "description": "This image is a financial forecast table that details projected financial metrics for a company over the fiscal year 2025. It provides a snapshot of expected revenue, gross margins, operating expenses, other income and expense, and tax rate.\n\n### 1. Type of Chart/Visualization:\nThe image is a static table format with no graphical elements like charts or graphs. It organizes the financial data into rows and columns for clarity.\n\n### 2. Metrics/Data Shown:\n- **Revenue:** Expected to be $24.0 billion plus or minus 2%.\n- **Gross Margins:** Projected at 76.3% GAAP and 77.0% non-GAAP, with a range of plus or minus 50 basis points.\n- **Operating Expense:** Estimated at approximately $3.5 billion GAAP and $2.5 billion non-GAAP.\n- **Other Income & Expense:** Anticipated to generate an income of approximately $250 million for both GAAP and non-GAAP.\n- **Tax Rate:** Expected to be 17.0% GAAP and non-GAAP, with a margin of plus or minus 1%, excluding discrete items.\n\n### 3. Key Trends, Peaks, and Notable Data Points:\n- **Revenue:** The company anticipates a sequential growth in Data Center and Pro Viz, partially offset by a seasonal decline in Gaming.\n- **Gross Margins:** There's a slight improvement from Q1 to the remainder of the year, with gross margins expected to return to the mid-70s percentage range.\n- **Operating Expense:** Operating expenses are expected to grow in the mid-30 percent range for fiscal year 2025.\n- **Other Income & Expense:** This category is relatively stable, with a projected income of $250 million.\n- **Tax Rate:** The tax rate is consistent across GAAP and non-GAAP, with a slight margin of error.\n\n### 4. Time Period Covered:\nThe data covers the fiscal year 2025, with specific projections for Q1 and the remainder of the year.\n\n### 5. Year-Over-Year Changes or Growth Rates:\nWhile the table does not provide historical data for comparison, it does project growth in certain areas such as Data Center and Pro Viz, and an increase in operating expenses. The gross margins show a slight improvement compared to the Q1 figures, indicating a positive trend. However, there are no explicit year-over-year growth rates provided in the table itself.\n\nThis table offers a clear overview of the company's financial expectations for the upcoming fiscal year, highlighting key areas of focus and potential challenges.",
+          "parsed_metrics": {
+            "time_series": [
+              {
+                "period": "Q1",
+                "Revenue ($B)": {
+                  "value": 24.0,
+                  "unit": ""
+                },
+                "Gross Margins GAAP": {
+                  "value": 76.3,
+                  "unit": "%"
+                },
+                "Gross Margins non-GAAP": {
+                  "value": 77.0,
+                  "unit": "%"
+                },
+                "Operating Expense GAAP": {
+                  "value": 3.5,
+                  "unit": ""
+                },
+                "Operating Expense non-GAAP": {
+                  "value": 2.5,
+                  "unit": ""
+                },
+                "Other Income & Expense ($M)": {
+                  "value": 250.0,
+                  "unit": ""
+                },
+                "Tax Rate GAAP": {
+                  "value": 17.0,
+                  "unit": "%"
+                }
+              }
+            ],
+            "latest_values": {
+              "period": "Q1",
+              "Revenue ($B)": {
+                "value": 24.0,
+                "unit": ""
+              },
+              "Gross Margins GAAP": {
+                "value": 76.3,
+                "unit": "%"
+              },
+              "Gross Margins non-GAAP": {
+                "value": 77.0,
+                "unit": "%"
+              },
+              "Operating Expense GAAP": {
+                "value": 3.5,
+                "unit": ""
+              },
+              "Operating Expense non-GAAP": {
+                "value": 2.5,
+                "unit": ""
+              },
+              "Other Income & Expense ($M)": {
+                "value": 250.0,
+                "unit": ""
+              },
+              "Tax Rate GAAP": {
+                "value": 17.0,
+                "unit": "%"
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Time Period",
+                "Revenue ($B)",
+                "Gross Margins GAAP",
+                "Gross Margins non-GAAP",
+                "Operating Expense GAAP",
+                "Operating Expense non-GAAP",
+                "Other Income & Expense ($M)",
+                "Tax Rate GAAP"
+              ],
+              "rows": [
+                [
+                  "Q1",
+                  "24.0",
+                  "76.3%",
+                  "77.0%",
+                  "3.5",
+                  "2.5",
+                  "250",
+                  "17.0%"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "93a80c3d74540d338a95e420fc9666bf8212dda228beb53ab44a6f1d28355e4d.jpg",
+          "categories": [
+            "gross_margin",
+            "reconciliation"
+          ],
+          "description": "This is a table that presents financial data over different quarters (Q4 FY 2023 to Q3 FY 2024) related to gross margin and various cost categories. Here's a detailed breakdown:\n\n### Type of Chart/Visualization:\n- This is a tabular format, not a chart or graph. It organizes the data in rows and columns for easy comparison.\n\n### Metrics/Data Shown:\n- **Gross Margin**: This measures the proportion of revenue that remains after deducting the cost of goods sold.\n- **Non-GAAP Gross Margin**: A non-GAAP metric, which excludes certain items like acquisition-related costs and stock-based compensation.\n- **Acquisition-Related and Other Costs (A)**: Costs associated with acquisitions and other miscellaneous expenses.\n- **Stock-Based Compensation (B)**: Costs related to stock-based employee compensation.\n- **IP-Related Costs**: Costs related to intellectual property.\n- **GAAP Gross Margin**: GAAP (Generally Accepted Accounting Principles) compliant gross margin.\n\n### Key Trends, Peaks, and Notable Data Points:\n- The Non-GAAP Gross Margin shows an upward trend from Q4 FY 2023 (66.1%) to Q3 FY 2024 (75.0%).\n- The GAAP Gross Margin also shows an upward trend but at a slightly slower pace compared to the Non-GAAP margin, starting at 63.3% in Q4 FY 2023 and reaching 74.0% in Q3 FY 2024.\n- The Acquisition-Related and Other Costs (A) show a decreasing trend, with values ranging from -2.0 in Q4 FY 2023 to -0.7 in Q3 FY 2024.\n- Stock-Based Compensation (B) shows a slight decrease, with values ranging from -0.5 in Q4 FY 2023 to -0.1 in Q3 FY 2024.\n- IP-Related Costs remain relatively stable, with minor fluctuations.\n\n### Time Period Covered:\n- The table covers the fiscal years 2023 and 2024, specifically the fourth quarter of fiscal year 2023 (Q4 FY 2023), the first quarter of fiscal year 2024 (Q1 FY 2024), the second quarter of fiscal year 2024 (Q2 FY 2024), and the third quarter of fiscal year 2024 (Q3 FY 2024).\n\n### Year-Over-Year Changes or Growth Rates:\n- While the table does not explicitly provide year-over-year growth rates, we can infer some changes by comparing the values across different quarters.\n- For example, the Non-GAAP Gross Margin increased by 8.9 percentage points from Q4 FY 2023 to Q3 FY 2024.\n- The GAAP Gross Margin increased by 10.7 percentage points during the same period.\n- The Acquisition-Related and Other Costs decreased by 1.3 percentage points.\n- Stock-Based Compensation decreased by 0.4 percentage points.\n- IP-Related Costs remained relatively stable.\n\n### Summary:\nThe table illustrates a positive trend in both Non-GAAP and GAAP gross margins over the specified quarters, indicating improved profitability. The decrease in acquisition-related and other costs and stock-based compensation suggests cost management efforts, while IP-related costs remain relatively unchanged.",
+          "parsed_metrics": {
+            "time_series": [
+              {
+                "period": "Q4 FY 2023",
+                "Gross Margin": {
+                  "value": 66.1,
+                  "unit": "%"
+                },
+                "Non-GAAP": {
+                  "value": 63.3,
+                  "unit": "%"
+                },
+                "Acquisition-Related and Other Costs (A)": {
+                  "value": -2.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -0.5,
+                  "unit": ""
+                },
+                "IP-Related GAAP Costs": {
+                  "value": -0.3,
+                  "unit": ""
+                }
+              },
+              {
+                "period": "Q1 FY 2024",
+                "Gross Margin": {
+                  "value": 66.8,
+                  "unit": "%"
+                },
+                "Non-GAAP": {
+                  "value": 64.6,
+                  "unit": "%"
+                },
+                "Acquisition-Related and Other Costs (A)": {
+                  "value": -1.7,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -0.4,
+                  "unit": ""
+                },
+                "IP-Related GAAP Costs": {
+                  "value": -0.1,
+                  "unit": ""
+                }
+              },
+              {
+                "period": "Q2 FY 2024",
+                "Gross Margin": {
+                  "value": 71.2,
+                  "unit": "%"
+                },
+                "Non-GAAP": {
+                  "value": 70.1,
+                  "unit": "%"
+                },
+                "Acquisition-Related and Other Costs (A)": {
+                  "value": -0.9,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -0.2,
+                  "unit": ""
+                }
+              },
+              {
+                "period": "Q3 FY 2024",
+                "Gross Margin": {
+                  "value": 75.0,
+                  "unit": "%"
+                },
+                "Non-GAAP": {
+                  "value": 74.0,
+                  "unit": "%"
+                },
+                "Acquisition-Related and Other Costs (A)": {
+                  "value": -0.7,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -0.2,
+                  "unit": ""
+                },
+                "IP-Related GAAP Costs": {
+                  "value": -0.1,
+                  "unit": ""
+                }
+              }
+            ],
+            "latest_values": {
+              "period": "Q3 FY 2024",
+              "Gross Margin": {
+                "value": 75.0,
+                "unit": "%"
+              },
+              "Non-GAAP": {
+                "value": 74.0,
+                "unit": "%"
+              },
+              "Acquisition-Related and Other Costs (A)": {
+                "value": -0.7,
+                "unit": ""
+              },
+              "Stock-Based Compensation (B)": {
+                "value": -0.2,
+                "unit": ""
+              },
+              "IP-Related GAAP Costs": {
+                "value": -0.1,
+                "unit": ""
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Time Period",
+                "Gross Margin",
+                "Non-GAAP",
+                "Acquisition-Related and Other Costs (A)",
+                "Stock-Based Compensation (B)",
+                "IP-Related GAAP Costs"
+              ],
+              "rows": [
+                [
+                  "Q4 FY 2023",
+                  "66.1%",
+                  "63.3%",
+                  "-2.0",
+                  "-0.5",
+                  "-0.3"
+                ],
+                [
+                  "Q1 FY 2024",
+                  "66.8%",
+                  "64.6%",
+                  "-1.7",
+                  "-0.4",
+                  "-0.1"
+                ],
+                [
+                  "Q2 FY 2024",
+                  "71.2%",
+                  "70.1%",
+                  "-0.9",
+                  "-0.2",
+                  "-"
+                ],
+                [
+                  "Q3 FY 2024",
+                  "75.0%",
+                  "74.0%",
+                  "-0.7",
+                  "-0.2",
+                  "-0.1"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "d18ff78540ccd1b1c1b206bb2728c2c96425b732e6de90dcd31263361773d743.jpg",
+          "categories": [
+            "revenue",
+            "reconciliation"
+          ],
+          "description": "This is a bar chart with a line graph overlay, showing the revenue and non-GAAP gross margin (GM) for different fiscal quarters from Q4 FY23 to Q4 FY24.\n\n### 1. Type of Chart/Visualization:\n- **Bar Chart**: The vertical bars represent the revenue in millions of dollars for each quarter.\n- **Line Graph**: The white line graph shows the trend of non-GAAP gross margin percentage over the same quarters.\n\n### 2. Metrics/Data Shown:\n- **Revenue ($M)**: Represented by the height of the gray bars, indicating the total revenue in millions of dollars for each quarter.\n- **Non-GAAP Gross Margin (%)**: Represented by the white line graph, showing the gross margin as a percentage of revenue for each quarter.\n\n### 3. Key Trends, Peaks, and Notable Data Points:\n- **Revenue Growth**:\n  - Q4 FY23: $6,051 million\n  - Q1 FY24: $7,192 million\n  - Q2 FY24: $13,507 million\n  - Q3 FY24: $18,120 million\n  - Q4 FY24: $22,103 million\n  - There is a consistent upward trend in revenue across all quarters.\n  \n- **Non-GAAP Gross Margin Growth**:\n  - Q4 FY23: 66.1%\n  - Q1 FY24: 66.8%\n  - Q2 FY24: 71.2%\n  - Q3 FY24: 75.0%\n  - Q4 FY24: 76.7%\n  - The gross margin percentage has also shown a steady increase over time.\n\n### 4. Time Period Covered:\nThe chart covers the fiscal years from Q4 FY23 to Q4 FY24, which spans two full fiscal years.\n\n### 5. Year-over-Year Changes or Growth Rates:\n- **Revenue Growth Rate**:\n  - Q4 FY23 to Q1 FY24: +66.8% (from $6,051 million to $7,192 million)\n  - Q1 FY24 to Q2 FY24: +88.1% (from $7,192 million to $13,507 million)\n  - Q2 FY24 to Q3 FY24: +34.2% (from $13,507 million to $18,120 million)\n  - Q3 FY24 to Q4 FY24: +24.9% (from $18,120 million to $22,103 million)\n\n- **Gross Margin Growth Rate**:\n  - Q4 FY23 to Q1 FY24: +0.7% (from 66.1% to 66.8%)\n  - Q1 FY24 to Q2 FY24: +4.4% (from 66.8% to 71.2%)\n  - Q2 FY24 to Q3 FY24: +3.8% (from 71.2% to 75.0%)\n  - Q3 FY24 to Q4 FY24: +1.7% (from 75.0% to 76.7%)\n\nThe chart clearly illustrates significant growth in both revenue and non-GAAP gross margin percentage over the two fiscal years, with a steady upward trend in both metrics.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "Revenue($M)": {
+                "Q1 FY24": {
+                  "value": 6051.0,
+                  "unit": ""
+                },
+                "Q2 FY24": {
+                  "value": 7192.0,
+                  "unit": ""
+                },
+                "Q3 FY24": {
+                  "value": 13507.0,
+                  "unit": ""
+                },
+                "Q4 FY24": {
+                  "value": 18120.0,
+                  "unit": ""
+                }
+              },
+              "Non-GAAP GM": {
+                "Q1 FY24": {
+                  "value": 66.1,
+                  "unit": "%"
+                },
+                "Q2 FY24": {
+                  "value": 66.8,
+                  "unit": "%"
+                },
+                "Q3 FY24": {
+                  "value": 71.2,
+                  "unit": "%"
+                },
+                "Q4 FY24": {
+                  "value": 75.0,
+                  "unit": "%"
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q4 FY23",
+                "Q1 FY24",
+                "Q2 FY24",
+                "Q3 FY24",
+                "Q4 FY24"
+              ],
+              "rows": [
+                [
+                  "Revenue($M)",
+                  "6051",
+                  "7192",
+                  "13507",
+                  "18120",
+                  "22103"
+                ],
+                [
+                  "Non-GAAP GM",
+                  "66.1%",
+                  "66.8%",
+                  "71.2%",
+                  "75.0%",
+                  "76.7%"
+                ]
+              ]
+            }
+          }
+        }
+      ],
+      "revenue": [
+        {
+          "image_name": "1925e565e2d0da7b49f5aa69e6433118cda47e49ceae571424588e8367c6f7f5.jpg",
+          "categories": [
+            "revenue"
+          ],
+          "description": "This is a bar chart that visually represents the quarterly financial performance over fiscal years 2023 and 2024. Here's a detailed breakdown:\n\n1. **Type of Chart/Visualization**:\n   - The chart is a horizontal bar chart with four bars representing different quarters (Q4 FY23 to Q4 FY24).\n\n2. **Metrics/Data Shown**:\n   - The chart displays financial metrics, likely revenue or some other monetary value, as indicated by the dollar amounts on each bar.\n   - Each bar corresponds to a specific quarter within fiscal years 2023 and 2024.\n\n3. **Key Trends, Peaks, and Notable Data Points**:\n   - The values increase sequentially from Q4 FY23 ($3,616) to Q1 FY24 ($4,284), Q2 FY24 ($10,323), Q3 FY24 ($14,514), and peak at Q4 FY24 ($18,404).\n   - There is a significant increase from Q3 FY24 to Q4 FY24, indicating strong growth during the final quarter of the fiscal year.\n\n4. **Time Period Covered**:\n   - The time period covered is from the fourth quarter of fiscal year 2023 (Q4 FY23) to the fourth quarter of fiscal year 2024 (Q4 FY24).\n\n5. **Year-Over-Year Changes or Growth Rates**:\n   - The chart includes a note indicating \"409% Y/Y\" and \"27% Q/Q,\" which stands for Year-Over-Year and Quarter-Over-Quarter growth, respectively.\n   - This suggests that the values have grown by 409% compared to the same quarter in the previous year (Q4 FY23) and by 27% compared to the previous quarter (Q3 FY24).\n\nOverall, the chart illustrates a substantial increase in the financial metric being measured, with a particularly strong growth spurt in the final quarter of the fiscal year 2024.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "$3": {
+                "Q1 FY24": {
+                  "value": 616.0,
+                  "unit": ""
+                },
+                "Q2 FY24": {
+                  "value": 4.0,
+                  "unit": ""
+                },
+                "Q3 FY24": {
+                  "value": 284.0,
+                  "unit": ""
+                },
+                "Q4 FY24": {
+                  "value": 10.0,
+                  "unit": ""
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q4 FY23",
+                "Q1 FY24",
+                "Q2 FY24",
+                "Q3 FY24",
+                "Q4 FY24"
+              ],
+              "rows": [
+                [
+                  "$3",
+                  "616",
+                  "$4",
+                  "284",
+                  "$10",
+                  "323",
+                  "$14",
+                  "514",
+                  "$18",
+                  "404"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "8082b5ce0e7cb72d92a1fb374b39559d0ecb814d54cce1b1e1f60c224d7772a8.jpg",
+          "categories": [
+            "revenue"
+          ],
+          "description": "This is a bar chart that visualizes quarterly financial data over fiscal years 2023 and 2024.\n\n### 1. Type of Chart/Visualization\nThe chart is a horizontal bar chart, which displays the values for each quarter across two fiscal years (FY23 and FY24).\n\n### 2. Metrics/Data Shown\nThe chart shows the following metrics:\n- Revenue or some other financial metric (as indicated by the dollar signs).\n- The specific values for each quarter are labeled on top of the bars.\n\n### 3. Key Trends, Peaks, and Notable Data Points\n- **Q4 FY23**: The lowest value at $226.\n- **Q1 FY24**: A slight increase to $295.\n- **Q2 FY24**: A significant increase to $379.\n- **Q3 FY24**: Further growth to $416.\n- **Q4 FY24**: The highest value at $463.\n- There is a consistent upward trend from Q4 FY23 to Q4 FY24.\n\n### 4. Time Period Covered\nThe time period covered is from the fourth quarter of fiscal year 2023 (Q4 FY23) to the fourth quarter of fiscal year 2024 (Q4 FY24). This represents a span of one full fiscal year plus three quarters into the next fiscal year.\n\n### 5. Year-Over-Year Changes or Growth Rates\n- **Year-over-Year (Y/Y)**: The chart indicates a 105% growth from Q4 FY23 to Q4 FY24.\n- **Quarter-over-Quarter (Q/Q)**: The chart also indicates a 11% growth from Q3 FY24 to Q4 FY24.\n\n### Summary\nThe chart illustrates a strong upward trend in the financial metric being measured, with significant increases in revenue or another key metric from Q4 FY23 to Q4 FY24. The most notable point is the 105% year-over-year growth, indicating substantial improvement in performance during this period.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "Revenue ($B)": {
+                "Q1 FY24": {
+                  "value": 226.0,
+                  "unit": ""
+                },
+                "Q2 FY24": {
+                  "value": 295.0,
+                  "unit": ""
+                },
+                "Q3 FY24": {
+                  "value": 379.0,
+                  "unit": ""
+                },
+                "Q4 FY24": {
+                  "value": 416.0,
+                  "unit": ""
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q4 FY23",
+                "Q1 FY24",
+                "Q2 FY24",
+                "Q3 FY24",
+                "Q4 FY24"
+              ],
+              "rows": [
+                [
+                  "Revenue ($B)",
+                  "226",
+                  "295",
+                  "379",
+                  "416",
+                  "463"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "bb52020c528eefbb668e10f5313ae6bb6c671a6b97835b7c2a7cf4bf2f5b0fe7.jpg",
+          "categories": [
+            "revenue"
+          ],
+          "description": "This is a vertical bar chart that displays financial data over a series of fiscal quarters. Here's a detailed breakdown:\n\n1. **Type of Chart/Visualization**: The chart is a simple bar chart with vertical bars representing different fiscal quarters.\n\n2. **Metrics/Data Shown**:\n   - The chart shows revenue or some other financial metric for each quarter.\n   - Each bar represents the value for a specific quarter (Q4 FY23 to Q4 FY24).\n\n3. **Key Trends, Peaks, and Notable Data Points**:\n   - The values increase steadily from Q4 FY23 ($1,831) to Q4 FY24 ($2,865).\n   - There is a noticeable peak in Q4 FY24, which is the highest point on the chart.\n   - The chart indicates a 56% year-over-year (Y/Y) growth rate, as shown by the annotation above the green bar for Q4 FY24.\n\n4. **Time Period Covered**:\n   - The time period covered is fiscal years 2023 and 2024, specifically the fourth quarter of each year (Q4 FY23 to Q4 FY24).\n\n5. **Year-Over-Year Changes or Growth Rates**:\n   - A significant year-over-year change is highlighted: Q4 FY24 shows a 56% increase compared to Q4 FY23.\n   - The chart also notes that there is flat growth (no change) in the quarterly comparison (Q/Q), meaning the growth is solely due to year-over-year changes.\n\nThe chart effectively communicates the growth trajectory of a financial metric over the specified fiscal quarters, emphasizing the substantial year-over-year increase in the final quarter of the fiscal year 2024.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "$1": {
+                "Q1 FY24": {
+                  "value": 831.0,
+                  "unit": ""
+                },
+                "Q2 FY24": {
+                  "value": 2.0,
+                  "unit": ""
+                },
+                "Q3 FY24": {
+                  "value": 240.0,
+                  "unit": ""
+                },
+                "Q4 FY24": {
+                  "value": 2.0,
+                  "unit": ""
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q4 FY23",
+                "Q1 FY24",
+                "Q2 FY24",
+                "Q3 FY24",
+                "Q4 FY24"
+              ],
+              "rows": [
+                [
+                  "$1",
+                  "831",
+                  "$2",
+                  "240",
+                  "$2",
+                  "486",
+                  "$2",
+                  "856",
+                  "$2",
+                  "865"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "ce7673d5fde1215b4fe3d14363b8f544b654619705de1fc25007f0c42bda141e.jpg",
+          "categories": [
+            "revenue",
+            "gross_margin",
+            "operating_income",
+            "reconciliation"
+          ],
+          "description": "This image is a financial forecast table that details projected financial metrics for a company over the fiscal year 2025. It provides a snapshot of expected revenue, gross margins, operating expenses, other income and expense, and tax rate.\n\n### 1. Type of Chart/Visualization:\nThe image is a static table format with no graphical elements like charts or graphs. It organizes the financial data into rows and columns for clarity.\n\n### 2. Metrics/Data Shown:\n- **Revenue:** Expected to be $24.0 billion plus or minus 2%.\n- **Gross Margins:** Projected at 76.3% GAAP and 77.0% non-GAAP, with a range of plus or minus 50 basis points.\n- **Operating Expense:** Estimated at approximately $3.5 billion GAAP and $2.5 billion non-GAAP.\n- **Other Income & Expense:** Anticipated to generate an income of approximately $250 million for both GAAP and non-GAAP.\n- **Tax Rate:** Expected to be 17.0% GAAP and non-GAAP, with a margin of plus or minus 1%, excluding discrete items.\n\n### 3. Key Trends, Peaks, and Notable Data Points:\n- **Revenue:** The company anticipates a sequential growth in Data Center and Pro Viz, partially offset by a seasonal decline in Gaming.\n- **Gross Margins:** There's a slight improvement from Q1 to the remainder of the year, with gross margins expected to return to the mid-70s percentage range.\n- **Operating Expense:** Operating expenses are expected to grow in the mid-30 percent range for fiscal year 2025.\n- **Other Income & Expense:** This category is relatively stable, with a projected income of $250 million.\n- **Tax Rate:** The tax rate is consistent across GAAP and non-GAAP, with a slight margin of error.\n\n### 4. Time Period Covered:\nThe data covers the fiscal year 2025, with specific projections for Q1 and the remainder of the year.\n\n### 5. Year-Over-Year Changes or Growth Rates:\nWhile the table does not provide historical data for comparison, it does project growth in certain areas such as Data Center and Pro Viz, and an increase in operating expenses. The gross margins show a slight improvement compared to the Q1 figures, indicating a positive trend. However, there are no explicit year-over-year growth rates provided in the table itself.\n\nThis table offers a clear overview of the company's financial expectations for the upcoming fiscal year, highlighting key areas of focus and potential challenges.",
+          "parsed_metrics": {
+            "time_series": [
+              {
+                "period": "Q1",
+                "Revenue ($B)": {
+                  "value": 24.0,
+                  "unit": ""
+                },
+                "Gross Margins GAAP": {
+                  "value": 76.3,
+                  "unit": "%"
+                },
+                "Gross Margins non-GAAP": {
+                  "value": 77.0,
+                  "unit": "%"
+                },
+                "Operating Expense GAAP": {
+                  "value": 3.5,
+                  "unit": ""
+                },
+                "Operating Expense non-GAAP": {
+                  "value": 2.5,
+                  "unit": ""
+                },
+                "Other Income & Expense ($M)": {
+                  "value": 250.0,
+                  "unit": ""
+                },
+                "Tax Rate GAAP": {
+                  "value": 17.0,
+                  "unit": "%"
+                }
+              }
+            ],
+            "latest_values": {
+              "period": "Q1",
+              "Revenue ($B)": {
+                "value": 24.0,
+                "unit": ""
+              },
+              "Gross Margins GAAP": {
+                "value": 76.3,
+                "unit": "%"
+              },
+              "Gross Margins non-GAAP": {
+                "value": 77.0,
+                "unit": "%"
+              },
+              "Operating Expense GAAP": {
+                "value": 3.5,
+                "unit": ""
+              },
+              "Operating Expense non-GAAP": {
+                "value": 2.5,
+                "unit": ""
+              },
+              "Other Income & Expense ($M)": {
+                "value": 250.0,
+                "unit": ""
+              },
+              "Tax Rate GAAP": {
+                "value": 17.0,
+                "unit": "%"
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Time Period",
+                "Revenue ($B)",
+                "Gross Margins GAAP",
+                "Gross Margins non-GAAP",
+                "Operating Expense GAAP",
+                "Operating Expense non-GAAP",
+                "Other Income & Expense ($M)",
+                "Tax Rate GAAP"
+              ],
+              "rows": [
+                [
+                  "Q1",
+                  "24.0",
+                  "76.3%",
+                  "77.0%",
+                  "3.5",
+                  "2.5",
+                  "250",
+                  "17.0%"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "67db3bdb40789ebd839277a8b5d524ab852a69b5865199b89ee4a9c358a709ee.jpg",
+          "categories": [
+            "revenue"
+          ],
+          "description": "The provided image is a bar chart that visualizes financial data over time, specifically showing quarterly figures for fiscal years 2023 (FY23) and 2024 (FY24).\n\n### Type of Chart/Visualization:\n- The chart is a horizontal bar chart.\n- Each bar represents the value for a specific quarter within the fiscal years.\n\n### Metrics/Data Shown:\n- The metric displayed on the y-axis is monetary values, likely representing revenue or another financial metric.\n- The x-axis represents quarters within fiscal years: Q4 FY23, Q1 FY24, Q2 FY24, Q3 FY24, and Q4 FY24.\n\n### Key Trends, Peaks, and Notable Data Points:\n- **Q4 FY23**: The lowest value at $2,249.\n- **Q1 FY24**: A slight increase to $2,911.\n- **Q2 FY24**: A significant jump to $6,348.\n- **Q3 FY24**: Further growth to $7,333.\n- **Q4 FY24**: The highest value at $11,499, marking a substantial increase from previous quarters.\n\n### Time Period Covered:\n- The chart covers the fiscal years 2023 and 2024, with each quarter being represented as a separate bar.\n\n### Year-over-Year Changes or Growth Rates:\n- The chart indicates a year-over-year (Y/Y) growth rate of 411% between Q4 FY23 and Q4 FY24.\n- Additionally, there is a quarter-over-quarter (Q/Q) growth rate of 57% between Q3 FY24 and Q4 FY24.\n- This suggests strong growth in the financial metric being measured, particularly in the latter part of the fiscal year 2024.\n\n### Summary:\nThis bar chart effectively illustrates a dramatic increase in a financial metric over the course of fiscal years 2023 and 2024, with the most significant growth occurring in the last quarter of FY24. The Y/Y and Q/Q growth rates highlight the substantial upward trend.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "Revenue ($B)": {
+                "Q1 FY24": {
+                  "value": 2.249,
+                  "unit": ""
+                },
+                "Q2 FY24": {
+                  "value": 2.911,
+                  "unit": ""
+                },
+                "Q3 FY24": {
+                  "value": 6.348,
+                  "unit": ""
+                },
+                "Q4 FY24": {
+                  "value": 7.333,
+                  "unit": ""
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q4 FY23",
+                "Q1 FY24",
+                "Q2 FY24",
+                "Q3 FY24",
+                "Q4 FY24"
+              ],
+              "rows": [
+                [
+                  "Revenue ($B)",
+                  "2.249",
+                  "2.911",
+                  "6.348",
+                  "7.333",
+                  "11.499"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "7293df33e8d465c61805e07809988e9d26bd107a8a4859611afba9a619499e19.jpg",
+          "categories": [
+            "revenue"
+          ],
+          "description": "This is a bar chart that visualizes financial data over time, specifically quarterly figures for fiscal years 2023 and 2024.\n\n### Type of Chart/Visualization:\nThe chart is a horizontal bar chart with a black background and light gray bars representing the data from Q4 FY23 to Q4 FY24. The green bar represents Q4 FY24, which is highlighted with a label indicating an 8% quarter-over-quarter (Q/Q) growth rate and a 4% year-over-year (Y/Y) growth rate.\n\n### Metrics/Data Shown:\nThe chart displays financial values (likely revenue or another monetary metric) for each quarter. The values are labeled at the top of each bar:\n- Q4 FY23: $294\n- Q1 FY24: $296\n- Q2 FY24: $253\n- Q3 FY24: $261\n- Q4 FY24: $281\n\n### Key Trends, Peaks, and Notable Data Points:\n- There is a slight dip in the value from Q4 FY23 to Q2 FY24.\n- A recovery is observed from Q2 FY24 to Q3 FY24.\n- The highest value is seen in Q4 FY23 at $294.\n- The lowest value is in Q2 FY24 at $253.\n- The most recent quarter, Q4 FY24, shows a significant increase compared to the previous quarters, reaching $281.\n\n### Time Period Covered:\nThe chart covers the fiscal years 2023 and 2024, specifically the fourth quarters of each year (Q4 FY23 and Q4 FY24), as well as the first three quarters of FY24 (Q1 FY24, Q2 FY24, and Q3 FY24).\n\n### Year-over-Year Changes or Growth Rates:\n- The green bar for Q4 FY24 indicates an 8% quarter-over-quarter growth rate.\n- The green bar also shows a 4% year-over-year growth rate when compared to Q4 FY23.\n\nThis visualization effectively highlights the financial performance of the company over these specific quarters, showing both short-term fluctuations and long-term growth trends.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "$294": {
+                "Q1 FY24": {
+                  "value": 296.0,
+                  "unit": ""
+                },
+                "Q2 FY24": {
+                  "value": 253.0,
+                  "unit": ""
+                },
+                "Q3 FY24": {
+                  "value": 261.0,
+                  "unit": ""
+                },
+                "Q4 FY24": {
+                  "value": 281.0,
+                  "unit": ""
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q4 FY23",
+                "Q1 FY24",
+                "Q2 FY24",
+                "Q3 FY24",
+                "Q4 FY24"
+              ],
+              "rows": [
+                [
+                  "$294",
+                  "$296",
+                  "$253",
+                  "$261",
+                  "$281"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "d18ff78540ccd1b1c1b206bb2728c2c96425b732e6de90dcd31263361773d743.jpg",
+          "categories": [
+            "revenue",
+            "reconciliation"
+          ],
+          "description": "This is a bar chart with a line graph overlay, showing the revenue and non-GAAP gross margin (GM) for different fiscal quarters from Q4 FY23 to Q4 FY24.\n\n### 1. Type of Chart/Visualization:\n- **Bar Chart**: The vertical bars represent the revenue in millions of dollars for each quarter.\n- **Line Graph**: The white line graph shows the trend of non-GAAP gross margin percentage over the same quarters.\n\n### 2. Metrics/Data Shown:\n- **Revenue ($M)**: Represented by the height of the gray bars, indicating the total revenue in millions of dollars for each quarter.\n- **Non-GAAP Gross Margin (%)**: Represented by the white line graph, showing the gross margin as a percentage of revenue for each quarter.\n\n### 3. Key Trends, Peaks, and Notable Data Points:\n- **Revenue Growth**:\n  - Q4 FY23: $6,051 million\n  - Q1 FY24: $7,192 million\n  - Q2 FY24: $13,507 million\n  - Q3 FY24: $18,120 million\n  - Q4 FY24: $22,103 million\n  - There is a consistent upward trend in revenue across all quarters.\n  \n- **Non-GAAP Gross Margin Growth**:\n  - Q4 FY23: 66.1%\n  - Q1 FY24: 66.8%\n  - Q2 FY24: 71.2%\n  - Q3 FY24: 75.0%\n  - Q4 FY24: 76.7%\n  - The gross margin percentage has also shown a steady increase over time.\n\n### 4. Time Period Covered:\nThe chart covers the fiscal years from Q4 FY23 to Q4 FY24, which spans two full fiscal years.\n\n### 5. Year-over-Year Changes or Growth Rates:\n- **Revenue Growth Rate**:\n  - Q4 FY23 to Q1 FY24: +66.8% (from $6,051 million to $7,192 million)\n  - Q1 FY24 to Q2 FY24: +88.1% (from $7,192 million to $13,507 million)\n  - Q2 FY24 to Q3 FY24: +34.2% (from $13,507 million to $18,120 million)\n  - Q3 FY24 to Q4 FY24: +24.9% (from $18,120 million to $22,103 million)\n\n- **Gross Margin Growth Rate**:\n  - Q4 FY23 to Q1 FY24: +0.7% (from 66.1% to 66.8%)\n  - Q1 FY24 to Q2 FY24: +4.4% (from 66.8% to 71.2%)\n  - Q2 FY24 to Q3 FY24: +3.8% (from 71.2% to 75.0%)\n  - Q3 FY24 to Q4 FY24: +1.7% (from 75.0% to 76.7%)\n\nThe chart clearly illustrates significant growth in both revenue and non-GAAP gross margin percentage over the two fiscal years, with a steady upward trend in both metrics.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {
+              "Revenue($M)": {
+                "Q1 FY24": {
+                  "value": 6051.0,
+                  "unit": ""
+                },
+                "Q2 FY24": {
+                  "value": 7192.0,
+                  "unit": ""
+                },
+                "Q3 FY24": {
+                  "value": 13507.0,
+                  "unit": ""
+                },
+                "Q4 FY24": {
+                  "value": 18120.0,
+                  "unit": ""
+                }
+              },
+              "Non-GAAP GM": {
+                "Q1 FY24": {
+                  "value": 66.1,
+                  "unit": "%"
+                },
+                "Q2 FY24": {
+                  "value": 66.8,
+                  "unit": "%"
+                },
+                "Q3 FY24": {
+                  "value": 71.2,
+                  "unit": "%"
+                },
+                "Q4 FY24": {
+                  "value": 75.0,
+                  "unit": "%"
+                }
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Q4 FY23",
+                "Q1 FY24",
+                "Q2 FY24",
+                "Q3 FY24",
+                "Q4 FY24"
+              ],
+              "rows": [
+                [
+                  "Revenue($M)",
+                  "6051",
+                  "7192",
+                  "13507",
+                  "18120",
+                  "22103"
+                ],
+                [
+                  "Non-GAAP GM",
+                  "66.1%",
+                  "66.8%",
+                  "71.2%",
+                  "75.0%",
+                  "76.7%"
+                ]
+              ]
+            }
+          }
+        }
+      ],
+      "gross_margin": [
+        {
+          "image_name": "7aec8a2828185e2c471eaa1210beb73baaccb671474303d9a22d8101df258476.jpg",
+          "categories": [
+            "gross_margin",
+            "operating_income",
+            "reconciliation"
+          ],
+          "description": "This image is a table that provides a financial outlook for the first quarter of fiscal year 2025 (Q1 FY25). Here's a detailed breakdown:\n\n### Type of Chart/Visualization:\nThe visualization is a tabular format, presenting financial metrics in a structured way.\n\n### Metrics/Data Shown:\nThe table includes the following financial metrics:\n- **Non-GAAP gross margin**: A percentage indicating the profitability before certain non-recurring items.\n- **Impact of stock-based compensation expense, acquisition-related costs, and other costs**: A negative impact on the gross margin.\n- **GAAP gross margin**: The gross margin under Generally Accepted Accounting Principles (GAAP), which includes all costs.\n- **Non-GAAP operating expenses**: Total operating expenses excluding certain non-recurring items.\n- **Impact of stock-based compensation expense, acquisition-related costs, and other costs**: Impact on operating expenses.\n- **GAAP operating expenses**: Total operating expenses under GAAP.\n\n### Key Trends, Peaks, and Notable Data Points:\n- **Non-GAAP gross margin**: 77.0%, indicating a high level of profitability before certain adjustments.\n- **Impact of stock-based compensation expense, acquisition-related costs, and other costs**: This is a negative factor, reducing the gross margin by 0.7%.\n- **GAAP gross margin**: 76.3%, slightly lower than the non-GAAP gross margin due to the aforementioned adjustments.\n- **Non-GAAP operating expenses**: $2,500 million.\n- **Impact of stock-based compensation expense, acquisition-related costs, and other costs**: $980 million, which is a significant cost component.\n- **GAAP operating expenses**: $3,480 million, reflecting the total operational costs under GAAP.\n\n### Time Period Covered:\nThe time period covered is Q1 of fiscal year 2025 (FY25).\n\n### Year-Over-Year Changes or Growth Rates:\nThe table does not provide year-over-year comparisons or growth rates. It only presents the forecasted values for Q1 FY25.\n\n### Additional Notes:\nThe table uses two types of gross margins: Non-GAAP and GAAP, and two types of operating expenses: Non-GAAP and GAAP. The Non-GAAP figures exclude certain costs like stock-based compensation and acquisition-related expenses, providing a cleaner view of the business performance.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {},
+            "raw_data": {
+              "headers": [
+                "Q1 FY25 Outlook",
+                "Non-GAAP gross margin",
+                "77.0%",
+                "Impact of stock-based compensation expense",
+                "acquisition-related costs",
+                "and other costs",
+                "(0.7%)",
+                "GAAP gross margin",
+                "76.3%",
+                "Non-GAAP operating expenses",
+                "$2",
+                "500",
+                "Impact of stock-based compensation expense",
+                "acquisition-related costs",
+                "and other costs",
+                "980",
+                "GAAP operating expenses",
+                "$3",
+                "480"
+              ],
+              "rows": []
+            }
+          }
+        },
+        {
+          "image_name": "ce7673d5fde1215b4fe3d14363b8f544b654619705de1fc25007f0c42bda141e.jpg",
+          "categories": [
+            "revenue",
+            "gross_margin",
+            "operating_income",
+            "reconciliation"
+          ],
+          "description": "This image is a financial forecast table that details projected financial metrics for a company over the fiscal year 2025. It provides a snapshot of expected revenue, gross margins, operating expenses, other income and expense, and tax rate.\n\n### 1. Type of Chart/Visualization:\nThe image is a static table format with no graphical elements like charts or graphs. It organizes the financial data into rows and columns for clarity.\n\n### 2. Metrics/Data Shown:\n- **Revenue:** Expected to be $24.0 billion plus or minus 2%.\n- **Gross Margins:** Projected at 76.3% GAAP and 77.0% non-GAAP, with a range of plus or minus 50 basis points.\n- **Operating Expense:** Estimated at approximately $3.5 billion GAAP and $2.5 billion non-GAAP.\n- **Other Income & Expense:** Anticipated to generate an income of approximately $250 million for both GAAP and non-GAAP.\n- **Tax Rate:** Expected to be 17.0% GAAP and non-GAAP, with a margin of plus or minus 1%, excluding discrete items.\n\n### 3. Key Trends, Peaks, and Notable Data Points:\n- **Revenue:** The company anticipates a sequential growth in Data Center and Pro Viz, partially offset by a seasonal decline in Gaming.\n- **Gross Margins:** There's a slight improvement from Q1 to the remainder of the year, with gross margins expected to return to the mid-70s percentage range.\n- **Operating Expense:** Operating expenses are expected to grow in the mid-30 percent range for fiscal year 2025.\n- **Other Income & Expense:** This category is relatively stable, with a projected income of $250 million.\n- **Tax Rate:** The tax rate is consistent across GAAP and non-GAAP, with a slight margin of error.\n\n### 4. Time Period Covered:\nThe data covers the fiscal year 2025, with specific projections for Q1 and the remainder of the year.\n\n### 5. Year-Over-Year Changes or Growth Rates:\nWhile the table does not provide historical data for comparison, it does project growth in certain areas such as Data Center and Pro Viz, and an increase in operating expenses. The gross margins show a slight improvement compared to the Q1 figures, indicating a positive trend. However, there are no explicit year-over-year growth rates provided in the table itself.\n\nThis table offers a clear overview of the company's financial expectations for the upcoming fiscal year, highlighting key areas of focus and potential challenges.",
+          "parsed_metrics": {
+            "time_series": [
+              {
+                "period": "Q1",
+                "Revenue ($B)": {
+                  "value": 24.0,
+                  "unit": ""
+                },
+                "Gross Margins GAAP": {
+                  "value": 76.3,
+                  "unit": "%"
+                },
+                "Gross Margins non-GAAP": {
+                  "value": 77.0,
+                  "unit": "%"
+                },
+                "Operating Expense GAAP": {
+                  "value": 3.5,
+                  "unit": ""
+                },
+                "Operating Expense non-GAAP": {
+                  "value": 2.5,
+                  "unit": ""
+                },
+                "Other Income & Expense ($M)": {
+                  "value": 250.0,
+                  "unit": ""
+                },
+                "Tax Rate GAAP": {
+                  "value": 17.0,
+                  "unit": "%"
+                }
+              }
+            ],
+            "latest_values": {
+              "period": "Q1",
+              "Revenue ($B)": {
+                "value": 24.0,
+                "unit": ""
+              },
+              "Gross Margins GAAP": {
+                "value": 76.3,
+                "unit": "%"
+              },
+              "Gross Margins non-GAAP": {
+                "value": 77.0,
+                "unit": "%"
+              },
+              "Operating Expense GAAP": {
+                "value": 3.5,
+                "unit": ""
+              },
+              "Operating Expense non-GAAP": {
+                "value": 2.5,
+                "unit": ""
+              },
+              "Other Income & Expense ($M)": {
+                "value": 250.0,
+                "unit": ""
+              },
+              "Tax Rate GAAP": {
+                "value": 17.0,
+                "unit": "%"
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Time Period",
+                "Revenue ($B)",
+                "Gross Margins GAAP",
+                "Gross Margins non-GAAP",
+                "Operating Expense GAAP",
+                "Operating Expense non-GAAP",
+                "Other Income & Expense ($M)",
+                "Tax Rate GAAP"
+              ],
+              "rows": [
+                [
+                  "Q1",
+                  "24.0",
+                  "76.3%",
+                  "77.0%",
+                  "3.5",
+                  "2.5",
+                  "250",
+                  "17.0%"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "image_name": "93a80c3d74540d338a95e420fc9666bf8212dda228beb53ab44a6f1d28355e4d.jpg",
+          "categories": [
+            "gross_margin",
+            "reconciliation"
+          ],
+          "description": "This is a table that presents financial data over different quarters (Q4 FY 2023 to Q3 FY 2024) related to gross margin and various cost categories. Here's a detailed breakdown:\n\n### Type of Chart/Visualization:\n- This is a tabular format, not a chart or graph. It organizes the data in rows and columns for easy comparison.\n\n### Metrics/Data Shown:\n- **Gross Margin**: This measures the proportion of revenue that remains after deducting the cost of goods sold.\n- **Non-GAAP Gross Margin**: A non-GAAP metric, which excludes certain items like acquisition-related costs and stock-based compensation.\n- **Acquisition-Related and Other Costs (A)**: Costs associated with acquisitions and other miscellaneous expenses.\n- **Stock-Based Compensation (B)**: Costs related to stock-based employee compensation.\n- **IP-Related Costs**: Costs related to intellectual property.\n- **GAAP Gross Margin**: GAAP (Generally Accepted Accounting Principles) compliant gross margin.\n\n### Key Trends, Peaks, and Notable Data Points:\n- The Non-GAAP Gross Margin shows an upward trend from Q4 FY 2023 (66.1%) to Q3 FY 2024 (75.0%).\n- The GAAP Gross Margin also shows an upward trend but at a slightly slower pace compared to the Non-GAAP margin, starting at 63.3% in Q4 FY 2023 and reaching 74.0% in Q3 FY 2024.\n- The Acquisition-Related and Other Costs (A) show a decreasing trend, with values ranging from -2.0 in Q4 FY 2023 to -0.7 in Q3 FY 2024.\n- Stock-Based Compensation (B) shows a slight decrease, with values ranging from -0.5 in Q4 FY 2023 to -0.1 in Q3 FY 2024.\n- IP-Related Costs remain relatively stable, with minor fluctuations.\n\n### Time Period Covered:\n- The table covers the fiscal years 2023 and 2024, specifically the fourth quarter of fiscal year 2023 (Q4 FY 2023), the first quarter of fiscal year 2024 (Q1 FY 2024), the second quarter of fiscal year 2024 (Q2 FY 2024), and the third quarter of fiscal year 2024 (Q3 FY 2024).\n\n### Year-Over-Year Changes or Growth Rates:\n- While the table does not explicitly provide year-over-year growth rates, we can infer some changes by comparing the values across different quarters.\n- For example, the Non-GAAP Gross Margin increased by 8.9 percentage points from Q4 FY 2023 to Q3 FY 2024.\n- The GAAP Gross Margin increased by 10.7 percentage points during the same period.\n- The Acquisition-Related and Other Costs decreased by 1.3 percentage points.\n- Stock-Based Compensation decreased by 0.4 percentage points.\n- IP-Related Costs remained relatively stable.\n\n### Summary:\nThe table illustrates a positive trend in both Non-GAAP and GAAP gross margins over the specified quarters, indicating improved profitability. The decrease in acquisition-related and other costs and stock-based compensation suggests cost management efforts, while IP-related costs remain relatively unchanged.",
+          "parsed_metrics": {
+            "time_series": [
+              {
+                "period": "Q4 FY 2023",
+                "Gross Margin": {
+                  "value": 66.1,
+                  "unit": "%"
+                },
+                "Non-GAAP": {
+                  "value": 63.3,
+                  "unit": "%"
+                },
+                "Acquisition-Related and Other Costs (A)": {
+                  "value": -2.0,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -0.5,
+                  "unit": ""
+                },
+                "IP-Related GAAP Costs": {
+                  "value": -0.3,
+                  "unit": ""
+                }
+              },
+              {
+                "period": "Q1 FY 2024",
+                "Gross Margin": {
+                  "value": 66.8,
+                  "unit": "%"
+                },
+                "Non-GAAP": {
+                  "value": 64.6,
+                  "unit": "%"
+                },
+                "Acquisition-Related and Other Costs (A)": {
+                  "value": -1.7,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -0.4,
+                  "unit": ""
+                },
+                "IP-Related GAAP Costs": {
+                  "value": -0.1,
+                  "unit": ""
+                }
+              },
+              {
+                "period": "Q2 FY 2024",
+                "Gross Margin": {
+                  "value": 71.2,
+                  "unit": "%"
+                },
+                "Non-GAAP": {
+                  "value": 70.1,
+                  "unit": "%"
+                },
+                "Acquisition-Related and Other Costs (A)": {
+                  "value": -0.9,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -0.2,
+                  "unit": ""
+                }
+              },
+              {
+                "period": "Q3 FY 2024",
+                "Gross Margin": {
+                  "value": 75.0,
+                  "unit": "%"
+                },
+                "Non-GAAP": {
+                  "value": 74.0,
+                  "unit": "%"
+                },
+                "Acquisition-Related and Other Costs (A)": {
+                  "value": -0.7,
+                  "unit": ""
+                },
+                "Stock-Based Compensation (B)": {
+                  "value": -0.2,
+                  "unit": ""
+                },
+                "IP-Related GAAP Costs": {
+                  "value": -0.1,
+                  "unit": ""
+                }
+              }
+            ],
+            "latest_values": {
+              "period": "Q3 FY 2024",
+              "Gross Margin": {
+                "value": 75.0,
+                "unit": "%"
+              },
+              "Non-GAAP": {
+                "value": 74.0,
+                "unit": "%"
+              },
+              "Acquisition-Related and Other Costs (A)": {
+                "value": -0.7,
+                "unit": ""
+              },
+              "Stock-Based Compensation (B)": {
+                "value": -0.2,
+                "unit": ""
+              },
+              "IP-Related GAAP Costs": {
+                "value": -0.1,
+                "unit": ""
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Time Period",
+                "Gross Margin",
+                "Non-GAAP",
+                "Acquisition-Related and Other Costs (A)",
+                "Stock-Based Compensation (B)",
+                "IP-Related GAAP Costs"
+              ],
+              "rows": [
+                [
+                  "Q4 FY 2023",
+                  "66.1%",
+                  "63.3%",
+                  "-2.0",
+                  "-0.5",
+                  "-0.3"
+                ],
+                [
+                  "Q1 FY 2024",
+                  "66.8%",
+                  "64.6%",
+                  "-1.7",
+                  "-0.4",
+                  "-0.1"
+                ],
+                [
+                  "Q2 FY 2024",
+                  "71.2%",
+                  "70.1%",
+                  "-0.9",
+                  "-0.2",
+                  "-"
+                ],
+                [
+                  "Q3 FY 2024",
+                  "75.0%",
+                  "74.0%",
+                  "-0.7",
+                  "-0.2",
+                  "-0.1"
+                ]
+              ]
+            }
+          }
+        }
+      ],
+      "operating_income": [
+        {
+          "image_name": "7aec8a2828185e2c471eaa1210beb73baaccb671474303d9a22d8101df258476.jpg",
+          "categories": [
+            "gross_margin",
+            "operating_income",
+            "reconciliation"
+          ],
+          "description": "This image is a table that provides a financial outlook for the first quarter of fiscal year 2025 (Q1 FY25). Here's a detailed breakdown:\n\n### Type of Chart/Visualization:\nThe visualization is a tabular format, presenting financial metrics in a structured way.\n\n### Metrics/Data Shown:\nThe table includes the following financial metrics:\n- **Non-GAAP gross margin**: A percentage indicating the profitability before certain non-recurring items.\n- **Impact of stock-based compensation expense, acquisition-related costs, and other costs**: A negative impact on the gross margin.\n- **GAAP gross margin**: The gross margin under Generally Accepted Accounting Principles (GAAP), which includes all costs.\n- **Non-GAAP operating expenses**: Total operating expenses excluding certain non-recurring items.\n- **Impact of stock-based compensation expense, acquisition-related costs, and other costs**: Impact on operating expenses.\n- **GAAP operating expenses**: Total operating expenses under GAAP.\n\n### Key Trends, Peaks, and Notable Data Points:\n- **Non-GAAP gross margin**: 77.0%, indicating a high level of profitability before certain adjustments.\n- **Impact of stock-based compensation expense, acquisition-related costs, and other costs**: This is a negative factor, reducing the gross margin by 0.7%.\n- **GAAP gross margin**: 76.3%, slightly lower than the non-GAAP gross margin due to the aforementioned adjustments.\n- **Non-GAAP operating expenses**: $2,500 million.\n- **Impact of stock-based compensation expense, acquisition-related costs, and other costs**: $980 million, which is a significant cost component.\n- **GAAP operating expenses**: $3,480 million, reflecting the total operational costs under GAAP.\n\n### Time Period Covered:\nThe time period covered is Q1 of fiscal year 2025 (FY25).\n\n### Year-Over-Year Changes or Growth Rates:\nThe table does not provide year-over-year comparisons or growth rates. It only presents the forecasted values for Q1 FY25.\n\n### Additional Notes:\nThe table uses two types of gross margins: Non-GAAP and GAAP, and two types of operating expenses: Non-GAAP and GAAP. The Non-GAAP figures exclude certain costs like stock-based compensation and acquisition-related expenses, providing a cleaner view of the business performance.",
+          "parsed_metrics": {
+            "time_series": [],
+            "latest_values": {},
+            "raw_data": {
+              "headers": [
+                "Q1 FY25 Outlook",
+                "Non-GAAP gross margin",
+                "77.0%",
+                "Impact of stock-based compensation expense",
+                "acquisition-related costs",
+                "and other costs",
+                "(0.7%)",
+                "GAAP gross margin",
+                "76.3%",
+                "Non-GAAP operating expenses",
+                "$2",
+                "500",
+                "Impact of stock-based compensation expense",
+                "acquisition-related costs",
+                "and other costs",
+                "980",
+                "GAAP operating expenses",
+                "$3",
+                "480"
+              ],
+              "rows": []
+            }
+          }
+        },
+        {
+          "image_name": "ce7673d5fde1215b4fe3d14363b8f544b654619705de1fc25007f0c42bda141e.jpg",
+          "categories": [
+            "revenue",
+            "gross_margin",
+            "operating_income",
+            "reconciliation"
+          ],
+          "description": "This image is a financial forecast table that details projected financial metrics for a company over the fiscal year 2025. It provides a snapshot of expected revenue, gross margins, operating expenses, other income and expense, and tax rate.\n\n### 1. Type of Chart/Visualization:\nThe image is a static table format with no graphical elements like charts or graphs. It organizes the financial data into rows and columns for clarity.\n\n### 2. Metrics/Data Shown:\n- **Revenue:** Expected to be $24.0 billion plus or minus 2%.\n- **Gross Margins:** Projected at 76.3% GAAP and 77.0% non-GAAP, with a range of plus or minus 50 basis points.\n- **Operating Expense:** Estimated at approximately $3.5 billion GAAP and $2.5 billion non-GAAP.\n- **Other Income & Expense:** Anticipated to generate an income of approximately $250 million for both GAAP and non-GAAP.\n- **Tax Rate:** Expected to be 17.0% GAAP and non-GAAP, with a margin of plus or minus 1%, excluding discrete items.\n\n### 3. Key Trends, Peaks, and Notable Data Points:\n- **Revenue:** The company anticipates a sequential growth in Data Center and Pro Viz, partially offset by a seasonal decline in Gaming.\n- **Gross Margins:** There's a slight improvement from Q1 to the remainder of the year, with gross margins expected to return to the mid-70s percentage range.\n- **Operating Expense:** Operating expenses are expected to grow in the mid-30 percent range for fiscal year 2025.\n- **Other Income & Expense:** This category is relatively stable, with a projected income of $250 million.\n- **Tax Rate:** The tax rate is consistent across GAAP and non-GAAP, with a slight margin of error.\n\n### 4. Time Period Covered:\nThe data covers the fiscal year 2025, with specific projections for Q1 and the remainder of the year.\n\n### 5. Year-Over-Year Changes or Growth Rates:\nWhile the table does not provide historical data for comparison, it does project growth in certain areas such as Data Center and Pro Viz, and an increase in operating expenses. The gross margins show a slight improvement compared to the Q1 figures, indicating a positive trend. However, there are no explicit year-over-year growth rates provided in the table itself.\n\nThis table offers a clear overview of the company's financial expectations for the upcoming fiscal year, highlighting key areas of focus and potential challenges.",
+          "parsed_metrics": {
+            "time_series": [
+              {
+                "period": "Q1",
+                "Revenue ($B)": {
+                  "value": 24.0,
+                  "unit": ""
+                },
+                "Gross Margins GAAP": {
+                  "value": 76.3,
+                  "unit": "%"
+                },
+                "Gross Margins non-GAAP": {
+                  "value": 77.0,
+                  "unit": "%"
+                },
+                "Operating Expense GAAP": {
+                  "value": 3.5,
+                  "unit": ""
+                },
+                "Operating Expense non-GAAP": {
+                  "value": 2.5,
+                  "unit": ""
+                },
+                "Other Income & Expense ($M)": {
+                  "value": 250.0,
+                  "unit": ""
+                },
+                "Tax Rate GAAP": {
+                  "value": 17.0,
+                  "unit": "%"
+                }
+              }
+            ],
+            "latest_values": {
+              "period": "Q1",
+              "Revenue ($B)": {
+                "value": 24.0,
+                "unit": ""
+              },
+              "Gross Margins GAAP": {
+                "value": 76.3,
+                "unit": "%"
+              },
+              "Gross Margins non-GAAP": {
+                "value": 77.0,
+                "unit": "%"
+              },
+              "Operating Expense GAAP": {
+                "value": 3.5,
+                "unit": ""
+              },
+              "Operating Expense non-GAAP": {
+                "value": 2.5,
+                "unit": ""
+              },
+              "Other Income & Expense ($M)": {
+                "value": 250.0,
+                "unit": ""
+              },
+              "Tax Rate GAAP": {
+                "value": 17.0,
+                "unit": "%"
+              }
+            },
+            "raw_data": {
+              "headers": [
+                "Time Period",
+                "Revenue ($B)",
+                "Gross Margins GAAP",
+                "Gross Margins non-GAAP",
+                "Operating Expense GAAP",
+                "Operating Expense non-GAAP",
+                "Other Income & Expense ($M)",
+                "Tax Rate GAAP"
+              ],
+              "rows": [
+                [
+                  "Q1",
+                  "24.0",
+                  "76.3%",
+                  "77.0%",
+                  "3.5",
+                  "2.5",
+                  "250",
+                  "17.0%"
+                ]
+              ]
+            }
+          }
+        }
+      ]
+    }
   },
   "tables_extracted": [],
   "data_sources": {
@@ -257,6 +2627,13 @@
       "cash_flow",
       "reconciliation"
     ],
-    "chart_categories": []
+    "chart_categories": [
+      "net_income",
+      "eps",
+      "reconciliation",
+      "revenue",
+      "gross_margin",
+      "operating_income"
+    ]
   }
 }
