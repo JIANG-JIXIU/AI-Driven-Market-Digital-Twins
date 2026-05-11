@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "company": "Meta Platforms",
+    "ticker": "META",
+    "pdf_name": "META_2024_Q4_Earnings_Presentation",
+    "year": 2024,
+    "quarter": "Q4",
+    "period_end": "2024-12-31",
+    "report_type": "Earnings Presentation",
+    "extraction_timestamp": "2026-05-10T20:39:26.036679",
+    "data_completeness": {
+      "text_sections_found": 8,
+      "charts_processed": 0,
+      "md_tables_found": 0,
+      "highlights_extracted": 0,
+      "metrics_extracted": 0
+    }
+  },
+  "highlights": {
+    "bullet_points": [],
+    "key_metrics_mentioned": []
+  },
+  "financial": {
+    "revenue": {
+      "total": null,
+      "advertising": null,
+      "other_revenue": null,
+      "yoy_growth_pct": null,
+      "constant_currency_growth_pct": null,
+      "by_geography": {
+        "us_canada": null,
+        "europe": null,
+        "asia_pacific": null,
+        "rest_of_world": null
+      }
+    },
+    "profitability": {
+      "total_costs_and_expenses": null,
+      "cost_of_revenue": null,
+      "research_and_development": null,
+      "marketing_and_sales": null,
+      "general_and_administrative": null,
+      "income_from_operations": null,
+      "operating_margin_pct": null,
+      "net_income": null,
+      "effective_tax_rate_pct": null
+    },
+    "per_share": {
+      "eps_basic": null,
+      "eps_diluted": null
+    },
+    "cash_flow": {
+      "free_cash_flow": null,
+      "capital_expenditures": null,
+      "share_repurchases": null,
+      "dividends": null
+    },
+    "balance_sheet": {
+      "cash_and_marketable_securities": null,
+      "long_term_debt": null
+    }
+  },
+  "segments": {
+    "family_of_apps": {
+      "revenue": null,
+      "ad_revenue": null,
+      "other_revenue": null,
+      "expenses": null,
+      "operating_income": null,
+      "operating_margin_pct": null,
+      "yoy_growth_pct": null
+    },
+    "reality_labs": {
+      "revenue": null,
+      "expenses": null,
+      "operating_loss": null,
+      "yoy_growth_pct": null
+    }
+  },
+  "operational": {
+    "users": {
+      "family_dap_billions": null,
+      "dap_yoy_growth_pct": null,
+      "threads_monthly_actives_millions": null
+    },
+    "advertising": {
+      "ad_impressions_yoy_pct": null,
+      "average_price_per_ad_yoy_pct": null,
+      "top_vertical_driver": null
+    },
+    "headcount": null,
+    "headcount_yoy_growth_pct": null
+  },
+  "guidance": {
+    "revenue_range": null,
+    "total_expenses_range": null,
+    "capex_range": null,
+    "tax_rate": null,
+    "reality_labs_commentary": null,
+    "raw_text": ""
+  },
+  "qualitative": {
+    "ceo_highlights": [],
+    "ai_initiatives": [],
+    "product_updates": [
+      "theAppendixofthispresentationBeginninginthefourthquarterof2O23,ourFamilymetricsnolongerincludeMessengerKidsusers."
+    ],
+    "risks_and_challenges": []
+  },
+  "chart_data": {
+    "total_charts_processed": 0,
+    "categorized_charts": {},
+    "chart_details": {}
+  },
+  "tables_extracted": [],
+  "data_sources": {
+    "sections_found": [
+      "revenue_detail",
+      "segment_results",
+      "expenses",
+      "_unclassified",
+      "user_metrics",
+      "ad_metrics",
+      "reconciliation",
+      "appendix"
+    ],
+    "chart_categories": []
+  }
+}

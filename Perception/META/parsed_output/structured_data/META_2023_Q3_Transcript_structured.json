@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "company": "Meta Platforms",
+    "ticker": "META",
+    "pdf_name": "META_2023_Q3_Transcript",
+    "year": 2023,
+    "quarter": "Q3",
+    "period_end": "2023-09-30",
+    "report_type": "Earnings Transcript",
+    "extraction_timestamp": "2026-05-10T20:39:26.881327",
+    "data_completeness": {
+      "text_sections_found": 4,
+      "charts_processed": 0,
+      "md_tables_found": 0,
+      "highlights_extracted": 50,
+      "metrics_extracted": 8
+    }
+  },
+  "highlights": {
+    "bullet_points": [
+      "This was a good quarter for our community and our business.We estimate there are now more than 3.9 billion people who use at least one of our apps every month.",
+      "The big product news this quarter is that we just held our annual Connect conference,and we discussed Quest 3,which is the first mainstream mixed reality device,and the next generation of Ray-Ban Meta smart glasses-which are the first smart glasses with our Meta Al built in.There continues to be a ton of innovation in Al,and we used Connect to describe and start launching a lot of the new consumer Al experiences that we expect to become meaningful parts of allof our apps and our business over the coming years.",
+      "The experiences that we started to rollout at Connect are going to transform the way people use allour services --feeds,messaging,hardware,advertising,business messaging, interacting with creators,and more.But it's going to take time to tune all of these experiences before hundreds of millions or billions of people are going to use them.lexpect that dialing in these products and the vision we articulated at Connectis going to be our theme for much of the next year. And Ithink that it's going to be a very exciting 2024.",
+      "In terms of investment priorities, Al willbe our biggest investment area in 2O24--both in engineering and compute resources. But I want to avoid allocating a lot of new headcount, so we're going to continue deprioritizing a number of non-Al projects acrossthe company to shift people towards working on Alinstead.On the recruiting front, one dynamic that Iwant to flag is that we have a sizable hiring backlog right now since part of our layoffs earlier this year included teams swapping out certain skilsets for being able to hire others,and we're stillgoing to be hiring for those roles going into 2024.That means that even though we're planning to grow headcount at a much slower rate going forward, the actual rate next year may temporarily be faster as we work through this hiring backlog.",
+      "Let's start with Reels, which continues to do well. We estimate that with all the ranking and product improvements that we've made, Reels has driven more than 40% increase in time spent on Instagram since launch.We also reached a monetization milestone earlier than expected,and we estimate that Reels is now net neutral to overall company ad revenue.",
+      "Generative Al willincreasingly be important going forward.I outlined our product roadmap earlier,and on top of that we're also building foundation modelslike Llama 2, which we believe is now the leading open source model, with more than 30 milion Llama downloads last month.",
+      "Al-driven feed recommendations continue to grow their impact on incremental engagement. This year alone,we've seen a 7% increase in time spent on Facebook and a 6% increase on Instagram as a result of recommendation improvements.",
+      "Our Al tools for advertisers are also driving results with Advantage+ Shopping Campaigns reaching a \\$10 billion run rate and more than half of our advertisers using our Advantage+ Creative tools to optimize images and text in their ads creative.",
+      "Business messaging also continues to grow across our services and Ibelieve willbe the next major pilar of our business. There are more than 6O0 million conversations between people and businesses every day on our platforms.To give you a sense of what this could look like when it's scaled globally,every week now, more than 6O% of people on WhatsApp in India message a business app account. Revenue from Click-to-Message ads in India has doubled year-over-year.",
+      "I want to give a quick update on Threads. We're three months in now,and I'm very happy with the trajectory.There are just under 100 million monthly actives at this point,and we're now getting to the point where we're going to be focusing on growing the community further. From what we can tell, people love it so far.I've thought for a long time that there should be a billion-person public conversations app that's a bit more positive,and Ithink thatif we keep at this for a few more years then Ithink we have a good chance of achieving our vision there.",
+      "We just launched Quest 3,our most powerful headset yet, at a very competitive price.We packed a lot of improvements in there,including a next generation chipset with 2x graphics performance,our best displays yet,and aform factor that's 40% thinner than Quest 2. But the most important breakthrough for Quest 3is that it's the first mainstream mixed reality device.That means that when you put on the device you see your physical room around you,and you can bring digital objects and games into your physical space -whether that's a ping-pong table, your workstation,a big screen TV to play Xbox games on,or your friends as holograms.The early reviews have been great and it's been fun to see how people respond to this.",
+      "Q3 total revenue was \\$34.1 billion, up 23% or 21% on a constant currency basis.",
+      "Q3 total expenses were \\$20.4 billion, down 7% compared to last year.",
+      "Cost of revenue increased 9%,as higher infrastructure-related costs were partially offset by lower content costs.",
+      "R&D increased 1%,as higher headcount-related costs from Family of Apps and Reality Labs were partially offset by lower non-headcount related Reality Labs operating expenses.",
+      "Marketing & Sales decreased 24%,due primarily to lower marketing spend and headcount-related costs.",
+      "We ended the quarter with over 66,100 employees, down 7% from the second quarter. Our third quarter headcount no longer included the substantial majority of the employees impacted by the previously announced layoffs.",
+      "Third quarter operating income was \\$13.7 bilion,representing a 40% operating margin.",
+      "Net income was \\$11.6 billion or \\$4.39 per share.",
+      "Capital expenditures, including principal payments on finance leases,were \\$6.8 billion,driven by investments in servers,data centers and network infrastructure. Capital expenditures were below the prior year levels primarily due to lower server and data center construction spend as we prepared to shift to our new data center design, as well as payment timing.",
+      "Free cash flow was \\$13.6 billion, benefiting from a deferral of income taxes which was paid in the fourth quarter.We repurchased \\$3.7 billon of our ClassA common stock in the third quarter and ended the quarter with \\$61.1 billion in cash and marketable securities and \\$18.4 billion in debt.",
+      "Our community across the Family of Apps continues to grow.We estimate that approximately 3.14 billion people used at least one of our Family of Apps on a daily basis in September,and that approximately 3.96 billion people used at least one on a monthly basis.",
+      "Facebook continues to grow globally and engagement remains strong. Facebook daily active users were 2.09 billion, up 5% or 101 millon compared to last year. DAUs represented approximately 68% of the 3.05 billion monthly active users in September. MAUs grew by 91 million or 3% compared to last year.",
+      "Q3 Total Family of Apps revenue was \\$33.9 billon, up 24% year over year.",
+      "Q3 Family of Apps ad revenue was \\$33.6 billion, up 24% or 21% on a constant currency basis.",
+      "On a user geography basis,ad revenue growth was strongest in Rest of World and Europe at 36% and 35%, respectively,followed by Asia Pacific at 19% and North America at 17%.Foreign currency was a tailwind to advertising revenue growth in allinternational regions.",
+      "In Q3,the total number of ad impressions served across our services increased 31% and the average price per ad decreased 6%.Impresson growth was mainly driven by Asia-Pacific and Rest of World.The year-over-year decline in pricing was driven by strong impression growth,especially from lower monetizing surfaces and regions.While overallpricing remains under pressure from these factors, we believe our ongoing improvements to ad targeting and measurement are continuing to drive improved results for advertisers.",
+      "Family of Apps other revenue was \\$293 million in Q3,up 53%, driven by strong business messaging revenue growth from our WhatsApp Business Platform.",
+      "We continue to direct the majority of our investments toward the development and operation of our Family of Apps. In Q3, Family of Apps expenses were \\$16.4 bilion, representing approximately 81% of our overallexpenses.FoA expenses were down 9% as growth in infrastructure-related costs was more than offset by lower legal-related expenses, marketing,and headcount-related costs.",
+      "Family of Apps operating income was \\$17.5 billion, representing a 52% operating margin.",
+      "Within our Reality Labs segment, Q3 revenue was \\$210 million,down 26% due primarily to lower Quest 2 sales.",
+      "Reality Labs expenses were \\$4.0 billion,flat year-over-year as higher headcount-related expenses were offset by lower non-headcount related operating expenses.",
+      "Reality Labs operating loss was \\$3.7 billion.",
+      "There are four areas of this work: 1) Improving Reels monetization; 2) Creating engaging on-platform ad experiences; 3) Making it easier for advertisers to connect their marketing data,and; 4) Increasingly leveraging Al across our ads systems and products.",
+      "On Reels - we have continued to improve monetization and are now at a level where Reels is neutral to overall revenue.We've made tremendous progress over the last year building and scaling Reels as a consumer product -and it has now become part of the core experience on Instagram and Facebook. As such,we don’t anticipate quantifying the net revenue contribution from Reels going forward.We wil still work to further improve Reels ads performance through ranking improvements and making Reels ads increasingly interactive, while also growing supply to give businesses more opportunities to get in front of people.We anticipate this ongoing work willhelp Reels be a modest tailwind to revenue in 2024 while we continue to strike the right balance between engagement and revenue growth. But our focus going forward willbe on growing revenue and engagement on overal video,and more holistically across our product lines within Instagram and Facebook.",
+      "Before turning to our revenue outlook,I'd like to provide color on our hiring plans as we look to 2024. One important point to note is that we are currently operating with a significant underrun against our 2023 budgeted headcount.For much of late 2O22 and early 2O23,we had instituted a broad-based hiring freeze as we undertook our restructuring efforts.In addition,as part of those restructuring efforts many teams elected to make deeper headcount reductions in order to hire different skil sets that they need.We have since resumed hiring but expect that much of our hiring that was originally planned for and budgeted in 2023 will occur in 2024.",
+      "As part of our 2024 budget, we plan to selectively allocate incremental headcount toward four key company priorities: Al, infrastructure, Reality Labs,and monetization as wellas toward our regulatory and compliance needs. Of those areas,we expect Alto be the largest area of increased investment as we further invest in Generative Al across our core products,internal tooling,and research efforts. We aim to offset some of this growth by continuing our eficiency focus and reducing planned hiring in other areas across the company in 2024.",
+      "The net effect of our efforts to close out our 2023 hiring underruns and our efficiency-focused 2024 budgeting process is that we expect to end next year with reported, in-seat headcount meaningfully higher than our current headcount, but to grow at a slower rate beyond that. We also expect a step up in infrastructure-related expense growth next year as we recognize higher depreciation and operating costs from running an expanded infrastructure footprint.",
+      "We expect fourth quarter 2023 total revenue to be in the range of \\$36.5-40 bilion. Our guidance assumes a foreign currency tailwind of approximately 2% to year-over-year total revenue growth in the fourth quarter,based on current exchange rates.",
+      "We anticipate that our full-year 2023 total expenses willbe in the range of \\$87-89 billion,lowered from our prior range of \\$88-91 billion.This outlook includes approximately \\$3.5 billon of restructuring costs related to facilities consolidation charges and severance and other personnel costs.We expect Reality Labs operating losses to increase year-over-year in 2023.",
+      "We are also sharing a preliminary outlook for 2O24 expenses, capex and our tax rate.We expect fullyear 2024 total expenses to be in the range of \\$94-99 bilion.We continue to expect a few factors to be drivers of total expense growth in 2024:",
+      "Second, we anticipate growth in payroll expenses as we work down our current hiring underrun and add incremental talent to support priority areas in 2024, which we expect will continue to shift our workforce composition toward higher-cost technical roles.",
+      "We expect 2023 capital expenditures to be in the range of \\$27-29 billion, updated from our prior estimate of \\$27-30 billion.",
+      "We anticipate our full-year 2024 capital expenditures willbe in the range of \\$30-35 billion,with growth driven by investments in servers,including both non-Al and Al hardware,and in data centers as we ramp up construction on sites with the new data center architecture we announced late last year.",
+      "Please note that our outlook for 2024 expenses, capital expenditures and tax rate are preliminary estimates.In the future, we expect to provide our initial forward year expense,capex and tax rate outlooks on the fourth quarter call.",
+      "For example, with avatars,you've already seen 1 billion avatars created so far.We expect that this willbecome increasingly important across the Family of Apps. And we're also starting to see how our hardware can help create unique content for Facebook and Instagram today with our Ray-Ban Meta smart glasses making it easier to capture and share to Family of Apps,including live-streaming,and we think that wil obviously create more engaging content for the content ecosystem.",
+      "Thanks, Eric. So your first question,I think,was about regional trends or regional themes in our ad revenue,which as you saw this quarter accelerated across all regions. To give you a little bit of color,in North America,we saw accelerate by 7 points due primarily to strong demand from China advertisers.Note that North America didn't experience the same currency tailwinds that drove acceleration in year-over-year growth for the other regions.In the EU -- or in our EU region,we saw that accelerate 21 points.",
+      "There was a broad-based acceleration in the region, including demand from China advertisers and some benefit from currency tailwinds after facing currency headwinds in Q2. Asia Pacific accelerated 9 points.We benefited from stronger demand in Southeast Asian countries,and again,the flip to currency tailwinds versus headwinds in Q2. Rest of World accelerated 20 points.We saw both stronger pricing and the same currency dynamic there.",
+      "We are still relatively early on this.We had to pause some of our existing data center construction work to switch over to the new data center architecture that played through in some of our 2023 CapEx dynamics.And going forward,as I think we said when we introduced the concept of this architecture,we expect it to be more cost efficient for us.",
+      "Your second question was on looking ahead in Q4 and the impact of some of the geopolitical activity that we've seen around the world and how that might be affecting our business."
+    ],
+    "key_metrics_mentioned": [
+      {
+        "metric_name": "operating_margin",
+        "value": 40.0,
+        "unit": "",
+        "context": "Third quarter operating income was \\$13.7 bilion,representing a 40% operating margin."
+      },
+      {
+        "metric_name": "eps",
+        "value": 4.39,
+        "unit": "",
+        "context": "Net income was \\$11.6 billion or \\$4.39 per share."
+      },
+      {
+        "metric_name": "capex",
+        "value": 6.8,
+        "unit": "billion",
+        "context": "Capital expenditures, including principal payments on finance leases,were \\$6.8 billion,driven by investments in servers,data centers and network infrastructure. Capital expenditures were below the pr"
+      },
+      {
+        "metric_name": "ad_revenue",
+        "value": 33.6,
+        "unit": "billion",
+        "context": "Q3 Family of Apps ad revenue was \\$33.6 billion, up 24% or 21% on a constant currency basis."
+      },
+      {
+        "metric_name": "ad_impressions_growth",
+        "value": 31.0,
+        "unit": "",
+        "context": "In Q3,the total number of ad impressions served across our services increased 31% and the average price per ad decreased 6%.Impresson growth was mainly driven by Asia-Pacific and Rest of World.The yea"
+      },
+      {
+        "metric_name": "operating_margin",
+        "value": 52.0,
+        "unit": "",
+        "context": "Family of Apps operating income was \\$17.5 billion, representing a 52% operating margin."
+      },
+      {
+        "metric_name": "capex",
+        "value": 29.0,
+        "unit": "billion",
+        "context": "We expect 2023 capital expenditures to be in the range of \\$27-29 billion, updated from our prior estimate of \\$27-30 billion."
+      },
+      {
+        "metric_name": "capex",
+        "value": 35.0,
+        "unit": "billion",
+        "context": "We anticipate our full-year 2024 capital expenditures willbe in the range of \\$30-35 billion,with growth driven by investments in servers,including both non-Al and Al hardware,and in data centers as w"
+      }
+    ]
+  },
+  "financial": {
+    "revenue": {
+      "total": null,
+      "advertising": null,
+      "other_revenue": null,
+      "yoy_growth_pct": null,
+      "constant_currency_growth_pct": null,
+      "by_geography": {
+        "us_canada": null,
+        "europe": null,
+        "asia_pacific": null,
+        "rest_of_world": null
+      }
+    },
+    "profitability": {
+      "total_costs_and_expenses": null,
+      "cost_of_revenue": null,
+      "research_and_development": null,
+      "marketing_and_sales": null,
+      "general_and_administrative": null,
+      "income_from_operations": null,
+      "operating_margin_pct": 40.0,
+      "net_income": null,
+      "effective_tax_rate_pct": 17.0
+    },
+    "per_share": {
+      "eps_basic": null,
+      "eps_diluted": 4.39
+    },
+    "cash_flow": {
+      "free_cash_flow": null,
+      "capital_expenditures": null,
+      "share_repurchases": null,
+      "dividends": null
+    },
+    "balance_sheet": {
+      "cash_and_marketable_securities": null,
+      "long_term_debt": null
+    }
+  },
+  "segments": {
+    "family_of_apps": {
+      "revenue": null,
+      "ad_revenue": null,
+      "other_revenue": null,
+      "expenses": null,
+      "operating_income": null,
+      "operating_margin_pct": null,
+      "yoy_growth_pct": null
+    },
+    "reality_labs": {
+      "revenue": null,
+      "expenses": null,
+      "operating_loss": null,
+      "yoy_growth_pct": null
+    }
+  },
+  "operational": {
+    "users": {
+      "family_dap_billions": 3.9,
+      "dap_yoy_growth_pct": null,
+      "threads_monthly_actives_millions": null
+    },
+    "advertising": {
+      "ad_impressions_yoy_pct": 31.0,
+      "average_price_per_ad_yoy_pct": null,
+      "top_vertical_driver": "online commerce vertical was the largest contributor"
+    },
+    "headcount": null,
+    "headcount_yoy_growth_pct": null
+  },
+  "guidance": {
+    "revenue_range": null,
+    "total_expenses_range": null,
+    "capex_range": null,
+    "tax_rate": null,
+    "reality_labs_commentary": "Reality Labs operating losses to increase year-over-year in 2023.",
+    "raw_text": "we expect to become meaningful parts of allof our apps and our business over the coming years.\nwe expect Alto be the largest area of increased investment as we further invest in Generative Al across our core products,internal tooling,and research efforts.\nwe expect to end next year with reported, in-seat headcount meaningfully higher than our current headcount, but to grow at a slower rate beyond that.\nWe expect fourth quarter 2023 total revenue to be in the range of \\$36.\nWe expect Reality Labs operating losses to increase year-over-year in 2023.\nWe expect fullyear 2024 total expenses to be in the range of \\$94-99 bilion.\nwe expect higher infrastructure-related costs next year.\nwe expect depreciation expenses in 2024 to increase by a larger amount than in 2023.\nwe expect will continue to shift our workforce composition toward higher-cost technical roles.\nwe expect operating losses to increase meaningfully year-over-year due to our ongoing product development efforts in AR/VR and our investments to further scale our ecosystem.\nWe expect 2023 capital expenditures to be in the range of \\$27-29 billion, updated from our prior estimate of \\$27-30 billion.\nwe expect our fourth quarter 2023 and full-year 2024 tax rates to be similar to the third quarter of 2023.\nwe expect to provide our initial forward year expense,capex and tax rate outlooks on the fourth quarter call.\nWe expect that this willbecome increasingly important across the Family of Apps.\nwe expect it to be more cost efficient for us.\nWe expect it will give us greater fungibility in the way that we plan for CPU and GPU capacity.\nwe expect that we'll be realizing the cost benefits and efficiencies and the planning flexibility that the architecture gives us in the years to come.\nwe expect will help improve our advertising performance,will help advertisers drive sales,especially over the holidays and especially in the Advantage+ shopping suite.\nwe expect to incur higher operating costs from running a larger infras"
+  },
+  "qualitative": {
+    "ceo_highlights": [
+      "This was a good quarter for our community and our business.We estimate there are now more than 3.9 billion people who use at least one of our apps every month.",
+      "The big product news this quarter is that we just held our annual Connect conference,and we discussed Quest 3,which is the first mainstream mixed reality device,and the next generation of Ray-Ban Meta smart glasses-which are the first smart glasses with our Meta Al built in.There continues to be a ton of innovation in Al,and we used Connect to describe and start launching a lot of the new consumer Al experiences that we expect to become meaningful parts of allof our apps and our business over the coming years.",
+      "The experiences that we started to rollout at Connect are going to transform the way people use allour services --feeds,messaging,hardware,advertising,business messaging, interacting with creators,and more.But it's going to take time to tune all of these experiences before hundreds of millions or billions of people are going to use them.lexpect that dialing in these products and the vision we articulated at Connectis going to be our theme for much of the next year. And Ithink that it's going to be a very exciting 2024.",
+      "In terms of investment priorities, Al willbe our biggest investment area in 2O24--both in engineering and compute resources. But I want to avoid allocating a lot of new headcount, so we're going to continue deprioritizing a number of non-Al projects acrossthe company to shift people towards working on Alinstead.On the recruiting front, one dynamic that Iwant to flag is that we have a sizable hiring backlog right now since part of our layoffs earlier this year included teams swapping out certain skilsets for being able to hire others,and we're stillgoing to be hiring for those roles going into 2024.That means that even though we're planning to grow headcount at a much slower rate going forward, the actual rate next year may temporarily be faster as we work through this hiring backlog.",
+      "Let's start with Reels, which continues to do well. We estimate that with all the ranking and product improvements that we've made, Reels has driven more than 40% increase in time spent on Instagram since launch.We also reached a monetization milestone earlier than expected,and we estimate that Reels is now net neutral to overall company ad revenue.",
+      "Generative Al willincreasingly be important going forward.I outlined our product roadmap earlier,and on top of that we're also building foundation modelslike Llama 2, which we believe is now the leading open source model, with more than 30 milion Llama downloads last month.",
+      "Al-driven feed recommendations continue to grow their impact on incremental engagement. This year alone,we've seen a 7% increase in time spent on Facebook and a 6% increase on Instagram as a result of recommendation improvements.",
+      "Our Al tools for advertisers are also driving results with Advantage+ Shopping Campaigns reaching a \\$10 billion run rate and more than half of our advertisers using our Advantage+ Creative tools to optimize images and text in their ads creative.",
+      "Business messaging also continues to grow across our services and Ibelieve willbe the next major pilar of our business. There are more than 6O0 million conversations between people and businesses every day on our platforms.To give you a sense of what this could look like when it's scaled globally,every week now, more than 6O% of people on WhatsApp in India message a business app account. Revenue from Click-to-Message ads in India has doubled year-over-year.",
+      "Ithink that this is going to be a really big opportunity for our new business Als that Italked about earlier that we hope will enable any business to easily set up an Al that people can message to help with commerce and support.Today, most commerce in messaging is in countries where the cost of labor is low enough that it makes sense for businesses to have people corresponding with customers over text. And in those countries,like Thailand or Vietnam,there is a huge amount of commerce that happens in this way.Butin lots of parts of the world,the cost of laboris too expensive for this to be viable. But with business Als, we have the opportunity to bring down that cost and expand commerce in messaging into larger economies across the world.So making business Als work for more businesses is going to be an important focus for us into 2024.",
+      "I want to give a quick update on Threads. We're three months in now,and I'm very happy with the trajectory.There are just under 100 million monthly actives at this point,and we're now getting to the point where we're going to be focusing on growing the community further. From what we can tell, people love it so far.I've thought for a long time that there should be a billion-person public conversations app that's a bit more positive,and Ithink thatif we keep at this for a few more years then Ithink we have a good chance of achieving our vision there.",
+      "We just launched Quest 3,our most powerful headset yet, at a very competitive price.We packed a lot of improvements in there,including a next generation chipset with 2x graphics performance,our best displays yet,and aform factor that's 40% thinner than Quest 2. But the most important breakthrough for Quest 3is that it's the first mainstream mixed reality device.That means that when you put on the device you see your physical room around you,and you can bring digital objects and games into your physical space -whether that's a ping-pong table, your workstation,a big screen TV to play Xbox games on,or your friends as holograms.The early reviews have been great and it's been fun to see how people respond to this."
+    ],
+    "ai_initiatives": [
+      "Let's start with Reels, which continues to do well. We estimate that with all the ranking and product improvements that we've made, Reels has driven more than 40% increase in time spent on Instagram since launch.We also reached a monetization milestone earlier than expected,and we estimate that Reels is now net neutral to overall company ad revenue.",
+      "Generative Al willincreasingly be important going forward.I outlined our product roadmap earlier,and on top of that we're also building foundation modelslike Llama 2, which we believe is now the leading open source model, with more than 30 milion Llama downloads last month.",
+      "Beyond that,there is also a different set of sophisticated recommendation Al systems that powers our feeds,Reels,ads,and integrity systems. And this technology has lesshype right now than Generative Al, but it's also improving very quickly.",
+      "Al-driven feed recommendations continue to grow their impact on incremental engagement. This year alone,we've seen a 7% increase in time spent on Facebook and a 6% increase on Instagram as a result of recommendation improvements.",
+      "Reels,and video content more broadly,continues to grow and drive incremental engagement. Alrecommended content from unconnected accounts in Feed continues to become increasingly incremental to engagement, including in the US & Canada. These gains are being driven by improvements to our recommendation systems and we see additional opportunities to advance our systems even further in the future as we deploy more advanced models.",
+      "On Reels - we have continued to improve monetization and are now at a level where Reels is neutral to overall revenue.We've made tremendous progress over the last year building and scaling Reels as a consumer product -and it has now become part of the core experience on Instagram and Facebook. As such,we don’t anticipate quantifying the net revenue contribution from Reels going forward.We wil still work to further improve Reels ads performance through ranking improvements and making Reels ads increasingly interactive, while also growing supply to give businesses more opportunities to get in front of people.We anticipate this ongoing work willhelp Reels be a modest tailwind to revenue in 2024 while we continue to strike the right balance between engagement and revenue growth. But our focus going forward willbe on growing revenue and engagement on overal video,and more holistically across our product lines within Instagram and Facebook.",
+      "We expect it will give us greater fungibility in the way that we plan for CPU and GPU capacity.So,we expect that we'll be realizing the cost benefits and efficiencies and the planning flexibility that the architecture gives us in the years to come.",
+      "We're continuing to enroll a lot of new features, both gen Al and not in our ads tool, and we're continuing to improve the ranking and delivery models that underlie our ads infrastructure. We'll also be obviously lapping stronger periods, especially in -- as you saw with this quarter's results.",
+      "It's going to change advertising in a big way. It's going to make it so much easier to run ads. Businesses that basically before would have had to create their own creative or images now won't have to do that. They'llbe able to test more versions of creative,whether it's images or eventually video or text. Ithink that that's really exciting, especially when paired with the recommendation Al."
+    ],
+    "product_updates": [
+      "The big product news this quarter is that we just held our annual Connect conference,and we discussed Quest 3,which is the first mainstream mixed reality device,and the next generation of Ray-Ban Meta smart glasses-which are the first smart glasses with our Meta Al built in.There continues to be a ton of innovation in Al,and we used Connect to describe and start launching a lot of the new consumer Al experiences that we expect to become meaningful parts of allof our apps and our business over the coming years.",
+      "We started rolling out Meta Al, our new assistant that you can access across all our messaging experiences and smart glasses to answer questions,get access to real-time information,and generate photorealistic images.We started launching our Al Studio platform that enables people to create and interact with lots of different Als for help getting things done and just having fun.We roled out Emu, our image creation model,that produces high quality images and stickers fast.We launched an early alpha of business Als so that eventually every business can have an Al to interface with customers to do sales and support.We laid out the plan to launch creator Als next year so every creator can have an Al their fans can engage with to help them build out their community. And that's just a snapshot of some of the Al work that we're doing.",
+      "Let's start with Reels, which continues to do well. We estimate that with all the ranking and product improvements that we've made, Reels has driven more than 40% increase in time spent on Instagram since launch.We also reached a monetization milestone earlier than expected,and we estimate that Reels is now net neutral to overall company ad revenue.",
+      "In many ways, Reels has now graduated from being an early initiative to now being a core part of our apps.So going forward, we're going to continue focusing on Reels,but we'llalso look at growing it as part of our overallportfolio of video services, which make up more than half of time spent on Facebook and Instagram. There's a lot more to do across all of these.",
+      "Beyond that,there is also a different set of sophisticated recommendation Al systems that powers our feeds,Reels,ads,and integrity systems. And this technology has lesshype right now than Generative Al, but it's also improving very quickly.",
+      "Al-driven feed recommendations continue to grow their impact on incremental engagement. This year alone,we've seen a 7% increase in time spent on Facebook and a 6% increase on Instagram as a result of recommendation improvements.",
+      "Business messaging also continues to grow across our services and Ibelieve willbe the next major pilar of our business. There are more than 6O0 million conversations between people and businesses every day on our platforms.To give you a sense of what this could look like when it's scaled globally,every week now, more than 6O% of people on WhatsApp in India message a business app account. Revenue from Click-to-Message ads in India has doubled year-over-year.",
+      "I want to give a quick update on Threads. We're three months in now,and I'm very happy with the trajectory.There are just under 100 million monthly actives at this point,and we're now getting to the point where we're going to be focusing on growing the community further. From what we can tell, people love it so far.I've thought for a long time that there should be a billion-person public conversations app that's a bit more positive,and Ithink thatif we keep at this for a few more years then Ithink we have a good chance of achieving our vision there.",
+      "We just launched Quest 3,our most powerful headset yet, at a very competitive price.We packed a lot of improvements in there,including a next generation chipset with 2x graphics performance,our best displays yet,and aform factor that's 40% thinner than Quest 2. But the most important breakthrough for Quest 3is that it's the first mainstream mixed reality device.That means that when you put on the device you see your physical room around you,and you can bring digital objects and games into your physical space -whether that's a ping-pong table, your workstation,a big screen TV to play Xbox games on,or your friends as holograms.The early reviews have been great and it's been fun to see how people respond to this.",
+      "We also launched the next generation of Ray-Ban Meta smart glasses.They are upgraded from the first generation in basically every way--better camera,cleareraudio,they're lighter,they have more styles, and you can now even livestream video from them. But most importantly,these are the first smart glasses shipping with Meta Al built in,so you can ask your glasses questions throughout the day and itl answer them rightin your ear.In many ways,glasses are the ideal form factor for an Al device because they enable your Al asistant to see what you see and hear what you hear.Again,it's good to see the early reviews are so positive,andI'm looking forward to this space evolving quickly over the coming years.",
+      "We're also making progress on software for the metaverse too. Horizon is now growing faster as more new worlds like Super Rumble and Citadel come online. We also started testing Horizon for phones, tablets,and PCs,which is going to be an important, key part of how to build the metaverse across devices.And we've had a couple of important milestones with avatars as well--both for our expressive avatars and the latest codec avatars that I showed off recently.",
+      "As l said at Connect,Ithink one of the most interesting questions for our industry over the coming decades is how we bring together our physical and digital worlds into a coherent and good experience. I think we're starting to see some of the building blocks come together--between mixed reality for bringing digital objects into the physical world,our Al Studio work for enabling interactions with al kinds of diferent Als,and eventually smart glasses to bring allof tis together into a stylish form factor.So l'm very excited about the roadmap ahead.",
+      "Facebook continues to grow globally and engagement remains strong. Facebook daily active users were 2.09 billion, up 5% or 101 millon compared to last year. DAUs represented approximately 68% of the 3.05 billion monthly active users in September. MAUs grew by 91 million or 3% compared to last year.",
+      "Family of Apps other revenue was \\$293 million in Q3,up 53%, driven by strong business messaging revenue growth from our WhatsApp Business Platform.",
+      "Within our Reality Labs segment, Q3 revenue was \\$210 million,down 26% due primarily to lower Quest 2 sales.",
+      "On the first - overallengagement on Facebook and Instagram remains strong.",
+      "Reels,and video content more broadly,continues to grow and drive incremental engagement. Alrecommended content from unconnected accounts in Feed continues to become increasingly incremental to engagement, including in the US & Canada. These gains are being driven by improvements to our recommendation systems and we see additional opportunities to advance our systems even further in the future as we deploy more advanced models.",
+      "We're also developing entirely new experiences for our community. Our investments in Al capacity in recent years have enabled us to support leading Generative Al research and we're meaningfully accelerating the pace of bringing that research into our products.We launched our first consumer Gen Al experiences last month that are built on top of our foundation models and are excited to learn from how people use these tools to make them increasingly valuable over time.Aside from Generative Al, Threads also remains a compeling long-term opportunity and we're excited to build on the strong product momentum we have going into next year.",
+      "There are four areas of this work: 1) Improving Reels monetization; 2) Creating engaging on-platform ad experiences; 3) Making it easier for advertisers to connect their marketing data,and; 4) Increasingly leveraging Al across our ads systems and products.",
+      "On Reels - we have continued to improve monetization and are now at a level where Reels is neutral to overall revenue.We've made tremendous progress over the last year building and scaling Reels as a consumer product -and it has now become part of the core experience on Instagram and Facebook. As such,we don’t anticipate quantifying the net revenue contribution from Reels going forward.We wil still work to further improve Reels ads performance through ranking improvements and making Reels ads increasingly interactive, while also growing supply to give businesses more opportunities to get in front of people.We anticipate this ongoing work willhelp Reels be a modest tailwind to revenue in 2024 while we continue to strike the right balance between engagement and revenue growth. But our focus going forward willbe on growing revenue and engagement on overal video,and more holistically across our product lines within Instagram and Facebook."
+    ],
+    "risks_and_challenges": [
+      "Marketing & Sales decreased 24%,due primarily to lower marketing spend and headcount-related costs.",
+      "G&A decreased 39%, due primarily to lower legal-related expenses.",
+      "In Q3,the total number of ad impressions served across our services increased 31% and the average price per ad decreased 6%.Impresson growth was mainly driven by Asia-Pacific and Rest of World.The year-over-year decline in pricing was driven by strong impression growth,especially from lower monetizing surfaces and regions.While overallpricing remains under pressure from these factors, we believe our ongoing improvements to ad targeting and measurement are continuing to drive improved results for advertisers.",
+      "We continue to direct the majority of our investments toward the development and operation of our Family of Apps. In Q3, Family of Apps expenses were \\$16.4 bilion, representing approximately 81% of our overallexpenses.FoA expenses were down 9% as growth in infrastructure-related costs was more than offset by lower legal-related expenses, marketing,and headcount-related costs.",
+      "Reality Labs operating loss was \\$3.7 billion.",
+      "As part of our 2024 budget, we plan to selectively allocate incremental headcount toward four key company priorities: Al, infrastructure, Reality Labs,and monetization as wellas toward our regulatory and compliance needs. Of those areas,we expect Alto be the largest area of increased investment as we further invest in Generative Al across our core products,internal tooling,and research efforts. We aim to offset some of this growth by continuing our eficiency focus and reducing planned hiring in other areas across the company in 2024.",
+      "In addition, we continue to monitor the active regulatory landscape,including the increasing legal and regulatory headwinds in the EU and the US that could significantly impact our business and our financial results.Of note,the FTC is seeking to substantially modify our existing consent order and impose additional restrictions on our ability to operate.We are contesting this matter, but if we are unsuccessfulit would have an adverse impact on our business.",
+      "We anticipate that our full-year 2023 total expenses willbe in the range of \\$87-89 billion,lowered from our prior range of \\$88-91 billion.This outlook includes approximately \\$3.5 billon of restructuring costs related to facilities consolidation charges and severance and other personnel costs.We expect Reality Labs operating losses to increase year-over-year in 2023.",
+      "Finally, for Reality Labs,we expect operating losses to increase meaningfully year-over-year due to our ongoing product development efforts in AR/VR and our investments to further scale our ecosystem.",
+      "And then the second one, Susan, just on the operating losses at Reality Labs. I understand there's product development and efforts to scale the ecosystem. Can you help us understand or give us examples of expenditure going on within Reality Labs that could also be ported and used over at Family of Apps perhaps over time?",
+      "And Brian, I'll go ahead and take your second question, which is on the operating losses at Reality Labs and whether there's any benefit to Family of Apps from some of that work.So first,I should clarify,the majority of our Reality Labs costs are direct costs in headcount, operating expenses, and product COGS for the Reality Labs work.",
+      "But again, the operating losses that are occurring within the Reality Labs segment are really driven by the Reality Labs work directly. And we think that over the sort of arc of the years ahead, there willbe increasing shared benefits to our Family of Apps experiences.",
+      "There was a broad-based acceleration in the region, including demand from China advertisers and some benefit from currency tailwinds after facing currency headwinds in Q2. Asia Pacific accelerated 9 points.We benefited from stronger demand in Southeast Asian countries,and again,the flip to currency tailwinds versus headwinds in Q2. Rest of World accelerated 20 points.We saw both stronger pricing and the same currency dynamic there.",
+      "And we're continuing to monitor the situation and are doing everything we can to keep people safe and to keep our services secure. Now in terms of how this translates into impact on the Q4 business, first of all,I should say that coming into Q4,we've been seeing continued strong advertiser demand in key segments, including online commerce and gaming. But having said that, we are also seeing more volatility at the start of the quarter. That's in part why we widened our guidance range to capture that uncertainty.",
+      "Historically,we have seen broader demand softness follow other regional conflicts in the past, such as in the Ukraine war. So,this is something that we're continuing to monitor.We've reflected the latest trends and advertiser reaction that we've seen into our Q4 outlook,which again,we think,reflects the greater uncertainty and volatility in the landscape ahead."
+    ]
+  },
+  "chart_data": {
+    "total_charts_processed": 0,
+    "categorized_charts": {},
+    "chart_details": {}
+  },
+  "tables_extracted": [],
+  "data_sources": {
+    "sections_found": [
+      "highlights",
+      "ceo_remarks",
+      "cfo_remarks",
+      "_unclassified"
+    ],
+    "chart_categories": []
+  }
+}

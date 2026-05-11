@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "company": "Meta Platforms",
+    "ticker": "META",
+    "pdf_name": "META_2024_Q4_Press_Release",
+    "year": 2024,
+    "quarter": "Q4",
+    "period_end": "2024-12-31",
+    "report_type": "Press Release",
+    "extraction_timestamp": "2026-05-10T20:39:29.034982",
+    "data_completeness": {
+      "text_sections_found": 6,
+      "charts_processed": 0,
+      "md_tables_found": 0,
+      "highlights_extracted": 16,
+      "metrics_extracted": 6
+    }
+  },
+  "highlights": {
+    "bullet_points": [
+      "Familydaily active people (DAP)- DAP was 3.35 bilion onaverage for December 2024,an increase of 5% yearover-year.",
+      "Ad impressions -Ad impressions delivered across our Family of Apps increased by 6%and 11% year-overyear for the fourth quarter and full year 2O24, respectively.",
+      "Average price perad-Average price per adincreased by14% and 10% year-over-year for the fourth quarter and full year 2024, respectively.",
+      "Revenue- Revenue was \\$48.39 billon and \\$164.50 bilion,representing increases of 21% and 22% year-overyear for the fourth quarter and fullyear 2024,respectively. Revenue ona constant currency basis would have increased 21%and 23% year-over-year for the fourth quarter and full year 2024,respectively.",
+      "Costs and expenses-Total costs and expenses were \\$25.02 billion and \\$95.12 billion,representing increases of 5%and 8% year-over-year for the fourth quarter and fullyear 2024,respectively.The fourth quarter costs and expenses included a favorable impact of \\$1.55 bilion due to a decrease in the accrued losses for certain legal proceedings.",
+      "Capital expenditures - Capital expenditures,including principal payments on finance leases, were \\$14.84 billion and \\$39.23 billon for the fourth quarter and full year 2024, respectively.",
+      "Capital return program- Share repurchases of our Class A common stock were nil and \\$29.75 billion,and",
+      "total dividendand dividend equivalent payments were \\$1.27 billion and \\$5.07 billon for the fourth quarter and full year 2024, respectively. · Cash,cash equivalents,and marketable securities- Cash,cash equivalents,and marketable securities were \\$77.81 billion as of December31,2024.Free cash flow was \\$13.15billion and \\$52.10 billon for the fourth quarter and full year 2024,respectively. ·Long-term debt - Long-term debt was \\$28.83 billion as of December 31,2024. · Headcount- Headcount was 74,067as of December 31,2024,an increase of 10% year-over-year.",
+      "Weexpectfirst quarter 2025 total revenue tobe in the range of \\$39.5-41.8 bilion.This reflects 8-15% year-overyear growth,or 11-18% growth on a constant currency basis as our guidance assumes foreign currency is an approximately 3% headwind to year-over-year totalrevenue growth,basedon current exchange rates.This also reflects the effect of lapping leapdayin the first quarterof 2024.While we are not providing a fullyear 2025 revenue outlook,we expect the investments we are making in our core businessthis year wil give us an opportunity to continue delivering strong revenue growth throughout 2025.",
+      "Weexpectfull year 2025 total expensestobe in the rangeof\\$114-119 billon.We expectthesingle largestdriverof expense growth in 2025 to be infrastructure costs,driven by higher operating expenses and depreciation(1). We expect employee compensation to be thesecond-largest factor as we add technicaltalentinthe priorityareas of infrastructure,monetization,RealityLabs,generativeartificialintellgence (Al),aswellasregulationandcompliance.",
+      "We anticipate our fullyear 2025 capital expenditures willbe in the range of \\$60-65 billion.We expect capital expenditures growth in 2025willbe driven by increased investment to support both our generative Al efforts and core businessThe majority ofour capital expenditures in 2025 willcontinue to be directed to our core business.",
+      "Meta is building the future of human connection and the technology that makes it possible.When Facebook launched in 2004,itchanged the way people connect.Apps ike Messenger,Instagram,and WhatsApp further empowered bilions around the world.Now, Metais moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology.",
+      "This pres release contains forward-looking statements regarding our future business plans and expectations. These forward-looking statements are only predictions and may difer materiall fromactual results duetoavariety offactors including: the impact of macroeconomic conditions on our business and financial results,including as a result of geopolitical events;ourabilityto retain or increase users and engagement levels;our reliance on advertising revenue; our dependencyondata signalsand mobileoperating systems,networks,and standards that we do not control; changes to the content or application of third-party policies that impact our advertising practices; risks associated with new products and changes to existing products as wellas other new business initiatives,includingour artificialinteligenceinitiativesand metaverse efforts;ouremphasisoncommunitygrowth andengagement and theuser experience over short-term financialresults; maintaining and enhancing our brand andreputation;ourongoing privacy,safety,securityandcontentandadvertising reviewand enforcement eforts; competition; risks associated with government actions that could restrict accessto our products or impair our abilitytoselladvertising incertaincountries;litigationand government inquiries; privacy,legislative,andregulatory concerns or developments; risks associated with acquisitions;security breaches; our abilityto manage our scale and geographicall-dispersed operations; and market conditions or other factors affecting the payment of dividends.These and other potential risks and uncertainties that could cause actual results to difer from the results predicted are more fuly detailed under the caption \"Risk Factors\" inour Quarterly Report on Form 10-Q",
+      "Foreignexchange effect on revenue.We translated revenue for the three monthsand fullyear ended December 31, 2024 using the prior year's monthly exchange rates for our settement or biling currencies other than the U.S. dollar,which we believe is a useful metric that facilitates comparison to our historical performance.",
+      "Foreign exchange effect on 2024 revenue using 2023 rates",
+      "Foreign exchange effect on 2024 advertising revenue using 2023 rates"
+    ],
+    "key_metrics_mentioned": [
+      {
+        "metric_name": "dap",
+        "value": 3.35,
+        "unit": "b",
+        "context": "Familydaily active people (DAP)- DAP was 3.35 bilion onaverage for December 2024,an increase of 5% yearover-year."
+      },
+      {
+        "metric_name": "ad_impressions_growth",
+        "value": 6.0,
+        "unit": "",
+        "context": "Ad impressions -Ad impressions delivered across our Family of Apps increased by 6%and 11% year-overyear for the fourth quarter and full year 2O24, respectively."
+      },
+      {
+        "metric_name": "capex",
+        "value": 14.84,
+        "unit": "billion",
+        "context": "Capital expenditures - Capital expenditures,including principal payments on finance leases, were \\$14.84 billion and \\$39.23 billon for the fourth quarter and full year 2024, respectively."
+      },
+      {
+        "metric_name": "headcount",
+        "value": 74067.0,
+        "unit": "",
+        "context": "total dividendand dividend equivalent payments were \\$1.27 billion and \\$5.07 billon for the fourth quarter and full year 2024, respectively. · Cash,cash equivalents,and marketable securities- Cash,ca"
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 10.0,
+        "unit": "",
+        "context": "total dividendand dividend equivalent payments were \\$1.27 billion and \\$5.07 billon for the fourth quarter and full year 2024, respectively. · Cash,cash equivalents,and marketable securities- Cash,ca"
+      },
+      {
+        "metric_name": "capex",
+        "value": 65.0,
+        "unit": "billion",
+        "context": "We anticipate our fullyear 2025 capital expenditures willbe in the range of \\$60-65 billion.We expect capital expenditures growth in 2025willbe driven by increased investment to support both our gener"
+      }
+    ]
+  },
+  "financial": {
+    "revenue": {
+      "total": null,
+      "advertising": null,
+      "other_revenue": null,
+      "yoy_growth_pct": null,
+      "constant_currency_growth_pct": 21.0,
+      "by_geography": {
+        "us_canada": null,
+        "europe": null,
+        "asia_pacific": null,
+        "rest_of_world": null
+      }
+    },
+    "profitability": {
+      "total_costs_and_expenses": null,
+      "cost_of_revenue": null,
+      "research_and_development": null,
+      "marketing_and_sales": null,
+      "general_and_administrative": null,
+      "income_from_operations": null,
+      "operating_margin_pct": null,
+      "net_income": null,
+      "effective_tax_rate_pct": null
+    },
+    "per_share": {
+      "eps_basic": null,
+      "eps_diluted": null
+    },
+    "cash_flow": {
+      "free_cash_flow": null,
+      "capital_expenditures": null,
+      "share_repurchases": null,
+      "dividends": null
+    },
+    "balance_sheet": {
+      "cash_and_marketable_securities": null,
+      "long_term_debt": null
+    }
+  },
+  "segments": {
+    "family_of_apps": {
+      "revenue": null,
+      "ad_revenue": null,
+      "other_revenue": null,
+      "expenses": null,
+      "operating_income": null,
+      "operating_margin_pct": null,
+      "yoy_growth_pct": null
+    },
+    "reality_labs": {
+      "revenue": null,
+      "expenses": null,
+      "operating_loss": null,
+      "yoy_growth_pct": null
+    }
+  },
+  "operational": {
+    "users": {
+      "family_dap_billions": null,
+      "dap_yoy_growth_pct": null,
+      "threads_monthly_actives_millions": null
+    },
+    "advertising": {
+      "ad_impressions_yoy_pct": 6.0,
+      "average_price_per_ad_yoy_pct": null,
+      "top_vertical_driver": null
+    },
+    "headcount": 74067,
+    "headcount_yoy_growth_pct": 10.0
+  },
+  "guidance": {
+    "revenue_range": null,
+    "total_expenses_range": null,
+    "capex_range": null,
+    "tax_rate": null,
+    "reality_labs_commentary": null,
+    "raw_text": "Weexpectfirst quarter 2025 total revenue tobe in the range of \\$39.5-41.8 bilion.This reflects 8-15% year-overyear growth,or 11-18% growth on a constant currency basis as our guidance assumes foreign currency is an approximately 3% headwind to year-over-year totalrevenue growth,basedon current exchange rates.This also reflects the effect of lapping leapdayin the first quarterof 2024.While we are not providing a fullyear 2025 revenue outlook,we expect the investments we are making in our core businessthis year wil give us an opportunity to continue delivering strong revenue growth throughout 2025.\n\nWeexpectfull year 2025 total expensestobe in the rangeof\\$114-119 billon.We expectthesingle largestdriverof expense growth in 2025 to be infrastructure costs,driven by higher operating expenses and depreciation(1). We expect employee compensation to be thesecond-largest factor as we add technicaltalentinthe priorityareas of infrastructure,monetization,RealityLabs,generativeartificialintellgence (Al),aswellasregulationandcompliance.\n\nWe anticipate our fullyear 2025 capital expenditures willbe in the range of \\$60-65 billion.We expect capital expenditures growth in 2025willbe driven by increased investment to support both our generative Al efforts and core businessThe majority ofour capital expenditures in 2025 willcontinue to be directed to our core business.\n\nAbsent any changes to our tax landscape,we expect our fullyear 2025 tax rate to be in the range of 12-15%.\n\nInaddition,wecontinue to monitoranactive regulatory landscape,including legal and regulatory headwinds in the EU and the U.S.that could significantly impact our business and our financial results.\nwe expect the investments we are making in our core businessthis year wil give us an opportunity to continue delivering strong revenue growth throughout 2025.\nWe expectthesingle largestdriverof expense growth in 2025 to be infrastructure costs,driven by higher operating expenses and depreciation(1).\nWe expect employee "
+  },
+  "qualitative": {
+    "ceo_highlights": [],
+    "ai_initiatives": [],
+    "product_updates": [
+      "Meta uses the investor.atmeta.com and about.fb.com/news/websites as wellas Mark Zuckerberg's Facebook Page (facebook.com/zuck), Instagram account (instagram.com/zuck)and Threads profile (threads.net/zuck)as means of disclosing material non-public information and for complying with its disclosure obligations under Regulation FD.",
+      "Meta is building the future of human connection and the technology that makes it possible.When Facebook launched in 2004,itchanged the way people connect.Apps ike Messenger,Instagram,and WhatsApp further empowered bilions around the world.Now, Metais moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology.",
+      "Wereport our financial results for our two reportable segments: Family of Apps (FoA)and Reality Labs (RL). FoA includes Facebook,Instagram,Messenger,WhatsApp,and otherservices.RLincludesourvirtual,augmented,and mixed reality related consumer hardware, software,and content."
+    ],
+    "risks_and_challenges": [
+      "·Costs and expenses-Total costs and expenses were \\$25.02 billion and \\$95.12 billion,representing increases of 5%and 8% year-over-year for the fourth quarter and fullyear 2024,respectively.The fourth quarter costs and expenses included a favorable impact of \\$1.55 bilion due to a decrease in the accrued losses for certain legal proceedings.",
+      "Weexpectfirst quarter 2025 total revenue tobe in the range of \\$39.5-41.8 bilion.This reflects 8-15% year-overyear growth,or 11-18% growth on a constant currency basis as our guidance assumes foreign currency is an approximately 3% headwind to year-over-year totalrevenue growth,basedon current exchange rates.This also reflects the effect of lapping leapdayin the first quarterof 2024.While we are not providing a fullyear 2025 revenue outlook,we expect the investments we are making in our core businessthis year wil give us an opportunity to continue delivering strong revenue growth throughout 2025.",
+      "Inaddition,wecontinue to monitoranactive regulatory landscape,including legal and regulatory headwinds in the EU and the U.S.that could significantly impact our business and our financial results.",
+      "This pres release contains forward-looking statements regarding our future business plans and expectations. These forward-looking statements are only predictions and may difer materiall fromactual results duetoavariety offactors including: the impact of macroeconomic conditions on our business and financial results,including as a result of geopolitical events;ourabilityto retain or increase users and engagement levels;our reliance on advertising revenue; our dependencyondata signalsand mobileoperating systems,networks,and standards that we do not control; changes to the content or application of third-party policies that impact our advertising practices; risks associated with new products and changes to existing products as wellas other new business initiatives,includingour artificialinteligenceinitiativesand metaverse efforts;ouremphasisoncommunitygrowth andengagement and theuser experience over short-term financialresults; maintaining and enhancing our brand andreputation;ourongoing privacy,safety,securityandcontentandadvertising reviewand enforcement eforts; competition; risks associated with government actions that could restrict accessto our products or impair our abilitytoselladvertising incertaincountries;litigationand government inquiries; privacy,legislative,andregulatory concerns or developments; risks associated with acquisitions;security breaches; our abilityto manage our scale and geographicall-dispersed operations; and market conditions or other factors affecting the payment of dividends.These and other potential risks and uncertainties that could cause actual results to difer from the results predicted are more fuly detailed under the caption \"Risk Factors\" inour Quarterly Report on Form 10-Q",
+      "Accumulated other comprehensive loss",
+      "Restricted cash,included in other assets Total cash,cash equivalents,and restricted cash",
+      "The following table presents our segment information of revenue and income (loss) from operations:",
+      "Income (loss) from operations: Family of Apps"
+    ]
+  },
+  "chart_data": {
+    "total_charts_processed": 0,
+    "categorized_charts": {},
+    "chart_details": {}
+  },
+  "tables_extracted": [],
+  "data_sources": {
+    "sections_found": [
+      "highlights",
+      "guidance",
+      "_unclassified",
+      "about",
+      "reconciliation",
+      "segment_results"
+    ],
+    "chart_categories": []
+  }
+}

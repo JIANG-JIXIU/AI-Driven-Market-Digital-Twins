@@ -1,0 +1,211 @@
+{
+  "metadata": {
+    "company": "Meta Platforms",
+    "ticker": "META",
+    "pdf_name": "META_2023_Q1_Press_Release",
+    "year": 2023,
+    "quarter": "Q1",
+    "period_end": "2023-03-31",
+    "report_type": "Press Release",
+    "extraction_timestamp": "2026-05-10T20:39:28.646531",
+    "data_completeness": {
+      "text_sections_found": 6,
+      "charts_processed": 0,
+      "md_tables_found": 0,
+      "highlights_extracted": 24,
+      "metrics_extracted": 6
+    }
+  },
+  "highlights": {
+    "bullet_points": [
+      "Family daily active people (DAP)- DAP was 3.02 bilion on average for March 2023,an increase of 5% yearover-year.",
+      "Family monthly active people (MAP)- MAP was 3.81 billion as of March 31,2023,an increase of 5% year-overyear.",
+      "Facebook daily active users (DAUs)- DAUs were 2.04 billion on average for March 2023,an increase of 4% year-over-year.",
+      "Facebook monthly active users (MAUs)- MAUs were 2.99 billon as of March 31,2023,an increase of 2% yearover-year.",
+      "Adimpressions and price per ad-In the first quarter of 2023,adimpressions delivered across our Family of Apps increased by 26% year-over-year and the average price per ad decreased by 17% year-over-year.",
+      "Revenue - Revenue was \\$28.65 billon,an increase of 3% year-over-year,and an increase of 6% year-over-ye: on a constant currency basis.",
+      "Capital expenditures - Capital expenditures,including principal payments on finance leases,were \\$7.09 billion for the first quarter of 2023.",
+      "Share repurchases -We repurchased \\$9.22 billon of our ClassA common stock in the first quarter of 2023. As of March 31, 2023, we had \\$41.73 bilion available and authorized for repurchases.",
+      "Cash,cash equivalents,and marketable securities- Cash,cash equivalents,and marketable securities were \\$37.44 billion as of March 31, 2023.",
+      "Long-term debt - Long-term debt was \\$9.92 bilion as of March 31,2023.",
+      "Headcount - Headcount was77,114 as of March31,2023,a decrease of 1% year-over-year.Substantillyall employees impacted by the layoff announced in November 2022 are no longer reflected in our reported headcount as of March 31,2023.Further,the employees that would be impacted by the 2023 layoffs are included in our reported headcount as of March 31,2023.",
+      "In 2022,we initiated several measures to pursue greater eficiency and to realign our business and strategic priorities.As of March 31,2023,we have substantially completed the 2022 employee layoffs while continuing to assess faclities consolidation and data center restructuring initiatives. We incurred additional pre-tax restructuring charges of \\$621 million in the first quarter of 2023.",
+      "In March 2023, we announced three rounds of planned layoffs to further reduce our company size by approximately10,000 employeesacross the Familyof Apps (FoA)and RealityLabs (RL)segments.In connection with theselayofs,we expect to incurtotalpre-taxseverance and related personnel costs of approximately \\$1 billion,of which \\$523 millon was recognized during thefirst quarter of 2023and the remaining charges willbe substantially recorded by the end of 2023.",
+      "A summary of our restructuring charges for the three months ended March 31,2023 by major activity type is as follows (in millions):",
+      "Total restructuring charges recorded under our FoA segment were \\$934 millon and RL segment were \\$210 milion during the first quarter of 2023.Excluding these charges,ouroperating margin would have been four percentage points higher and our diluted EPS would have been \\$0.44 higher for the first quarter of 2023.",
+      "We expect second quarter 2023 total revenue to be in the range of \\$29.5-32 bilion. Our guidance assumes foreign currency headwinds willbe lessthan 1% to year-over-year total revenue growth in the second quarter,based on current exchange rates.",
+      "We anticipate our full-year 2023 total expenses willbe in te range of \\$86-90 billion,updated from our prior outlook provided in March.Thisoutlookincludes \\$3-5 bilion ofrestructuring costs related tofacilities consolidation chargesand severance and other personnel costs.We continue to expect Reality Labs operating losses to increase year-over-year in 2023.",
+      "We expect capital expenditures to be in the range of \\$30-33 bilion,unchanged from our prior estimate. This outlook reflects our ongoing build out of Al capacity to support ads,Feed and Reels,along with an increased investment in capacity for our generative Al initiatives.",
+      "Meta will host a conference callto discuss the results at 2 p.m.PT/5 p.m.ETtoday.The live webcast of Meta's earnings conference callcan be accessed at investor.fb.com,along withthe earnings press release,financial tables, and slide presentation. Meta uses the investor.fb.com and about.fb.com/news/ websites as wellas Mark Zuckerberg's Facebook Page (facebook.com/zuck)and Instagram account (instagram.com/zuck)as means of disclosing material non-public information and for complying with its disclosure obligations under Regulation FD.",
+      "Meta builds technologies that help people connect,find communities,and grow businesses.When Facebook launched in 2004,it changed the way people connect. Appslike Messenger,Instagram,and WhatsApp further empowered bilions around the world.Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology.",
+      "initiatives,including our metaverse eforts; our emphasis on community growth and engagement and the user experience over short-term financial results; maintaining and enhancing our brand and reputation; our ongoing privacy,safetysecurityand contentreview eforts;competition;risksassociated with governmentactions that could restrict accessto our products or impair our abilitytosell advertising in certain countries; itigation and government inquiries; privacy,legislative,and regulatory concerns or developments (including the impactof the pendingdecision bythe IDPCand the pending EU-U.S.Data Privacy Framework); risks associated with acquisitions; security breaches;and our ability to manage our scale and geographicall-dispersed operations.These and other potential risks and uncertainties that could cause actual resultsto difer from theresults predicted are more fully detailedunderthecaption \"Risk Factors\"inour Annual Reporton Form 10-Kfiled with the SECon February 2,2023, which is available on our Investor Relations website at investor.fb.com and on the SEC website at www.sec.gov. Additional information willalso be setforth inour Quarterly ReportonForm10-Qfor the quarterended March 31, 2023.In addition,please note that the date of this press release is April 26,2023,andany forward-looking statements contained herein are based on assumptions that we believe to be reasonable as ofthis date.We undertake no obligation to update these statements as a result of new information or future events.",
+      "Foreign exchange efect on revenue.We translated revenue for the three months ended March 31,2023 using the prior year's monthly exchange rates for our settement or billing currencies other than the U.S.dollar,which we believe is a useful metric that facilitates comparison to our historical performance.",
+      "Foreign exchange effect on 2023 revenue using 2022 rates",
+      "Foreign exchange effect on 2023 advertising revenue using 2022 rates"
+    ],
+    "key_metrics_mentioned": [
+      {
+        "metric_name": "dap",
+        "value": 3.02,
+        "unit": "b",
+        "context": "Family daily active people (DAP)- DAP was 3.02 bilion on average for March 2023,an increase of 5% yearover-year."
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 4.0,
+        "unit": "",
+        "context": "Facebook daily active users (DAUs)- DAUs were 2.04 billion on average for March 2023,an increase of 4% year-over-year."
+      },
+      {
+        "metric_name": "yoy_growth",
+        "value": 3.0,
+        "unit": "",
+        "context": "Revenue - Revenue was \\$28.65 billon,an increase of 3% year-over-year,and an increase of 6% year-over-ye: on a constant currency basis."
+      },
+      {
+        "metric_name": "capex",
+        "value": 7.09,
+        "unit": "billion",
+        "context": "Capital expenditures - Capital expenditures,including principal payments on finance leases,were \\$7.09 billion for the first quarter of 2023."
+      },
+      {
+        "metric_name": "headcount",
+        "value": 77114.0,
+        "unit": "",
+        "context": "Headcount - Headcount was77,114 as of March31,2023,a decrease of 1% year-over-year.Substantillyall employees impacted by the layoff announced in November 2022 are no longer reflected in our reported h"
+      },
+      {
+        "metric_name": "capex",
+        "value": 33.0,
+        "unit": "b",
+        "context": "We expect capital expenditures to be in the range of \\$30-33 bilion,unchanged from our prior estimate. This outlook reflects our ongoing build out of Al capacity to support ads,Feed and Reels,along wi"
+      }
+    ]
+  },
+  "financial": {
+    "revenue": {
+      "total": null,
+      "advertising": null,
+      "other_revenue": null,
+      "yoy_growth_pct": null,
+      "constant_currency_growth_pct": null,
+      "by_geography": {
+        "us_canada": null,
+        "europe": null,
+        "asia_pacific": null,
+        "rest_of_world": null
+      }
+    },
+    "profitability": {
+      "total_costs_and_expenses": null,
+      "cost_of_revenue": null,
+      "research_and_development": null,
+      "marketing_and_sales": null,
+      "general_and_administrative": null,
+      "income_from_operations": null,
+      "operating_margin_pct": null,
+      "net_income": null,
+      "effective_tax_rate_pct": null
+    },
+    "per_share": {
+      "eps_basic": null,
+      "eps_diluted": null
+    },
+    "cash_flow": {
+      "free_cash_flow": null,
+      "capital_expenditures": null,
+      "share_repurchases": null,
+      "dividends": null
+    },
+    "balance_sheet": {
+      "cash_and_marketable_securities": null,
+      "long_term_debt": null
+    }
+  },
+  "segments": {
+    "family_of_apps": {
+      "revenue": null,
+      "ad_revenue": null,
+      "other_revenue": null,
+      "expenses": null,
+      "operating_income": null,
+      "operating_margin_pct": null,
+      "yoy_growth_pct": null
+    },
+    "reality_labs": {
+      "revenue": null,
+      "expenses": null,
+      "operating_loss": null,
+      "yoy_growth_pct": null
+    }
+  },
+  "operational": {
+    "users": {
+      "family_dap_billions": null,
+      "dap_yoy_growth_pct": null,
+      "threads_monthly_actives_millions": null
+    },
+    "advertising": {
+      "ad_impressions_yoy_pct": null,
+      "average_price_per_ad_yoy_pct": 26.0,
+      "top_vertical_driver": null
+    },
+    "headcount": null,
+    "headcount_yoy_growth_pct": null
+  },
+  "guidance": {
+    "revenue_range": null,
+    "total_expenses_range": null,
+    "capex_range": null,
+    "tax_rate": null,
+    "reality_labs_commentary": "Reality Labs operating losses to increase year-over-year in 2023.",
+    "raw_text": "We expect second quarter 2023 total revenue to be in the range of \\$29.5-32 bilion. Our guidance assumes foreign currency headwinds willbe lessthan 1% to year-over-year total revenue growth in the second quarter,based on current exchange rates.\n\nWe anticipate our full-year 2023 total expenses willbe in te range of \\$86-90 billion,updated from our prior outlook provided in March.Thisoutlookincludes \\$3-5 bilion ofrestructuring costs related tofacilities consolidation chargesand severance and other personnel costs.We continue to expect Reality Labs operating losses to increase year-over-year in 2023.\n\nWe expect capital expenditures to be in the range of \\$30-33 bilion,unchanged from our prior estimate. This outlook reflects our ongoing build out of Al capacity to support ads,Feed and Reels,along with an increased investment in capacity for our generative Al initiatives.\n\nAbsent any changes to U.S.tax law,we expect our fullyear 2023 tax rate percentage to be around 20%.\n\nIn addition,we continue to monitor ongoing regulatory developments.We expect the Irish Data Protection Commission (IDPC)to issue a decision in Mayin its previously disclosed inquiry relating to transatlantic data transfers of Facebook EU/EEA user data,includinga suspension order forsuch transfers and afine.Ourongoing consultations with policymakers on both sides of the Atlantic continue to indicate that the proposed new EU-U.S. Data Privacy Framework willbefullyimplemented before the deadline for suspension ofsuch transfers,but we cannot exclude the possbility thatit willnot be completed in time.We willalso evaluate whetherand to what extentthe IDPC decision could otherwise impact our data processing operations even after a new data privacy framework is in force.\nwe expect to incurtotalpre-taxseverance and related personnel costs of approximately \\$1 billion,of which \\$523 millon was recognized during thefirst quarter of 2023and the remaining charges willbe substantially recorded by the end of 2023.\nWe"
+  },
+  "qualitative": {
+    "ceo_highlights": [],
+    "ai_initiatives": [],
+    "product_updates": [
+      "·Facebook daily active users (DAUs)- DAUs were 2.04 billion on average for March 2023,an increase of 4% year-over-year.",
+      "·Facebook monthly active users (MAUs)- MAUs were 2.99 billon as of March 31,2023,an increase of 2% yearover-year.",
+      "We expect capital expenditures to be in the range of \\$30-33 bilion,unchanged from our prior estimate. This outlook reflects our ongoing build out of Al capacity to support ads,Feed and Reels,along with an increased investment in capacity for our generative Al initiatives.",
+      "In addition,we continue to monitor ongoing regulatory developments.We expect the Irish Data Protection Commission (IDPC)to issue a decision in Mayin its previously disclosed inquiry relating to transatlantic data transfers of Facebook EU/EEA user data,includinga suspension order forsuch transfers and afine.Ourongoing consultations with policymakers on both sides of the Atlantic continue to indicate that the proposed new EU-U.S. Data Privacy Framework willbefullyimplemented before the deadline for suspension ofsuch transfers,but we cannot exclude the possbility thatit willnot be completed in time.We willalso evaluate whetherand to what extentthe IDPC decision could otherwise impact our data processing operations even after a new data privacy framework is in force.",
+      "Meta will host a conference callto discuss the results at 2 p.m.PT/5 p.m.ETtoday.The live webcast of Meta's earnings conference callcan be accessed at investor.fb.com,along withthe earnings press release,financial tables, and slide presentation. Meta uses the investor.fb.com and about.fb.com/news/ websites as wellas Mark Zuckerberg's Facebook Page (facebook.com/zuck)and Instagram account (instagram.com/zuck)as means of disclosing material non-public information and for complying with its disclosure obligations under Regulation FD.",
+      "Meta builds technologies that help people connect,find communities,and grow businesses.When Facebook launched in 2004,it changed the way people connect. Appslike Messenger,Instagram,and WhatsApp further empowered bilions around the world.Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology.",
+      "Wereport our financial results for our two reportable segments: Family of Apps (FoA)and Reality Labs (RL). FoA includesFacebook,Instagram, Messenger,WhatsApp,and other services.RL includesaugmented and virtual reality related consumer hardware,software,and content."
+    ],
+    "risks_and_challenges": [
+      "·Adimpressions and price per ad-In the first quarter of 2023,adimpressions delivered across our Family of Apps increased by 26% year-over-year and the average price per ad decreased by 17% year-over-year.",
+      "· Headcount - Headcount was77,114 as of March31,2023,a decrease of 1% year-over-year.Substantillyall employees impacted by the layoff announced in November 2022 are no longer reflected in our reported headcount as of March 31,2023.Further,the employees that would be impacted by the 2023 layoffs are included in our reported headcount as of March 31,2023.",
+      "We expect second quarter 2023 total revenue to be in the range of \\$29.5-32 bilion. Our guidance assumes foreign currency headwinds willbe lessthan 1% to year-over-year total revenue growth in the second quarter,based on current exchange rates.",
+      "We anticipate our full-year 2023 total expenses willbe in te range of \\$86-90 billion,updated from our prior outlook provided in March.Thisoutlookincludes \\$3-5 bilion ofrestructuring costs related tofacilities consolidation chargesand severance and other personnel costs.We continue to expect Reality Labs operating losses to increase year-over-year in 2023.",
+      "In addition,we continue to monitor ongoing regulatory developments.We expect the Irish Data Protection Commission (IDPC)to issue a decision in Mayin its previously disclosed inquiry relating to transatlantic data transfers of Facebook EU/EEA user data,includinga suspension order forsuch transfers and afine.Ourongoing consultations with policymakers on both sides of the Atlantic continue to indicate that the proposed new EU-U.S. Data Privacy Framework willbefullyimplemented before the deadline for suspension ofsuch transfers,but we cannot exclude the possbility thatit willnot be completed in time.We willalso evaluate whetherand to what extentthe IDPC decision could otherwise impact our data processing operations even after a new data privacy framework is in force.",
+      "This pres release contains forward-looking statements regarding our future business plans and expectations. These forward-looking statements are only predictions and may difer materialy fromactual results dueto a variety offactors including: the impact of macroeconomic conditions on our business and financial results,including as a result of geopolitical events; our abity to retain or increase users and engagement levels; our reliance on advertising revenue;our dependency on data signalsand mobile operating systems,networks,and standards that we do not control; changes to the content or application of third-party policies that impact our advertising practices; risks associated with new products and changes to existing products as wellas other new business",
+      "initiatives,including our metaverse eforts; our emphasis on community growth and engagement and the user experience over short-term financial results; maintaining and enhancing our brand and reputation; our ongoing privacy,safetysecurityand contentreview eforts;competition;risksassociated with governmentactions that could restrict accessto our products or impair our abilitytosell advertising in certain countries; itigation and government inquiries; privacy,legislative,and regulatory concerns or developments (including the impactof the pendingdecision bythe IDPCand the pending EU-U.S.Data Privacy Framework); risks associated with acquisitions; security breaches;and our ability to manage our scale and geographicall-dispersed operations.These and other potential risks and uncertainties that could cause actual resultsto difer from theresults predicted are more fully detailedunderthecaption \"Risk Factors\"inour Annual Reporton Form 10-Kfiled with the SECon February 2,2023, which is available on our Investor Relations website at investor.fb.com and on the SEC website at www.sec.gov. Additional information willalso be setforth inour Quarterly ReportonForm10-Qfor the quarterended March 31, 2023.In addition,please note that the date of this press release is April 26,2023,andany forward-looking statements contained herein are based on assumptions that we believe to be reasonable as ofthis date.We undertake no obligation to update these statements as a result of new information or future events.",
+      "Accumulated other comprehensive loss",
+      "Effect of exchange rate changes on cash,cash equivalents,and restricted cash Net decrease in cash,cash equivalents,and restricted cash Cash,cash equivalents,and restricted cash at beginning of the period",
+      "Cash,cash equivalents,and restricted cash at end of the period",
+      "Reconciliation of cash,cash equivalents,and restricted cash to the condensed consolidated balance sheets",
+      "Restricted cash,included in prepaid expenses and other current assets",
+      "Restricted cash,included in other assets",
+      "Total cash,cash equivalents,and restricted cash",
+      "The following table presents our segment information of revenue and income (loss)from operations:"
+    ]
+  },
+  "chart_data": {
+    "total_charts_processed": 0,
+    "categorized_charts": {},
+    "chart_details": {}
+  },
+  "tables_extracted": [],
+  "data_sources": {
+    "sections_found": [
+      "highlights",
+      "_unclassified",
+      "guidance",
+      "about",
+      "reconciliation",
+      "segment_results"
+    ],
+    "chart_categories": []
+  }
+}
